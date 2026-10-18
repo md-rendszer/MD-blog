@@ -1,7 +1,7 @@
 ---
 title: Hogyan használom a blogbejegyzéseket a könyvekhez – Claude
 date: 2026-10-19 00:35:00
-image: -
+image: 2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude.avif
 image_alt: Hogyan használom a blogbejegyzéseket a könyvekhez – Claude
 ---
 

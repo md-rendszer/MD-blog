@@ -3078,5 +3078,20 @@
     "width": 1458,
     "height": 1461,
     "srcset": "/images/2026/mik-azok-a-mitokondriumok-inline-26.jpg 1458w"
+  },
+  "/images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude-400x223.avif": {
+    "width": 400,
+    "height": 223,
+    "srcset": "/images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude-400x223.avif 400w, /images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude-768x429.avif 768w, /images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude.avif 1024w"
+  },
+  "/images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude-768x429.avif": {
+    "width": 768,
+    "height": 429,
+    "srcset": "/images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude-400x223.avif 400w, /images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude-768x429.avif 768w, /images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude.avif 1024w"
+  },
+  "/images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude.avif": {
+    "width": 1024,
+    "height": 572,
+    "srcset": "/images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude-400x223.avif 400w, /images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude-768x429.avif 768w, /images/2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude.avif 1024w"
   }
 }
