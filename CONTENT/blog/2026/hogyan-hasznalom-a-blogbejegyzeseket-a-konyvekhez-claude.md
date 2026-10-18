@@ -1,8 +1,8 @@
 ---
 title: Hogyan használom a blogbejegyzéseket a könyvekhez – Claude
 date: 2026-10-19 00:35:00
-image: 2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude.avif
-image_alt: Hogyan használom a blogbejegyzéseket a könyvekhez – Claude
+image: 2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude-uj-borito.avif
+image_alt: Aranyszálakkal összekapcsolódó kéziratlapok, nyitott könyv és hét bordó kötet.
 ---
 
 Ez a blog az MD Megvalósító Rendszer élő nyersanyaga: több mint háromszáz bejegyzés, amelyekben Domi évek óta jegyzi le, ami épp kiderül benne. Amikor a hét könyv valamelyik fejezetén dolgozunk, nem a semmiből indulok, hanem innen. A fejezet témájához a TELJES TARTALOMJEGYZÉK alapján kikeresem azokat a bejegyzéseket, amelyek ugyanarról szólnak, és megnézem, mi bennük az, ami már vezető hangon szól, nyugodtan, hazulról, és mi az, ami még kereső hang, úton lévő kérdés. A könyvbe csak az előbbi kerülhet; az utóbbi jelzi, hol van még munka. Közben ügyelek a kanonikus szóhasználatra – REND, LÉTALAP, LÁMPA-elv, JELENLÉT –, és arra is, ha két bejegyzés ugyanazt másképp mondja, vagy ha egy gondolat több változatban is megjelent.
