@@ -1,94 +1,115 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
-
+/* MD Megvalósító Rendszer – blog. Arculat: a jóváhagyott logó és borítókép (lilás-fekete + arany). */
 :root {
   color-scheme: light;
-  --ink: #111;
-  --muted: #5e6468;
-  --line: #d9e0e3;
-  --link: #135a82;
-  --sans: "Poppins", Arial, Helvetica, sans-serif;
+  --night: #0E0412;
+  --night-raised: #1A0C18;
+  --gold: #E0B455;
+  --gold-glow: #FBDE78;
+  --gold-deep: #9D7335;
+  --cream: #F3ECD9;
+  --cream-muted: #C9C0AA;
+  --paper: #FAF6EF;
+  --ink: #2B2118;
+  --muted: #6B5E4E;
+  --link: #7A5A1E;
+  --line: #E6DCC8;
+  --serif: "Gelasio", Georgia, "Times New Roman", serif;
+  --display: "Playfair Display", Georgia, serif;
 }
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { margin: 0; color: var(--ink); background: #fff; font-family: var(--sans); font-size: 16px; font-weight: 500; line-height: 1.4; }
+body { margin: 0; color: var(--ink); background: var(--paper); font-family: var(--serif); font-size: 18px; line-height: 1.7; }
 a { color: inherit; }
-.site-header { width: 100%; min-height: 122px; padding: 20px 5%; display: flex; flex-direction: column; align-items: flex-start; justify-content: center; gap: 15px; }
-.brand { flex: 0 0 auto; color: var(--ink); font-size: 23px; font-weight: 700; line-height: 1.2; text-decoration: none; }
-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 27px; }
-nav a { padding: 3px 0; color: var(--ink); font-size: 16px; font-weight: 500; text-decoration: none; }
-nav a:hover, .site-footer a:hover { text-decoration: underline; text-underline-offset: 4px; }
-main { min-height: 72vh; margin-top: 70px; }
-.page-content { width: 100%; max-width: 1320px; margin: 0 auto; padding: 54px 5% 72px; }
-.page-content > h1 { margin: 0 0 30px; font-size: clamp(21px, 1.6vw, 22.4px); font-weight: 700; line-height: 1.125; }
-.prose { color: var(--ink); font-size: 16px; font-weight: 500; line-height: 1.4; overflow-wrap: anywhere; }
-.page-content > .prose, .page-content:not(.article):not(.blog-page) { font-size: 16px; font-weight: 500; line-height: 1.4; }
+img { max-width: 100%; }
+
+/* Fejléc */
+.site-header { position: relative; display: flex; flex-direction: column; gap: 14px; padding: 22px 5% 24px; background: radial-gradient(ellipse at 50% -40%, #2A1424 0%, var(--night) 70%); color: var(--cream); border-bottom: 1px solid var(--gold-deep); }
+.site-header::after { content: ""; position: absolute; left: 50%; bottom: -6px; width: 10px; height: 10px; background: var(--gold); transform: translateX(-50%) rotate(45deg); box-shadow: 0 0 0 3px var(--paper); }
+.brand { display: flex; flex-direction: column; gap: 2px; color: var(--gold); text-decoration: none; }
+.brand-name { font-family: var(--display); font-size: 24px; font-weight: 700; line-height: 1.15; letter-spacing: .01em; }
+.brand-sub { color: var(--cream-muted); font-size: 12px; letter-spacing: .14em; text-transform: uppercase; }
+nav { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 26px; }
+.site-header nav a { color: var(--cream); font-size: 16px; text-decoration: none; border-bottom: 1px solid transparent; padding: 2px 0; }
+.site-header nav a:hover { color: var(--gold-glow); border-bottom-color: var(--gold-deep); }
+
+main { min-height: 70vh; }
+
+/* Oldalak és bejegyzések */
+.page-content { width: 100%; max-width: 760px; margin: 0 auto; padding: 56px 20px 72px; }
+.page-content > h1, .article-header h1 { margin: 0 0 28px; font-family: var(--display); font-size: clamp(28px, 4vw, 40px); font-weight: 600; line-height: 1.2; color: var(--night); overflow-wrap: anywhere; }
+.article-header h1 { margin-top: 30px; }
+.prose { overflow-wrap: anywhere; }
 .prose > :first-child { margin-top: 0; }
 .prose > :last-child { margin-bottom: 0; }
-.prose p { margin: 0 0 1.45em; }
-.prose h2, .prose h3 { margin: 1.55em 0 .65em; font-size: 1.15em; line-height: 1.3; }
-.prose a { color: var(--link); text-decoration: underline; text-underline-offset: 3px; }
-.prose img { display: block; width: auto; max-width: 100%; height: auto; margin: 22px auto; }
-.prose figure { max-width: 100%; margin: 24px auto; }
+.prose p { margin: 0 0 1.2em; }
+.prose h2, .prose h3, .prose h4 { margin: 1.8em 0 .6em; font-family: var(--display); font-weight: 600; line-height: 1.3; color: var(--night); }
+.prose h2 { font-size: 1.45em; }
+.prose h3 { font-size: 1.2em; }
+.prose h4 { font-size: 1.05em; }
+.prose a { color: var(--link); text-decoration: underline; text-decoration-color: var(--gold-deep); text-underline-offset: 3px; }
+.prose a:hover { color: var(--night); }
+.prose strong { color: var(--night); }
+.prose img { display: block; width: auto; max-width: 100%; height: auto; margin: 26px auto; border-radius: 4px; }
+.prose figure { max-width: 100%; margin: 28px auto; }
 .prose figure img { margin: 0 auto; }
-.prose blockquote { margin: 1.4em 0; padding: 4px 18px; border-left: 4px solid var(--line); }
-.prose table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
+.prose blockquote { margin: 1.6em 0; padding: 10px 22px; border-left: 3px solid var(--gold); background: #F4EDE0; font-style: italic; }
+.prose hr { border: 0; height: 1px; margin: 2.4em auto; background: linear-gradient(90deg, transparent, var(--gold-deep), transparent); }
+.prose table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; font-size: .92em; }
 .prose th, .prose td { padding: 8px 12px; border: 1px solid var(--line); }
-.blog-archive { width: 100%; max-width: 1230px; margin: 0 auto; padding: 0 30px 80px; }
-.post-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 50px; }
-.post-card { min-width: 0; max-width: 100%; overflow-wrap: anywhere; }
-.post-card-link { display: block; color: inherit; text-decoration: none; }
-.post-card-image { aspect-ratio: 1; margin: 0 0 16px; overflow: hidden; }
-.post-card-image img { display: block; width: 100%; height: 100%; object-fit: cover; }
-.post-card h2 { margin: 20px 0; font-size: clamp(18px, 1.3vw, 20.32px); font-weight: 700; line-height: 1.125; }
-.post-card time { color: var(--muted); font-size: 14px; }
-.article-header { margin-bottom: 0; }
-.article-header h1 { margin: 19px 0; font-size: clamp(21px, 1.6vw, 22.4px); font-weight: 700; line-height: 1.125; overflow-wrap: anywhere; }
+.prose th { background: #F1E8D8; }
 .featured-image { margin: 0; }
-.featured-image img { display: block; width: 100%; max-width: 100%; height: auto; }
-.article { max-width: 1320px; }
-.article .prose { padding: 0 20px; font-size: 16px; }
-.post-navigation { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px 30px; margin: 40px 20px; font-size: 14px; }
-.post-navigation a { color: var(--ink); text-decoration: none; }
-.post-navigation a:hover { text-decoration: underline; text-underline-offset: 4px; }
-.pagination { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 12px 20px; margin: 70px auto 0; }
-.pagination a, .pagination span { min-width: 38px; padding: 8px 11px; text-align: center; text-decoration: none; }
+.featured-image img { display: block; width: 100%; height: auto; border: 1px solid var(--gold-deep); outline: 1px solid var(--gold-deep); outline-offset: 4px; border-radius: 2px; }
+.article { max-width: 760px; }
+
+/* Blog-archívum */
+.blog-archive { width: 100%; max-width: 1180px; margin: 0 auto; padding: 56px 20px 80px; }
+.blog-archive::before { content: "Írások"; display: block; margin: 0 0 36px; font-family: var(--display); font-size: clamp(30px, 4vw, 42px); font-weight: 600; color: var(--night); text-align: center; }
+.post-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 36px; }
+.post-card { min-width: 0; background: #fff; border: 1px solid var(--line); border-radius: 4px; overflow: hidden; transition: border-color .2s, box-shadow .2s; }
+.post-card:hover { border-color: var(--gold-deep); box-shadow: 0 6px 22px rgba(14, 4, 18, .08); }
+.post-card-link { display: block; color: inherit; text-decoration: none; }
+.post-card-image { aspect-ratio: 16 / 10; margin: 0; overflow: hidden; background: var(--night); }
+.post-card-image img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.post-card h2 { margin: 18px 20px 8px; font-family: var(--display); font-size: 21px; font-weight: 600; line-height: 1.3; color: var(--night); }
+.post-card time { display: block; margin: 0 20px 20px; color: var(--muted); font-size: 14px; }
+
+/* Lapozás és navigáció */
+.post-navigation { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 14px 30px; margin: 48px 0 0; padding-top: 24px; border-top: 1px solid var(--line); font-size: 15px; }
+.post-navigation a { color: var(--link); text-decoration: none; max-width: 48%; }
+.post-navigation a:hover { text-decoration: underline; }
+.pagination { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 12px 20px; margin: 64px auto 0; font-size: 16px; }
+.pagination a, .pagination span { min-width: 40px; padding: 7px 11px; text-align: center; text-decoration: none; border-radius: 3px; }
 .pagination a { color: var(--link); }
-.pagination a:hover { text-decoration: underline; }
-.pagination .current-page { color: #fff; background: var(--link); }
+.pagination a:hover { background: #F1E8D8; }
+.pagination .current-page { color: var(--night); background: var(--gold); }
 .pagination .page-direction { width: 100%; font-weight: 600; }
 .pagination .page-numbers { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px; }
-.site-footer { min-height: 90px; padding: 24px 5%; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px 24px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
-.site-footer a { color: var(--ink); text-decoration: none; }
-.site-footer .footer-brand { flex: 0 0 auto; font-size: 16px; font-weight: 700; }
-.site-footer nav { flex: 1 1 460px; justify-content: center; gap: 12px 24px; }
-.site-footer nav a { font-size: 13px; }
-.site-footer > span { text-align: right; }
-@media (min-width: 1024px) {
-  .site-header { min-height: 122px; flex-direction: row; align-items: center; justify-content: space-between; }
-  .site-header nav { flex: 1 1 auto; justify-content: flex-end; gap: 20px 26px; }
-  .site-footer nav { flex: 1 1 auto; justify-content: flex-end; }
-  .page-content { padding-top: 70px; }
+
+/* Lábléc */
+.site-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px 24px; padding: 30px 5%; background: var(--night); color: var(--cream-muted); border-top: 1px solid var(--gold-deep); font-size: 14px; }
+.site-footer a { color: var(--cream); text-decoration: none; }
+.site-footer a:hover { color: var(--gold-glow); }
+.site-footer .footer-brand { font-family: var(--display); font-size: 18px; color: var(--gold); }
+.site-footer nav { flex: 1 1 460px; justify-content: center; gap: 10px 22px; }
+
+@media (min-width: 900px) {
+  .site-header { flex-direction: row; align-items: center; justify-content: space-between; padding: 26px 5%; }
+  .post-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .site-footer nav { justify-content: flex-end; }
+}
+@media (min-width: 600px) and (max-width: 899px) {
   .post-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
-
-@media (max-width: 699px) {
-  main { margin-top: 30px; }
-  .site-header { min-height: 0; padding: 20px; }
-  .brand { font-size: 19px; }
-  .site-header nav { width: 100%; gap: 10px 19px; }
-  nav a { padding: 0; font-size: 12px; }
-  .site-footer { align-items: flex-start; padding: 24px 20px; }
-  .site-footer nav { flex-basis: 100%; justify-content: flex-start; gap: 10px 20px; }
-  .site-footer > span { text-align: left; }
-  .page-content { padding: 38px 20px 55px; }
-  .article.page-content { padding-top: 30px; }
-  .blog-archive { padding: 0 20px 55px; }
-  .post-grid { gap: 40px; }
-  .post-card h2 { font-size: 18px; }
-  .post-card time { font-size: 11.15px; }
-  .prose, .page-content > .prose, .page-content:not(.article):not(.blog-page) { font-size: 12px; }
-  .article .prose { font-size: 12px; }
-  .pagination { gap: 6px; margin-top: 44px; }
-  .pagination .page-direction { width: auto; }
+@media (max-width: 599px) {
+  body { font-size: 17px; }
+  .brand-name { font-size: 20px; }
+  .brand-sub { font-size: 10px; }
+  .site-header nav { gap: 6px 20px; }
+  .site-header nav a { font-size: 15px; }
+  .page-content { padding: 36px 16px 56px; }
+  .blog-archive { padding: 36px 16px 56px; }
+  .post-navigation a { max-width: 100%; }
+  .site-footer { flex-direction: column; align-items: flex-start; }
+  .site-footer nav { flex-basis: auto; justify-content: flex-start; }
 }
