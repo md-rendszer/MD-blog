@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+:root {
+  color-scheme: light;
+  --ink: #111;
+  --muted: #5e6468;
+  --line: #d9e0e3;
+  --link: #135a82;
+  --sans: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; color: var(--ink); background: #fff; font-family: var(--sans); font-size: 16px; font-weight: 500; line-height: 1.4; }
+a { color: inherit; }
+.site-header { width: 100%; min-height: 122px; padding: 20px 5%; display: flex; flex-direction: column; align-items: flex-start; justify-content: center; gap: 15px; }
+.brand { flex: 0 0 auto; color: var(--ink); font-size: 23px; font-weight: 700; line-height: 1.2; text-decoration: none; }
+nav { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 27px; }
+nav a { padding: 3px 0; color: var(--ink); font-size: 16px; font-weight: 500; text-decoration: none; }
+nav a:hover, .site-footer a:hover { text-decoration: underline; text-underline-offset: 4px; }
+main { min-height: 72vh; margin-top: 70px; }
+.page-content { width: 100%; max-width: 1320px; margin: 0 auto; padding: 54px 5% 72px; }
+.page-content > h1 { margin: 0 0 30px; font-size: clamp(21px, 1.6vw, 22.4px); font-weight: 700; line-height: 1.125; }
+.prose { color: var(--ink); font-size: 16px; font-weight: 500; line-height: 1.4; overflow-wrap: anywhere; }
+.page-content > .prose, .page-content:not(.article):not(.blog-page) { font-size: 16px; font-weight: 500; line-height: 1.4; }
+.prose > :first-child { margin-top: 0; }
+.prose > :last-child { margin-bottom: 0; }
+.prose p { margin: 0 0 1.45em; }
+.prose h2, .prose h3 { margin: 1.55em 0 .65em; font-size: 1.15em; line-height: 1.3; }
+.prose a { color: var(--link); text-decoration: underline; text-underline-offset: 3px; }
+.prose img { display: block; width: auto; max-width: 100%; height: auto; margin: 22px auto; }
+.prose figure { max-width: 100%; margin: 24px auto; }
+.prose figure img { margin: 0 auto; }
+.prose blockquote { margin: 1.4em 0; padding: 4px 18px; border-left: 4px solid var(--line); }
+.prose table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
+.prose th, .prose td { padding: 8px 12px; border: 1px solid var(--line); }
+.blog-archive { width: 100%; max-width: 1230px; margin: 0 auto; padding: 0 30px 80px; }
+.post-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 50px; }
+.post-card { min-width: 0; max-width: 100%; overflow-wrap: anywhere; }
+.post-card-link { display: block; color: inherit; text-decoration: none; }
+.post-card-image { aspect-ratio: 1; margin: 0 0 16px; overflow: hidden; }
+.post-card-image img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.post-card h2 { margin: 20px 0; font-size: clamp(18px, 1.3vw, 20.32px); font-weight: 700; line-height: 1.125; }
+.post-card time { color: var(--muted); font-size: 14px; }
+.article-header { margin-bottom: 0; }
+.article-header h1 { margin: 19px 0; font-size: clamp(21px, 1.6vw, 22.4px); font-weight: 700; line-height: 1.125; overflow-wrap: anywhere; }
+.featured-image { margin: 0; }
+.featured-image img { display: block; width: 100%; max-width: 100%; height: auto; }
+.article { max-width: 1320px; }
+.article .prose { padding: 0 20px; font-size: 16px; }
+.post-navigation { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px 30px; margin: 40px 20px; font-size: 14px; }
+.post-navigation a { color: var(--ink); text-decoration: none; }
+.post-navigation a:hover { text-decoration: underline; text-underline-offset: 4px; }
+.pagination { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 12px 20px; margin: 70px auto 0; }
+.pagination a, .pagination span { min-width: 38px; padding: 8px 11px; text-align: center; text-decoration: none; }
+.pagination a { color: var(--link); }
+.pagination a:hover { text-decoration: underline; }
+.pagination .current-page { color: #fff; background: var(--link); }
+.pagination .page-direction { width: 100%; font-weight: 600; }
+.pagination .page-numbers { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px; }
+.site-footer { min-height: 90px; padding: 24px 5%; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px 24px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
+.site-footer a { color: var(--ink); text-decoration: none; }
+.site-footer .footer-brand { flex: 0 0 auto; font-size: 16px; font-weight: 700; }
+.site-footer nav { flex: 1 1 460px; justify-content: center; gap: 12px 24px; }
+.site-footer nav a { font-size: 13px; }
+.site-footer > span { text-align: right; }
+@media (min-width: 1024px) {
+  .site-header { min-height: 122px; flex-direction: row; align-items: center; justify-content: space-between; }
+  .site-header nav { flex: 1 1 auto; justify-content: flex-end; gap: 20px 26px; }
+  .site-footer nav { flex: 1 1 auto; justify-content: flex-end; }
+  .page-content { padding-top: 70px; }
+  .post-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 699px) {
+  main { margin-top: 30px; }
+  .site-header { min-height: 0; padding: 20px; }
+  .brand { font-size: 19px; }
+  .site-header nav { width: 100%; gap: 10px 19px; }
+  nav a { padding: 0; font-size: 12px; }
+  .site-footer { align-items: flex-start; padding: 24px 20px; }
+  .site-footer nav { flex-basis: 100%; justify-content: flex-start; gap: 10px 20px; }
+  .site-footer > span { text-align: left; }
+  .page-content { padding: 38px 20px 55px; }
+  .article.page-content { padding-top: 30px; }
+  .blog-archive { padding: 0 20px 55px; }
+  .post-grid { gap: 40px; }
+  .post-card h2 { font-size: 18px; }
+  .post-card time { font-size: 11.15px; }
+  .prose, .page-content > .prose, .page-content:not(.article):not(.blog-page) { font-size: 12px; }
+  .article .prose { font-size: 12px; }
+  .pagination { gap: 6px; margin-top: 44px; }
+  .pagination .page-direction { width: auto; }
+}
