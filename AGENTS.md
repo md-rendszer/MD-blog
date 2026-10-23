@@ -12,7 +12,7 @@ Before a task, read the relevant project guidance:
 >>>>>>> addec46 (Fejléc: Blog cím, topbar a központi oldalra, Főoldal és Blog link nélkül)
 - Célcím: https://blog.mdmegvalositorendszer.hu/ (DNS: `blog` CNAME → `md-rendszer.github.io`, a GitHubon Settings → Pages → Custom domain). Átmenetileg még a blog.matedomokos.hu cím is élhet. A `pages.yml`-ben a `SITE_BASE_PATH` üres; ne állítsd vissza `/MD-blog`-ra.
 - Bejegyzés URL-je: `https://blog.mdmegvalositorendszer.hu/blog/<fájlnév kiterjesztés nélkül>/`
-- Ezen a blogon csak a blogbejegyzések vannak. Az önálló oldalak (Rólam, Kapcsolat, ALAP, AJÁNLOTT, Online Közösségeim, Miért jött létre…, Adatkezelési tájékoztató) a központi WordPress-oldalon élnek; a régi címeik a `build_site.py` `MOVED_PAGES` listája alapján oda irányítanak. Új önálló oldalt ne ide tegyél, hanem a WordPressbe, és ha kell, vedd fel a `MOVED_PAGES`-be.
+- Az önálló oldalak (Kapcsolat, ALAP, AJÁNLOTT, Online Közösségeim, Miért jött létre…, Adatkezelési tájékoztató, Kezdőlap) itt, a `CONTENT/*.md` fájlokból épülnek. Kivétel a Rólam: az a központi WordPress-oldalon él, a régi címe a `build_site.py` `MOVED_PAGES` listája alapján oda irányít.
 - A gyökér (`/`) a blog-archívum első oldala. A `feed.xml` RSS-hírcsatorna (legfrissebb 20 bejegyzés) táplálja a központi WordPress-főoldal „Legfrissebb írások” blokkját, ezért a formátumát ne törd el.
 >>>>>>> 0869c03 (Önálló oldalak átköltöztetése a központi oldalra, régi címek átirányítása)
 
@@ -28,7 +28,7 @@ Shared skills are maintained in the root `.skills/` folder; Claude Code skill en
 | Hely | Tartalom |
 | --- | --- |
 | `CONTENT/blog/<év>/<slug>.md` | Blogbejegyzések, évenkénti mappában |
-| `CONTENT/blog.md` | A blog-archívum bevezetője (az egyetlen nem-bejegyzés oldal) |
+| `CONTENT/*.md` | Önálló oldalak; `blog.md` a blog-archívum bevezetője, `_index.md` jelenleg nem jelenik meg (a gyökér a bejegyzéslista) |
 | `CONTENT/images/<év>/` | Képek AVIF formátumban, három méretben |
 | `CONTENT/images/_manifest.json` | Képméretek és `srcset` minden képváltozathoz |
 | `CONTENT/assets/` | CSS, favicon |

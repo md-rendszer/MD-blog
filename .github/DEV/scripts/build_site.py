@@ -21,21 +21,10 @@ BASE_PATH = os.environ.get("SITE_BASE_PATH", "").rstrip("/")
 SITE_URL = os.environ.get("SITE_URL", "https://blog.mdmegvalositorendszer.hu").rstrip("/")
 MAIN_SITE_URL = "https://mdmegvalositorendszer.hu/"
 SITE_NAME = "MD Megvalósító Rendszer – Blog"
-# Az önálló oldalak a központi WordPress-oldalra költöztek; a régi címeik oda irányítanak.
+# A Rólam oldal a központi WordPress-oldalon él; a régi címe oda irányít.
+# A többi önálló oldal itt, a GitHubon épül (CONTENT/*.md).
 MOVED_PAGES = {
     "rolam": f"{MAIN_SITE_URL}rolam/",
-    "kapcsolat": f"{MAIN_SITE_URL}kapcsolat/",
-    "alap": f"{MAIN_SITE_URL}alap/",
-    "alapozas": f"{MAIN_SITE_URL}alap/",
-    "ajanlott": f"{MAIN_SITE_URL}ajanlott/",
-    "online-kozossegeim": f"{MAIN_SITE_URL}online-kozossegeim/",
-    "kozosseg": f"{MAIN_SITE_URL}online-kozossegeim/",
-    "miert-jott-letre-az-md-megvalosito-rendszer": f"{MAIN_SITE_URL}miert-jott-letre-az-md-megvalosito-rendszer/",
-    "adatkezelesi-tajekoztato": f"{MAIN_SITE_URL}adatkezelesi-tajekoztato/",
-    "kezdolap": MAIN_SITE_URL,
-    "home": MAIN_SITE_URL,
-    "mdhu-megvalosito-rendszer": MAIN_SITE_URL,
-    "mdhu_megvalosito_rendszer": MAIN_SITE_URL,
 }
 FEED_SIZE = 20
 MD = markdown.Markdown(extensions=["extra", "sane_lists", "smarty"])
@@ -282,15 +271,15 @@ def layout(title: str, content: str, description: str = "") -> str:
     </a>
     <nav aria-label="Fő navigáció">
       <a href="{MOVED_PAGES['rolam']}">Rólam</a>
-      <a href="{MOVED_PAGES['kapcsolat']}">Kapcsolat</a>
+      <a href="{href('/kapcsolat/')}">Kapcsolat</a>
     </nav>
   </header>
   <main id="content">{content}</main>
   <footer class="site-footer">
     <a class="footer-brand" href="{MAIN_SITE_URL}">MD Megvalósító Rendszer</a>
     <nav aria-label="Lábléc navigáció">
-      <a href="{MOVED_PAGES['kapcsolat']}">Kapcsolat</a>
-      <a href="{MOVED_PAGES['adatkezelesi-tajekoztato']}">Adatkezelési tájékoztató</a>
+      <a href="{href('/kapcsolat/')}">Kapcsolat</a>
+      <a href="{href('/adatkezelesi-tajekoztato/')}">Adatkezelési tájékoztató</a>
       <a href="{SITE_URL}/feed.xml">RSS</a>
       <a href="https://www.facebook.com/mate.domokos/">Facebook</a>
       <a href="https://www.youtube.com/@mateshomebasedbusiness1806">YouTube</a>
