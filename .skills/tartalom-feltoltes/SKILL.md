@@ -13,7 +13,7 @@ Ezt a skillt új önálló oldal, új blogbejegyzés, illetve meglévő tartalom
 
 - Önálló oldalak: `CONTENT/<slug>.md`; a kezdőlap forrása `CONTENT/_index.md`.
 - Bejegyzések: `CONTENT/blog/<év>/<slug>.md`; az év a frontmatter dátumának éve.
-- Bejegyzés URL-je: `https://blog.mdmegvalositorendszer.hu/blog/<slug>/`.
+- Bejegyzés URL-je: `https://matedomokos.hu/<slug>/`.
 - A fájlnév kisbetűs, ékezet nélküli, kötőjeles slug legyen. Meglévő slugot ne nevezz át, mert a nyilvános URL megváltozik. Csak kifejezett átnevezési kérés esetén adj régi slugot `alias` mezőként.
 - Kizárólag a kért fájlokat és kapcsolódó képfájlokat módosítsd.
 
@@ -41,7 +41,7 @@ Minden látogatói tartalom magyar, tegező hangú és egyszerű. Kövesd az MD 
 Borítókép esetén futtasd a közös segédprogramot:
 
 ```powershell
-python .github/DEV/scripts/kep_hozzaadasa.py <forraskep> <év> <slug>
+python \.github/site-generator/scripts/kep_hozzaadasa.py <forraskep> <év> <slug>
 ```
 
 A szkript AVIF-méreteket hoz létre a `CONTENT/images/<év>/` alatt, és frissíti a `CONTENT/images/_manifest.json` fájlt. A kiírt `image:` értéket írd be a bejegyzés frontmatterébe. Ne állítsd, hogy egy kép elérhető, ha a forrás nem tölthető le vagy a build nem találja.
@@ -49,12 +49,11 @@ A szkript AVIF-méreteket hoz létre a `CONTENT/images/<év>/` alatt, és friss�
 ## Ellenőrzés
 
 ```powershell
-python -m pip install -r .github/DEV/scripts/requirements.txt
-python .github/DEV/scripts/build_site.py
-python .github/DEV/scripts/ellenorzes.py
+python -m pip install -r \.github/site-generator/scripts/python-extensions.txt
+python \.github/site-generator/scripts/build_site.py
+python \.github/site-generator/scripts/ellenorzes.py
 ```
 
 Ellenőrizd a kért oldal vagy bejegyzés kimenetét a `dist/` mappában. Az elérhetetlen régi képfájlokat jelezd külön.
 
 Ne stage-elj, commitolj vagy pusholj, ha a felhasználó ezt nem kéri.
-

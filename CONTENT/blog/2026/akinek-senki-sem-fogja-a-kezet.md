@@ -24,12 +24,6 @@ Ezért (is) hoztam létre az [“MD Megvalósító Rendszert – Újjászületé
   
 **Mély szomorúságban élő ember volt Robin Williams?**
 
-![](/wp-content/uploads/sites/10/2026/08/matedomokos.hu-nem-hinnem-hogy-a-legszomorubb-ember-a-vilagon-en-lennek-mert-image-1.avif)
-![](/wp-content/uploads/sites/10/2026/08/matedomokos.hu-nem-hinnem-hogy-a-legszomorubb-ember-a-vilagon-en-lennek-mert-image-4.avif)
-![](/wp-content/uploads/sites/10/2026/08/matedomokos.hu-nem-hinnem-hogy-a-legszomorubb-ember-a-vilagon-en-lennek-mert-image.avif)
-![](/wp-content/uploads/sites/10/2026/08/matedomokos.hu-nem-hinnem-hogy-a-legszomorubb-ember-a-vilagon-en-lennek-mert-image-2.avif)
-![](/wp-content/uploads/sites/10/2026/08/matedomokos.hu-nem-hinnem-hogy-a-legszomorubb-ember-a-vilagon-en-lennek-mert-image-3.avif)
-![](/wp-content/uploads/sites/10/2026/08/matedomokos.hu-nem-hinnem-hogy-a-legszomorubb-ember-a-vilagon-en-lennek-mert-image-5.avif)
 
 Nem, Robin Williams **nem egy állandó, mély szomorúságban élő ember volt**, és a közhiedelemmel ellentétben **nem a klasszikus klinikai depresszió okozta a halálát**, hanem egy pusztító, tévesen diagnosztizált neurodegeneratív agybetegség. [[1](https://wmn.hu/cikk/49205/), [2](https://nlc.hu/sztarok/20220811/akinek-a-nevettetes-volt-a-szeretetnyelve-8-eve-lett-ongyilkos-robin-williams/)]
 

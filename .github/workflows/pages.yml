@@ -25,14 +25,18 @@ jobs:
         with:
           python-version: "3.x"
       - name: Install build dependencies
-        run: python -m pip install -r .github/DEV/scripts/requirements.txt
+        run: python -m pip install -r .github/site-generator/scripts/python-extensions.txt
+      - name: Check posts
+        run: python .github/site-generator/scripts/verify.py
       - name: Set up GitHub Pages
         uses: actions/configure-pages@v5
       - name: Build site
-        run: python .github/DEV/scripts/build_site.py
+        run: python .github/site-generator/scripts/build_site.py
         env:
           SITE_BASE_PATH: ""
           SITE_URL: "https://matedomokos.hu"
+      - name: Check built site (stylesheet and local assets)
+        run: python .github/site-generator/scripts/check-dist.py
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

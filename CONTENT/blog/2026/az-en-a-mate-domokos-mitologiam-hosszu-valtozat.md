@@ -928,7 +928,7 @@ Numerológiai Sorsciklus Idővonal
 
 Már interaktív! (bétaverzió)
 
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
+
 
 Elkészítettem a 1960–2040 közötti teljes numerológiai sorsciklus vizuális idővonalát.
 
@@ -945,7 +945,7 @@ Igen, kérlek készíts egy részletesebb, életkoronként bontott (éves rezgé
 
 Éves Numerológiai Rezgés Idővonal (1960–2040)
 
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
+
 
 Elkészült a 1960–2040 közötti éves személyes rezgésgrafikon.
 
@@ -966,7 +966,7 @@ Készíts egy második verziót is egyben, ahol: külön jelölöm a fő életfo
 
 Kiemelt Életfordulókkal Bővített Numerológiai Idővonal
 
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
+
 
 Elkészült a kibővített grafikon, amelyen látható:
 
@@ -985,7 +985,7 @@ Készíts egy harmadik, még részletesebb változatot is, ahol: az 1-es (újrak
 
 Részletes Numerológiai Idővonal (1-es Újrakezdések és 8-as Csúcsterhelések Jelölve)
 
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
+
 
 Elkészült a harmadik, részletesített grafikon:
 
@@ -1571,11 +1571,11 @@ Ha szeretnéd, készíthetek egy szimbolikus, vizuális archetípus-ábrát is (
 
 Igen, szeretném, készíts egy szimbolikus, vizuális archetípus-ábrát is (kő–kút–szél–tűzhely kompozícióval), amely ezt a személyes mitológiát képi térképként jeleníti meg.Kép létrehozva
 
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
+
+
+
+
+
 
 Megosztás
 

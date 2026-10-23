@@ -6,4 +6,3 @@
 - Follow the canonical terminology and capitalization used by the author: REND, LÉTALAP, LÁMPA-elv, TISZTA ÖNTUDAT, ÖSZTÖNÖS ÖNTUDAT, JELENLÉT, GÖDÖR, vezető hang / kereső hang, igazodás, visszamérés, ráismerés.
 - Do not add inline source citations to editorial posts.
 - Do not use copyrighted imagery, recognizable fictional characters, or photographs of real people for generated cover art.
-

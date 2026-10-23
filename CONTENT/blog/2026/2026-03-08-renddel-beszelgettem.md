@@ -7969,6 +7969,6 @@ Ez segít abban, hogy a rendszer **egy pillanat alatt érthető legyen az ember
 👉 egy vizuális ábrát (diagram grafikát) az MD Megvalósító Rendszerről, amelyet használhatok!  
 Kép létrehozva
 
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
+
+
+

@@ -733,11 +733,11 @@ Ha szeretnéd, elkészíthetem a **10/10 Életkerék látványos diagramját** i
 
 Kérlek, készítsd el a 10/10 Életkerék látványos diagramját is (1600×1200 méretben), amit akár azonnal használhatsz a közösséged építéséhez! 🌟Kép létrehozva • Élet térképe: a fejlődés 7 területe
 
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
+
+
+
+
+
 
 Megosztás
 

@@ -1,0 +1,13 @@
+# Szövegfájlok mindig LF sorvéggel kerüljenek a repóba (Windowson is).
+* text=auto eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.css text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
+*.avif binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.gif binary

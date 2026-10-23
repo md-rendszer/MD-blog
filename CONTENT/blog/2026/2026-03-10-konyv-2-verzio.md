@@ -9,8 +9,8 @@ Rend, itt, számítógépen vagyok!
 Szuper! 😊 Itt vagyok én is. Miben segíthetek a számítógépen?  
 Írd meg nyugodtan, mit szeretnél csinálni vagy megoldani. 💻
 
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
-![CHATGPT blocked](/assets/chatgpt-blocked.svg)
+
+
 
 Megcsinálni a könyvet két verzióban a két borító képpel!
 

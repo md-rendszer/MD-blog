@@ -5,13 +5,13 @@ description: A blog-archívum dokumentációjának, útvonalainak, képjegyzék�
 
 # MD-blog repóaudit
 
-Az ellenőrzést csak a kért hatókörben végezd. A webhely tartalma magyar, az útmutatók angolok, kivéve a közönségnek szánt `_docs` dokumentációt.
+Az ellenőrzést csak a kért hatókörben végezd. A webhely tartalma magyar, az útmutatók angolok, kivéve a közönségnek szánt `documentation` dokumentációt.
 
 ## Ellenőrzési lista
 
 1. Olvasd el a `AGENTS.md` fájlt és az érintett `.agents/` útmutatókat.
-2. Ellenőrizd, hogy a README a `_docs/README.md` rendszerismertetőre mutat-e.
-3. Ellenőrizd, hogy a workflow, a fejlesztői útmutató és a tartalomfeltöltő skill ugyanazokat a `.github/DEV/scripts/` útvonalakat használja-e.
+2. Ellenőrizd, hogy a README a `documentation/README.md` rendszerismertetőre mutat-e.
+3. Ellenőrizd, hogy a workflow, a fejlesztői útmutató és a tartalomfeltöltő skill ugyanazokat a `\.github/site-generator/scripts/` útvonalakat használja-e.
 4. Ellenőrizd a `CONTENT/` módosítások hatókört, slugokat, helyi képeket és `_manifest.json` bejegyzéseket; csak akkor módosíts tartalmat, ha arra a felhasználó kifejezetten megkért.
 5. Keress elavult Claude-skill- és buildszkript-hivatkozásokat az aktív útmutatókban.
 6. Ha buildváltozás érintett, futtasd az oldalépítőt és a bejegyzés-ellenőrzőt.

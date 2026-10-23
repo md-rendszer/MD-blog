@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
-  <title id="title">CHATGPT blocked</title>
-  <desc id="desc">Grey square with an X indicating a blocked ChatGPT image.</desc>
-  <rect width="320" height="320" fill="#d1d5d8"/>
-  <path d="M92 92 228 228M228 92 92 228" fill="none" stroke="#858b90" stroke-linecap="square" stroke-width="22"/>
-  <text x="160" y="276" fill="#42474b" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" text-anchor="middle">CHATGPT blocked</text>
-</svg>

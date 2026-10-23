@@ -4,7 +4,7 @@ date: 2026-10-24 01:30:00
 image: -
 ---
 
-<p style="text-align:center"><img src="https://mdmegvalositorendszer.hu/wp-content/uploads/2026/10/Mate-Domokos-foto.jpg" alt="Máté Domokos" width="220" height="220" style="width:220px;height:220px;object-fit:cover;border-radius:50%;border:3px solid #E0B455;padding:5px"></p>
+<p style="text-align:center"><img src="/images/rolam/mate-domokos-portre.jpg" alt="Máté Domokos" width="220" height="220" style="width:220px;height:220px;object-fit:cover;border-radius:50%;border:3px solid #E0B455;padding:5px"></p>
 
 Üdvözöllek, Máté Domokos vagyok.
 
