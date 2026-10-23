@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[3]
 CONTENT = ROOT / "CONTENT"
 OUTPUT = ROOT / "dist"
 BASE_PATH = os.environ.get("SITE_BASE_PATH", "").rstrip("/")
-SITE_URL = os.environ.get("SITE_URL", "https://blog.mdmegvalositorendszer.hu").rstrip("/")
+SITE_URL = os.environ.get("SITE_URL", "https://matedomokos.hu").rstrip("/")
 MAIN_SITE_URL = "https://mdmegvalositorendszer.hu/"
 SITE_NAME = "MD Megvalósító Rendszer – Blog"
 # A Rólam oldal a központi WordPress-oldalon él; a régi címe oda irányít.
@@ -280,7 +280,6 @@ def layout(title: str, content: str, description: str = "") -> str:
     <nav aria-label="Lábléc navigáció">
       <a href="{href('/kapcsolat/')}">Kapcsolat</a>
       <a href="{href('/adatkezelesi-tajekoztato/')}">Adatkezelési tájékoztató</a>
-      <a href="{SITE_URL}/feed.xml">RSS</a>
       <a href="https://www.facebook.com/mate.domokos/">Facebook</a>
       <a href="https://www.youtube.com/@mateshomebasedbusiness1806">YouTube</a>
     </nav>

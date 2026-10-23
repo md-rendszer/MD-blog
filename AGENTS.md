@@ -9,12 +9,19 @@ Before a task, read the relevant project guidance:
 - A blog a központi oldal (https://mdmegvalositorendszer.hu/, WordPress) része, de a képek miatt itt, GitHub Pages-en fut. A fejléc és a lábléc a központi oldalra mutat.
 =======
 - A blog a központi oldal (https://mdmegvalositorendszer.hu/, WordPress) része, de a képek miatt itt, GitHub Pages-en fut. A fejléc címe „Blog”, és a gyökérre (`/`) mutat; felette egy topbar visz a központi oldalra. A menüben nincs „Főoldal” és „Blog” link, mert a blog kezdőlapja maga a bejegyzéslista.
+<<<<<<< HEAD
 >>>>>>> addec46 (Fejléc: Blog cím, topbar a központi oldalra, Főoldal és Blog link nélkül)
 - Célcím: https://blog.mdmegvalositorendszer.hu/ (DNS: `blog` CNAME → `md-rendszer.github.io`, a GitHubon Settings → Pages → Custom domain). Átmenetileg még a blog.matedomokos.hu cím is élhet. A `pages.yml`-ben a `SITE_BASE_PATH` üres; ne állítsd vissza `/MD-blog`-ra.
 - Bejegyzés URL-je: `https://blog.mdmegvalositorendszer.hu/blog/<fájlnév kiterjesztés nélkül>/`
 - Az önálló oldalak (Kapcsolat, ALAP, AJÁNLOTT, Online Közösségeim, Miért jött létre…, Adatkezelési tájékoztató, Kezdőlap) itt, a `CONTENT/*.md` fájlokból épülnek. Kivétel a Rólam: az a központi WordPress-oldalon él, a régi címe a `build_site.py` `MOVED_PAGES` listája alapján oda irányít.
 - A gyökér (`/`) a blog-archívum első oldala. A `feed.xml` RSS-hírcsatorna (legfrissebb 20 bejegyzés) táplálja a központi WordPress-főoldal „Legfrissebb írások” blokkját, ezért a formátumát ne törd el.
 >>>>>>> 0869c03 (Önálló oldalak átköltöztetése a központi oldalra, régi címek átirányítása)
+=======
+- Cím: https://matedomokos.hu/ (DNS a Sybellnél: `@` A-rekordok → `185.199.108–111.153`, AAAA → `2606:50c0:8000–8003::153`, `www` CNAME → `md-rendszer.github.io`; a Zoho MX- és TXT-rekordokhoz nem kell nyúlni. GitHubon Settings → Pages → Custom domain: `matedomokos.hu`). A webcímet a `pages.yml` `SITE_URL` változója adja. A `SITE_BASE_PATH` üres; ne állítsd vissza `/MD-blog`-ra.
+- Bejegyzés URL-je: `https://matedomokos.hu/blog/<fájlnév kiterjesztés nélkül>/`
+- Az önálló oldalak (Kapcsolat, ALAP, AJÁNLOTT, Online Közösségeim, Miért jött létre…, Adatkezelési tájékoztató, Kezdőlap) itt, a `CONTENT/*.md` fájlokból épülnek. Kivétel a Rólam: az a központi WordPress-oldalon él, a régi címe a `build_site.py` `MOVED_PAGES` listája alapján oda irányít.
+- A gyökér (`/`) a blog-archívum első oldala. A `feed.xml` RSS-hírcsatorna (legfrissebb 20 bejegyzés, `https://matedomokos.hu/feed.xml`) táplálja a központi WordPress-főoldal „Legfrissebb írások” blokkját, ezért a formátumát ne törd el. A láblécben nincs látható RSS-link, csak a `<head>`-ben.
+>>>>>>> d7c546a (Webcím: matedomokos.hu; RSS-link ki a láblécből (a hírcsatorna marad))
 
 - [Content and language rules](.agents/language-and-content.md)
 - [Build, scripts, and validation](.agents/development.md)

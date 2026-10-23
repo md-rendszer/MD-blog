@@ -32,6 +32,7 @@ jobs:
         run: python .github/DEV/scripts/build_site.py
         env:
           SITE_BASE_PATH: ""
+          SITE_URL: "https://matedomokos.hu"
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
