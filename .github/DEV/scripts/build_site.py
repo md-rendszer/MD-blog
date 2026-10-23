@@ -633,6 +633,13 @@ def main() -> None:
                 f"/{urllib.parse.quote(page.slug, safe='-_.~')}/",
             )
 
+    # A CONTENT/archivum/ alatti írások nem jelennek meg (pl. a PPH-hoz kötődők,
+    # 2026. október); a régi címük az Írások kezdőlapjára visz.
+    for archived in sorted((CONTENT / "archivum").rglob("*.md")):
+        if archived.stem.casefold() in BLOG_SLUGS:
+            raise ValueError(f"Archived post slug is also published: {archived.stem}")
+        write_redirect(OUTPUT / "blog" / archived.stem / "index.html", "Archivált írás", "/")
+
     for old_slug, target in MOVED_PAGES.items():
         if old_slug.casefold() in BLOG_SLUGS:
             raise ValueError(f"Moved page slug collides with a blog post: {old_slug}")

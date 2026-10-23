@@ -22,7 +22,7 @@ A főoldalon most egy nagyon hosszú szöveg fogadja a látogatót, ami inkább 
 ki vagy, kinek segítesz, miben segítesz, és mi legyen a következő lépés. Jelenleg ez nem elég egyértelmű.
 
 **2. Egyértelmű ajánlat és CTA-k**  
-A „Rólam” oldalból már jobban látszik a küldetésed: tudatosságfejlesztés, iránymutatás, PPH partneri kapcsolat. Ezt kellene a főoldal tetejére is kiemelni rövid, bizalomépítő formában, például:  
+A „Rólam” oldalból már jobban látszik a küldetésed: tudatosságfejlesztés, iránymutatás. Ezt kellene a főoldal tetejére is kiemelni rövid, bizalomépítő formában, például:  
 „Segítek tudatosabb, rendezettebb és erősebb életet építeni – lépésről lépésre.”  
 Mellé 1–2 fő gomb:  
 „Ismerj meg”  
@@ -621,7 +621,6 @@ Most az oldal egyszerre próbál lenni:
 
 - spiritualitás
 - személyes fejlődés
-- PPH akadémia ajánló
 - filozófiai blog
 
 Ez egy látogatónak **zavaró lehet**.

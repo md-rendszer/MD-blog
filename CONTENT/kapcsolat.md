@@ -20,7 +20,4 @@ Mobil: [+36 70 8022843](tel:+36708022843)
 ## **YouTube linkek**
 
 - [GONDOLKOZZ és GAZDAGODJ!](https://www.youtube.com/playlist?list=PLPZqmuT-AHlqNppJ-CHJXNIBtJRwHo_sA)
-- [PPH Üzleti Bemutatók](https://www.youtube.com/playlist?list=PLPZqmuT-AHlr4tbdrI8CGbGJdjOMBfko3)
-- [PPH Sikertörténetek](https://www.youtube.com/playlist?list=PLPZqmuT-AHlpeOCcb9hcb2F_3Uz5ief_a)
-- [Elismerés, 3-as Képviselői szint](https://www.youtube.com/watch?v=1uOojmXjTa8&t=9s)
 - [A pótcselekvések ideje lejárt, becsengettünk!](https://www.youtube.com/watch?v=U3-lW5tW9RA)
