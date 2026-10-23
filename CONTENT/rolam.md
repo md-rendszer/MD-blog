@@ -14,9 +14,7 @@ Küldetésem, hogy segítsek az embereknek felismerni a bennük rejlő valódi e
 
 Hosszú éveken át kerestem, hogyan lehet az életet tudatosan, kiegyensúlyozottan és szabadon élni. Megtapasztaltam, milyen az, amikor az ember csak sodródik, és azt is, amikor végre ráébred: a valóságát ő maga teremti.
 
-Ekkor találkoztam a PPH Nyílt Akadémia tudatosságfejlesztő rendszerével, amely számomra mindent megváltoztatott. Nemcsak megértést adott az életről, hanem gyakorlati eszközöket is a fejlődéshez – szellemileg, lelkileg és anyagilag egyaránt.
-
-Habár, az óta 2018.05.09 óta, hogy csatlakoztam a PPH Nyílt Akadémiához Tanulónak, személy szerint én úgy látom, hogy a PPH Nyílt Akadémia valóban úttörő abban, hogy az embereknek “ÖSSZEFOGLALT” használható tudást adjon 26 modulban a földi életünk 10 fő területére, azt is megtanítja, hogy mindannyiunk szükségleteinek a kielégítésére hogyan hozzunk létre Jó Közösségeket, és együttműködve egymással, hogyan emeljük az életünk minőségét, de MA úgy látom, hogy nem ez az “ALAP” – a “LEGELSŐ LÉPÉS”, amire az “ÉLETÜNKET” felépíthetnénk.
+2018 elején tanulóként csatlakoztam a PPH Nyílt Akadémiához. Ott azt tapasztaltam, hogy a tanulást hangsúlyozzák, de az ember „állapotát” alig, vagy egyáltalán nem veszik figyelembe. Szerintem tanulás – tanítás előtt teret kell nyitni az embernek, hogy ráébredhessen a saját eszére, tudatos tudatára, és azt használni is tudja. Ez a hiány vezetett oda, hogy megszülessen az MD Megvalósító Rendszer.
 
 ## A Legelső Lépés
 
