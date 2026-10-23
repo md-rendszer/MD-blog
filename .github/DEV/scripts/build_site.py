@@ -21,6 +21,22 @@ BASE_PATH = os.environ.get("SITE_BASE_PATH", "").rstrip("/")
 SITE_URL = os.environ.get("SITE_URL", "https://blog.mdmegvalositorendszer.hu").rstrip("/")
 MAIN_SITE_URL = "https://mdmegvalositorendszer.hu/"
 SITE_NAME = "MD Megvalósító Rendszer – Blog"
+# Az önálló oldalak a központi WordPress-oldalra költöztek; a régi címeik oda irányítanak.
+MOVED_PAGES = {
+    "rolam": f"{MAIN_SITE_URL}rolam/",
+    "kapcsolat": f"{MAIN_SITE_URL}kapcsolat/",
+    "alap": f"{MAIN_SITE_URL}alap/",
+    "alapozas": f"{MAIN_SITE_URL}alap/",
+    "ajanlott": f"{MAIN_SITE_URL}ajanlott/",
+    "online-kozossegeim": f"{MAIN_SITE_URL}online-kozossegeim/",
+    "kozosseg": f"{MAIN_SITE_URL}online-kozossegeim/",
+    "miert-jott-letre-az-md-megvalosito-rendszer": f"{MAIN_SITE_URL}miert-jott-letre-az-md-megvalosito-rendszer/",
+    "adatkezelesi-tajekoztato": f"{MAIN_SITE_URL}adatkezelesi-tajekoztato/",
+    "kezdolap": MAIN_SITE_URL,
+    "home": MAIN_SITE_URL,
+    "mdhu-megvalosito-rendszer": MAIN_SITE_URL,
+    "mdhu_megvalosito_rendszer": MAIN_SITE_URL,
+}
 FEED_SIZE = 20
 MD = markdown.Markdown(extensions=["extra", "sane_lists", "smarty"])
 IMAGE_MANIFEST_PATH = CONTENT / "images" / "_manifest.json"
@@ -172,6 +188,8 @@ def rewrite_legacy_post_links(rendered: str) -> str:
         key = route_slug.casefold()
         canonical_slug = ""
         route_prefix = ""
+        if not is_blog_path and key in MOVED_PAGES:
+            return f"{match.group(1)}{html.escape(MOVED_PAGES[key], quote=True)}{match.group(3)}"
         if is_blog_path:
             if key in BLOG_SLUGS:
                 canonical_slug = route_slug
@@ -262,8 +280,8 @@ def layout(title: str, content: str, description: str = "") -> str:
     <nav aria-label="Fő navigáció">
       <a href="{MAIN_SITE_URL}">Főoldal</a>
       <a href="{href('/blog/')}">Blog</a>
-      <a href="{href('/rolam/')}">Rólam</a>
-      <a href="{href('/kapcsolat/')}">Kapcsolat</a>
+      <a href="{MOVED_PAGES['rolam']}">Rólam</a>
+      <a href="{MOVED_PAGES['kapcsolat']}">Kapcsolat</a>
     </nav>
   </header>
   <main id="content">{content}</main>
@@ -271,8 +289,8 @@ def layout(title: str, content: str, description: str = "") -> str:
     <a class="footer-brand" href="{MAIN_SITE_URL}">MD Megvalósító Rendszer</a>
     <nav aria-label="Lábléc navigáció">
       <a href="{MAIN_SITE_URL}">Főoldal</a>
-      <a href="{href('/kapcsolat/')}">Kapcsolat</a>
-      <a href="{href('/adatkezelesi-tajekoztato/')}">Adatkezelési tájékoztató</a>
+      <a href="{MOVED_PAGES['kapcsolat']}">Kapcsolat</a>
+      <a href="{MOVED_PAGES['adatkezelesi-tajekoztato']}">Adatkezelési tájékoztató</a>
       <a href="{SITE_URL}/feed.xml">RSS</a>
       <a href="https://www.facebook.com/mate.domokos/">Facebook</a>
       <a href="https://www.youtube.com/@mateshomebasedbusiness1806">YouTube</a>
@@ -445,7 +463,7 @@ def write_page(path: Path, title: str, content: str, description: str = "") -> N
 
 
 def write_redirect(path: Path, title: str, target: str) -> None:
-    target_url = href(target)
+    target_url = target if target.startswith(("http://", "https://")) else href(target)
     safe_target = html.escape(target_url, quote=True)
     content = f"""<!doctype html>
 <html lang="hu">
@@ -561,8 +579,6 @@ def main() -> None:
     PAGE_ALIASES = build_aliases(
         [page for page in pages if page.slug != "blog"], PAGE_SLUGS, "Page"
     )
-    if root_page is None:
-        raise FileNotFoundError(f"Home page not found: {CONTENT / '_index.md'}")
     if not posts:
         raise FileNotFoundError(f"No blog posts found in {CONTENT / 'blog'}")
 
@@ -620,6 +636,11 @@ def main() -> None:
                 f"/{urllib.parse.quote(page.slug, safe='-_.~')}/",
             )
 
+    for old_slug, target in MOVED_PAGES.items():
+        if old_slug.casefold() in BLOG_SLUGS:
+            raise ValueError(f"Moved page slug collides with a blog post: {old_slug}")
+        write_redirect(OUTPUT / old_slug / "index.html", "Átköltözött oldal", target)
+
     for index, post in enumerate(posts):
         content = f"""<article class="page-content article">
   {featured_image(post, "featured-image")}
@@ -648,6 +669,7 @@ def main() -> None:
         - 1
         + len(posts)
         + len(PAGE_ALIASES)
+        + len(MOVED_PAGES)
         + len(BLOG_ALIASES)
     )
     print(
