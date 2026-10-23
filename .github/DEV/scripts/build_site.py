@@ -20,11 +20,16 @@ OUTPUT = ROOT / "dist"
 BASE_PATH = os.environ.get("SITE_BASE_PATH", "").rstrip("/")
 SITE_URL = os.environ.get("SITE_URL", "https://matedomokos.hu").rstrip("/")
 MAIN_SITE_URL = "https://mdmegvalositorendszer.hu/"
-SITE_NAME = "MD Megvalósító Rendszer – Blog"
-# A Rólam oldal a központi WordPress-oldalon él; a régi címe oda irányít.
-# A többi önálló oldal itt, a GitHubon épül (CONTENT/*.md).
+SITE_NAME = "Máté Domokos"
+# A matedomokos.hu Domi személyes oldala (Rólam, Írások, közösségek, ajánlott,
+# kapcsolat). A rendszerhez tartozó oldalak a központi WordPress-oldalon élnek;
+# a régi címük oda irányít. A többi önálló oldal itt épül (CONTENT/*.md).
 MOVED_PAGES = {
-    "rolam": f"{MAIN_SITE_URL}rolam/",
+    "alap": f"{MAIN_SITE_URL}alap/",
+    "alapozas": f"{MAIN_SITE_URL}alap/",
+    "miert-jott-letre-az-md-megvalosito-rendszer": f"{MAIN_SITE_URL}miert-jott-letre-az-md-megvalosito-rendszer/",
+    "mdhu-megvalosito-rendszer": MAIN_SITE_URL,
+    "mdhu_megvalosito_rendszer": MAIN_SITE_URL,
 }
 FEED_SIZE = 20
 MD = markdown.Markdown(extensions=["extra", "sane_lists", "smarty"])
@@ -262,22 +267,26 @@ def layout(title: str, content: str, description: str = "") -> str:
 </head>
 <body>
   <div class="topbar">
-    <a href="{MAIN_SITE_URL}">Tovább az MD Megvalósító Rendszer oldalára →</a>
+    <a href="{MAIN_SITE_URL}">Az általam alkotott rendszer: MD Megvalósító Rendszer →</a>
   </div>
   <header class="site-header">
     <a class="brand" href="{href('/')}">
-      <span class="brand-name">Blog</span>
-      <span class="brand-sub">MD Megvalósító Rendszer · Újjászületési és Helyreállítási Program</span>
+      <span class="brand-name">Máté Domokos</span>
+      <span class="brand-sub">Személyes oldal · Írások</span>
     </a>
     <nav aria-label="Fő navigáció">
-      <a href="{MOVED_PAGES['rolam']}">Rólam</a>
+      <a href="{href('/')}">Írások</a>
+      <a href="{href('/rolam/')}">Rólam</a>
+      <a href="{href('/online-kozossegeim/')}">Online közösségeim</a>
+      <a href="{href('/ajanlott/')}">Ajánlott</a>
       <a href="{href('/kapcsolat/')}">Kapcsolat</a>
     </nav>
   </header>
   <main id="content">{content}</main>
   <footer class="site-footer">
-    <a class="footer-brand" href="{MAIN_SITE_URL}">MD Megvalósító Rendszer</a>
+    <a class="footer-brand" href="{href('/')}">Máté Domokos</a>
     <nav aria-label="Lábléc navigáció">
+      <a href="{MAIN_SITE_URL}">MD Megvalósító Rendszer</a>
       <a href="{href('/kapcsolat/')}">Kapcsolat</a>
       <a href="{href('/adatkezelesi-tajekoztato/')}">Adatkezelési tájékoztató</a>
       <a href="https://www.facebook.com/mate.domokos/">Facebook</a>
@@ -604,9 +613,9 @@ def main() -> None:
             if current_page == 1
             else OUTPUT / "blog" / "page" / str(current_page) / "index.html"
         )
-        write_page(archive_path, "Blog", archive)
+        write_page(archive_path, "Írások", archive)
         if current_page == 1:
-            write_page(OUTPUT / "index.html", "Blog", archive)
+            write_page(OUTPUT / "index.html", "Írások", archive)
     write_feed(OUTPUT / "feed.xml", posts[:FEED_SIZE])
 
     for page in pages:

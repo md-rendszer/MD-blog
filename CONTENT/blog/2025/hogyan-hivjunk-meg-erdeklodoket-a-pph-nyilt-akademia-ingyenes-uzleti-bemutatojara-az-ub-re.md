@@ -39,8 +39,5 @@ További részletekért látogass el a PPH hivatalos weboldalára, ahol tájék
   
 Az AI-válaszokban előfordulhatnak hibák.  
   
-Most kérj – díj és kötelezettség mentes – hozzáférést a PPH, Szedlacsik Miklós boldogság-specialista mester-coach, a Nyílt Akadémia, a Hunor Trade Zrt és a Tanoda 2000 Kft közös, ember és élet jobbító, tudatosságfejlesztő weboldalához!  
-  
-<http://aranykor.net/hu/jelentkezes?vez=1181333>
 
 2025.12.26. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

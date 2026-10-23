@@ -22,8 +22,4 @@ Az “ALAP” – ról tehet bármit az ÉLETÉBEN az ember, akkor MINDIG A NAGY
 
 > [Rólam](/)
 
-2. Lépés: Nemzetközi Nyílt Akadémia – Hunor Tanoda 2000 Kft.
-
-<http://aranykor.net/hu/jelentkezes?vez=1181333>
-
 2025.11.16. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

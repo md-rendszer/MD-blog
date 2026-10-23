@@ -27,8 +27,4 @@ A lelki fejlődésünket a továbbiakban azzal tudjuk 10 – ből 10 – re “K
 
 10. Teremtővel  
   
-Regisztrálj a PPH Nyílt Akadémiára tanulónak és Jó Közösség Építőnek!  
-  
-<http://aranykor.net/hu/jelentkezes?vez=1181333>
-
 2026.01.25. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

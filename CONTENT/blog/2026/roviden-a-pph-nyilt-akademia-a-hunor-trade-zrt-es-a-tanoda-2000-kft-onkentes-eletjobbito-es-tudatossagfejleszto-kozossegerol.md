@@ -1016,8 +1016,4 @@ onnantól már nem teljesen vagy azonos vele.
 
 **Ott kezdődik a valódi belső szabadság.**  
   
-“Ha még mindig itt vagy, akkor számodra úgy az anyagi mint a szellemi fejlődésre kiválóan alkalmas a Hunor Trade Zrt és a Tanoda 2000 Kft önkéntes életjobbító és tudatosságfejlesztő közösség, szeretettel várlak, légy a közösségünk aktív tagja!”  
-  
-<http://aranykor.net/hu/jelentkezes?vez=1181333>  
-  
 2026.02.22. Kárpát – medence. Pest Vármegye. Kerepes. Máté Domokos

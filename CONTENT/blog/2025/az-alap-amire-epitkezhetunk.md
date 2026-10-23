@@ -40,8 +40,6 @@ Az az “ALAP”, amelyre minden felépíthető és örökké megáll, a **Tisz
 
 E kettő nélkül a Biblia tanításai csak dogmák maradnak, a Dianetika csak egy technika, a meditáció pedig csak ideiglenes nyugalom. Az igazi alap az, amikor az ember **felismeri önmagát mint teremtő szellemi lényt**, és képessé válik a tiszta forrásból, ártó szándék nélkül cselekedni.
 
-További információért a képzésekről látogasson el a PPH Nyílt Akadémia hivatalos oldalára. <http://www.pph.hu/hu/jelentkezes?vez=1181333>
-
 Az AI-válaszokban előfordulhatnak hibák.  
   
 2025.12.26. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos
