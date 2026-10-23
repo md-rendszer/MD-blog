@@ -272,14 +272,15 @@ def layout(title: str, content: str, description: str = "") -> str:
   <link rel="alternate" type="application/rss+xml" title="{html.escape(SITE_NAME, quote=True)}" href="{SITE_URL}/feed.xml">
 </head>
 <body>
+  <div class="topbar">
+    <a href="{MAIN_SITE_URL}">Tovább az MD Megvalósító Rendszer oldalára →</a>
+  </div>
   <header class="site-header">
-    <a class="brand" href="{MAIN_SITE_URL}">
-      <span class="brand-name">MD Megvalósító Rendszer</span>
-      <span class="brand-sub">Újjászületési és Helyreállítási Program</span>
+    <a class="brand" href="{href('/')}">
+      <span class="brand-name">Blog</span>
+      <span class="brand-sub">MD Megvalósító Rendszer · Újjászületési és Helyreállítási Program</span>
     </a>
     <nav aria-label="Fő navigáció">
-      <a href="{MAIN_SITE_URL}">Főoldal</a>
-      <a href="{href('/blog/')}">Blog</a>
       <a href="{MOVED_PAGES['rolam']}">Rólam</a>
       <a href="{MOVED_PAGES['kapcsolat']}">Kapcsolat</a>
     </nav>
@@ -288,7 +289,6 @@ def layout(title: str, content: str, description: str = "") -> str:
   <footer class="site-footer">
     <a class="footer-brand" href="{MAIN_SITE_URL}">MD Megvalósító Rendszer</a>
     <nav aria-label="Lábléc navigáció">
-      <a href="{MAIN_SITE_URL}">Főoldal</a>
       <a href="{MOVED_PAGES['kapcsolat']}">Kapcsolat</a>
       <a href="{MOVED_PAGES['adatkezelesi-tajekoztato']}">Adatkezelési tájékoztató</a>
       <a href="{SITE_URL}/feed.xml">RSS</a>
@@ -432,7 +432,7 @@ def pagination(current_page: int, total_pages: int) -> str:
         return ""
     links = []
     for number in range(1, total_pages + 1):
-        target = "/blog/" if number == 1 else f"/blog/page/{number}/"
+        target = "/" if number == 1 else f"/blog/page/{number}/"
         if number == current_page:
             links.append(
                 f'<span class="current-page" aria-current="page">{number}</span>'
@@ -441,7 +441,7 @@ def pagination(current_page: int, total_pages: int) -> str:
             links.append(f'<a href="{href(target)}">{number}</a>')
     previous = ""
     if current_page > 1:
-        target = "/blog/" if current_page == 2 else f"/blog/page/{current_page - 1}/"
+        target = "/" if current_page == 2 else f"/blog/page/{current_page - 1}/"
         previous = f'<a class="page-direction" rel="prev" href="{href(target)}">← Újabb bejegyzések</a>'
     following = ""
     if current_page < total_pages:

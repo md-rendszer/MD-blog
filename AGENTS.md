@@ -3,9 +3,13 @@
 This repository contains a Hungarian-language static archive of Máté Domokos's website and blog. Keep the website's user-facing content in Hungarian; write these agent instructions in English.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Before a task, read the relevant project guidance:
 =======
 - A blog a központi oldal (https://mdmegvalositorendszer.hu/, WordPress) része, de a képek miatt itt, GitHub Pages-en fut. A fejléc és a lábléc a központi oldalra mutat.
+=======
+- A blog a központi oldal (https://mdmegvalositorendszer.hu/, WordPress) része, de a képek miatt itt, GitHub Pages-en fut. A fejléc címe „Blog”, és a gyökérre (`/`) mutat; felette egy topbar visz a központi oldalra. A menüben nincs „Főoldal” és „Blog” link, mert a blog kezdőlapja maga a bejegyzéslista.
+>>>>>>> addec46 (Fejléc: Blog cím, topbar a központi oldalra, Főoldal és Blog link nélkül)
 - Célcím: https://blog.mdmegvalositorendszer.hu/ (DNS: `blog` CNAME → `md-rendszer.github.io`, a GitHubon Settings → Pages → Custom domain). Átmenetileg még a blog.matedomokos.hu cím is élhet. A `pages.yml`-ben a `SITE_BASE_PATH` üres; ne állítsd vissza `/MD-blog`-ra.
 - Bejegyzés URL-je: `https://blog.mdmegvalositorendszer.hu/blog/<fájlnév kiterjesztés nélkül>/`
 - Ezen a blogon csak a blogbejegyzések vannak. Az önálló oldalak (Rólam, Kapcsolat, ALAP, AJÁNLOTT, Online Közösségeim, Miért jött létre…, Adatkezelési tájékoztató) a központi WordPress-oldalon élnek; a régi címeik a `build_site.py` `MOVED_PAGES` listája alapján oda irányítanak. Új önálló oldalt ne ide tegyél, hanem a WordPressbe, és ha kell, vedd fel a `MOVED_PAGES`-be.

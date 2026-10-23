@@ -24,6 +24,9 @@ a { color: inherit; }
 img { max-width: 100%; }
 
 /* Fejléc */
+.topbar { padding: 8px 5%; background: #07020A; border-bottom: 1px solid var(--gold-deep); font-size: 14px; text-align: center; }
+.topbar a { color: var(--gold); text-decoration: none; letter-spacing: .02em; }
+.topbar a:hover { color: var(--gold-glow); text-decoration: underline; }
 .site-header { position: relative; display: flex; flex-direction: column; gap: 14px; padding: 22px 5% 24px; background: radial-gradient(ellipse at 50% -40%, #2A1424 0%, var(--night) 70%); color: var(--cream); border-bottom: 1px solid var(--gold-deep); }
 .site-header::after { content: ""; position: absolute; left: 50%; bottom: -6px; width: 10px; height: 10px; background: var(--gold); transform: translateX(-50%) rotate(45deg); box-shadow: 0 0 0 3px var(--paper); }
 .brand { display: flex; flex-direction: column; gap: 2px; color: var(--gold); text-decoration: none; }
