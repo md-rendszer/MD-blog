@@ -19,13 +19,13 @@ Amióta van Facebook, körülbelül az óta vagyok én is aktív online térben.
 
 ### Facebook csoportok
 
-- [Székelykeresztúri gyermekotthon végzősei](https://www.facebook.com/groups/4251480221753636)
-- [„Kockázat Nélküli Vállalkozások” csoport](https://www.facebook.com/groups/szkgyv)
+- [„Kockázat Nélküli Vállalkozások” csoport](https://www.facebook.com/groups/4251480221753636)
+- [Székelykeresztúri gyermekotthon végzősei](https://www.facebook.com/groups/szkgyv)
 - [Ismerkedjünk – Társkereső](https://www.facebook.com/groups/933412130166930)
 - [Jobbítani kívánjuk az életünk minden területét](https://www.facebook.com/groups/6693128400813328)
 - [MD – A hálózatépítés Edisonja](https://www.facebook.com/groups/581644721880654)
-- [Székelyföldért Társaság Baráti Köre](https://www.facebook.com/groups/426660081926430)
-- [MD – Kik Vagyunk Ebben a Világban…(?)…](https://www.facebook.com/groups/sztbk)
+- [MD – Kik Vagyunk Ebben a Világban…(?)…](https://www.facebook.com/groups/426660081926430)
+- [Székelyföldért Társaság Baráti Köre](https://www.facebook.com/groups/sztbk)
 - [MD – A szeretet iskolája](https://www.facebook.com/groups/3139148826364074)
 - [InnoFit – Kockázat Nélküli Vállalkozások](https://www.facebook.com/groups/1913210608879959)
 - [Leszek, aki Vagyok](https://www.facebook.com/groups/1163276260770723)
