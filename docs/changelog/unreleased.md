@@ -13,6 +13,7 @@
 
 ## Javítás
 
+- A stíluslap-másolás a buildből ismét kimaradt (2026. október 27. óta minden élesítés elakadt az ellenőrzésen); visszakerült, az új bejegyzések újra megjelennek.
 - Helyreállt a matedomokos.hu megjelenése: a szerkezeti átrendezéskor a `site.css` a generátor mellé került, de a build csak a `CONTENT/assets` mappát másolta, így az oldalak arculat nélkül jelentek meg. A build most mindkét helyről másol, és leáll, ha az arculati fájl hiányzik.
 - Új élesítés előtti ellenőrzés (`check-dist.py`): ha bármelyik oldalról hiányzik a stíluslap vagy nem létező fájlra hivatkozik, a GitHub Actions nem telepíti az új változatot, a régi működő oldal marad kint.
 - A stíluslap és az ikon címe tartalom-ujjlenyomatot kap (`site.css?v=…`): minden változás után a böngészők maguktól az új megjelenést töltik be, kézi frissítés (Ctrl+F5) nélkül.

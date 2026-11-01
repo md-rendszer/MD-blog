@@ -583,6 +583,12 @@ def main() -> None:
         shutil.rmtree(filesystem_path(OUTPUT))
     (OUTPUT / "assets").mkdir(parents=True)
     (OUTPUT / "images").mkdir(parents=True)
+    site_assets = Path(__file__).resolve().parents[1] / "assets"
+    for asset in site_assets.rglob("*"):
+        if asset.is_file():
+            target = filesystem_path(OUTPUT / "assets" / asset.relative_to(site_assets))
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(filesystem_path(asset), target)
     assets_root = filesystem_path(CONTENT / "assets")
     for asset in assets_root.rglob("*"):
         if asset.is_file():
