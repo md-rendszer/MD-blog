@@ -1,7 +1,8 @@
 ---
 title: 1945 és 1965 között születtél? Carl Jung felfedte utolsó spirituális küldetését
 date: 2026-11-01 09:30:00
-image: -
+image: 2026/1945-es-1965-kozott-szulettel-carl-jung-felfedte-utolso-spiritualis-kuldeteset.avif
+image_alt: Aranyló híd két part között, közepén égő lámpás – 1945–1965, nem az utolsó esélyed, a mai napod
 ---
 
 <https://www.youtube.com/watch?v=oStPDwruhwQ>
