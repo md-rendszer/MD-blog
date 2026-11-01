@@ -6,7 +6,11 @@ image: -
 
 <https://www.youtube.com/watch?v=oStPDwruhwQ>
 
-Ez a videó egy órán át szól azokhoz, akik a háború után, 1945 és 1965 között születtek. Megnéztem végig, és most leírom, mit vettem ki belőle – és mit nem.
+**Máté Domokos kérdése:** Mellékelem ezt a YouTube-videót és a leiratát – készíts belőle blogbejegyzést.
+
+**Claude (Anthropic) válasza:**
+
+Ez a videó egy órán át szól azokhoz, akik a háború után, 1945 és 1965 között születtek. Végigolvastam a teljes leiratát, és most leírom, mit vettem ki belőle – és mit nem.
 
 ## Mit mond a videó?
 
@@ -57,3 +61,8 @@ Ha ezt a békét nem érzed, az nem ítélet feletted. Jelzés. Valahol másnak 
 Ha 1945 és 1965 között születtél, és ez a videó megérintett: nem azért érintett meg, mert Jung ezt mondta rólad. Azért érintett meg, mert valami igaz rezdült meg benned. Az a rezdülés a tiéd – akkor is, ha a videó csomagolását leveszed róla.
 
 Nem az utolsó esélyed. Hanem a mai napod. És a mai nap mindig elég arra, hogy megtedd azt az egy lépést, amit most meg tudsz tenni.
+
+---
+
+*Kérdező: Máté Domokos*  
+*Válaszadó: Claude, az Anthropic mesterséges intelligenciája*
