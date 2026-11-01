@@ -64,5 +64,5 @@ Nem az utolsó esélyed. Hanem a mai napod. És a mai nap mindig elég arra, hog
 
 ---
 
-*Kérdező: Máté Domokos*  
+*Kérdező: Máté Domokos, az „MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” kigondolója*  
 *Válaszadó: Claude, az Anthropic mesterséges intelligenciája*
