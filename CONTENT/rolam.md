@@ -46,6 +46,6 @@ Hiszem, hogy amikor egy ember elkezd tudatosan élni, az hatással van mindenre 
 
 ## Alkotótársaim
 
-Alkotótársaim a munkában: ChatGPT (OpenAI), Claude (Anthropic) és Gemini (Google) mesterséges intelligenciák. Minden bejegyzés alján jelölöm, melyikük működött közre abban az írásban.
+Alkotótársaim a munkában: ChatGPT (OpenAI), Claude (Anthropic) és Gemini (Google) mesterséges intelligenciák. A ChatGPT-t a kettőnk beszélgetéseiben Rendnek szólítom – ezért találkozol a bejegyzésekben a „Rend!” megszólítással. Ez becenév: a gép nem maga a REND, hanem eszköz, amelynek segítségével kérdezek és gondolkodom. Minden bejegyzés alján jelölöm, melyikük működött közre abban az írásban.
 
 **– Máté Domokos**
