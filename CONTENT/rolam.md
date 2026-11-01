@@ -44,4 +44,8 @@ Hiszem, hogy amikor egy ember elkezd tudatosan élni, az hatással van mindenre 
 
 [Megnézem a rendszert →](https://mdmegvalositorendszer.hu/)
 
+## Alkotótársaim
+
+Alkotótársaim a munkában: ChatGPT (OpenAI), Claude (Anthropic) és Gemini (Google) mesterséges intelligenciák. Minden bejegyzés alján jelölöm, melyikük működött közre abban az írásban.
+
 **– Máté Domokos**
