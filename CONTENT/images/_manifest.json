@@ -3108,5 +3108,20 @@
     "width": 1024,
     "height": 768,
     "srcset": "/images/2026/osszhangban-a-let-torvenyeivel-tobbnyire-finom-eletet-elhetsz-egyebkent-tobbnyire-szenvedni-fogsz-400x300.avif 400w, /images/2026/osszhangban-a-let-torvenyeivel-tobbnyire-finom-eletet-elhetsz-egyebkent-tobbnyire-szenvedni-fogsz-768x576.avif 768w, /images/2026/osszhangban-a-let-torvenyeivel-tobbnyire-finom-eletet-elhetsz-egyebkent-tobbnyire-szenvedni-fogsz.avif 1024w"
+  },
+  "/images/2026/az-elottunk-jart-emberek-hagyatekabol-400x533.avif": {
+    "width": 400,
+    "height": 533,
+    "srcset": "/images/2026/az-elottunk-jart-emberek-hagyatekabol-400x533.avif 400w, /images/2026/az-elottunk-jart-emberek-hagyatekabol-768x1024.avif 768w, /images/2026/az-elottunk-jart-emberek-hagyatekabol.avif 1024w"
+  },
+  "/images/2026/az-elottunk-jart-emberek-hagyatekabol-768x1024.avif": {
+    "width": 768,
+    "height": 1024,
+    "srcset": "/images/2026/az-elottunk-jart-emberek-hagyatekabol-400x533.avif 400w, /images/2026/az-elottunk-jart-emberek-hagyatekabol-768x1024.avif 768w, /images/2026/az-elottunk-jart-emberek-hagyatekabol.avif 1024w"
+  },
+  "/images/2026/az-elottunk-jart-emberek-hagyatekabol.avif": {
+    "width": 1024,
+    "height": 1365,
+    "srcset": "/images/2026/az-elottunk-jart-emberek-hagyatekabol-400x533.avif 400w, /images/2026/az-elottunk-jart-emberek-hagyatekabol-768x1024.avif 768w, /images/2026/az-elottunk-jart-emberek-hagyatekabol.avif 1024w"
   }
 }
