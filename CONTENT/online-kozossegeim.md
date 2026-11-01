@@ -92,11 +92,5 @@ Webnode
 
 YouTube oldalak:  
   
-**MD\_Megvalósító Rendszer**  
-https://www.youtube.com/@MD\_Megval%C3%B3s%C3%ADt%C3%B3Rendszer   
-  
 **Damaszkusz**  
-https://www.youtube.com/@Damaszkusz1   
-  
-**MÁTÉ Domokos**  
-https://www.youtube.com/@mdmegval%C3%B3s%C3%ADt%C3%B3rendszer
+https://www.youtube.com/@Damaszkusz1
