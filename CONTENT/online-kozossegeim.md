@@ -7,6 +7,14 @@ alias: kozosseg
 
 Amióta van Facebook, körülbelül az óta vagyok én is aktív online térben. Nem minden weblapom, oldalam, csoportom kapcsolódik szervesen ahhoz, amit ezen a weboldalon kívánok megvalósítani, hogy emberként amennyire csak lehet “MEGALAPOZHASSAM” magamat úgy szellemileg, mint anyagilag, és mindenki másnak is, akit érdekel támogassak, itt nyilvánvalóvá teszem előttetek az elmúlt évtizedek online tevékenységemet.
 
+## Az MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program hivatalos csatornái
+
+- **Facebook:** [MD Megvalósító Rendszer](https://www.facebook.com/MDMegvalositoRendszer/)
+- **YouTube:** [MD Megvalósító Rendszer](https://www.youtube.com/@MD_Megvalosito_Rendszer)
+- **LinkedIn:** [Máté Domokos](https://www.linkedin.com/in/m%C3%A1t%C3%A9-domokos-012a8b2b5/)
+
+---
+
 ## Facebook csoportok / oldalak
 
 ### Facebook csoportok
@@ -62,8 +70,6 @@ Amióta van Facebook, körülbelül az óta vagyok én is aktív online térben.
 - [Máté Domokos](https://www.facebook.com/profile.php?id=100064726038611)
 - [Sértetlenül Teljes Egész](https://www.facebook.com/profile.php?id=100083333651546)
 - [Új Aranykor kapujában](https://www.facebook.com/AranyIstenKor)
-- [Autonóm Emberi Közösség Szövőde](https://www.facebook.com/profile.php?id=61565763891979) (repeated, but included for completeness)
-- [Az egészség védelme, a gyógyulás elősegítése, hatékony rehabilitáció](https://www.facebook.com/profile.php?id=100064692429000) (repeated, but included for completeness)
 - [Bátor Férfiak Fogadalma](https://www.facebook.com/profile.php?id=100094322082466)
 - [Transzcendentális Meditáció Gyakorlók](https://www.facebook.com/profile.php?id=61579907421303)
 
