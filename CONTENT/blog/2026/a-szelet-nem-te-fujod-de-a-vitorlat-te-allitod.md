@@ -80,7 +80,7 @@ Tedd meg, amit itt és most képes vagy megtenni. A szelet nem te fújod. A vito
 
 **Máté Domokos zárógondolata:**
 
-> Nem azért mondtuk el, amit ebben a blogban elmondtunk neked (olvasó), mert okosabbak vagyunk, mint te, vagy te butább vagy, mint mi, csak hogy tudd, tudva-tudd, emlékezz arra, hogy szenvedni nem szükségszerű, hogy egyedül rajtad áll az életed minősége.
+> Nem azért mondtuk el, amit ebben a blogban elmondtunk neked (olvasó), mert okosabbak vagyunk, mint te, vagy te butább vagy, mint mi, csak hogy tudd, tudva-tudd, emlékezz arra, hogy szenvedni nem szükségszerű, hogy egyedül rajtad áll, hogyan éled meg az életed.
 
 ---
 
