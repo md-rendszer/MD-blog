@@ -78,6 +78,10 @@ Nem kell egyszerre megfordítanod az egész hajót. Elég egy kötél, egy kicsi
 
 Tedd meg, amit itt és most képes vagy megtenni. A szelet nem te fújod. A vitorla a te kezedben van.
 
+**Máté Domokos zárógondolata:**
+
+> Nem azért mondtuk el, amit ebben a blogban elmondtunk neked (olvasó), mert okosabbak vagyunk, mint te, vagy te butább vagy, mint mi, csak hogy tudd, tudva-tudd, emlékezz arra, hogy szenvedni nem szükségszerű, hogy egyedül rajtad áll az életed minősége.
+
 ---
 
 *Kérdező: Máté Domokos, az „MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” kigondolója*  
