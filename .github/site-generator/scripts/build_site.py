@@ -498,7 +498,7 @@ def share_top(url: str, title: str) -> str:
         'target="_blank" rel="noopener">Megosztom a Facebookon</a>'
         '<a class="share-more" href="#megosztas">További megosztás ↓</a>'
         + ('<a class="share-more" href="#hozzaszolasok">Hozzászólások ↓</a>' if HYVOR_WEBSITE_ID else "")
-        "</div>"
+        + "</div>"
     )
 
 
