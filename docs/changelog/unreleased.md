@@ -2,7 +2,7 @@
 
 ## Tartalom
 
-- Az Írások között csak a képpel ellátott bejegyzések maradnak nyilvánosak; a 105 kép nélküli, belső munkajegyzet az archívumba került, régi címük az Írások kezdőlapjára visz.
+- Az Írások között csak a képpel ellátott bejegyzések maradnak nyilvánosak; a kép nélküli belső munkajegyzetek (103 db) az archívumba kerültek, a Biblia – MD kivonat 2. és 3. része nyilvános maradt, régi címük az Írások kezdőlapjára visz.
 
 ## Megosztás
 
