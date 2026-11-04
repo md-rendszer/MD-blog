@@ -12,6 +12,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 import markdown
+from PIL import Image
 
 
 ROOT = Path(__file__).resolve().parents[3]
@@ -248,7 +249,36 @@ def href(path: str) -> str:
     return f"{BASE_PATH}{path}"
 
 
-def layout(title: str, content: str, description: str = "") -> str:
+def social_meta(meta: dict | None) -> str:
+    """Előnézeti adatok a Facebooknak és más megosztó oldalaknak."""
+    if not meta:
+        return ""
+    attr = lambda value: html.escape(str(value), quote=True)
+    lines = [
+        f'<link rel="canonical" href="{attr(meta["url"])}">',
+        '<meta property="og:type" content="article">',
+        '<meta property="og:locale" content="hu_HU">',
+        f'<meta property="og:site_name" content="{attr(SITE_NAME)}">',
+        f'<meta property="og:url" content="{attr(meta["url"])}">',
+        f'<meta property="og:title" content="{attr(meta["title"])}">',
+        f'<meta property="og:description" content="{attr(meta["description"])}">',
+        f'<meta property="og:image" content="{attr(meta["image"])}">',
+        '<meta property="og:image:type" content="image/jpeg">',
+        f'<meta property="og:image:alt" content="{attr(meta.get("image_alt") or meta["title"])}">',
+        '<meta name="twitter:card" content="summary_large_image">',
+        f'<meta name="twitter:title" content="{attr(meta["title"])}">',
+        f'<meta name="twitter:description" content="{attr(meta["description"])}">',
+        f'<meta name="twitter:image" content="{attr(meta["image"])}">',
+    ]
+    if meta.get("width") and meta.get("height"):
+        lines.insert(8, f'<meta property="og:image:width" content="{meta["width"]}">')
+        lines.insert(9, f'<meta property="og:image:height" content="{meta["height"]}">')
+    if meta.get("published"):
+        lines.append(f'<meta property="article:published_time" content="{attr(meta["published"])}">')
+    return "\n  ".join(lines)
+
+
+def layout(title: str, content: str, description: str = "", meta: dict | None = None) -> str:
     safe_title = html.escape(title)
     safe_description = html.escape(description or title, quote=True)
     return f"""<!doctype html>
@@ -258,6 +288,7 @@ def layout(title: str, content: str, description: str = "") -> str:
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{safe_description}">
   <title>{safe_title} · {html.escape(SITE_NAME)}</title>
+  {social_meta(meta)}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@500;600;700&display=swap">
@@ -397,6 +428,116 @@ def post_card(post: Document) -> str:
 </article>"""
 
 
+OG_WIDTH = 1200
+
+
+def share_excerpt(rendered: str, limit: int = 200) -> str:
+    text = re.sub(r"<[^>]+>", " ", rendered)
+    text = re.sub(r"\s+", " ", html.unescape(text)).strip()
+    if len(text) <= limit:
+        return text
+    cut = text[:limit].rsplit(" ", 1)[0].rstrip(" ,;:–-")
+    return cut + "…"
+
+
+def share_image(post: Document, rendered: str) -> tuple[str, int, int]:
+    """JPG előnézeti kép a megosztáshoz (a Facebook az AVIF-et nem mindig mutatja)."""
+    candidates = []
+    if post.image:
+        candidates.append(CONTENT / "images" / post.image)
+    for source in re.findall(r'<img[^>]+src="([^"]+)"', rendered):
+        path = urllib.parse.unquote(urllib.parse.urlsplit(source).path)
+        if BASE_PATH and path.startswith(BASE_PATH):
+            path = path[len(BASE_PATH):]
+        if path.startswith("/images/"):
+            candidates.append(CONTENT / path.lstrip("/"))
+    for candidate in candidates:
+        source_path = filesystem_path(candidate)
+        if not source_path.is_file():
+            continue
+        try:
+            with Image.open(source_path) as picture:
+                picture = picture.convert("RGB")
+                if picture.width > OG_WIDTH:
+                    picture = picture.resize(
+                        (OG_WIDTH, round(picture.height * OG_WIDTH / picture.width)),
+                        Image.LANCZOS,
+                    )
+                target = filesystem_path(OUTPUT / "images" / "megosztas" / f"{post.slug}.jpg")
+                target.parent.mkdir(parents=True, exist_ok=True)
+                picture.save(target, "JPEG", quality=82, optimize=True)
+                url = f"{SITE_URL}{BASE_PATH}/images/megosztas/{urllib.parse.quote(post.slug, safe='-_.~')}.jpg"
+                return url, picture.width, picture.height
+        except (OSError, ValueError):
+            continue
+    return f"{SITE_URL}{BASE_PATH}/assets/og-default.jpg", 1200, 630
+
+
+def share_links(url: str, title: str) -> dict[str, str]:
+    q = lambda value: urllib.parse.quote(value, safe="")
+    both = f"{title} {url}"
+    return {
+        "facebook": f"https://www.facebook.com/sharer/sharer.php?u={q(url)}",
+        "whatsapp": f"https://wa.me/?text={q(both)}",
+        "viber": f"viber://forward?text={q(both)}",
+        "telegram": f"https://t.me/share/url?url={q(url)}&text={q(title)}",
+        "x": f"https://x.com/intent/post?url={q(url)}&text={q(title)}",
+        "linkedin": f"https://www.linkedin.com/sharing/share-offsite/?url={q(url)}",
+        "email": f"mailto:?subject={q(title)}&body={q(both)}",
+    }
+
+
+def share_top(url: str, title: str) -> str:
+    links = share_links(url, title)
+    return (
+        '<div class="share-top">'
+        f'<a class="share-btn share-facebook" href="{html.escape(links["facebook"], quote=True)}" '
+        'target="_blank" rel="noopener">Megosztom a Facebookon</a>'
+        '<a class="share-more" href="#megosztas">További megosztás ↓</a>'
+        "</div>"
+    )
+
+
+def share_bar(url: str, title: str) -> str:
+    links = share_links(url, title)
+    labels = [
+        ("facebook", "Facebook"),
+        ("whatsapp", "WhatsApp"),
+        ("viber", "Viber"),
+        ("telegram", "Telegram"),
+        ("x", "X (Twitter)"),
+        ("linkedin", "LinkedIn"),
+        ("email", "E-mail"),
+    ]
+    buttons = "".join(
+        f'<a class="share-btn share-{key}" href="{html.escape(links[key], quote=True)}"'
+        + ("" if key in {"viber", "email"} else ' target="_blank" rel="noopener"')
+        + f">{label}</a>"
+        for key, label in labels
+    )
+    safe_url = html.escape(url, quote=True)
+    safe_title = html.escape(title, quote=True)
+    return f"""<section class="share" id="megosztas" aria-label="Megosztás">
+  <p class="share-title">Ha hasznosnak találtad, oszd meg másokkal is:</p>
+  <div class="share-buttons">{buttons}<button type="button" class="share-btn share-copy" data-url="{safe_url}">Link másolása</button><button type="button" class="share-btn share-native" data-url="{safe_url}" data-title="{safe_title}" hidden>Továbbiak (Messenger, Instagram…)</button></div>
+</section>
+<script>
+document.querySelectorAll('.share-copy').forEach(function (b) {{
+  b.addEventListener('click', function () {{
+    var done = function () {{ b.textContent = 'Kimásolva ✓'; }};
+    if (navigator.clipboard) {{ navigator.clipboard.writeText(b.dataset.url).then(done, function () {{ window.prompt('Másold ki a linket:', b.dataset.url); }}); }}
+    else {{ window.prompt('Másold ki a linket:', b.dataset.url); }}
+  }});
+}});
+if (navigator.share) {{
+  document.querySelectorAll('.share-native').forEach(function (b) {{
+    b.hidden = false;
+    b.addEventListener('click', function () {{ navigator.share({{ title: b.dataset.title, url: b.dataset.url }}).catch(function () {{}}); }});
+  }});
+}}
+</script>"""
+
+
 def post_navigation(posts: list[Document], index: int) -> str:
     links = []
     if index < len(posts) - 1:
@@ -453,10 +594,12 @@ def pagination(current_page: int, total_pages: int) -> str:
     )
 
 
-def write_page(path: Path, title: str, content: str, description: str = "") -> None:
+def write_page(
+    path: Path, title: str, content: str, description: str = "", meta: dict | None = None
+) -> None:
     path = filesystem_path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(layout(title, content, description), encoding="utf-8")
+    path.write_text(layout(title, content, description, meta), encoding="utf-8")
 
 
 def write_redirect(path: Path, title: str, target: str) -> None:
@@ -652,17 +795,32 @@ def main() -> None:
         write_redirect(OUTPUT / old_slug / "index.html", "Átköltözött oldal", target)
 
     for index, post in enumerate(posts):
+        body = document_body(post)
+        post_url = f"{SITE_URL}{BASE_PATH}/blog/{urllib.parse.quote(post.slug, safe='-_.~')}/"
+        image_url, image_width, image_height = share_image(post, body)
+        excerpt = share_excerpt(body) or post.title
         content = f"""<article class="page-content article">
   {featured_image(post, "featured-image")}
-  <header class="article-header"><h1>{html.escape(post.title)}</h1></header>
-  <div class="prose">{document_body(post)}</div>
+  <header class="article-header"><h1>{html.escape(post.title)}</h1>{share_top(post_url, post.title)}</header>
+  <div class="prose">{body}</div>
+  {share_bar(post_url, post.title)}
   {post_navigation(posts, index)}
 </article>"""
         write_page(
             OUTPUT / "blog" / post.slug / "index.html",
             post.title,
             content,
-            post.title,
+            excerpt,
+            {
+                "url": post_url,
+                "title": post.title,
+                "description": excerpt,
+                "image": image_url,
+                "width": image_width,
+                "height": image_height,
+                "image_alt": post.image_alt,
+                "published": datetime_attribute(post.date),
+            },
         )
         if post.alias and post.alias.casefold() != post.slug.casefold():
             old_route = OUTPUT / "blog" / post.alias / "index.html"

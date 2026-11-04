@@ -1,5 +1,10 @@
 # Kiadásra váró változások
 
+## Megosztás
+
+- Minden bejegyzés címe alatt egy kattintással megosztható a Facebookon, a bejegyzés végén pedig Facebookra, WhatsAppra, Viberre, Telegramra, X-re, LinkedInre és e-mailben is; a link egy gombnyomással kimásolható, telefonon a „Továbbiak” gomb a készülék saját megosztását nyitja meg (Messenger, Instagram stb.).
+- A bejegyzések megosztáskor címmel, rövid kivonattal és a borítóképükkel jelennek meg a Facebookon és más oldalakon; ahol nincs kép, egységes alapkép látszik.
+
 ## Dokumentáció és fejlesztői munkafolyamat
 
 - A közös tartalomfeltöltési készség új oldalra, blogbejegyzésre, szövegmódosításra, valamint képek hozzáadására és cseréjére is kiterjed.
