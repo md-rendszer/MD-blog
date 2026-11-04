@@ -135,3 +135,9 @@ main { min-height: 70vh; }
 .share-copy, .share-native { background: transparent; border-color: var(--gold); color: var(--gold); }
 .share-native[hidden] { display: none; }
 @media (max-width: 520px) { .share { padding: 18px 16px 20px; } .share-btn { flex: 1 1 calc(50% - 10px); justify-content: center; } }
+
+/* Hozzászólások */
+.comments { margin: 40px 0 8px; padding-top: 28px; border-top: 1px solid var(--line); }
+.comments h2 { margin: 0 0 10px; font-family: var(--display); font-weight: 600; color: var(--night); }
+.comments-note { margin: 0 0 18px; color: var(--muted); font-size: 16px; }
+.comments-note a { color: var(--link); }

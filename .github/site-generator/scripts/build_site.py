@@ -33,6 +33,9 @@ MOVED_PAGES = {
     "mdhu_megvalosito_rendszer": MAIN_SITE_URL,
 }
 FEED_SIZE = 20
+# Hozzászólások: Hyvor Talk (talk.hyvor.com). Üresen hagyva nincs hozzászólás-mező.
+# A Website ID nem titkos, a Hyvor Talk konzoljában látható.
+HYVOR_WEBSITE_ID = os.environ.get("HYVOR_WEBSITE_ID", "").strip()
 MD = markdown.Markdown(extensions=["extra", "sane_lists", "smarty"])
 IMAGE_MANIFEST_PATH = CONTENT / "images" / "_manifest.json"
 IMAGE_MANIFEST: dict[str, dict] = {}
@@ -494,6 +497,7 @@ def share_top(url: str, title: str) -> str:
         f'<a class="share-btn share-facebook" href="{html.escape(links["facebook"], quote=True)}" '
         'target="_blank" rel="noopener">Megosztom a Facebookon</a>'
         '<a class="share-more" href="#megosztas">További megosztás ↓</a>'
+        + ('<a class="share-more" href="#hozzaszolasok">Hozzászólások ↓</a>' if HYVOR_WEBSITE_ID else "")
         "</div>"
     )
 
@@ -536,6 +540,18 @@ if (navigator.share) {{
   }});
 }}
 </script>"""
+
+
+def comments_section(post: Document, url: str) -> str:
+    if not HYVOR_WEBSITE_ID:
+        return ""
+    attr = lambda value: html.escape(value, quote=True)
+    return f"""<section class="comments" id="hozzaszolasok" aria-label="Hozzászólások">
+  <h2>Hozzászólások</h2>
+  <p class="comments-note">Írd meg a gondolataidat! Regisztráció nem kell, elég egy név. A hozzászólások jóváhagyás után jelennek meg. Az adatkezelésről az <a href="{href('/adatkezelesi-tajekoztato/')}">adatkezelési tájékoztatóban</a> olvashatsz.</p>
+  <hyvor-talk-comments website-id="{attr(HYVOR_WEBSITE_ID)}" page-id="{attr(post.slug)}" page-title="{attr(post.title)}" page-url="{attr(url)}" language="hu" loading="lazy"></hyvor-talk-comments>
+  <script async src="https://talk.hyvor.com/embed/embed.js" type="module"></script>
+</section>"""
 
 
 def post_navigation(posts: list[Document], index: int) -> str:
@@ -804,6 +820,7 @@ def main() -> None:
   <header class="article-header"><h1>{html.escape(post.title)}</h1>{share_top(post_url, post.title)}</header>
   <div class="prose">{body}</div>
   {share_bar(post_url, post.title)}
+  {comments_section(post, post_url)}
   {post_navigation(posts, index)}
 </article>"""
         write_page(
