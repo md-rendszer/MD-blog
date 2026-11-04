@@ -20,7 +20,8 @@ CONTENT = ROOT / "CONTENT"
 OUTPUT = ROOT / "dist"
 BASE_PATH = os.environ.get("SITE_BASE_PATH", "").rstrip("/")
 SITE_URL = os.environ.get("SITE_URL", "https://matedomokos.hu").rstrip("/")
-MAIN_SITE_URL = SITE_URL
+# Az általam alkotott rendszer (WordPress) – a felső sáv és a lábléc linkje ide mutat.
+MAIN_SITE_URL = "https://mdmegvalositorendszer.hu/"
 SITE_NAME = "Máté Domokos"
 # A matedomokos.hu Domi személyes oldala (Rólam, Írások, közösségek, ajánlott,
 # kapcsolat). A rendszerhez tartozó oldalak a központi WordPress-oldalon élnek;

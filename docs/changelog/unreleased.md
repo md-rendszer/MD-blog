@@ -18,6 +18,8 @@
 
 ## Javítás
 
+- A felső sáv „Az általam alkotott rendszer: MD Megvalósító Rendszer” linkje és a lábléc rendszer-linkje ismét az mdmegvalositorendszer.hu-ra mutat (eddig a matedomokos.hu-ra vitt vissza).
+
 - A stíluslap-másolás a buildből ismét kimaradt (2026. október 27. óta minden élesítés elakadt az ellenőrzésen); visszakerült, az új bejegyzések újra megjelennek.
 - Helyreállt a matedomokos.hu megjelenése: a szerkezeti átrendezéskor a `site.css` a generátor mellé került, de a build csak a `CONTENT/assets` mappát másolta, így az oldalak arculat nélkül jelentek meg. A build most mindkét helyről másol, és leáll, ha az arculati fájl hiányzik.
 - Új élesítés előtti ellenőrzés (`check-dist.py`): ha bármelyik oldalról hiányzik a stíluslap vagy nem létező fájlra hivatkozik, a GitHub Actions nem telepíti az új változatot, a régi működő oldal marad kint.
