@@ -90,6 +90,12 @@ Két forrás, egy folyó. A folyó pedig mi vagyunk.
 
 *A REND nem közeledik – kiderül.*
 
+**Személyes utóirat – Máté Domokos:**
+
+> Badiny Jós Ferenc szumerológus professzor értelmezése szerint a Magyar Királyság és a mai magyar állam címerében a hármas halom – a három domb – a jó-szágot, az úr-szágot és az or-szágot jelképezi. A rajta álló kettős kereszt a régi magyar rovásírás „GY” betűje, amely EGY-et jelent. Összeolvasva: az ország (a Föld) felett EGY a hatalom; a birtokos az Univerzum, az Isten, a Teremtő – a REND.
+>
+> Aki uralkodni akar, mind meghal. Aki szolgálni akar, és teszi is, örökké élni fog.
+
 ---
 
 *Kérdező: Máté Domokos, az „MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” kigondolója*  
