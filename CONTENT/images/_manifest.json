@@ -3348,5 +3348,20 @@
     "width": 1024,
     "height": 576,
     "srcset": "/images/2026/az-otodik-egtaj-400x225.avif 400w, /images/2026/az-otodik-egtaj-768x432.avif 768w, /images/2026/az-otodik-egtaj.avif 1024w"
+  },
+  "/images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana-400x225.avif 400w, /images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana-768x432.avif 768w, /images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana.avif 1024w"
+  },
+  "/images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana-400x225.avif 400w, /images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana-768x432.avif 768w, /images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana.avif 1024w"
+  },
+  "/images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana-400x225.avif 400w, /images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana-768x432.avif 768w, /images/2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana.avif 1024w"
   }
 }
