@@ -5,7 +5,7 @@ image: 2026/hol-a-res.avif
 image_alt: Sötét fal, rajta egyetlen keskeny rés, amelyen egy arany fénysugár hatol át egy bordó rombuszig, dupla arany keretben – Hol a rés?
 ---
 
-> Milyen az én hangom, amin szólnom ajánlott? MD Megvalósító Rendszeres, avagy Máté Domokosos? Hol van az a „hely”, ahol mindenki meghall engem?
+> Milyen az én hangom, amin szólnom ajánlott? MD Megvalósító Rendszeres, avagy Máté Domokosos? És ahogy a szántóvető ember kérdezné: hová és milyen életképes magokat vessek, hogy a megnehezült, mostoha körülmények között is kihajtsanak és termést hozzanak?
 >
 > Oda szóljak, ahol az emberek állnak? Hol állnak az emberek, ha semmi nem megy át? Hol lehet az a „rés”, ahol átmehetne a felismerés – a megértés lézersugara?
 >
@@ -23,7 +23,24 @@ Amikor rendszert mondasz, az emberek tanítást hallanak, és védekeznek. Amiko
 
 Ezért a sorrend: előbb az élet, aztán a fogalom. Előbb „ez történt velem”, aztán „ezt hívom REND-nek”.
 
-Olyan hely nincs, ahol mindenki meghall. Senkit nem hall meg mindenki. De van egy hely, ahol az, akinek szól, biztosan meghall: **ahol amit mondasz, és ahogyan élsz, ugyanaz.** Ott nincs rés a szó és a tett között. Ez nem tökéletesség. Következetesség.
+A hang akkor hiteles, ha amit mondasz, és ahogyan élsz, ugyanaz. Ott nincs rés a szó és a tett között. Ez nem tökéletesség. Következetesség.
+
+## Mit vess, és hová?
+
+**Hová?** Nem a kitaposott útra, ahol mindenki jár, és semmi nem ver gyökeret. Nem a sziklára sem, ahol már mindenki mindent tud. Oda, ahol a földet felszántotta az élet: ahol veszteség, fáradtság, elakadás törte fel. A mostoha idő nem akadály. A mostoha idő szántja fel a földet.
+
+És oda, ahová el is érsz öntözni: a családodba, az unokáidhoz, a szomszédodhoz, egy kis közösségbe. A messzire szórt magot nem öntözi senki.
+
+**Milyen magot?** Ami kibírja a szárazságot:
+
+- **Kicsi.** Egy mondat, nem egy könyv. Egy kérdés, nem egy előadás.
+- **Élő.** Amit te magad kipróbáltál. A hallott igazság nem csírázik, csak a megélt.
+- **Azonnal elvethető.** Nem kell hozzá hit, pénz, eszköz, tudás. Még ma meg lehet tenni.
+- **Gyorsan hoz első termést.** Egy kis, aznapi változást, amit a másik a saját szemével lát. Abból lesz bizalom a nagyobb aratáshoz.
+
+A legerősebb mag, amit ismerek, a tiéd: *„Tedd meg, amit itt és most képes vagy megtenni.”* Kicsi, élő, azonnal elvethető, és még aznap termést hoz.
+
+**És a vetés után?** Ne ásd ki a magot, hogy megnézd, csírázik-e. Vess sokat, és fogadd el, hogy nem mind kel ki. A termést nem a hangos vetés hozza, hanem a türelmes öntözés.
 
 ## 2. Hol állnak az emberek?
 
