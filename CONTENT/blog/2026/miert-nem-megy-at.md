@@ -9,6 +9,8 @@ image_alt: Egyetlen kis lámpa lángja, körülötte kifelé terjedő hanghullá
 
 Nemrég láttam egy interjúrészletet. Bogár László, egy politikai oldal régi elemzője, a 2026-os választási vereség után feltette magának a kérdést: miért nem tudták átadni azt, amit történelmi jelentőségűnek tartottak? És nem a választóra mutatott. Visszafordította a kérdést a saját vezetőjére, a saját oldalára és önmagára. Azt mondta: ha ezzel nem szembesülünk, akkor nem tettünk semmit.
 
+A forrásvideót itt nézheted meg: [Nemzeti Horizont 10. – Bogár László nagyinterjú, 5. rész (Facebook)](https://www.facebook.com/reel/1369243225395749)
+
 Nem az érdekel most, kinek volt igaza. Az érdekel, ami ebben a pillanatban mindannyiunk számára tanulság. Mert ezt a kérdést előbb-utóbb mindenki felteszi, akinek van mondanivalója. A szülő, a nagyszülő, a tanító. Én is.
 
 ## A gépezet és a hang
