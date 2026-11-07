@@ -3378,5 +3378,20 @@
     "width": 1024,
     "height": 576,
     "srcset": "/images/2026/nem-vagyok-tokeletes-es-ez-jo-hir-neked-is-400x225.avif 400w, /images/2026/nem-vagyok-tokeletes-es-ez-jo-hir-neked-is-768x432.avif 768w, /images/2026/nem-vagyok-tokeletes-es-ez-jo-hir-neked-is.avif 1024w"
+  },
+  "/images/2026/miert-nem-megy-at-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/miert-nem-megy-at-400x225.avif 400w, /images/2026/miert-nem-megy-at-768x432.avif 768w, /images/2026/miert-nem-megy-at.avif 1024w"
+  },
+  "/images/2026/miert-nem-megy-at-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/miert-nem-megy-at-400x225.avif 400w, /images/2026/miert-nem-megy-at-768x432.avif 768w, /images/2026/miert-nem-megy-at.avif 1024w"
+  },
+  "/images/2026/miert-nem-megy-at.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/miert-nem-megy-at-400x225.avif 400w, /images/2026/miert-nem-megy-at-768x432.avif 768w, /images/2026/miert-nem-megy-at.avif 1024w"
   }
 }
