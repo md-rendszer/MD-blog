@@ -40,6 +40,52 @@ Ezek a pillanatban kellemetlenek. Égetnek egy kicsit. Az ösztönös én tiltak
 
 ---
 
+## Az első reakció és a figyelmes válasz
+
+Az első reakció mindig gyors. Nem mérlegel, nem kérdez – az ösztönös én egyszerűen védekezik. Ezért a legkönnyebb: haragudni, visszavágni, hárítani, kimagyarázni, megsértődni, elhallgatni, elmenekülni. Nem kerül semmibe. Legalábbis abban a pillanatban nem.
+
+A figyelmes válasz lassabb. Meg kell hozzá állni egy lélegzetnyire, észre kell venni, mi indult el benned, és választani kell. Ez fáradság. De nézd meg, mi lesz az egyikből, és mi a másikból.
+
+**Ha kritikát kapsz**
+
+- *Az első reakció:* visszavágsz, vagy megsértődsz. → Vita lesz belőle vagy fagyos hallgatás, és ami igaz volt a kritikában, elvész.
+- *A figyelmes válasz:* meghallgatod, és megkérdezed: „Mire gondolsz pontosan?" → Tanulsz belőle, és a másik azt érzi, hogy beszélhet veled.
+
+**Ha hibáztál**
+
+- *Az első reakció:* kimagyarázod, vagy másra mutatsz. → A hiba megmarad, a bizalom fogy, és legközelebb gyanakvóbban néznek rád.
+- *A figyelmes válasz:* kimondod: „Elrontottam, kijavítom." → A hiba kisebb lesz, a bizalom nagyobb. Sokszor többet nyersz vele, mintha nem is hibáztál volna.
+
+**Ha a gyermeked rosszat tesz**
+
+- *Az első reakció:* kiabálsz, büntetsz. → Megtanul félni tőled, és legközelebb eltitkolja.
+- *A figyelmes válasz:* lehajolsz hozzá, és megkérdezed, mi történt. → Megtanulja, hogy a bajával hozzád jöhet. Ez évtizedekig elkíséri.
+
+**Ha valaki megbánt**
+
+- *Az első reakció:* haragszol, és hordozod. Visszaütsz, vagy évekig nem szólsz hozzá. → A harag benned mérgez tovább, nem őbenne.
+- *A figyelmes válasz:* nyugodtan kimondod, mi fájt, és ha kell, határt húzol. → Vagy rendeződik a kapcsolat, vagy tisztán elváltok. Mindkettő könnyebb teher, mint a hordozott harag.
+
+**Ha vitába kerülsz a társaddal**
+
+- *Az első reakció:* az a célod, hogy nyerj. → Megnyered a vitát, és elveszíted a közelséget.
+- *A figyelmes válasz:* az a célod, hogy megértsd. → Lehet, hogy nem lesz igazad, de lesz kapcsolatotok.
+
+**Ha megígértél valamit, és már nincs kedved hozzá**
+
+- *Az első reakció:* halogatod, és reméled, hogy a másik elfelejti. → Minden ilyen alkalommal egy kicsit kevesebbet ér a szavad.
+- *A figyelmes válasz:* megteszed, vagy őszintén megmondod, hogy mégsem megy. → A szavadnak súlya lesz. Ez az egyik legnagyobb vagyon, ami egy embernek lehet.
+
+---
+
+## Miért lehet mérhetetlen a különbség?
+
+Mert a következmények nem egyszer jelentkeznek, hanem összeadódnak. Egy figyelmes válasz egy jobb napot hoz. Ezer figyelmes válasz egy másik életet: más kapcsolatokat, más gyerekeket, más öregkort. Ugyanígy az ezer gyors reakció is összeadódik, csak az ellenkező irányba.
+
+Az azonnali reakció ára apránként érkezik, ezért nem vesszük észre. A figyelmes válasz nyeresége is apránként gyűlik. Aztán egyszer csak észreveszed, hogy körülötted béke van – és benned is.
+
+---
+
 ## Egy fontos pontosítás
 
 Nem az a cél, hogy mindig a nehezebbet válaszd. A nehézség önmagában nem érdem. Aki keresi a szenvedést, mert azt hiszi, attól lesz jobb ember, az csak egy másik csapdába lépett: az áldozat szerepébe.
