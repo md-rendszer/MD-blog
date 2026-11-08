@@ -1,8 +1,8 @@
 ---
-title: A négy próba – célba vezet-e a tanítás?
+title: Egy tanítás akkor vezet célba, ha… – a négy próba
 date: 2026-11-08 09:30:00
 image: 2026/a-negy-proba-celba-vezet-e-a-tanitas.avif
-image_alt: Négy egymás mögötti arany kapu törtfehér háttér előtt; egyetlen fénysugár jut át mind a négyen egy bordó rombuszig, a többit egy-egy kapu megállítja – A négy próba
+image_alt: Négy egymás mögötti arany kapu törtfehér háttér előtt; egyetlen fénysugár jut át mind a négyen egy bordó rombuszig, a többit egy-egy kapu megállítja – Egy tanítás akkor vezet célba, ha…
 ---
 
 > Egy tanítás akkor vezet célba, ha
