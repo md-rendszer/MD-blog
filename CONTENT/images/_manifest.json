@@ -3588,5 +3588,35 @@
     "width": 1024,
     "height": 576,
     "srcset": "/images/2026/ne-bosszankodj-igazodj-harmonia-400x225.avif 400w, /images/2026/ne-bosszankodj-igazodj-harmonia-768x432.avif 768w, /images/2026/ne-bosszankodj-igazodj-harmonia.avif 1024w"
+  },
+  "/images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa-400x225.avif 400w, /images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa-768x432.avif 768w, /images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa.avif 1024w"
+  },
+  "/images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa-400x225.avif 400w, /images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa-768x432.avif 768w, /images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa.avif 1024w"
+  },
+  "/images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa-400x225.avif 400w, /images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa-768x432.avif 768w, /images/2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa.avif 1024w"
+  },
+  "/images/2026/mit-remelhetsz-az-md-tol-lista-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/mit-remelhetsz-az-md-tol-lista-400x225.avif 400w, /images/2026/mit-remelhetsz-az-md-tol-lista-768x432.avif 768w, /images/2026/mit-remelhetsz-az-md-tol-lista.avif 1024w"
+  },
+  "/images/2026/mit-remelhetsz-az-md-tol-lista-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/mit-remelhetsz-az-md-tol-lista-400x225.avif 400w, /images/2026/mit-remelhetsz-az-md-tol-lista-768x432.avif 768w, /images/2026/mit-remelhetsz-az-md-tol-lista.avif 1024w"
+  },
+  "/images/2026/mit-remelhetsz-az-md-tol-lista.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/mit-remelhetsz-az-md-tol-lista-400x225.avif 400w, /images/2026/mit-remelhetsz-az-md-tol-lista-768x432.avif 768w, /images/2026/mit-remelhetsz-az-md-tol-lista.avif 1024w"
   }
 }
