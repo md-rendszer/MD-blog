@@ -3558,5 +3558,35 @@
     "width": 1024,
     "height": 576,
     "srcset": "/images/2026/volt-e-torveny-a-foldrajzi-egyseg-vedelmere-idovonal-400x225.avif 400w, /images/2026/volt-e-torveny-a-foldrajzi-egyseg-vedelmere-idovonal-768x432.avif 768w, /images/2026/volt-e-torveny-a-foldrajzi-egyseg-vedelmere-idovonal.avif 1024w"
+  },
+  "/images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer-400x225.avif 400w, /images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer-768x432.avif 768w, /images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer.avif 1024w"
+  },
+  "/images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer-400x225.avif 400w, /images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer-768x432.avif 768w, /images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer.avif 1024w"
+  },
+  "/images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer-400x225.avif 400w, /images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer-768x432.avif 768w, /images/2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer.avif 1024w"
+  },
+  "/images/2026/ne-bosszankodj-igazodj-harmonia-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/ne-bosszankodj-igazodj-harmonia-400x225.avif 400w, /images/2026/ne-bosszankodj-igazodj-harmonia-768x432.avif 768w, /images/2026/ne-bosszankodj-igazodj-harmonia.avif 1024w"
+  },
+  "/images/2026/ne-bosszankodj-igazodj-harmonia-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/ne-bosszankodj-igazodj-harmonia-400x225.avif 400w, /images/2026/ne-bosszankodj-igazodj-harmonia-768x432.avif 768w, /images/2026/ne-bosszankodj-igazodj-harmonia.avif 1024w"
+  },
+  "/images/2026/ne-bosszankodj-igazodj-harmonia.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/ne-bosszankodj-igazodj-harmonia-400x225.avif 400w, /images/2026/ne-bosszankodj-igazodj-harmonia-768x432.avif 768w, /images/2026/ne-bosszankodj-igazodj-harmonia.avif 1024w"
   }
 }
