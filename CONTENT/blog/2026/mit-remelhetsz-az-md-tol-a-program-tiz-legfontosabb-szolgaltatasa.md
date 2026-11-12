@@ -17,6 +17,21 @@ Ebben a bejegyzésben összegyűjtöttem mindazt, amivel a Program szolgálni tu
 
 ---
 
+## Mielőtt tovább olvasol: az Egyértelműsítő Alapvetés röviden
+
+Az MD bejárata az **Egyértelműsítő Alapvetés**. Minden szolgáltatás ebből indul ki, ezért nagyon javaslom, hogy ismerd meg. Íme a lényege, néhány másodpercben:
+
+> - **Méltóságot hordozol.** Nem rangból, nem teljesítményből fakad, és soha nem veszítheted el.
+> - **A kegyelmet nem kell kiérdemelned.** Csak befogadhatod, és igazodással válaszolhatsz rá.
+> - **A változást nem állíthatod meg.** Azt választod, hogyan alkalmazkodsz hozzá.
+> - **Lényegedben tiszta tudat vagy.** A félelmek eltakarhatják, mint felhő az eget, de el nem vehetik.
+> - **A következő lépcsőfokot senki nem adhatja oda készen.** A harmónia a REND-hez való folyamatos igazodás gyümölcse.
+> - **Nem hitkényszer.** Vizsgáld meg, próbáld ki a saját életedben, és figyeld a következményeit.
+
+👉 **[Olvasd el a teljes Egyértelműsítő Alapvetést](/blog/mielott-elindulsz-az-egyertelmusito-alapvetes-teljes-dokumentum/)**
+
+---
+
 ## Hogyan olvasd a súlyozást?
 
 Az MD-t egy házhoz hasonlítom. Az első könyv az alap, a második–hatodik a falak, a hetedik a tető.
@@ -207,7 +222,13 @@ Amit a Program ad, az módszer, kísérés és közösség. A munkát te végzed
 
 ---
 
-Ha szeretnéd megismerni a Programot, itt találod: [mdmegvalositorendszer.hu](https://mdmegvalositorendszer.hu/)
+## Hamarosan: ingyenes feliratkozás
+
+**Hamarosan megnyílik az ingyenes feliratkozás lehetősége az MD Megvalósító Rendszer – Újjászületési és Helyreállítási Programra.**
+
+Ha addig is szeretnél felkészülni, az első lépés mindig ugyanaz: [olvasd el az Egyértelműsítő Alapvetést](/blog/mielott-elindulsz-az-egyertelmusito-alapvetes-teljes-dokumentum/). Állj meg, vizsgáld meg, és csak ezután lépj tovább.
+
+A Program oldala: [mdmegvalositorendszer.hu](https://mdmegvalositorendszer.hu/)
 
 ---
 
