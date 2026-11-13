@@ -322,6 +322,8 @@ def layout(title: str, content: str, description: str = "", meta: dict | None = 
     <a class="footer-brand" href="{href('/')}">Máté Domokos</a>
     <nav aria-label="Lábléc navigáció">
       <a href="{MAIN_SITE_URL}">MD Megvalósító Rendszer</a>
+      <a href="{MAIN_SITE_URL}fogalomtar/">MD Fogalomtár</a>
+      <a href="{MAIN_SITE_URL}gyakori-kerdesek/">MD Gyakori kérdések</a>
       <a href="{href('/kapcsolat/')}">Kapcsolat</a>
       <a href="{href('/adatkezelesi-tajekoztato/')}">Adatkezelési tájékoztató</a>
       <a href="https://www.facebook.com/mate.domokos/">Facebook</a>

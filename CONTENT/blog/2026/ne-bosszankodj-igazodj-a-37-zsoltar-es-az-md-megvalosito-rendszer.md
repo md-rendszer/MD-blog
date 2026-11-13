@@ -47,7 +47,7 @@ Az MD-ben ez a második magmondat: *Tedd meg, amit itt és most képes vagy megt
 
 > *„Hagyjad az Úrra a te útadat, és bízzál benne, majd ő teljesíti.”* (5. vers)
 
-Ez az MD önátadása, szinte szó szerint. Nem lemondás és nem feladás, hanem igazodás: az utadat nem egyedül, görcsösen akarod kikényszeríteni, hanem rábízod arra, amiből vagy. Az MD-ben mindegy, minek nevezed a forrást, Úrnak, Teremtőnek, REND-nek. A működés ugyanaz: ami hozzá igazodik, fennmarad.
+Ez az MD önátadása, szinte szó szerint. Nem lemondás és nem feladás, hanem igazodás: az utadat nem egyedül, görcsösen akarod kikényszeríteni, hanem rábízod arra, amiből vagy. Az MD-ben mindegy, minek nevezed a forrást, Úrnak, Teremtőnek, [REND](https://mdmegvalositorendszer.hu/fogalomtar/)-nek. A működés ugyanaz: ami hozzá igazodik, fennmarad.
 
 ### 3. Nem közeledik, hanem kiderül
 
@@ -165,7 +165,7 @@ Az MD „itt és most” elve az időre figyel. A zsoltár a térre is: a hely, 
 
 Ez a zsoltár hitelesítő pecsétje. Nem érvel, nem bizonyít, hanem tanúskodik: ezt láttam, egy hosszú élet alatt.
 
-Az MD-ben a visszamérés azt jelenti, hogy önmagadat csak a korábbi önmagadhoz méred. A zsoltár ezt kiterjeszti egy egész életre: az idős ember visszanéz, és megméri, mi maradt meg és mi múlt el. Ez a tanúság különleges ajándék, amelyet csak az adhat, aki megélte.
+Az MD-ben a [visszamérés](https://mdmegvalositorendszer.hu/fogalomtar/) azt jelenti, hogy önmagadat csak a korábbi önmagadhoz méred. A zsoltár ezt kiterjeszti egy egész életre: az idős ember visszanéz, és megméri, mi maradt meg és mi múlt el. Ez a tanúság különleges ajándék, amelyet csak az adhat, aki megélte.
 
 **Javaslat:** az MD-be bekerülhet a nemzedéki tanúság mint gyakorlat. Az idősebb tag nem tanítóként, hanem tanúként szól: elmondja, mit látott egy hosszú élet során megmaradni, és mit elmúlni. Ez a hetedik könyv, a beérkezés egyik természetes formája lehet.
 

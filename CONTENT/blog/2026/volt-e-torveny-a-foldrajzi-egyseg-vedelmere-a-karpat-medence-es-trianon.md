@@ -99,7 +99,7 @@ A víz azóta is ugyanúgy folyik. A Tisza ma is a Kárpátokból indul, és ma 
 
 Az emlékem tehát nem volt pontos: törvény nem volt. De a mögötte álló felismerés igaz. Egy élő egészet nem lehet büntetlenül szétvágni, mert az egész nem papíron létezik, hanem a működésben: a vízben, az utakban, a kapcsolatokban, az emberek mindennapjaiban.
 
-Az MD-ben a REND-et pontosan így vizsgáljuk: nem azt nézzük, mit ír elő valaki, hanem azt, mi működik. Ami a REND-hez igazodik, fennmarad. Ami eltávolodik tőle, szétesik, vagy állandó erőfeszítéssel, állandó súrlódással tartható csak egyben. A Kárpát-medence százéves története erre talán a legközelebbi, legszemélyesebb példa.
+Az MD-ben a [REND](https://mdmegvalositorendszer.hu/fogalomtar/)-et pontosan így vizsgáljuk: nem azt nézzük, mit ír elő valaki, hanem azt, mi működik. Ami a REND-hez igazodik, fennmarad. Ami eltávolodik tőle, szétesik, vagy állandó erőfeszítéssel, állandó súrlódással tartható csak egyben. A Kárpát-medence százéves története erre talán a legközelebbi, legszemélyesebb példa.
 
 Ez nem a harag és nem a sérelem felől nézve igaz, hanem a valóság felől. A medence ma is egy. Aki itt él, bármilyen nyelven beszél, ugyanabból a vízből iszik.
 

@@ -56,7 +56,7 @@ Az Ébredés könyve azzal kezdi, amit legtöbbször halogatunk: az őszinte meg
 
 **Amit kapsz:** egyszerű, kipróbálható napi rendet reggelre, napközbenre és estére.
 
-Ide tartozik a Szent Pillanat és az ébredés utáni első tizenöt perc, a tenyér-ébresztés pontos gyakorlata, a reggeli igazodás lépései, a háromperces visszatérés napközben, az esti lezárás hála-pecséttel és a **Napi Vezérlőpult**, amellyel a napodat irányítod és méred.
+Ide tartozik a [Szent Pillanat](https://mdmegvalositorendszer.hu/fogalomtar/) és az ébredés utáni első tizenöt perc, a tenyér-ébresztés pontos gyakorlata, a reggeli igazodás lépései, a háromperces visszatérés napközben, az esti lezárás hála-pecséttel és a **[Napi Vezérlőpult](https://mdmegvalositorendszer.hu/fogalomtar/)**, amellyel a napodat irányítod és méred.
 
 **Amit remélhetsz:** hogy a napjaid nem csak megtörténnek veled, hanem te vezeted őket. Kis lépésekben, sürgetés nélkül.
 
@@ -80,7 +80,7 @@ Az Igazodás könyvében megtanulod meghallani a lelkiismeret halk jelzését, s
 
 **Amit kapsz:** egyszerű mérőeszközöket, amelyekkel látod, hol tartasz. Megszégyenítés nélkül.
 
-Napi, heti és havi visszamérés; a tegnapi 24 óra őszinte átnézése; a tény, a történet és az érzés szétválasztása; a kifogásmentes önleltár. És a **huszonnégy órás visszatérési szabály**: ha elbotlasz, egy napon belül visszatérsz.
+Napi, heti és havi [visszamérés](https://mdmegvalositorendszer.hu/fogalomtar/); a tegnapi 24 óra őszinte átnézése; a tény, a történet és az érzés szétválasztása; a kifogásmentes önleltár. És a **huszonnégy órás visszatérési szabály**: ha elbotlasz, egy napon belül visszatérsz.
 
 **Amit remélhetsz:** hogy a kudarc helyett használható visszajelzést látsz. Mindig csak a tegnapi önmagadhoz méred magad, soha nem máshoz.
 
@@ -106,13 +106,13 @@ A Cselekvés könyve abból indul, miért vagy itt, és mit szolgálhatsz. Az é
 
 Az értékteremtés azzal kezdődik, hogy valakinek egy valódi problémáját megoldod. Ide tartozik a tiszta értékcsere, a kölcsönösen tiszta megállapodás, a pénz helye az életben, a bőségtudat gyakorlatai és a pénzügyi helyreállítás következő lépése. Már a Felelősség könyvében megnézzük őszintén a bevételt, a kiadást és a tartozást.
 
-**Amit remélhetsz:** rendet a pénzügyeidben, és azt a felismerést, hogy a bőség a REND gyümölcse, nem a mércéje.
+**Amit remélhetsz:** rendet a pénzügyeidben, és azt a felismerést, hogy a bőség a [REND](https://mdmegvalositorendszer.hu/fogalomtar/) gyümölcse, nem a mércéje.
 
 ### 2. Emberléptékű közösség
 
 **Amit kapsz:** egy biztonságos, méltóságot őrző közösséget, ahol nem egyedül jársz.
 
-A Közösség könyve a nagyjából 150 fős, emberléptékű egységre épül. Ennek alapja a **méltóságtér**: minden ember méltósága, a biztonság és a határ. Ide tartozik a kommunikáció tizenkét erőszakformájának felismerése, a meghallgatás, az egyenes kérés, a konfliktus négy rendező lépése és a tiszta megállapodás: ki, mit, mikorra vállal.
+A Közösség könyve a nagyjából 150 fős, emberléptékű egységre épül. Ennek alapja a **[méltóságtér](https://mdmegvalositorendszer.hu/fogalomtar/)**: minden ember méltósága, a biztonság és a határ. Ide tartozik a kommunikáció tizenkét erőszakformájának felismerése, a meghallgatás, az egyenes kérés, a konfliktus négy rendező lépése és a tiszta megállapodás: ki, mit, mikorra vállal.
 
 **Amit remélhetsz:** olyan társakat, akik kísérnek, de nem mentenek meg helyetted, és akik előtt nem kell szerepet játszanod.
 

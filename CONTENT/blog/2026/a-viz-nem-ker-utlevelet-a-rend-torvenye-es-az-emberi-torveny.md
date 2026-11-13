@@ -23,7 +23,7 @@ Ma a kérdés másik oldalát nézem. Ha az ember nem hozott ilyen törvényt, a
 
 Az emberi törvényt emberek írják. Papírra kerül, aláírják, pecsétet ütnek rá, és addig érvényes, amíg valaki el nem törli. Meg lehet szegni, ki lehet játszani, és újra lehet írni.
 
-A REND törvénye nem ilyen. Senki nem írta le, mégis működik. Nem kell aláírni, nem lehet eltörölni. Nem kér engedélyt, nem tárgyal, és nem fellebbez. A víz lefelé folyik, a mag kikel, ha földbe kerül, és ami egy egész volt, az egészként működik tovább, akárhány vonalat húznak rá.
+A [REND](https://mdmegvalositorendszer.hu/fogalomtar/) törvénye nem ilyen. Senki nem írta le, mégis működik. Nem kell aláírni, nem lehet eltörölni. Nem kér engedélyt, nem tárgyal, és nem fellebbez. A víz lefelé folyik, a mag kikel, ha földbe kerül, és ami egy egész volt, az egészként működik tovább, akárhány vonalat húznak rá.
 
 > **A papíron meghúzott vonal a térképet változtatja meg, nem a tájat.**
 
