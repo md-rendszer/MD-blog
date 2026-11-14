@@ -6,6 +6,7 @@
 
 ## Megosztás
 
+- Minden bejegyzés végén követésre és megosztásra hívó, a REND-hez igazodás szellemében írt szöveg áll, a Facebook-oldal és a YouTube-csatorna követőgombjaival.
 - Minden bejegyzés címe alatt egy kattintással megosztható a Facebookon, a bejegyzés végén pedig Facebookra, WhatsAppra, Viberre, Telegramra, X-re, LinkedInre és e-mailben is; a link egy gombnyomással kimásolható, telefonon a „Továbbiak” gomb a készülék saját megosztását nyitja meg (Messenger, Instagram stb.).
 - A bejegyzések megosztáskor címmel, rövid kivonattal és a borítóképükkel jelennek meg a Facebookon és más oldalakon; ahol nincs kép, egységes alapkép látszik.
 

@@ -525,7 +525,11 @@ def share_bar(url: str, title: str) -> str:
     safe_url = html.escape(url, quote=True)
     safe_title = html.escape(title, quote=True)
     return f"""<section class="share" id="megosztas" aria-label="Megosztás">
-  <p class="share-title">Ha hasznosnak találtad, oszd meg másokkal is:</p>
+  <p class="share-title">Ha ez az írás megszólított benned valamit…</p>
+  <p class="share-invite">Kövesd és oszd meg – nem kötelességből, hanem igazodásból. Ami a REND-ből a tiéd lett, az akkor marad élő, ha továbbadod. Lehet, hogy valakinek épp ez a néhány sor nyitja meg a saját világos pillanatát.</p>
+  <p class="share-label">Kövesd:</p>
+  <div class="share-buttons follow-buttons"><a class="share-btn share-facebook" href="https://www.facebook.com/MDMegvalositoRendszer/" target="_blank" rel="noopener">Facebook-oldal</a><a class="share-btn share-youtube" href="https://www.youtube.com/@MD_Megvalosito_Rendszer?sub_confirmation=1" target="_blank" rel="noopener">YouTube-csatorna</a></div>
+  <p class="share-label">Oszd meg:</p>
   <div class="share-buttons">{buttons}<button type="button" class="share-btn share-copy" data-url="{safe_url}">Link másolása</button><button type="button" class="share-btn share-native" data-url="{safe_url}" data-title="{safe_title}" hidden>Továbbiak (Messenger, Instagram…)</button></div>
 </section>
 <script>
