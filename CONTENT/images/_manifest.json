@@ -3633,5 +3633,20 @@
     "width": 1024,
     "height": 576,
     "srcset": "/images/2026/a-viz-nem-ker-utlevelet-a-rend-torvenye-es-az-emberi-torveny-400x225.avif 400w, /images/2026/a-viz-nem-ker-utlevelet-a-rend-torvenye-es-az-emberi-torveny-768x432.avif 768w, /images/2026/a-viz-nem-ker-utlevelet-a-rend-torvenye-es-az-emberi-torveny.avif 1024w"
+  },
+  "/images/2026/a-finom-elet-ennyire-egyszeru.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/a-finom-elet-ennyire-egyszeru-400x225.avif 400w, /images/2026/a-finom-elet-ennyire-egyszeru-768x432.avif 768w, /images/2026/a-finom-elet-ennyire-egyszeru.avif 1024w"
+  },
+  "/images/2026/a-finom-elet-ennyire-egyszeru-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/a-finom-elet-ennyire-egyszeru-400x225.avif 400w, /images/2026/a-finom-elet-ennyire-egyszeru-768x432.avif 768w, /images/2026/a-finom-elet-ennyire-egyszeru.avif 1024w"
+  },
+  "/images/2026/a-finom-elet-ennyire-egyszeru-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/a-finom-elet-ennyire-egyszeru-400x225.avif 400w, /images/2026/a-finom-elet-ennyire-egyszeru-768x432.avif 768w, /images/2026/a-finom-elet-ennyire-egyszeru.avif 1024w"
   }
 }
