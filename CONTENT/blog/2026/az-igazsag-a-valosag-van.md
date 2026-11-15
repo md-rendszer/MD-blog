@@ -3,6 +3,8 @@ title: AZ IGAZSÁG, a VALÓSÁG VAN!
 date: 2026-08-02 14:54:17
 image: 2026/az-igazsag-a-valosag-van.avif
 image_alt: AZ IGAZSÁG, a VALÓSÁG VAN!
+lead: "Az igazságot nem kitalálni lehet, csak rátalálni. A valóság tőlünk függetlenül létezik – a mi dolgunk nem megalkotni, hanem felfedezni. Ez az írás azt mutatja meg, miért érdemes csenddel és figyelemmel keresni, ahelyett hogy a saját elképzeléseinket erőltetnénk rá a világra."
+kerdes: "Mikor találtál rá utoljára egy igazságra – és mi segített abban, hogy meglásd?"
 ---
 
 Kitalálni NEM, csak RÁTALÁLNI lehetséges!

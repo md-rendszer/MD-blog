@@ -2,6 +2,8 @@
 title: 📖 BIBLIA – MD KIVONAT (3. RÉSZ)
 date: 2026-05-08 19:24:24
 image: -
+lead: "A teljes Biblia egyetlen összefüggő képletben: kiesés az igaz rendből, belső szétesés, majd helyreállítás megtéréssel, igazodással és fegyelmezett cselekvéssel. A kivonat harmadik része ezt a főképletet bontja ki, és lefordítja az MD nyelvére."
+kerdes: "A képlet lépései közül – megtérés, igazodás, cselekvés – melyik a legnehezebb számodra?"
 ---
 
 ## **A teljes Biblia egyetlen összefüggő MD-alapképlete + napi életvezetési protokollá alakítva** I. A TELJES BIBLIA EGYETLEN ÖSSZEFÜGGŐ MD-ALAPKÉPLETE

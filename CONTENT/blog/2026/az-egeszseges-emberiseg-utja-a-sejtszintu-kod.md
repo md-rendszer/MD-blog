@@ -3,6 +3,8 @@ title: "Az Egészséges Emberiség Útja: A Sejtszintű Kód"
 date: 2026-10-17 07:20:16
 image: 2026/az-egeszseges-emberiseg-utja-a-sejtszintu-kod.avif
 image_alt: Az Egészséges Emberiség Útja_A Sejtszintű Kód
+lead: "Ahhoz, hogy a testünk egészséges maradjon, minden sejtnek ismernie kell néhány alapvető szabályt. Ez a párbeszéd azt vizsgálja, mit tanulhat az emberiség a sejtek működéséből: az együttműködésről, a fenntarthatóságról és a megelőzésről."
+kerdes: "Mit tanultál a saját testedtől arról, hogyan lehet egészségesen együttműködni?"
 ---
 
 **PÁRBESZÉD**

@@ -3,6 +3,8 @@ title: Az ember, aki elfelejtette önmagát — és a pillanat, amelyben mégis 
 date: 2026-07-12 14:59:01
 image: 2026/az-ember-aki-elfelejtette-onmagat-es-a-pillanat-amelyben-megis-hazaterhet.avif
 image_alt: Az ember, aki elfelejtette önmagát — és a pillanat, amelyben mégis hazatérhet…(?)…
+lead: "A mai ember gépeket épít, országokat irányít, egyetlen érintéssel eléri a világ túlsó felét – önmagát viszont egyre kevésbé ismeri. Ez az írás arról szól, hogyan felejti el az ember, ki ő, és mi az a pillanat, amelyben mégis hazatérhet. Az ember nem rossz – csak elfelejtett látni."
+kerdes: "Mikor érezted utoljára, hogy egy pillanatra „hazaértél” önmagadhoz – és mi történt akkor?"
 ---
 
 A mai ember sok mindent tud.

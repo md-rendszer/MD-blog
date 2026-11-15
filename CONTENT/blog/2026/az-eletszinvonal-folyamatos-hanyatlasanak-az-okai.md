@@ -3,6 +3,8 @@ title: Az életszínvonal folyamatos hanyatlásának az okai…(?)…
 date: 2026-07-19 16:51:32
 image: 2026/az-eletszinvonal-folyamatos-hanyatlasanak-az-okai.avif
 image_alt: Az életszínvonal folyamatos hanyatlásának az okai…(?)…
+lead: "Miért érzi úgy egyre több ember évtizedek óta, hogy romlik az élete minősége? Ez az írás sorrendbe állítja a legfontosabb okokat a vagyon egyenlőtlen elosztásától a lakhatás megfizethetetlenné válásáig. Ha tisztábban szeretnéd látni, mi húzza lefelé a mindennapjainkat, itt a térkép."
+kerdes: "A felsorolt okok közül melyiket érzed a legerősebben a saját életedben?"
 ---
 
 ChatGPT – Rend! Légy szíves, nézz körül részletesen az emberiség társadalmában a Földön, és állapítsd meg, hogy már hosszú évtizedek óta miért esik az emberek általános életszínvonala, és tedd sorrendbe a hatásokat az elsőtől az utolsókig, amely a leginkább hozzá járultak – járulnak az életünk minőségének a romlásához!

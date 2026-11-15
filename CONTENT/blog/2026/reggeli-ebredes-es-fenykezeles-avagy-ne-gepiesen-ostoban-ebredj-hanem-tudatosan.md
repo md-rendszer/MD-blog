@@ -4,6 +4,8 @@ date: 2026-03-25 10:38:47
 image: 2026/ne-gepiesen-ebredj-hanem-tudatosan.avif
 image_alt: Reggeli ébredés és fénykezelés, avagy ne gépiesen (ostobán) ébredj, hanem tudatosan!
 alias: ne-gepiesen-ebredj-hanem-tudatosan
+lead: "Az ébredés utáni első percek eldöntik a nap belső minőségét. Ez az egyszerű, egyperces gyakorlat abban segít, hogy ne tompán, kapkodva, hanem jelenléttel indulj el. Ha reggelente már a telefonodért nyúlsz, mielőtt magadhoz térnél, ezt érdemes kipróbálnod."
+kerdes: "Mi az első dolog, amit ébredés után teszel – és mit tennél helyette, ha tudatosan választhatnál?"
 ---
 
 A reggeli első pillanatok meghatározzák a nap belső minőségét.Előbb ébreszd fel a testedet és a figyelmedet, és csak azután indulj bele a cselekvésbe.

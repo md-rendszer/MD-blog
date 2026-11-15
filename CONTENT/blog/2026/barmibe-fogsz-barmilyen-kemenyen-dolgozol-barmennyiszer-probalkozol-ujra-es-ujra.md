@@ -3,6 +3,8 @@ title: Bármibe fogsz – Bármilyen keményen dolgozol – Bármennyiszer prób
 date: 2026-04-18 17:59:35
 image: 2026/barmibe-fogsz-barmilyen-kemenyen-dolgozol-barmennyiszer-probalkozol-ujra-es-ujra.avif
 image_alt: Bármibe fogsz – Bármilyen keményen dolgozol – Bármennyiszer próbálkozol újra és újra…(?)….
+lead: "Bármibe fogsz, bármilyen keményen dolgozol, valami mindig megakad, szétesik, visszahúz? Lehet, hogy nem azzal van a gond, amit csinálsz, hanem azzal, amiből csinálod. Ez az írás arról szól, miért nem több erőlködés, hanem a méltóság helyreállítása a megoldás."
+kerdes: "Melyik területen érzed, hogy hiába dolgozol keményen, valami mindig visszahúz?"
 ---
 
 Mégis azt tapasztalod, érzed:  

@@ -3,6 +3,8 @@ title: Az MD Megvalósító Rendszer – Újjászületési és Helyreállítási
 date: 2026-01-18 15:00:51
 image: 2026/image-f9a8b4034dcf75236234.avif
 image_alt: Visszatérés a forráshoz
+lead: "Emlékszel még, ki voltál, mielőtt a világ megmondta, kinek kell lenned? Az MD Megvalósító Rendszer abban segít, hogy lépésről lépésre helyreállítsd a saját integritásodat. Ez az üzenet azoknak szól, akik úgy érzik, elvesztették a méltóságukat."
+kerdes: "Ki voltál gyerekként, mielőtt mások megmondták volna, kinek kell lenned?"
 ---
 
 „Emlékszel még, ki voltál, mielőtt a világ megmondta volna, kinek kell lenned…(?)…”

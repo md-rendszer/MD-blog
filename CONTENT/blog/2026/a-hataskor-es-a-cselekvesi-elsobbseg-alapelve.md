@@ -3,6 +3,8 @@ title: A HATÁSKÖR ÉS A CSELEKVÉSI ELSŐBBSÉG ALAPELVE
 date: 2026-08-15 19:49:38
 image: 2026/a-hataskor-es-a-cselekvesi-elsobbseg-alapelve.avif
 image_alt: A HATÁSKÖR ÉS A CSELEKVÉSI ELSŐBBSÉG ALAPELVE
+lead: "Mi az, ami most valóban rajtam múlik? Mi a következő konkrét lépés? Mit kell elengednem, mert nincs rá befolyásom? Ez a három kérdés az MD mindennapi gyakorlatának alapja. Ha szétszórt vagy, vagy túl sok mindenért aggódsz, tedd fel őket még ma."
+kerdes: "Ha most feltennéd magadnak a három kérdést, mi lenne a második kérdésre a válaszod: mi a következő konkrét lépés?"
 ---
 
 > **Mindennapi figyelmünket, időnket és erőnket elsősorban arra fordítjuk, amit ténylegesen jobbá tehetünk.**

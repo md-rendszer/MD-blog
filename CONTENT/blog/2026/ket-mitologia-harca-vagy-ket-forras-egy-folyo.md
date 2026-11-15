@@ -2,7 +2,9 @@
 title: Két mitológia harca – vagy két forrás, egy folyó?
 date: 2026-11-05 05:00:00
 image: 2026/ket-mitologia-harca-vagy-ket-forras-egy-folyo.avif
-image_alt: Viharos ég a Kárpátok gyűrűje fölött; balra domb templommal és világító kereszttel, jobbra domb csodaszarvassal, agancsai között a nap; a két dombról egy ezüst és egy arany folyó indul, és középen egyetlen fényes folyóvá ér össze, a parton egy ember nézi – Két mitológia harca – vagy két forrás, egy folyó?
+image_alt: "A Kárpátok gyűrűje fölött két domb: egyiken templom kereszttel, másikon csodaszarvas; a két dombról induló folyó középen egyesül"
+lead: "Sok magyar emberben ott él a kérdés: harcban áll-e egymással a keleti, ősi hagyomány és a kereszténység? Ez az írás nem harci zászlóval, hanem lámpával nézi meg, mit mutat a történelem. A válasz: két forrás, egy folyó – és mindkettőből tanulhatsz."
+kerdes: "Mit jelent számodra a csodaszarvas és mit a kereszt – és hogyan fér meg a kettő benned?"
 ---
 
 **Máté Domokos kérdése:**

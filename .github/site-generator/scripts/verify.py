@@ -52,6 +52,12 @@ def check(path: Path) -> list[str]:
         errors.append(f"a date éve nem egyezik a mappával ({path.parent.name})")
     if not SLUG.match(path.stem):
         errors.append("a fájlnév nem kisbetűs, ékezet nélküli, kötőjeles slug")
+    if not meta.get("lead"):
+        errors.append("nincs lead (2–3 mondatos bevezető a kártyára és a megosztáshoz)")
+    if not meta.get("kerdes"):
+        errors.append("nincs kerdes (nyitott kérdés az olvasóhoz a cikk végére)")
+    if len(meta.get("image_alt", "")) > 200:
+        errors.append("az image_alt túl hosszú (legfeljebb 200 karakter, egy rövid mondat)")
     image = meta.get("image", "-")
     if image not in {"-", "", "null", "None"}:
         if not (CONTENT / "images" / image).exists():

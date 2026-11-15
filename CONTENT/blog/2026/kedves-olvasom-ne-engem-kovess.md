@@ -4,6 +4,8 @@ date: 2026-07-11 20:07:06
 image: 2026/kedves-olvasom-ne-engem-kovess.avif
 image_alt: Kedves Olvasóm, ne engem kövess!
 alias: kedves-olvasom
+lead: "Amit itt megosztok, azt nem végső, megkérdőjelezhetetlen igazságként teszem eléd. Ne higgy nekem azért, mert határozottan fogalmazok, vagy mert egy ismert tanítóra hivatkozom. Azt kövesd, amit becsületes vizsgálódás, saját tapasztalat és tiszta lelkiismeret alapján igaznak ismersz fel."
+kerdes: "Mi alapján döntöd el, hogy egy tanításnak hiszel-e – a tanító hírneve vagy a saját tapasztalatod alapján?"
 ---
 
 Amit ezen az oldalon, a könyveimben és az MD Megvalósító Rendszer keretében megosztok veled, azt nem végső, megkérdőjelezhetetlen igazságként kívánom eléd helyezni.

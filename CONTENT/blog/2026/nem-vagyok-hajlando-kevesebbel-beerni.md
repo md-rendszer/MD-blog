@@ -3,6 +3,8 @@ title: NEM VAGYOK HAJLANDÓ KEVESEBBEL BEÉRNI
 date: 2026-08-15 15:51:15
 image: 2026/nem-vagyok-hajlando-kevesebbel-beerni.avif
 image_alt: NEM VAGYOK HAJLANDÓ KEVESEBBEL BEÉRNI
+lead: "Ha örök létező vagyok, aki csak formát ölt, akkor mi lehet a lehető legjobb, amit ebben az életben megélhetek? Ez a személyes kiállás arról szól, miért nem érem be kevesebbel – és miért vállalom közben a teljes vizsgálatot. Ne fogadd el azért, mert én mondom: vizsgáld meg."
+kerdes: "Miben érzed, hogy eddig kevesebbel érted be, mint ami valóban neked rendeltetett?"
 ---
 
 ## Mi lehet nekem – és minden embernek – a lehető legjobb?

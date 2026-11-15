@@ -3,6 +3,8 @@ title: Lehetséges, hogy minden személyes ego tudatú ember, megegyezett minden
 date: 2026-06-06 22:59:26
 image: 2026/lehetseges-hogy-minden-szemelyes-ego-tudatu-ember-megegyezett-minden-mas-szemelyes-ego-tudatu-emberrel.avif
 image_alt: Lehetséges, hogy minden személyes ego tudatú ember, megegyezett minden más személyes ego tudatú emberrel…(?)…
+lead: "Miért hallgatjuk el olyan könnyen egymás kis hazugságait? Talán mert mindannyian tudjuk, hogy mi sem vagyunk tiszták – és nem is kellett erről megegyeznünk. Ez a beszélgetés egy ritkán kimondott hallgatólagos szövetséget tesz láthatóvá. Ha zavar a kölcsönös elnézés kultúrája, itt a gyökere."
+kerdes: "Melyik az a kis hazugság a környezetedben, amelyet mindenki tud, de senki nem mond ki?"
 ---
 
 Lehetséges, hogy hallgatólagosan – kollektíven, mert minden személyes ego tudatú ember, megegyezett minden más személyes ego tudatú emberrel, hogy kölcsönösen – kollektíven elfogadják (elhallgatják) egymás hazugságait…(?)…

@@ -3,6 +3,8 @@ title: Az MD eszmeiségéhez közel álló és/vagy próbára tevő vagy vele sz
 date: 2026-08-15 11:04:29
 image: 2026/az-md-eszmeisegehez-kozel-allo-es-vagy-probara-tevo-vagy-vele-szemben-allo-filmek.avif
 image_alt: Az MD eszmeiségéhez közel álló és/vagy próbára tevő vagy vele szemben álló filmek…(?)…
+lead: "Vannak filmek, amelyek megerősítik az MD gondolatait, és vannak, amelyek komoly próba elé állítják őket. Ez a válogatás mindkettőt tartalmazza, fenntartásokkal és ajánlott megtekintési sorrenddel. Ha szereted, amikor egy film gondolkodásra késztet, itt bőven találsz."
+kerdes: "Melyik film tette próbára a legjobban azt, amiben hiszel – és mit tanultál belőle?"
 ---
 
 Az MD gyakorlati magjával, és olyanokat is, amelyek komoly próba elé állítják az alapvetéseit.

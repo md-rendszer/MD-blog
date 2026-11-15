@@ -2,7 +2,9 @@
 title: Tudjuk, mégsem tesszük – hol bánunk jól magunkkal és egymással, és hol nem
 date: 2026-11-03 12:50:00
 image: 2026/tudjuk-megsem-tesszuk.avif
-image_alt: Kettéhasadt kép – balra éjszakai vihar, egy ember hajnali háromnegyed háromkor egy padon görnyed a telefonja fölé; jobbra hajnal, egy ember kitárt karral áll a felkelő nap felé – Tudjuk, mégsem tesszük
+image_alt: "Kettéhasadt kép: balra éjszaka egy ember a telefonja fölé görnyed, jobbra hajnalban egy ember kitárt karral áll a felkelő nap felé"
+lead: "A legtöbben tudjuk, mi lenne jó nekünk: aludni, mozogni, figyelni egymásra. Mégsem tesszük. Ez az írás életterületenként, két oszlopban veti össze, hol bánunk jól magunkkal és egymással, és hol nem – és megmutatja, hogyan léphetsz egyetlen sorban egy lépéssel közelebb a helyeshez."
+kerdes: "Melyik az az egy sor az életedben, ahol tudod, mi lenne a helyes, és holnap egy lépéssel közelebb mennél hozzá?"
 ---
 
 **Máté Domokos kérdése:** Lehetséges, mi több, többnyire bizonyított, hogy az emberek még önmagukkal sem bánnak helyesen, többnyire nem, önmagukkal sem követik a rendet, az igazságot, nem, hogy másokkal viselkednének helyesen. Kérlek, írj egy blogot, sorold fel, hogy általában az emberek, bizonyítottan, fő életterületekre bontva, mikor viselkednek helyesen, és mikor nem viselkednek helyesen, egy „A” és egy „B” oszlopban összeszedve, egymással összevetve. Elemezd a mai emberek megszokott mindennapi viselkedését.

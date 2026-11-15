@@ -3,6 +3,8 @@ title: A Bibliában hol található az emberről, hogy Rendeltetett Méltóságh
 date: 2026-10-03 08:55:27
 image: 2026/a-bibliaban-hol-talalhato-az-emberrol-hogy-rendeltetett-meltosaghordozo-leny.avif
 image_alt: A Bibliában hol található az emberről, hogy Rendeltetett Méltósághordozó Lény?
+lead: "Hol található a Bibliában, hogy az ember „rendeltetett méltósághordozó lény”? Szó szerint sehol – ez az MD saját megfogalmazása, amely a bibliai emberképet foglalja össze. Ez az írás megmutatja, honnan ered a kifejezés, és mely bibliai gondolatokra épül."
+kerdes: "Melyik saját szavaddal fogalmaznád meg, hogy mi az ember?"
 ---
 
 A Szentírás szövegében a szó szerinti **„Rendeltetett Méltósághordozó Lény” kifejezés ebben a formában nem található meg**, ez nem egy kanonikus bibliai megfogalmazás. [[1](/blog/biblia-4-az-ember-nem-veletlen-letezo-hanem-rendeltetett-meltosaghordozo-leny/)]

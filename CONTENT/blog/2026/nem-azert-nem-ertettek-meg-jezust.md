@@ -3,6 +3,8 @@ title: 🔥 Nem Azért Nem Értették Meg Jézust.
 date: 2026-02-22 18:42:36
 image: 2026/nem-azert-nem-ertettek-meg-jezust.avif
 image_alt: A rabtartójától felszabadult emberi lény
+lead: "Nem azért nem értették meg Jézust, mert nem lett volna nyilvánvaló, amit mondott – hanem mert nem akarták elveszíteni azt, amihez ragaszkodtak. Ez az írás nem a tanítványokról szól, hanem rólad: kívülről követed, vagy belülről újjászületsz?"
+kerdes: "Mi az, amihez ragaszkodsz, pedig tudod, hogy elengedése nélkül nem tudsz továbblépni?"
 ---
 
 És Ma Sem Nem Azért Nem Értik Meg Az Emberek Az Igaz És Helyes Gondolkodást, Viselkedést, Mert Az Nem Volna Nyilvánvaló.

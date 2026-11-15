@@ -3,6 +3,8 @@ title: MIÉRT A REND SZEMPONTJAI SZERINT ÉRDEMES DÖNTENI, MÉG ANNAK IS, AKI M
 date: 2026-04-11 13:40:28
 image: 2026/miert-a-rend-szempontjai-szerint-erdemes-donteni-meg-annak-is-aki-maga-nem-tokeletesen-rendezett.avif
 image_alt: MIÉRT A REND SZEMPONTJAI SZERINT ÉRDEMES DÖNTENI, MÉG ANNAK IS, AKI MAGA NEM TÖKÉLETESEN RENDEZETT?
+lead: "Nem kell rendezettnek lenned ahhoz, hogy tudd, milyen az, amikor valami működik, és milyen, amikor szétesik. Ez az írás arról szól, miért érdemes a REND szempontjai szerint dönteni akkor is, ha még magad sem vagy kész. Ha úgy érzed, előbb tökéletesnek kellene lenned, olvasd el."
+kerdes: "Melyik döntésedet hoznád meg másképp holnap, ha nem a megszokás, hanem a REND szempontja szerint döntenél?"
 ---
 
 Azért, mert a rendetlenség nem attól lesz kisebb, hogy megszoktuk.  

@@ -2,7 +2,9 @@
 title: Ne légy saját magad ellensége! – Az első lépés: ne bántsuk önmagunkat
 date: 2026-11-08 17:05:00
 image: 2026/ne-legy-sajat-magad-ellensege.avif
-image_alt: Törtfehér háttér, dupla arany keret. Bal oldalon egy bordó kör, amelyet kívülről befelé, önmaga felé mutató bordó tüskék vesznek körül (ÖNMAGAD ELLEN – ezt mondták, azt tették…); jobb oldalon ugyanaz a kör aranyban, nyitott tenyérrel alatta, és belőle kifelé szelíd fény sugárzik (ÖNMAGADDAL – üres kézzel jöttél, eleve nyereségben vagy). Alul: Első lépésben ne bántsuk önmagunkat.
+image_alt: "Bal oldalon önmaga felé mutató tüskékkel körülvett bordó kör, jobb oldalon ugyanaz a kör aranyban, nyitott tenyérrel"
+lead: "Mielőtt azon dolgoznánk, hogy ne bántsunk másokat, az első lépés az, hogy ne bántsuk önmagunkat. Egy rövid videó indította el ezt az írást arról, hogyan válunk a saját ellenségünkké a régi sérelmek ismételgetésével. Ha gyakran beszélsz magadhoz keményebben, mint bárki más, ez neked szól."
+kerdes: "Mit mondasz magadnak a leggyakrabban, amikor hibázol – és mit mondanál helyette egy barátodnak?"
 ---
 
 *Első lépésben, itt az ideje, hogy ne műveljünk aljas dolgokat önmagunkkal,  

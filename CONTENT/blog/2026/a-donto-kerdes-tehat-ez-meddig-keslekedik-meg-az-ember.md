@@ -3,6 +3,8 @@ title: "A döntő kérdés tehát ez: meddig késlekedik még az ember?"
 date: 2026-04-04 13:44:07
 image: 2026/a-donto-kerdes-tehat-ez-meddig-keslekedik-meg-az-ember.avif
 image_alt: "A döntő kérdés tehát ez: meddig késlekedik még az ember?"
+lead: "Meddig ingadozik még a szív? Meddig ad teret a rossznak, amikor megnyílhatna az igazságnak, a rendnek és a szabadításnak? Ez az írás egy személyes szöveget tesz közzé két változatban: hűen javítva és publikálásra emelve. Ha te is halogatsz egy belső döntést, ez a kérdés neked szól."
+kerdes: "Melyik belső döntést halogatod a legrégebben – és mi kellene ahhoz, hogy ma meghozd?"
 ---
 
 Meddig ingadozik még a szíve? Meddig ad teret a rossznak, amikor megnyílhatna végre a Krisztustól jövő igazságnak, rendnek és szabadításnak?

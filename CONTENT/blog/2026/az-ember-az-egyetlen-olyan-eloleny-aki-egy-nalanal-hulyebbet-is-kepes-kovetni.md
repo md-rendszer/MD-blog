@@ -3,6 +3,8 @@ title: Az ember az egyetlen olyan élőlény, aki egy nálánál hülyébbet is 
 date: 2026-10-18 16:45:28
 image: 2026/az-ember-az-egyetlen-olyan-eloleny-aki-egy-nalanal-hulyebbet-is-kepes-kovetni.avif
 image_alt: Az ember az egyetlen olyan élőlény, aki egy nálánál hülyébbet is képes követni…(?)…
+lead: "Az állatvilágban a vezető a valódi rátermettsége miatt vezet – az ember viszont képes nálánál alkalmatlanabbat is követni. Kassai Lajos gondolatából kiindulva ez az írás arról szól, mi hiányzik az emberi hierarchiákból, és mit tehetünk mi."
+kerdes: "Milyen tulajdonság alapján követsz szívesen valakit – és mi alapján hagynád ott?"
 ---
 
 A gondolat háttere és kontextusa:

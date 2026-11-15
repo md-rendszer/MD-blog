@@ -2,7 +2,9 @@
 title: A figyelmetlen ember és az erőszak
 date: 2026-11-08 13:45:00
 image: 2026/a-figyelmetlen-ember-es-az-eroszak.avif
-image_alt: Törtfehér háttér, dupla arany keret. Bal oldalon egyre hevesebben kilengő bordó cikkcakkvonal (A JEL – ami a testben elindul), középen két szaggatott arany vonal között egy bordó-arany rombusz (A RÉS – ahol megállhatsz), jobb oldalon egy lecsillapodó arany hullámvonal (A VISSZAÚT – amit figyelemmel választasz). Alul: A jel és a tett között van egy rés.
+image_alt: "Bal oldalon hevesen kilengő bordó vonal (A JEL), középen két arany vonal között rombusz (A RÉS), jobb oldalon nyugodt vonal"
+lead: "Felcsattanunk, odacsapunk az asztalra, kiabálunk a gyerekre, a társunkra, a másik sofőrre – aztán azt mondjuk: „ilyen vagyok”. Ez az írás megmutatja, mi történik a kitörés előtt a testben, honnan tanultuk ezt a mintát, és hogyan veheted elejét. A jel és a tett között van egy rés."
+kerdes: "Te mikor vetted észre utoljára azt a bizonyos rést egy feszült helyzetben – a jel és a tett között?"
 ---
 
 *Amit mindenki természetesnek vesz – és amit senki nem tanított meg nekünk*

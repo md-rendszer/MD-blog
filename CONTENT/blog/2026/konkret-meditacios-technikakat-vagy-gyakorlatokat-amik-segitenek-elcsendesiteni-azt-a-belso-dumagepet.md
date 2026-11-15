@@ -3,6 +3,8 @@ title: Konkrét meditációs technikákat vagy gyakorlatokat, amik segítenek el
 date: 2026-02-08 07:34:30
 image: 2026/image-8977d2a3102c476c389a.avif
 image_alt: Konkrét meditációs technikákat vagy gyakorlatokat, amik segítenek elcsendesíteni azt a belső “dumagépet”…(?)…
+lead: "A belső „dumagép” elcsendesítése nem a gondolatok elnyomását jelenti, hanem a hozzájuk való viszonyod megváltoztatását. Ez az írás néhány egyszerű, bárki által elvégezhető gyakorlatot ad – a gondolat-címkézéstől a humoros távolságtartásig. Ha az elméd nem hagy pihenni, kezdd itt."
+kerdes: "Melyik gyakorlatot próbálod ki elsőként – és mikor lesz rá ma öt perced?"
 ---
 
 Szeretnék megismerni konkrét meditációs technikákat vagy gyakorlatokat, amik segítenek elcsendesíteni azt a belső “dumagépet”!

@@ -2,7 +2,9 @@
 title: A szelet nem te fújod, de a vitorlát te állítod
 date: 2026-11-03 07:20:00
 image: 2026/a-szelet-nem-te-fujod-de-a-vitorlat-te-allitod.avif
-image_alt: Két vitorlás ugyanabban a szélben – az egyik vitorlája csapkod, a hajó a hullámokba fúródik, a másiké megtelik, és a hajó nyugodtan halad; dupla arany keretben
+image_alt: "Két vitorlás ugyanabban a szélben: az egyik vitorlája csapkod, a másiké megtelik, és a hajó nyugodtan halad"
+lead: "Két vitorlás ugyanazon a tavon, ugyanabban a szélben: az egyik halad, a másik a hullámokba fúródik. A különbség nem a szélben van, hanem a vitorlában. Ez az írás arról szól, mi a te dolgod abban, amit nem te irányítasz – és miért kell a vitorlát újra és újra beállítani."
+kerdes: "Milyen „szél” fúj most az életedben, amelyet nem te irányítasz – és hogyan állíthatnád hozzá a vitorládat?"
 ---
 
 **Máté Domokos gondolata:**

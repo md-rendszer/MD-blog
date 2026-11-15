@@ -3,6 +3,8 @@ title: Még nincs késő arra, hogy éljünk – de ha valóban élni szeretnén
 date: 2026-08-30 07:40:32
 image: 2026/meg-nincs-keso-arra-hogy-eljunk-de-ha-valoban-elni-szeretnenk-nincs-mire-varnunk.avif
 image_alt: Még nincs késő arra, hogy éljünk, de nincs mire várnunk
+lead: "Az életed nem jön rendbe magától, amíg ugyanúgy gondolkodsz, döntesz és cselekszel, mint eddig. A világ nem végzi el helyetted azt, ami a te felelősséged – de amit felismersz, kimondasz és jóváteszel, az már a tiéd. Még nincs késő, de nincs mire várni."
+kerdes: "Mi az az egy dolog, amit hónapok óta halogatsz, és ma el tudnál kezdeni?"
 ---
 
 Ne hidd, hogy az életed pusztán magától rendbe jöhet, miközben te változatlanul ugyanúgy gondolkodsz, döntesz és cselekszel!

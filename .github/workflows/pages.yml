@@ -35,6 +35,7 @@ jobs:
         env:
           SITE_BASE_PATH: ""
           SITE_URL: "https://matedomokos.hu"
+          HYVOR_WEBSITE_ID: ${{ vars.HYVOR_WEBSITE_ID }}
       - name: Check built site (stylesheet and local assets)
         run: python .github/site-generator/scripts/check-dist.py
       - name: Upload Pages artifact

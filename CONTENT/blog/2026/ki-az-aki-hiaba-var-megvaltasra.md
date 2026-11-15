@@ -3,6 +3,8 @@ title: Ki Az, Aki Hiába Vár Megváltásra…(?)…
 date: 2026-04-05 07:34:48
 image: 2026/ki-az-aki-hiaba-var-megvaltasra.avif
 image_alt: Ki Az, Aki Hiába Vár Megváltásra…(?)…
+lead: "Jézus példakép volt vagy Megváltó? Ez a beszélgetés arra a gyakori félreértésre keres választ, amely szembeállítja a kettőt. Ha te is kérdezted már magadtól, mit jelent valójában követni Jézust, ez az írás neked szól."
+kerdes: "Számodra mit jelent követni valakit – csodálni, vagy a saját életedben megtenni azt, amit ő tett?"
 ---
 
 Jó reggelt Rend, itt vagy?

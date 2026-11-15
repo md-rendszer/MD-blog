@@ -2,7 +2,9 @@
 title: Uralkodni vagy szolgálni – a hatalom és a szeretet két iránya
 date: 2026-11-08 10:45:00
 image: 2026/uralkodni-vagy-szolgalni.avif
-image_alt: Törtfehér háttér, dupla arany keret. Bal oldalon egy sötét négyzet, amely nyilakkal húzza magához a körülötte álló apró köröket (HATALOM – magához húz, uralkodik); jobb oldalon egy bordó rombusz, amelyből arany nyilak áradnak ki a nagyobb, meleg színű körök felé (SZERETET – kiárad, szolgál) – Uralkodni vagy szolgálni
+image_alt: "Bal oldalon sötét négyzet húzza magához a köröket (HATALOM), jobb oldalon bordó rombuszból arany nyilak áradnak kifelé (SZERETET)"
+lead: "A hatalom magához húz, a szeretet kiárad – de a határvonal nem köztünk fut, hanem bennünk. Ugyanazzal a pénzzel, szóval, tudással lehet valakit magadhoz kötni, és lehet talpra állítani. Ez az írás abban segít, hogy a mindennapokban felismerd, melyik irányba mutat a kezedben lévő eszköz."
+kerdes: "Melyik eszközödet – időt, pénzt, szót, tudást – fordítanád holnaptól tudatosabban a másik javára?"
 ---
 
 > A „HATALOM” mindenkor URALKODNI akar, mindenkor és minden eszközzel meg is teszi!

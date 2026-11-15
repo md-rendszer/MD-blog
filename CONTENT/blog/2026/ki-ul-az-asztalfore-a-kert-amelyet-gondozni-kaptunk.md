@@ -2,7 +2,9 @@
 title: Ki ül az asztalfőre? – A kert, amelyet gondozni kaptunk
 date: 2026-11-04 05:00:00
 image: 2026/ki-ul-az-asztalfore-a-kert-amelyet-gondozni-kaptunk.avif
-image_alt: Hosszú, terített asztal egy kertben – balra elszáradt fák és szemétdomb viharos ég alatt, jobbra gyümölcsfa és felkelő nap; az asztalfőn üres, aranyló szék, elöl egy kalapos kertész térdel és palántát ültet – Ki ül az asztalfőre?
+image_alt: "Hosszú terített asztal egy kertben, egyik oldalon elszáradt fák, a másikon gyümölcsfa; elöl egy kertész palántát ültet"
+lead: "Az ember egy kertbe érkezett, amelyet nem ő ültetett, és egyetlen dolgot kértek tőle: hogy gondozza. Ma mindenki asztalhoz akar ülni – de ki megy ki holnap reggel a kertbe? Ez az írás a gazda és a tulajdonos különbségéről szól, és arról, mi a mi dolgunk a ránk bízott világban."
+kerdes: "Mi az a kis „kert” az életedben, amelyet gondozni kaptál – és hogyan gondozod?"
 ---
 
 **Máté Domokos kérdése:**

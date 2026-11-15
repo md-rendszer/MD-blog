@@ -2,7 +2,9 @@
 title: Nagyvárad a történelmi hitelesség nagyítója alatt
 date: 2026-11-03 19:10:00
 image: 2026/nagyvarad-a-tortenelmi-hitelesseg-nagyitoja-alatt.avif
-image_alt: Nagyító egy stilizált székesegyház fölött, mellette a videó állításainak ellenőrzése – Nagyvárad a történelmi hitelesség nagyítója alatt
+image_alt: "Nagyító egy stilizált székesegyház fölött, mellette a videó állításainak ellenőrzése"
+lead: "Egy szép videó Nagyváradról sok igazat mond – de két állítása nem áll meg a tények előtt. Állításról állításra megnéztük, mi hiteles és mi legenda a város történetében. Ha szereted a múltunkat, és fontos neked, hogy igazul szeresd, ez az írás neked szól."
+kerdes: "Melyik az a történelmi „tény”, amelyről később kiderült számodra, hogy inkább legenda volt?"
 ---
 
 <https://www.youtube.com/shorts/5IN3xxVjV3c>

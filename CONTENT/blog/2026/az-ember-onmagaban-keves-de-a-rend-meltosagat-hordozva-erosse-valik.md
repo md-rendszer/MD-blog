@@ -4,6 +4,8 @@ date: 2026-04-18 13:32:15
 image: 2026/az-ember-onmagaban-keves-de-a-rend-meltosagat-hordozva-erosse-valik.avif
 image_alt: Az ember önmagában kevés,de a Rend méltóságát hordozva erőssé válik.
 alias: az-ember-onmagaban-kevesde-a-rend-meltosagat-hordozva-erosse-valik
+lead: "Az ember nem önmagától nagy, hanem attól, amit méltón hordoz. Minél inkább hordozza a REND méltóságát, annál nagyobb ereje támad a helyes élethez. Ez a rövid írás egyetlen mondatban sűríti, honnan ered a valódi erő."
+kerdes: "Mikor érezted magad igazán erősnek – és mi volt az, amit akkor hordoztál?"
 ---
 
 Az ember nem önmagától nagy, hanem attól, amit méltón hordoz. Minél inkább hordozza a Rend méltóságát,  

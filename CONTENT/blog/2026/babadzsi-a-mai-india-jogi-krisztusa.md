@@ -3,6 +3,8 @@ title: Bábádzsí, a mai India jógi-Krisztusa…(?)…
 date: 2026-01-11 17:26:17
 image: 2026/babadzsi-a-mai-india-jogi-krisztusa.avif
 image_alt: Bábádzsí, a mai India jógi-Krisztusa…(?)…
+lead: "Paramahansza Jógánanda „a mai India jógi-Krisztusának” nevezte Mahávatár Bábádzsít az Egy jógi önéletrajza című könyvében. Ez az írás bemutatja, ki ő a hagyomány szerint, és miért nevezik így. Ha olvastad Jógánanda könyvét, vagy most ismerkedsz vele, jó kiindulópont."
+kerdes: "Melyik spirituális könyv volt rád a legnagyobb hatással, és mit változtatott az életedben?"
 ---
 
 Igen,

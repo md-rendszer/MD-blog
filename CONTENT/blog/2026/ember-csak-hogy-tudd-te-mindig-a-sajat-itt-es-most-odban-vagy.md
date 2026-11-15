@@ -3,6 +3,8 @@ title: Ember, csak, hogy tudd, Te Mindig a Saját Itt és MOST-odban VAGY!
 date: 2026-10-10 07:42:18
 image: 2026/ember-csak-hogy-tudd-te-mindig-a-sajat-itt-es-most-odban-vagy.avif
 image_alt: Ember, csak, hogy tudd, Te Mindig a Saját Itt és MOST-odban VAGY!
+lead: "Mindig a saját „itt és most”-odban vagy: azon a lépcsőfokon, amely csak a tiéd, és amelyet senki más lépcsőfokával nem cserélhetsz fel. A következő lépés is kizárólag innen indulhat. Ez az írás arra emlékeztet, hogy ne a másokéhoz mérd az utadat."
+kerdes: "Melyik az a lépcsőfok, amelyen most állsz – és mi lenne innen a következő, egészen kicsi lépésed?"
 ---
 
 Ember, az Önmagad felé vezető lépcsőn, az ITT ÉS MOST lépcsőfokon VAGY, mely lépcsőfok egyedül a Te “ITTED” – “MOSTOD”, abból nincs több, az egyedül a tiéd, és amely lépcsőfok senki más lépcsőfokával fel nem cserélhető, nem helyettesíthető, a következő önmagadhoz “emelkedő” saját “lépcsőfok” is kizárólag innen, erről a saját lépcsőfokról, amelyen épp MOST VAGY, látható!  

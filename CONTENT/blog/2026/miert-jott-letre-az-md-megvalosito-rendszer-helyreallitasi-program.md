@@ -3,6 +3,8 @@ title: Miért jött létre az “MD Megvalósító Rendszer – Helyreállítás
 date: 2026-09-01 20:25:40
 image: 2026/miert-jott-letre-az-md-megvalosito-rendszer-helyreallitasi-program.avif
 image_alt: Miért született meg az MD Megvalósító Rendszer
+lead: "Ki az a Máté Domokos, és miért hozta létre az MD Megvalósító Rendszert? Ez az írás elmondja, honnan indultam – Lövétéről Kerepesig –, és milyen hiány szülte meg a Programot: a használható, mindennapi életvezetési tudás hiánya. Ha szeretnéd tudni, kinek a tapasztalatára építesz, itt kezdd."
+kerdes: "Neked mi hiányzott a legjobban abból, amit az iskolában vagy otthon az életvezetésről tanultál?"
 ---
 
 Máté Domokos, Kerepes (Lövéte)…(?)…

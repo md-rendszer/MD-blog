@@ -2,7 +2,9 @@
 title: A víz nem kér útlevelet – A REND törvénye és az emberi törvény
 date: 2026-11-13 07:30:00
 image: 2026/a-viz-nem-ker-utlevelet-a-rend-torvenye-es-az-emberi-torveny.avif
-image_alt: Drámai, sötét viharos ég villámokkal, alatta hegykoszorú sziluettje. A hegyek közül arany fényben ragyogó folyó ömlik előre, és átfolyik egy piros szaggatott határvonalon és egy szétszakadt drótkerítésen. Felirat: A víz nem kér útlevelet. A REND törvénye és az emberi törvény, amit a Kárpát-medence tanít. Alul: A REND nem vitatkozik. Egyszerűen működik tovább, és kiderül.
+image_alt: "Viharos ég alatt hegykoszorú, közöttük arany fényben ragyogó folyó, amely átfolyik egy szétszakadt határkerítésen"
+lead: "Emberi törvény nem védte a Kárpát-medence földrajzi egységét – de van egy másik törvény, amely nem kér engedélyt. A víz nem kér útlevelet: az árvizek és a szennyezések minden határon átjutnak. Ez az írás megmutatja, hogyan mutatja be a valóság a számlát, ha az emberi törvény eltér a REND törvényétől."
+kerdes: "Hol tapasztaltad meg, hogy egy mesterséges határ nem állította meg azt, ami összetartozik?"
 ---
 
 *A REND nem közeledik — kiderül.*

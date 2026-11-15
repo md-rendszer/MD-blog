@@ -3,6 +3,8 @@ title: Kérlek, jellemezd számomra a régi és az új székely nemzeti himnuszt
 date: 2026-05-25 06:22:13
 image: 2026/kerlek-jellemezd-szamomra-a-regi-es-az-uj-szekely-nemzeti-himnuszt.avif
 image_alt: Kérlek, jellemezd számomra a régi és az új székely nemzeti himnuszt!
+lead: "A „régi” és az „új” székely himnusz két teljesen eltérő eredetű és hangulatú ének: az egyik bensőséges Mária-ének, a másik a Trianon utáni fájdalomból született nemzeti fohász. Ez az írás bemutatja mindkettőt, és azt is, mit üzennek ma a székelységnek – és mindannyiunknak."
+kerdes: "Melyik dal vagy ének köt téged a legerősebben a szülőföldedhez vagy a gyökereidhez?"
 ---
 
 A köznyelvben **„régi” és „új” székely himnuszként** emlegetett két ének valójában két teljesen eltérő eredetű, hangulatú és funkciójú mű. Míg a „régi” egy mélyen vallásos, bensőséges Mária-ének, addig az „új” (a hivatalos) egy XX. századi, a Trianon utáni fájdalomból született nemzeti fohász. [[1](https://hu.wikipedia.org/wiki/Sz%C3%A9kely_himnusz), [2](https://nemzetikonyvtar.blog.hu/2021/07/22/a_szekely_himnusz_ritmusarol_es_harom_szovegvaltozatarol), [3](https://naput.hu/index.php/g-mainmenu-30/1360-regi-szekelyhimnusz)]

@@ -3,6 +3,8 @@ title: A Lét tudománya / Ismertető és az “MD Megvalósító Rendszer – �
 date: 2026-05-30 06:41:05
 image: 2026/image-171d20150f2881233021.avif
 image_alt: A Lét tudománya / Ismertető és az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” kapcsolata…(?)…
+lead: "„Nemzedékről nemzedékre az ember újjászületik” – így kezdődik Maharishi Mahesh Yogi A Lét tudománya és az élet művészete című könyve. Ez az írás bemutatja, hol kapcsolódik ez a mű az MD Megvalósító Rendszerhez: az ép test, a tiszta gondolkodás és a kiteljesedett élet közös céljában."
+kerdes: "Mi kellene neked ahhoz, hogy elegendő életerőd legyen arra, amit az életben szeretnél?"
 ---
 
 > [A Lét tudománya / Ismertető](https://vaszistha.hu/a-let-tudomanya/ismerteto/)

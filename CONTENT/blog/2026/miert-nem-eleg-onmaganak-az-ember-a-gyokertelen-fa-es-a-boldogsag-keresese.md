@@ -3,6 +3,8 @@ title: Miért nem elég önmagának az ember? – A gyökértelen fa és a boldo
 date: 2026-10-04 08:58:15
 image: 2026/miert-nem-eleg-onmaganak-az-ember-a-gyokertelen-fa-es-a-boldogsag-keresese.avif
 image_alt: Miért nem elég önmagának az ember? – A gyökértelen fa és a boldogság keresése
+lead: "Dolgozunk, gyűjtünk, bizonyítunk – és amikor egy cél teljesül, már jelenik is meg a következő aggodalom. Ez az írás a gyökértelen fa képén keresztül mutatja meg, miért nem elég önmagának az ember, és hol találhat valódi megnyugvást. Ha a siker után is üresnek érzed magad, itt a válasz kezdete."
+kerdes: "Mi az, amiben a gyökereidet érzed – ami akkor is megtart, amikor minden más bizonytalan?"
 ---
 
 **A mai ember sok mindent képes megszerezni, miközben egyre nehezebben találja meg azt, amiben megnyugodhat.**

@@ -3,6 +3,8 @@ title: "Ki irányít valójában bennünket: mi magunk, vagy a fejünkben megsz�
 date: 2026-03-08 06:05:06
 image: 2026/ki-iranyit-valojaban-bennunket-mi-magunk-vagy-a-fejunkben-megszolalo-hang.avif
 image_alt: "Ki irányít valójában bennünket: mi magunk, vagy a fejünkben megszólaló hang?"
+lead: "Van egy hang a fejünkben, amely szinte soha nem hallgat el: kommentál, ítél, aggódik, magyaráz. De valóban ez a hang az, aki vagyunk? Ez az írás megmutatja, mi történik, amikor túl nagy hatalmat adunk neki – és hogyan vehetjük vissza az irányítást."
+kerdes: "Te irányítod a gondolataidat, vagy néha úgy érzed, ők irányítanak téged? Mikor a leginkább?"
 ---
 
 Van egy hang a fejünkben, amely szinte soha nem hallgat el.  

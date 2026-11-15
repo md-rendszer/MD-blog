@@ -3,6 +3,8 @@ title: Amikor a szolga uralkodni kezd – az ego és az emberi elme története
 date: 2026-03-08 07:09:14
 image: 2026/amikor-a-szolga-uralkodni-kezd-az-ego-es-az-emberi-elme-tortenete.avif
 image_alt: "Illusztráció az ego és az emberi elme kapcsolatáról: belső csend és ego-uralom kontrasztja"
+lead: "Van egy hang a fejünkben, amely szinte soha nem hallgat el: kommentál, értékel, aggódik. Az ego segít eligazodni a világban – de mi történik, amikor átveszi az irányítást? Ez az írás megmutatja, hogyan válhat újra eszközzé, és mit tapasztalhatunk meg, amikor már nem uralkodik."
+kerdes: "Mi az a jel nálad, amelyből észreveszed, hogy az egód vette át az irányítást?"
 ---
 
 ## Bevezető

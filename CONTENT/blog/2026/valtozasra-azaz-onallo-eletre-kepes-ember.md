@@ -3,6 +3,8 @@ title: Változásra, azaz önálló életre képes ember
 date: 2026-10-12 18:39:03
 image: 2026/valtozasra-azaz-onallo-eletre-kepes-ember.avif
 image_alt: Változásra, azaz önálló életre képes ember
+lead: "Mit jelent valóban önálló életre képesnek lenni egy olyan világban, ahol a változás megállíthatatlan? Az MD fejlődési útja 16 mérföldkövön vezet végig: a helyzetfelismeréstől a döntésen és a cselekvésen át a hibajavításig. Ha úgy érzed, túl sok mindenben függsz másoktól, ez az írás megmutatja az utat."
+kerdes: "Melyik területen szeretnél a legjobban kevesebb külső irányítással, önállóan dönteni és cselekedni?"
 ---
 
 **Az MD fejlődési útja 16 mérföldkőben**

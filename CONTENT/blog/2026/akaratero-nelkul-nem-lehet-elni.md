@@ -3,6 +3,8 @@ title: Akaraterő nélkül nem lehet élni…(?)…
 date: 2026-01-25 15:50:05
 image: 2026/akaratero-nelkul-nem-lehet-elni.avif
 image_alt: Az akaraterő a hajtóerőnk
+lead: "Az akarat a hajtóerőnk: még a kezünk megmozdításához is szükség van rá. Jógánanda A siker törvénye című könyve arról szól, hogyan erősíthetjük az akaratot, és hogyan kapcsolhatjuk össze a helyes iránnyal. Ha úgy érzed, gyenge az akaraterőd, ez az ajánló neked szól."
+kerdes: "Miben erős az akaraterőd – és miben érzed, hogy cserben hagy?"
 ---
 
 Az AKARAT a HAJTÓERŐNK!

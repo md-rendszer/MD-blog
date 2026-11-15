@@ -3,6 +3,8 @@ title: "A hazatérés ereje: Mit tanít nekünk ma a tékozló fiú története?
 date: 2026-05-25 12:59:35
 image: 2026/a-hazateres-ereje-mit-tanit-nekunk-ma-a-tekozlo-fiu-tortenete.avif
 image_alt: "A hazatérés ereje: Mit tanít nekünk ma a tékozló fiú története?"
+lead: "Mindannyian követtünk már el olyan hibát, amely után úgy éreztük, nincs visszaút. A tékozló fiú története erről a mélypontról szól – és az azt követő, felfoghatatlan kegyelemről. Ez az írás lépésről lépésre bontja ki, mit tanít ma nekünk a hazatérés ereje."
+kerdes: "Ki várt rád kitárt karokkal, amikor a legkevésbé érezted, hogy megérdemled?"
 ---
 
 A fiú, aki mindent elveszített, és az apa, aki mindent visszaadott

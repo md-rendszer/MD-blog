@@ -2,7 +2,9 @@
 title: Megúszni vagy vállalni? – A felelősségvállalás útja a könnyebb helyett
 date: 2026-11-08 14:05:00
 image: 2026/meguszni-vagy-vallalni.avif
-image_alt: Törtfehér háttér, dupla arany keret. Bal oldalon egy kényelmesen lefelé kanyargó bordó út, amely a végén összegubancolódik (MEGÚSZNI – ma könnyű, holnap nehéz); jobb oldalon egy meredeken felfelé vezető arany lépcsősor, amelynek tetején egy fénylő rombusz áll (VÁLLALNI – ma nehéz, holnap méltó). Alul: A következmény nem tűnik el, csak megvárja, hogy ki veszi fel.
+image_alt: "Bal oldalon lefelé kanyargó, végén összegubancolódó út (MEGÚSZNI), jobb oldalon meredeken felfelé vezető, kiegyenesedő út (VÁLLALNI)"
+lead: "Elkésel, és a forgalomra fogod. Elrontasz valamit, és gyorsan találsz valakit, aki „igazából” hibás. A megúszás ma könnyű, de holnap nehéz – a vállalás ma nehéz, de holnap könnyebb. Ez az írás arról szól, miért mérhetetlen a különbség a két út között."
+kerdes: "Mikor választottad utoljára a megúszást a vállalás helyett – és mit tennél most másképp?"
 ---
 
 *Lehet, hogy eljött az ideje, hogy ne mindig a megúszásra játsszunk.*

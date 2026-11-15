@@ -2,7 +2,9 @@
 title: Mit remélhetsz az MD-től? – A Program tíz legfontosabb szolgáltatása
 date: 2026-11-12 15:40:00
 image: 2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa.avif
-image_alt: Törtfehér háttér, dupla arany keret, rombusz díszek. Hét, egyre magasabb lépcsőfok, rajtuk a hét könyv neve: Ébredés, Önismeret, Igazodás, Felelősség, Cselekvés, Közösség, Kiteljesedés. A lépcső tetején világos, íves kapu, benne a felirat: Rendeltetett Méltóság. Cím: Mit remélhetsz az MD-től? A Program tíz legfontosabb szolgáltatása.
+image_alt: "Hét egyre magasabb lépcsőfok a hét könyv nevével, a tetején egy íves kapu"
+lead: "Mit kap az, aki elindul az MD Megvalósító Rendszer útján, és mit remélhet tőle? Ebben az írásban súlyozva gyűjtöttem össze a Program tíz legfontosabb szolgáltatását, az alapkönyvtől a befejező kötetig. Ha azon gondolkodsz, érdemes-e elindulnod, itt minden lényeges egy helyen."
+kerdes: "A tíz szolgáltatás közül melyikre lenne most a legnagyobb szükséged – és miért?"
 ---
 
 *A méltóság nem tökéletesség, hanem következetesség.*

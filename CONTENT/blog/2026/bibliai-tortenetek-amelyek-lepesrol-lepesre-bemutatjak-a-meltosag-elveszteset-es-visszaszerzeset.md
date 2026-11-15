@@ -3,6 +3,8 @@ title: Bibliai történetek, amelyek lépésről lépésre bemutatják a méltó
 date: 2026-10-03 09:19:56
 image: 2026/bibliai-tortenetek-amelyek-lepesrol-lepesre-bemutatjak-a-meltosag-elveszteset-es-visszaszerzeset.avif
 image_alt: Bibliai történetek, amelyek lépésről lépésre bemutatják a méltóság elvesztését és visszaszerzését…(?)…
+lead: "A tékozló fiú és Zákeus története lépésről lépésre mutatja meg, hogyan veszíti el az ember a méltóságát, és hogyan szerzi vissza. Ez az írás térképként használja a két történetet a sérült önbecsüléstől a helyreállított önazonosságig. Ha te is úton vagy hazafelé, ismerős lesz."
+kerdes: "A két történet közül melyikben ismersz magadra jobban – a tékozló fiúéban vagy Zákeuséban?"
 ---
 
 A Biblia elbeszélései közül kettő különösen tűpontosan, **lépésről lépésre modellezi a méltóság elvesztésének és visszaszerzésének** folyamatát.

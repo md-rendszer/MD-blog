@@ -37,6 +37,9 @@ FEED_SIZE = 20
 # Hozzászólások: Hyvor Talk (talk.hyvor.com). Üresen hagyva nincs hozzászólás-mező.
 # A Website ID nem titkos, a Hyvor Talk konzoljában látható.
 HYVOR_WEBSITE_ID = os.environ.get("HYVOR_WEBSITE_ID", "").strip()
+# Olvasói visszajelzés (Tetszett? + három kérdés). Amíg nincs SalesAutopilot-űrlap,
+# a válasz e-mailben érkezik erre a címre.
+FEEDBACK_EMAIL = os.environ.get("FEEDBACK_EMAIL", "kapcsolat@mdmegvalositorendszer.hu").strip()
 MD = markdown.Markdown(extensions=["extra", "sane_lists", "smarty"])
 IMAGE_MANIFEST_PATH = CONTENT / "images" / "_manifest.json"
 IMAGE_MANIFEST: dict[str, dict] = {}
@@ -57,6 +60,8 @@ class Document:
     image_alt: str
     path: Path
     alias: str
+    lead: str = ""
+    kerdes: str = ""
 
 
 def split_frontmatter(text: str, path: Path) -> tuple[dict[str, str], str]:
@@ -90,6 +95,8 @@ def load_document(path: Path) -> Document:
         image_alt=metadata.get("image_alt", ""),
         path=path,
         alias=metadata.get("alias", ""),
+        lead=metadata.get("lead", ""),
+        kerdes=metadata.get("kerdes", ""),
     )
 
 
@@ -426,10 +433,16 @@ def featured_image(document: Document, class_name: str) -> str:
 
 
 def post_card(post: Document) -> str:
-    image = featured_image(post, "post-card-image")
+    # A kártyán a kép díszítő: a cím ugyanabban a linkben áll, ezért üres alt,
+    # különben a képleírás a cikk-kivonat elé kerülne (Google, felolvasók).
+    image = featured_image(post, "post-card-image").replace(
+        f'alt="{html.escape(post.image_alt or post.title, quote=True)}"', 'alt=""', 1
+    )
     post_url = href(f"/blog/{urllib.parse.quote(post.slug, safe='-_.~')}/")
+    lead = post.lead or plain_excerpt(post, 220)
     return f"""<article class="post-card">
   <a class="post-card-link" href="{post_url}">{image}<h2>{html.escape(post.title)}</h2></a>
+  <p class="post-card-lead">{html.escape(lead)}</p>
   <time datetime="{html.escape(datetime_attribute(post.date))}">{html.escape(date_label(post.date))}</time>
 </article>"""
 
@@ -546,6 +559,58 @@ if (navigator.share) {{
     b.addEventListener('click', function () {{ navigator.share({{ title: b.dataset.title, url: b.dataset.url }}).catch(function () {{}}); }});
   }});
 }}
+</script>"""
+
+
+def closing_question(post: Document) -> str:
+    if not post.kerdes:
+        return ""
+    target = "#hozzaszolasok" if HYVOR_WEBSITE_ID else "#visszajelzes"
+    return f"""<aside class="closing-question" aria-label="Kérdés hozzád">
+  <p class="closing-question-label">Kérdés hozzád</p>
+  <p class="closing-question-text">{html.escape(post.kerdes)}</p>
+  <a class="closing-question-link" href="{target}">Írd meg a válaszodat ↓</a>
+</aside>"""
+
+
+def feedback_section(post: Document, url: str) -> str:
+    attr = lambda value: html.escape(value, quote=True)
+    return f"""<section class="feedback" id="visszajelzes" aria-label="Visszajelzés" data-slug="{attr(post.slug)}" data-title="{attr(post.title)}" data-url="{attr(url)}" data-email="{attr(FEEDBACK_EMAIL)}">
+  <p class="feedback-title">Tetszett ez az írás?</p>
+  <div class="feedback-vote" role="group" aria-label="Tetszett?">
+    <button type="button" class="feedback-btn" data-vote="Tetszett" aria-pressed="false">👍 Tetszett</button>
+    <button type="button" class="feedback-btn" data-vote="Nem igazán" aria-pressed="false">🤔 Nem igazán</button>
+  </div>
+  <form class="feedback-form" hidden>
+    <label>Mi tetszett, vagy mi nem – és miért?<textarea name="miert" rows="3"></textarea></label>
+    <label>Mi hiányzott? Mire kerested még a választ?<textarea name="hiany" rows="3"></textarea></label>
+    <label>Válaszod a cikk végi kérdésre (ha van kedved):<textarea name="valasz" rows="3"></textarea></label>
+    <button type="submit" class="share-btn feedback-send">Elküldöm a visszajelzésem</button>
+    <p class="feedback-note">A küldés a levelezőprogramodat nyitja meg, a szöveg már benne lesz. Minden visszajelzést elolvasok, és a gyakori kérdésekre írásban is válaszolok.</p>
+  </form>
+  <p class="feedback-thanks" hidden>Köszönöm, hogy megírtad! Minden visszajelzés segít, hogy a következő írás még pontosabban szóljon.</p>
+</section>
+<script>
+document.querySelectorAll('.feedback').forEach(function (box) {{
+  var form = box.querySelector('.feedback-form'), vote = '';
+  box.querySelectorAll('.feedback-btn').forEach(function (b) {{
+    b.addEventListener('click', function () {{
+      vote = b.dataset.vote;
+      box.querySelectorAll('.feedback-btn').forEach(function (o) {{ o.setAttribute('aria-pressed', o === b ? 'true' : 'false'); }});
+      form.hidden = false;
+      try {{ localStorage.setItem('md-vote-' + box.dataset.slug, vote); }} catch (e) {{}}
+    }});
+  }});
+  form.addEventListener('submit', function (ev) {{
+    ev.preventDefault();
+    var f = form.elements;
+    var body = 'Írás: ' + box.dataset.title + '\n' + box.dataset.url + '\n\nTetszett? ' + (vote || '-') +
+      '\n\nMi tetszett / mi nem és miért:\n' + f.miert.value + '\n\nMi hiányzott:\n' + f.hiany.value +
+      '\n\nVálasz a kérdésre:\n' + f.valasz.value + '\n';
+    window.location.href = 'mailto:' + box.dataset.email + '?subject=' + encodeURIComponent('Visszajelzés: ' + box.dataset.title) + '&body=' + encodeURIComponent(body);
+    form.hidden = true; box.querySelector('.feedback-thanks').hidden = false;
+  }});
+}});
 </script>"""
 
 
@@ -707,7 +772,7 @@ def write_feed(path: Path, posts: list[Document]) -> None:
             f"    <link>{html.escape(link)}</link>\n"
             f"    <guid isPermaLink=\"true\">{html.escape(link)}</guid>\n"
             + (f"    <pubDate>{published}</pubDate>\n" if published else "")
-            + f"    <description>{html.escape(plain_excerpt(post))}</description>\n"
+            + f"    <description>{html.escape(post.lead or plain_excerpt(post))}</description>\n"
             "  </item>"
         )
     last_build = rfc822_date(posts[0].date) if posts else ""
@@ -821,11 +886,13 @@ def main() -> None:
         body = document_body(post)
         post_url = f"{SITE_URL}{BASE_PATH}/blog/{urllib.parse.quote(post.slug, safe='-_.~')}/"
         image_url, image_width, image_height = share_image(post, body)
-        excerpt = share_excerpt(body) or post.title
+        excerpt = post.lead or share_excerpt(body) or post.title
         content = f"""<article class="page-content article">
   {featured_image(post, "featured-image")}
   <header class="article-header"><h1>{html.escape(post.title)}</h1>{share_top(post_url, post.title)}</header>
   <div class="prose">{body}</div>
+  {closing_question(post)}
+  {feedback_section(post, post_url)}
   {share_bar(post_url, post.title)}
   {comments_section(post, post_url)}
   {post_navigation(posts, index)}

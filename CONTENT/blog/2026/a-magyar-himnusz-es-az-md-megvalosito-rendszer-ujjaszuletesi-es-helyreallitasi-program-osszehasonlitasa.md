@@ -3,6 +3,8 @@ title: A magyar himnusz és az MD Megvalósító Rendszer – Újjászületési 
 date: 2026-05-24 15:21:00
 image: 2026/a-magyar-himnusz-es-az-md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program-osszehasonlitasa.avif
 image_alt: A magyar himnusz és az MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program összehasonlítása…(?)…
+lead: "Miben cseng egybe Kölcsey Himnusza és az MD Megvalósító Rendszer, és miben tér el markánsan? Ez az írás egy klasszikus nemzeti alapművet és egy mai helyreállítási programot vet össze: a bűnbánattól és a fohásztól az igazodáson át a cselekvésig."
+kerdes: "A Himnusz melyik sora szól hozzád a legerősebben ma – és miért?"
 ---
 
 Miben vág egyben a magyar nemzeti himnusz és az MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program, és miben tér el markánsan egymástól?  

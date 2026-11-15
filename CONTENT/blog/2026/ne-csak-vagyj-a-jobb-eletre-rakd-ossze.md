@@ -3,6 +3,8 @@ title: Ne csak vágyj a jobb életre – Rakd össze!
 date: 2026-09-16 17:55:18
 image: 2026/ne-csak-vagyj-a-jobb-eletre-rakd-ossze.avif
 image_alt: Ne csak vágyj a jobb életre – Rakd össze!
+lead: "Este, az ágyban fekve meg tudnád mondani, hogy jobb volt-e a mai napod, mint a tegnapi? Ha csak egy homályos érzés van benned, ez az írás neked szól. Öt egyszerű napi mérőszámot ad, amelyekkel lépésről lépésre visszamérheted, merre halad az életed."
+kerdes: "Ha ma este egyetlen dolgot mérnél vissza a napodból, mi lenne az?"
 ---
 
 Ne csak várd a jobb életet – mérd vissza!

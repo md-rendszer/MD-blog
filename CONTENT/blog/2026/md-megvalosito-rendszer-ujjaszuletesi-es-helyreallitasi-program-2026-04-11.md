@@ -4,6 +4,8 @@ date: 2026-04-11 11:57:35
 image: 2026/md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program-2026-04-11.avif
 image_alt: MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program 2026.04.11
 alias: md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program-4
+lead: "Ez nem egy újabb könyv arról, mit kellene tenni, és nem is egy lehetőség a sok közül. Az első kötet tartalomjegyzéke és bevezetője arról szól, hogy amíg még van idő, az ember helyreállíthatja, ami elromlott. A kérdés nem az, hogy tetszik-e, hanem az, hogy időben megtesszük-e."
+kerdes: "Mi az, amiről úgy érzed, időben kellene megtenned, mielőtt késő lesz?"
 ---
 
 I. KÖNYV – VÉGLEGES TARTALOMJEGYZÉK

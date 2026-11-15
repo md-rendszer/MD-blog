@@ -3,6 +3,8 @@ title: Filmek tükrében II. – MD Megvalósító Rendszer – Újjászületés
 date: 2026-08-29 09:29:30
 image: 2026/filmek-tukreben-ii-md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program.avif
 image_alt: Filmek tükrében II. – MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program
+lead: "Mely filmekben ismerhetők fel az MD Megvalósító Rendszer gondolatai – a belső zaj elcsendesítése, az újrakezdés és a Forráshoz való visszatalálás? Ez a második válogatás olyan filmeket ajánl, amelyek után másképp nézhetsz a saját utadra. Egy jó estéhez és egy jó beszélgetéshez is ajánlom."
+kerdes: "Melyik film változtatott a legtöbbet azon, ahogyan a saját életedre nézel?"
 ---
 
 Kérlek, találj számomra olyan filmeket, melyekben felismerhetőek az MD Megvalósító Rendszer – Újjászületési és Helyreállítási program ajánlásai!

@@ -3,6 +3,8 @@ title: Aki “elénk teszi” magát…(?)…
 date: 2026-08-29 15:44:19
 image: 2026/aki-elenk-teszi-magat.avif
 image_alt: Aki elénk teszi magát
+lead: "Ha valaki tanítónak, mesternek, prófétának vagy „felsőbb forrás közvetítőjének” nevezi magát, attól még nem válik azzá – az önmegnevezés csak állítás, nem bizonyíték. Ez az írás megmutatja, mi a döntő kérdés, mielőtt bárkinek hitet vagy követést adnál."
+kerdes: "Mi az, aminek teljesülnie kell ahhoz, hogy valakit tanítódnak fogadj el?"
 ---
 
 Ha bárki — bármilyen hangzatos megnevezéssel — elénk helyezi magát, és tanítónak, mesternek, prófétának, beavatottnak, vezetőnek vagy „felsőbb forrás közvetítőjének” minősíti önmagát, attól még nem válik azzá.

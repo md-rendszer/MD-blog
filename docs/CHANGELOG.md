@@ -1,5 +1,18 @@
 # Változásnapló
 
+## [Kiadatlan]
+
+### Hozzáadva
+
+- Minden bejegyzés kártyáján 2–3 mondatos bevezető (lead) olvasható a képleírás helyett; ugyanez jelenik meg a Google-találatban és a Facebook-előnézetben.
+- Minden bejegyzés végén kiemelt, nyitott „Kérdés hozzád” doboz áll.
+- „Tetszett ez az írás?” visszajelzés: tetszik / nem igazán, majd három rövid kérdés (mi tetszett és miért, mi hiányzott, válasz a kérdésre); a válasz egyelőre e-mailben érkezik.
+- A Hyvor Talk hozzászólások a `HYVOR_WEBSITE_ID` repóváltozó beállításával bekapcsolhatók.
+
+### Javítva
+
+- A kártyaképek alternatív szövege nem kerül többé a cikk címe elé; a túl hosszú képleírások rövid, egymondatos leírást kaptak.
+
 ## [v2.0.0]
 
 ### Hozzáadva

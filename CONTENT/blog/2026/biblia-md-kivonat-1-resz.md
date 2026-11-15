@@ -2,6 +2,8 @@
 title: BIBLIA – MD KIVONAT (1. RÉSZ)
 date: 2026-05-08 19:26:04
 image: -
+lead: "A Teremtés könyvétől a Példabeszédekig: a Biblia első könyveinek tanítása tömören, az MD szemszögéből. Az ember rendeltetett lény, a rendezetlen világ gyökere pedig a rendezetlen ember. Ez a kivonat-sorozat első része, amely könyvről könyvre halad."
+kerdes: "Melyik bibliai könyv vagy történet beszél hozzád a legerősebben – és miért?"
 ---
 
 ## *Teremtés könyvétől a Példabeszédekig*

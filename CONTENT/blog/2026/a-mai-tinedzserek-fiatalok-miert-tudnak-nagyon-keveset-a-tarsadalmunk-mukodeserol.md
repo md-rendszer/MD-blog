@@ -3,6 +3,8 @@ title: A mai tinédzserek, fiatalok, miért tudnak nagyon keveset a társadalmun
 date: 2026-10-10 17:47:12
 image: 2026/a-mai-tinedzserek-fiatalok-miert-tudnak-nagyon-keveset-a-tarsadalmunk-mukodeserol.avif
 image_alt: A mai tinédzserek, fiatalok, miért tudnak nagyon keveset a társadalmunk működéséről…(?)…
+lead: "Miért tudnak a mai fiatalok – és nem csak ők – keveset arról, hogyan működik valójában a társadalmunk? Ez az írás megmutatja, hogy nem lustaságról, hanem mélyebb, rendszerszintű okokról van szó. Ha szülő, nagyszülő vagy tanító vagy, itt kapaszkodót találsz a beszélgetésekhez."
+kerdes: "Mit tanítanál meg legszívesebben egy fiatalnak arról, hogyan működik az élet és a társadalom?"
 ---
 
 Miért, mitől van az, mi az oka annak, hogy a mai tinédzserek, fiatalok, (de nem csak ők\*) nagyon keveset tudnak a társadalmunk működéséről, és amit tudnak, az sem fedi a valós állapotokat…(?)…  

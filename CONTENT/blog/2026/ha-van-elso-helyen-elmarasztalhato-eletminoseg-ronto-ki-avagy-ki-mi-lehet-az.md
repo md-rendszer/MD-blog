@@ -3,6 +3,8 @@ title: Ha van első helyen elmarasztalható életminőség rontó, ki avagy ki �
 date: 2026-05-30 14:58:39
 image: 2026/ha-van-elso-helyen-elmarasztalhato-eletminoseg-ronto-ki-avagy-ki-mi-lehet-az.avif
 image_alt: Ha van első helyen elmarasztalható életminőség rontó, ki avagy ki – mi lehet az…(?)…
+lead: "Ki rontja leginkább az életünk minőségét? Kényelmetlen, de felszabadító a válasz: többnyire az, ahogyan mi magunk viselkedünk önmagunkkal és másokkal. Ez az írás arra hív, hogy vállaljuk fel a felelősséget a finom és a nehéz életünkért egyaránt."
+kerdes: "Melyik saját szokásod rontja leginkább az életed minőségét – és mit tennél holnap másképp?"
 ---
 
 Ki, kik tette\_tették – teszi\_teszik és tenni fogják az első helyen tönkre tenni a Kárpát-medencében minden téren a magyarság kiváló minőségű életének még a lehetőségét is…(?)…

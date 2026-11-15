@@ -3,6 +3,8 @@ title: Ne gondolkodj rajta. Kezdj el létezni!
 date: 2026-02-08 08:56:30
 image: 2026/image-f9a8b4034dcf75236234.avif
 image_alt: Visszatérés a forráshoz
+lead: "Két út áll előtted: a folytonos belső beszéd, aggódás és rágódás útja, vagy a csend és a jelenlét útja. Ez a rövid, sallangmentes írás az MD Újjászületési Program lényegét foglalja össze. Ha elfáradtál a saját gondolataidban, itt az ajtó kifelé."
+kerdes: "Mi az a gondolat, amelyen a leggyakrabban rágódsz – és mi lenne, ha egy percre csak jelen lennél helyette?"
 ---
 
 Íme az **MD Újjászületési Program** lényege, sallangmentes, tiszta formában:

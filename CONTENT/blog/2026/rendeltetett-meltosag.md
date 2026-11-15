@@ -3,6 +3,8 @@ title: RENDELTETETT MÉLTÓSÁG
 date: 2026-04-19 06:21:54
 image: 2026/rendeltetett-meltosag.avif
 image_alt: RENDELTETETT MÉLTÓSÁG
+lead: "A méltóság nem elismerés és nem érzés, hanem működés: akkor élsz méltóságban, ha azt teszed, amit helyesnek tudsz, és végig is viszed. Ez az írás tömör alapelvet, működési szabályokat és napi ellenőrző kérdéseket ad. Ha úgy érzed, elvesztetted a hozzáférést a saját erődhöz, itt kezdheted a helyreállítást."
+kerdes: "Mi az az egy dolog, amit helyesnek tudsz, de még nem vittél végig – és mi kellene ahhoz, hogy megtedd?"
 ---
 
 ---

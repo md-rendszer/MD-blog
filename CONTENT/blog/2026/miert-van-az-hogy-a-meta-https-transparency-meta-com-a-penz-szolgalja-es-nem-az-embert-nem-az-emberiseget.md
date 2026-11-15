@@ -4,6 +4,8 @@ date: 2026-10-17 11:19:01
 image: 2026/miert-van-az-hogy-a-meta-https-transparency-meta-com-a-penz-szolgalja-es-nem-az-embert.avif
 image_alt: Miért van az, hogy a “meta” https://transparency.meta.com/ a pénz szolgálja és nem az embert, nem az emberiséget?
 alias: miert-van-az-hogy-a-meta-https-transparency-meta-com-a-penz-szolgalja-es-nem-az-embert
+lead: "Miért szolgálják az óriási közösségi platformok elsősorban a profitot, és nem az embert? Ez az írás közérthetően bemutatja a gazdasági és strukturális okokat – és azt is, milyen alternatívák léteznek, ha szeretnéd tudatosabban használni a közösségi médiát."
+kerdes: "Mennyire érzed úgy, hogy te irányítod, mennyi időt töltesz a közösségi médiában – és nem fordítva?"
 ---
 
 A kérdező: Máté Domokos, az “MD Megvalósító Rendszer – Újjászületési és Helyreállító Program” alapítója  

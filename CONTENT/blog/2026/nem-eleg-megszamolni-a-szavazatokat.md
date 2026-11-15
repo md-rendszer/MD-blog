@@ -4,6 +4,8 @@ date: 2026-09-05 07:56:20
 image: 2026/nem-eleg-megszamolni-a-szavazatokat.avif
 image_alt: Nem elég megszámolni a szavazatokat
 alias: nem_eleg_megszamolni_a_szavazatokat_felelos_kozos_megoldasra_van_szukseg
+lead: "Ha a döntéseket a félelem, a gyűlölet és a tájékozatlanság hozza, a szavazatok megszámlálása még nem ad jó megoldást. Ez az írás nem a szavazás ellen szól, hanem amellett, hogy a közös döntéseket meg is kell vizsgálni: felelősen, közösen, mindannyiunk javára."
+kerdes: "Szerinted mi kellene ahhoz, hogy egy közösség ne csak többséggel, hanem bölcsen döntsön?"
 ---
 
 **Felelős, közös megoldásra van szükség…(?)…**

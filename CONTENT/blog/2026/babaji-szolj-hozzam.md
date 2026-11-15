@@ -3,6 +3,8 @@ title: Babaji szólj hozzám!
 date: 2026-08-16 12:05:42
 image: 2026/babaji-szolj-hozzam.avif
 image_alt: Babaji szólj hozzám!
+lead: "Nyugodj meg. Figyeld a légzésed, és engedd el a félelmet. Ez a rövid, csendes írás a belső béke üzenetét adja át azoknak, akik nyugtalan időkben keresnek kapaszkodót. Olvasd lassan, egy mély lélegzetvétellel kezdve."
+kerdes: "Mi az, ami a leggyorsabban visszahoz téged a nyugalomba, amikor felkavarodsz?"
 ---
 
 > **Az alábbi írás személyes, meditatív-spirituális párbeszéd. Nem bizonyítja, hogy Babaji szó szerint vagy ellenőrizhető módon szólt hozzám. A válaszokat lelki értelmezésként közlöm; nem helyettesítik az orvosi, pszichológiai, pénzügyi vagy más szakmai segítséget.**

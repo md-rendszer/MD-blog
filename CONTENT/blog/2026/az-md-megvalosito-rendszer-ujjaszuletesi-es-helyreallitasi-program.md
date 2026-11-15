@@ -3,6 +3,8 @@ title: Az “MD Megvalósító Rendszer – Újjászületési és Helyreállít�
 date: 2026-01-17 21:42:49
 image: 2026/az-md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program.avif
 image_alt: Az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program”
+lead: "Hogyan írja le egy kívülálló, gépi keresés az MD Megvalósító Rendszert? Ez az írás egy ilyen külső összefoglalót mutat meg. A Program hiteles, pontos leírását az Egyértelműsítő Alapvetésben találod."
+kerdes: "Milyen kérdésed lenne az MD-ről, amelyre még nem találtál választ?"
 ---
 
 Az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” egy Máté Domokos (Domi) nevéhez köthető, személyes vagy közösségi jellegű kezdeményezés, ami valószínűleg szellemi, lelki, esetleg fizikai “újraépítésre” fókuszál, és főleg a [Facebook](https://www.facebook.com/mate.domokos/) közösségi oldalon, valamint a hozzá kapcsolódó [matedomokos.com](https://matedomokos.com/) weboldalon (WordPress alapú blog) hirdeti magát, spiritualitást és közösségi építkezést sugallva.

@@ -4,6 +4,8 @@ date: 2026-05-25 09:19:18
 image: 2026/tedd-meg-ott-ahol-vagy-azzal-amid-van-azt-amit-meg-tudsz-tenni.avif
 image_alt: Tedd, amit tudsz, azzal, amid van, ott, ahol vagy!
 alias: tedd-meg-ott-ahol-vagy-azzal-amid-van-azt-amit-meg-tudsz-tenni
+lead: "A tökéletes körülményekre várni a halogatás legkényelmesebb formája. Ez a gondolat arra emlékeztet, hogy a kezdéshez nem hiányzik semmi: az, ami most a kezedben van, elég az első lépéshez. Ha régóta vársz a megfelelő pillanatra, ez az írás neked szól."
+kerdes: "Mi az a dolog, amit már régóta halogatsz – és mi lenne az első lépés, amit ma, azzal, amid van, megtehetsz?"
 ---
 
 Ez a híres idézet **Theodore Roosevelt** egykori amerikai elnöktől származik, és a halogatás elleni küzdelem, valamint a cselekvés legfőbb alapelve.

@@ -3,6 +3,8 @@ title: Cikksorozat-vázlat
 date: 2026-01-25 09:56:46
 image: 2026/a-100-os-felelossegvallalas-alkalmazhatosaga-konkret-konfliktushelyzetben.avif
 image_alt: CSEND - IGAZSÁG - FELELŐSSÉG
+lead: "Miért lett a hallgatás erény, és miért támadják azokat, akik figyelmeztetnek? Ez a vázlat egy háromrészes cikksorozat szerkezetét rögzíti: a csend kultúrájáról, az igazság megbélyegzéséről és a felelősség elutasításáról."
+kerdes: "Melyik résznek látnád szívesen elsőként a kidolgozott változatát?"
 ---
 
 ### **Csend – Igazság – Felelősség**

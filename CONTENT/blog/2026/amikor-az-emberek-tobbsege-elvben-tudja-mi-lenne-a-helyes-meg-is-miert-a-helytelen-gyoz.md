@@ -3,6 +3,8 @@ title: Amikor az emberek többsége elvben tudja, mi lenne a helyes, még is, mi
 date: 2026-03-16 19:20:25
 image: 2026/amikor-az-emberek-tobbsege-elvben-tudja-mi-lenne-a-helyes-meg-is-miert-a-helytelen-gyoz.avif
 image_alt: Amikor az emberek többsége elvben tudja, mi lenne a helyes, még is, miért a helytelen győz…(?)…
+lead: "Miért tér vissza újra és újra az erőszak a történelemben, ha az emberek többsége elvben tudja, mi lenne a helyes? Ez az írás megmutatja, hogy a világ sorsa nem a jó felismerésekor fordul jobbra, hanem amikor az ember meg is cselekszi. És négy gyakorlati utat ad ehhez."
+kerdes: "Melyik helyzetben tudtad, mi lenne a helyes, és mégis a könnyebbet választottad – mi tartott vissza?"
 ---
 
 Igen, szeretném, mutasd meg azt is, hogy a történelemben miért jelenik meg újra és újra az erőszak, még akkor is, amikor az emberek többsége elvben tudja, mi lenne a helyes. Ez az egyik legérdekesebb kérdés az emberi civilizáció történetében!

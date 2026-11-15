@@ -3,6 +3,8 @@ title: Hol tart ma az emberiség, mi a legfőbb mozgató erő, ami az embereket 
 date: 2026-06-28 06:09:06
 image: 2026/hol-tart-ma-az-emberiseg-mi-a-legfobb-mozgato-ero-ami-az-embereket-mozgatja.avif
 image_alt: Hol tart ma az emberiség, mi a legfőbb mozgató erő, ami az embereket mozgatja…(?)…
+lead: "Kevélység, irigység, harag, kapzsiság: a régi erkölcstan hét főbűne ma is pontosan leírja, mi mozgatja az embereket. Ez az írás összeveti a hét főbűnt és a hét erényt, hogy a mai ember is felismerhesse, hol tart – és merre indulhat tovább."
+kerdes: "A hét főbűn közül melyiket ismered fel leginkább a saját mindennapjaidban?"
 ---
 
 **Kevélység / Büszkeség (Superbia):** Önmagunk túlzó szeretete és a vágy, hogy mások fölé emelkedjünk.

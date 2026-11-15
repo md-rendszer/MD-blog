@@ -3,6 +3,8 @@ title: Íme az MD Rendszer alapozó gyakorlata!
 date: 2026-02-08 09:45:16
 image: 2026/image-4c156d6ba202d6452e4b.avif
 image_alt: A Legnagyobb Hatalom
+lead: "A Jelenlét Horgonya az MD Rendszer alapozó gyakorlata: három perc, amit bárki, bárhol, azonnal meg tud csinálni. Nem kell hozzá semmi, csak egy kis megállás. Ha keresed, hol kezdd az utat, ma este próbáld ki – holnap reggel pedig ismételd meg."
+kerdes: "Mikor lesz ma három nyugodt perced, hogy kipróbáld – és mit tapasztaltál utána?"
 ---
 
 Íme az **MD Rendszer** alapozó gyakorlata, amit bárki, bárhol, azonnal meg tud csinálni. Ez a “spirituális járássegítő”, amivel elindulsz a **szat-csit-ánanda** (igazság-tudat-boldogság) felé.

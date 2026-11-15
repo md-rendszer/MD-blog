@@ -3,6 +3,8 @@ title: Carl jung — minden a helyére kerül érted — csak várj egy kicsit! 
 date: 2026-09-20 09:29:57
 image: 2026/carl-jung-minden-a-helyere-kerul-erted-csak-varj-egy-kicsit.avif
 image_alt: A belső rend csendes fénye
+lead: "Ami korábban mozdulatlannak látszott, most irányt kap: semmi sem véletlen, és semmi sem érkezett túl későn. Ez az írás egy Carl Jung gondolataira épülő videóból indul ki, és a csendes bizalomról szól: arról, hogy pontosan ott vagy, ahol lenned kell. Ha türelmetlen vagy a saját utaddal, olvasd el."
+kerdes: "Mi az, amiről most úgy érzed, túl lassan halad – és mit tanulhatsz addig, amíg vársz?"
 ---
 
 <https://www.youtube.com/watch?v=OZRtEQ1sx7A&t=2398s>

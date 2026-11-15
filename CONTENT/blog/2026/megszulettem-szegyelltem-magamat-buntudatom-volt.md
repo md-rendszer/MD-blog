@@ -3,6 +3,8 @@ title: Megszülettem, szégyelltem magamat, bűntudatom volt,
 date: 2026-10-18 08:35:14
 image: 2026/megszulettem-szegyelltem-magamat-buntudatom-volt.avif
 image_alt: Megszülettem, szégyelltem magamat, bűntudatom volt,
+lead: "Szégyen, bűntudat, félelem, harag, büszkeség – végigjártam mindet. Ez a személyes vallomás arról szól, hogyan vált lassan az alázat a sajátommá, és hogyan találtam meg a helyem a teremtett világban. Ha te is cipelsz még szégyent vagy bűntudatot, talán itt találsz bátorítást."
+kerdes: "Melyik érzést hordoztad a legtovább – és mi segített abban, hogy könnyebbé váljon?"
 ---
 
 voltam apátiában, féltem, haragudtam, dühösködtem, voltam nagyon büszke is, de mára már egyre inkább az alázatos viselkedés a sajátom,

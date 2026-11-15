@@ -2,8 +2,10 @@
 title: Rend Kommunikációs Rendszer – Hogyan kezeljük az erőszakos kommunikációt
 date: 2026-03-09 18:28:46
 image: 2026/rend-kommunikacios-rendszer-hogyan-kezeljuk-az-eroszakos-kommunikaciot.avif
-image_alt: "Rend kommunikációs rendszer infografika, amely bemutatja hogyan kezeljük az erőszakos kommunikációt három lépésben: figyelmeztetés, határ kijelölése és kizárás"
+image_alt: "Infografika: az erőszakos kommunikáció kezelése három lépésben – figyelmeztetés, határ kijelölése, kilépés"
 alias: tiszteletteljes-kommunikacio-szabalyzata
+lead: "Személyeskedés, gúny, bűntudatkeltés, manipuláció – a legtöbben nap mint nap találkozunk velük. Ez a rövid protokoll három lépésben mutatja meg, hogyan húzhatsz határt méltósággal, harag nélkül. Ha gyakran kerülsz olyan beszélgetésbe, amelyből megsebezve jössz ki, ez neked szól."
+kerdes: "Melyik erőszakos kommunikációs formával találkozol a leggyakrabban – és hogyan szoktál rá reagálni?"
 ---
 
 (Önkéntes részvételen alapuló protokoll)

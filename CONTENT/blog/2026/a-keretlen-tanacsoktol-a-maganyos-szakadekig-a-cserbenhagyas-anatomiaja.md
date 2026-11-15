@@ -3,6 +3,8 @@ title: "A kéretlen tanácsoktól a magányos szakadékig: A cserbenhagyás anat
 date: 2026-10-18 15:38:01
 image: 2025/image-25ecd655f7cc4a876a08.avif
 image_alt: "A kéretlen tanácsoktól a magányos szakadékig: A cserbenhagyás anatómiája…(?)…"
+lead: "Amíg a baj csak körvonalazódik, mindenki tanácsadóvá válik; amikor lecsap, a tömeg elpárolog, és csak annyit mond: „Én megmondtam.” Ez az írás lépésről lépésre mutatja meg a cserbenhagyás folyamatát – és azt, mi az, ami valóban megtart, amikor nagy a baj."
+kerdes: "Ki állt melletted, amikor igazán nagy volt a baj – és te kinek állhatnál most mellé?"
 ---
 
 Az emberi tapasztalás egyik legkeserűbb, legősibb valósága fogalmazódik meg ebben a felismerésben: amíg a baj csak körvonalazódik, hirtelen mindenki szakértővé, tanácsadóvá és prófétává lép elő; amikor azonban a baj valóban lecsap és menthetetlenné válik a helyzet, a hangos tömeg csendben elpárolog, hátrahagyva a cinikus vádat: *„Én megmondtam.”*

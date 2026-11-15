@@ -4,6 +4,8 @@ date: 2026-05-17 17:14:15
 image: 2026/az-otthon.avif
 image_alt: Az OTTHON, avagy induljunk hazafelé!
 alias: az-otthon
+lead: "Emlékezz arra, aki vagy; ismerd fel, értsd meg, éld meg – és amikor mindez megtörténik, otthon találod magad. Ez az írás a szellemi és önismereti hazatalálásról szól, egy csecsemő első lépéseinek képén keresztül. Ha úgy érzed, eltávolodtál önmagadtól, induljunk együtt hazafelé."
+kerdes: "Mi az, ami a leginkább emlékeztet arra, ki vagy valójában?"
 ---
 
 Emlékezz arra, Aki – Ami VAGY, ismerd fel azt, Aki – Ami VAGY, értsd meg, Aki – Ami VAGY, éld meg azt, Aki – Ami VAGY! És amikor mindez megtörténik, OTTHON TALÁLOD MAGAD!

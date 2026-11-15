@@ -2,7 +2,9 @@
 title: Ölni – csak hogy igaza legyen?
 date: 2026-11-06 05:30:00
 image: 2026/olni-csak-hogy-igaza-legyen.avif
-image_alt: Sötét lépcső indul lefelé egy koronás, kardot emelő alaktól, aki azt kiáltja: „igazam van!”; a lépcsőfokokon ez áll: nem hallgat meg, címkéz, lekicsinyel, elhallgattat, kizár, eltöröl, a lépcső alján vörösen izzó gödör; jobbra, egyenes talajon egy ember lámpást tart – Ölni – csak hogy igaza legyen?
+image_alt: "Sötét lépcső vezet lefelé egy kardot emelő, „igazam van!”-t kiáltó alaktól; a fokokon: nem hallgat meg, címkéz, lekicsinyel, kizár"
+lead: "Képes-e az ember ölni csak azért, hogy igaza legyen? A történelem és a hírek szerint igen – a kényelmetlenebb fele a válasznak pedig az, hogy ez az ember nem „valaki más”. Ez az írás lépcsőfokonként mutatja meg, hogyan vezet le az „igazam van” a címkézéstől a kizárásig, és hol lehet megállni."
+kerdes: "Te mikor vetted észre utoljára, hogy egy vitában fontosabb lett az igazad, mint a másik ember?"
 ---
 
 **Máté Domokos kérdése:**

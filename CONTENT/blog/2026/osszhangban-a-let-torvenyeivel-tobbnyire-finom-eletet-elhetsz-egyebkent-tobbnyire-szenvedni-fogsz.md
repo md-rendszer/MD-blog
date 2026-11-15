@@ -3,6 +3,8 @@ title: Összhangban a "LÉT" törvényeivel többnyire "finom" életet élhetsz,
 date: 2026-11-01 07:48:00
 image: 2026/osszhangban-a-let-torvenyeivel-tobbnyire-finom-eletet-elhetsz-egyebkent-tobbnyire-szenvedni-fogsz.avif
 image_alt: Összhangban a lét törvényeivel – vándor az omladozó légvár és a napfényes ösvény között
+lead: "Aki nem ismeri, mit tehet meg szenvedés nélkül és mit nem, akaratlanul is a saját szenvedésének forrásává válik. Ez a rövid, egyenes írás arról szól, hogy a finom élet nem szerencse kérdése, hanem a LÉT törvényeihez való igazodásé. Ha ugyanazokba a falakba ütközöl újra és újra, olvasd el."
+kerdes: "Melyik az a visszatérő szenvedés az életedben, amelyről sejted, hogy nem a véletlen, hanem egy figyelmen kívül hagyott törvény okozza?"
 ---
 
 Bármely ember, aki nem ismeri, érti, tudja, hogy mit tehet meg szenvedés nélkül, és mit nem, óhatatlanul rengeteg szenvedés forrásává válik önmaga számára!

@@ -2,7 +2,9 @@
 title: Jól mondom, ha azt mondom, hogy az egyetlen, ami örök az a változás, az egyetlen, ami mindig elmúlik, az a rögeszme, a dogma…(?)…
 date: 2026-04-12 12:53:09
 image: 2026/jol-mondom-ha-azt-mondom-hogy-az-egyetlen-ami-orok-az-a-valtozas-az-egyetlen-ami-mindig-elmulik-az-a-rogeszme-a-dogma.avif
-image_alt: Jól mondom, ha azt mondom, hogy az egyetlen, ami örök az a változás, az egyetlen, ami mindig elmúlik, az a rögeszme, a dogma…(?)…
+image_alt: "Az írás címképe: a változás és a dogma"
+lead: "Örök-e a változás, és mulandó-e minden dogma? Ez a rövid beszélgetés pontosítja a gyakran idézett gondolatot: a rögeszme előbb-utóbb mindig összeütközik a valósággal. Ha ragaszkodsz valamihez, ami már nem működik, ez az írás neked szól."
+kerdes: "Melyik meggyőződésed változott meg a legjobban az elmúlt években – és mi változtatta meg?"
 ---
 
 Részben igen, de így még nem teljesen pontos.

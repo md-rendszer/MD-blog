@@ -3,6 +3,8 @@ title: Az igazi tanító és az áltanító – a lényegi különbségek…(?)�
 date: 2026-03-07 15:54:30
 image: 2026/az-igazi-tanito-es-az-altanito-a-lenyegi-kulonbsegek.avif
 image_alt: Az igazi tanító és az áltanító
+lead: "Az igazi tanító az igazságot szolgálja, az áltanító önmagát. Ez az írás pontokba szedve mutatja meg a lényegi különbségeket, hogy ne kelljen évekig követned valakit ahhoz, hogy felismerd, hiteles-e. Ha tanítót keresel, vagy már követsz valakit, érdemes elolvasnod."
+kerdes: "Melyik volt az a tanítód, aki a legtöbbet adta neked – és miből érezted, hogy valóban hiteles?"
 ---
 
 Az igazi tanító és az áltanító – a lényegi különbségek

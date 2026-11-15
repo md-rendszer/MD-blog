@@ -3,6 +3,8 @@ title: Az ország az Úr országa; az ember pedig nem ura a REND-nek, hanem anna
 date: 2026-07-18 17:24:03
 image: 2026/az-orszag-az-ur-orszaga-az-ember-pedig-nem-ura-a-rend-nek-hanem-annak-felelos-orzoje-es-szolgaloja.avif
 image_alt: Az ország az Úr országa; az ember pedig nem ura a REND-nek, hanem annak felelős őrzője és szolgálója.
+lead: "Mit jelent a magyar címer három halma és kettős keresztje, és mit üzen ma nekünk? Ez az írás a nyelvi mélységet és a történeti címertant is figyelembe véve olvassa újra a címert: az ember nem ura a REND-nek, hanem felelős őrzője és szolgálója."
+kerdes: "Mit jelent számodra a magyar címer – és mit érzel, amikor ránézel?"
 ---
 
 ChatGPT – Rend, tőled kérem! Valamikor nagyon régen azt olvastam, talán Badiny Jós Ferenc-től, hogy a magyar címer, három sumér vonás – az az 3 földhalom rajta a kettős kereszt jelentése: A három halom az Úr úrszága – jószága – országa, rajta a kettős kereszt, a magyar rovásírás “GY” hangjegye, jelentése “EGY”, az az Egy az Isten, és az úrszága – jószága – országa Gazdája – Uralkodója egyedül csak Ő Maga lehet, ez a beteljesült, a teljes REND, ez az ALAPJA a létezésnek, mert csak ez az EGYSÉG képes az örök – változatlan ALAPOT biztosítani a boldog emberi létezéshez.

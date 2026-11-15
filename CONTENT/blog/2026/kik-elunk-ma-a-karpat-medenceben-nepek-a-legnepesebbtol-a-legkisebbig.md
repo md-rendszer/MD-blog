@@ -3,6 +3,8 @@ title: Kik élünk ma a Kárpát-medencében? – Népek a legnépesebbtől a le
 date: 2026-11-03 20:45:00
 image: 2026/kik-elunk-ma-a-karpat-medenceben-nepek-a-legnepesebbtol-a-legkisebbig.avif
 image_alt: Oszlopdiagram a Kárpát-medence népeiről a legnépesebbtől a legkisebbig, bordó és arany színekben, dupla arany keretben
+lead: "Nagyjából 27 millió ember és legalább 22 nép él ma a Kárpát-medencében. Ez az írás friss népszámlálási adatok alapján sorolja fel őket a legnépesebbtől a legkisebbig – és megmutatja, mit érdemes látni a számok mögött. Ha szeretnéd jobban ismerni a szomszédaidat, itt kezdd."
+kerdes: "Melyik Kárpát-medencei néppel van személyes kapcsolatod – és mit tanultál tőlük?"
 ---
 
 ## Röviden

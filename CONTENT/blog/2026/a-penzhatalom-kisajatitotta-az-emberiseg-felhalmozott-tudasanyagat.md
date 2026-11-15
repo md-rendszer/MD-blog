@@ -3,6 +3,8 @@ title: A pénzhatalom kisajátította az emberiség felhalmozott tudásanyagát�
 date: 2026-10-10 10:04:11
 image: 2026/a-penzhatalom-kisajatitotta-az-emberiseg-felhalmozott-tudasanyagat.avif
 image_alt: A pénzhatalom kisajátította az emberiség felhalmozott tudásanyagát…(?)…
+lead: "Hogyan válik a tudás és a technika bősége az önállóságot szolgáló lehetőségből a kiszolgáltatottság eszközévé? Ez az írás négy formában mutatja meg a függőséget a kényelmi függőségtől az eszközfüggőségig – és egy egyszerű kérdést ad minden új eszközhöz."
+kerdes: "Melyik eszköztől vagy szolgáltatástól függsz a leginkább – és mit tennél, ha holnap eltűnne?"
 ---
 
 **Hogyan válhat a tudás, a technika és a természet bősége az ember önállóságát szolgáló lehetőségből a kiszolgáltatottság eszközévé?**

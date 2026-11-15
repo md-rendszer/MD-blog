@@ -3,6 +3,8 @@ title: Miért nem értették meg Jézust a tanítványai?
 date: 2026-02-21 18:42:14
 image: 2026/miert-nem-ertettek-meg-jezust-a-tanitvanyai.avif
 image_alt: Jézus színeváltozása
+lead: "Az evangéliumokban újra és újra ugyanaz a jelenet ismétlődik: Jézus szolgálatról beszél, a tanítványok rangról és hatalomról gondolkodnak. Ez az írás Carl Jung értelmezésén keresztül mutatja meg, mi akadályozta őket – és mi akadályoz ma minket a megértésben."
+kerdes: "Melyik tanítást értetted félre sokáig, mielőtt egyszer csak világossá vált számodra?"
 ---
 
 **Forrás:**  

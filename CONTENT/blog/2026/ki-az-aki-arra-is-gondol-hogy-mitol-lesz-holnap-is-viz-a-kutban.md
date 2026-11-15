@@ -4,6 +4,8 @@ date: 2026-08-22 14:49:29
 image: 2026/ki-az-aki-arra-is-gondol-hogy-mitol-lesz-holnap-is-viz-a-kutban.avif
 image_alt: A VÍZ VISSZATÉR
 alias: rend-ujabb-gondolat-visszahajtott-hozzad
+lead: "Mindenki merítene a kútból – de ki tesz azért, hogy holnap is legyen benne víz? Egy Kiskunmajsa melletti példán keresztül mutatom meg, mit jelent nemcsak jól élni a természetből, hanem hozzá is járulni. Ha fontos neked, mit hagysz az unokáidra, ez az írás neked szól."
+kerdes: "Mit teszel – akár egészen aprót – azért, hogy a környezeted holnap is megtartson?"
 ---
 
 Rend, újabb gondolat visszahajtott hozzád!

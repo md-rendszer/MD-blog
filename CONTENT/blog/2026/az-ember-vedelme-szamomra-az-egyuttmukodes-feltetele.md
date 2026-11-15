@@ -3,6 +3,8 @@ title: Az ember védelme számomra az együttműködés feltétele
 date: 2026-10-08 18:26:15
 image: 2026/az-ember-vedelme-szamomra-az-egyuttmukodes-feltetele.avif
 image_alt: Az ember védelme számomra az együttműködés feltétele
+lead: "Sem haszon, sem siker, sem közösségi érdek nem igazolhatja, hogy akár egyetlen embernek is ártsunk. Ez az írás azt a határt jelöli ki, amelyhez magamat és az MD Megvalósító Rendszer működését igazítom – és azt is, mikor ér véget az együttműködés."
+kerdes: "Hol húzod meg azt a határt, amelyen túl semmilyen haszonért nem mennél el?"
 ---
 
 **Sem a haszon, sem a siker, sem egy közösség érdeke nem igazolhatja, hogy akár egyetlen embernek is ártsunk. Ez az a határ, amelyhez magamat és az MD Megvalósító Rendszer működését is igazítom.**

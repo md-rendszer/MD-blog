@@ -3,6 +3,8 @@ title: 👉 MD Megvalósító Rendszer – Tudatos Élet Közösség
 date: 2026-03-22 11:16:06
 image: 2026/md-megvalosito-rendszer-tudatos-elet-kozosseg.avif
 image_alt: 👉 MD Megvalósító Rendszer – Tudatos Élet Közösség
+lead: "Ez nem motivációs csoport, hanem működési rendszer: ha alkalmazod, fejlődsz, ha nem, nem. A Tudatos Élet Közösség napi rendje rövid tanításból, kérdésből, hibafelismerésből és visszajelzésből áll. Ha olyan közösséget keresel, ahol nem lelkesedés, hanem napi gyakorlat visz előre, itt a leírás."
+kerdes: "Mi segítene neked a legjobban abban, hogy egy jó szokást ne csak elkezdj, hanem napról napra meg is tarts?"
 ---
 
 ---

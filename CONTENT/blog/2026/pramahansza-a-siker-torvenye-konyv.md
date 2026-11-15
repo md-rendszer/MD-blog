@@ -3,6 +3,8 @@ title: Pramahansza – A Siker Törvénye könyv
 date: 2026-01-25 09:11:13
 image: 2026/pramahansza-a-siker-torvenye-konyv.avif
 image_alt: A siker törvénye
+lead: "Paramahansza Jógánanda rövid könyve szerint a sikert nem a vagyonon, hanem a belső békén és a boldogságon kell mérni. Bemutatom a mű fő gondolatait az akarat erejéről, a gondolatok hatalmáról és az igazodásról. Ha úgy érzed, sokat dolgozol, mégsem érzed magad sikeresnek, ez a könyv új mércét adhat."
+kerdes: "Te miben méred a saját sikeredet – és ez a mérce valóban a tiéd, vagy másoktól vetted át?"
 ---
 
 Paramahansza Jógánanda

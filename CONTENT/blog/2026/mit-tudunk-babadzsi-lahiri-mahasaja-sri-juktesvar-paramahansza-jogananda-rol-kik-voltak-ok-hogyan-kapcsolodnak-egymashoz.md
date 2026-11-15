@@ -3,6 +3,8 @@ title: Mit tudunk Bábádzsí; Lahiri Mahásaja; Srí Juktésvar; Paramahansza J
 date: 2026-01-17 12:57:10
 image: 2026/image-1469d4bbd57177f9ae06.avif
 image_alt: Mahavatar Babaji adta át tanítványának, Lahiri Mahasayának 1861-ben. Világszerte Paramahansa Yogananda
+lead: "Négy mester, egyetlen szellemi láncolat: Bábádzsí, Lahiri Mahásaja, Srí Juktésvar és Paramahansza Jógánanda adták tovább a Krija-jóga tudását a modern világnak. Ez az írás röviden bemutatja, kik voltak, és hogyan kapcsolódnak egymáshoz. Ha olvastad az Egy jógi önéletrajzát, vagy csak most ismerkedsz velük, jó kiindulópont."
+kerdes: "Melyik tanító vagy könyv nyitotta meg számodra először a befelé vezető utat?"
 ---
 
 Ez a négy mester alkotja a modern

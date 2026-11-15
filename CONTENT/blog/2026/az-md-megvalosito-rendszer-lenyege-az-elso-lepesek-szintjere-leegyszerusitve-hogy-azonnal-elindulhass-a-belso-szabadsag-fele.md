@@ -2,7 +2,9 @@
 title: "Az MD Megvalósító Rendszer lényege, az első lépések szintjére leegyszerűsítve, hogy azonnal elindulhass a belső szabadság felé:"
 date: 2026-02-08 09:41:02
 image: 2026/az-md-megvalosito-rendszer-lenyege-az-elso-lepesek-szintjere-leegyszerusitve-hogy-azonnal-elindulhass-a-belso-szabadsag-fele.avif
-image_alt: "Az MD Megvalósító Rendszer lényege, az első lépések szintjére leegyszerűsítve, hogy azonnal elindulhass a belső szabadság felé:"
+image_alt: "Az MD Megvalósító Rendszer első lépései – az írás címképe"
+lead: "Ahogy a kisbaba egy nap úgy dönt, hogy nem mászik tovább, te is eldöntheted: elég volt a sodródásból. Ez az írás az MD Megvalósító Rendszer lényegét az első lépések szintjére egyszerűsíti le, hogy még ma elindulhass. Ha nem tudod, hol kezdd, itt kezdd."
+kerdes: "Miből lett eleged – és mi lenne ma az első lépés, hogy ne sodródj tovább benne?"
 ---
 
 1. Állj fel: Ébredj rá az erődre!

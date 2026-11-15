@@ -3,6 +3,8 @@ title: Aki nem fejlődik, az nem marad ugyanott
 date: 2026-05-01 20:16:00
 image: 2026/aki-nem-fejlodik-az-nem-marad-ugyanott.avif
 image_alt: Aki nem fejlődik, az nem marad ugyanott
+lead: "Az emberi életben nincs tartós semleges állapot: amit nem gondozunk, romlani kezd; amit nem erősítünk, gyengül; amit nem rendezünk, szétesik. Ez az írás arról szól, miért nem külön feladat, hanem a megmaradás feltétele a napi fejlődés."
+kerdes: "Melyik területen veszed észre, hogy ha nem foglalkozol vele, lassan romlani kezd?"
 ---
 
 Olyan, felhasználók által generált tartalmat tekintesz meg, amely nem ellenőrzött vagy nem biztonságos.Jelentés

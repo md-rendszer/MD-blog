@@ -4,6 +4,8 @@ date: 2026-07-19 16:19:24
 image: 2026/mitol-latszik-tapasztaljuk-ugy-hogy-folyamatosan-romlok-az-emberek-eletszinvonala-a-foldon.avif
 image_alt: Mitől látszik – tapasztaljuk úgy, hogy folyamatosan romlik az emberek életszínvonala a Földön…(?)…
 alias: mitol-latszik-tapasztaljuk-ugy-hogy-folyamatosan-romlok-az-emberek-eletszinvonala-a-foldon
+lead: "Az életünk nem attól romlik elsősorban, ami körülöttünk van, hanem egyetlen belső mozdulattól: összehasonlítjuk azt, ami van, azzal, aminek szerintünk lennie kellene. Ez az írás megmutatja, hogyan termeli ez a mozdulat a hétköznapi bajainkat – és mi az első lépés, amely ma, ingyen, mindenkinek elérhető."
+kerdes: "Mihez hasonlítod a leggyakrabban a saját életedet – és mit látnál, ha egy napig nem hasonlítanál?"
 ---
 
 **Az emberek élete nem attól romlik, ami körülöttük van, hanem attól az egyetlen belső mozdulattól, amit szinte mindenki naponta, óránként megtesz: összehasonlítja azt, ami van, azzal, aminek szerinte lennie kellene. Ennyi a mozdulat.**   

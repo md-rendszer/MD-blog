@@ -3,6 +3,8 @@ title: Az embert tekintjük célnak és az anyagi javakat eszköznek, vagy ford�
 date: 2026-10-17 12:00:12
 image: 2026/az-embert-tekintjuk-celnak-es-az-anyagi-javakat-eszkoznek-vagy-forditva.avif
 image_alt: Az embert tekintjük célnak és az anyagi javakat eszköznek, vagy fordítva…(?)…
+lead: "Az emberi történelem egyik legősibb törésvonala: az embert tekintjük célnak és a pénzt eszköznek – vagy fordítva? Ez az írás négyféle megfogalmazásban járja körül a kérdést, a filozófiaitól az aforisztikusig. Ha érzed, hogy a mindennapjaidban a pénz kezd uralkodni, itt kapaszkodót találsz."
+kerdes: "Melyik döntésedben érezted utoljára, hogy a pénz fontosabb lett, mint az ember?"
 ---
 
 Gemini! Hogyan fogalmaznád meg azt a tényt, hogy vannak akik az emberiséget, az embert, és van akik a pénzt solgálják?

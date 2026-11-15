@@ -4,6 +4,8 @@ date: 2026-10-03 09:36:26
 image: 2026/a-bibliaban-megtalalhato-az-emberrol-hogy-rendeltetett-meltosaghordozo-leny.avif
 image_alt: A Bibliában megtalálható az emberről, hogy Rendeltetett Méltósághordozó Lény
 alias: a-bibliaban-megtalalhato-az-emberrol-hogy-rendeltetett-meltosaghordozo-leny-de-mi-a-helyzet-a-tudomannyal-ott-is-megtalalhato
+lead: "A Biblia Isten képmásáról beszél – de mit mond a tudomány az emberi méltóságról? Ez az írás megmutatja, hogy a modern tudományágak is felismerik az ember egyedülálló, tiszteletet érdemlő felépítését, csak más nyelven. Ha a hit és a tudomány közös pontjait keresed, olvasd el."
+kerdes: "Számodra mi bizonyítja a legjobban, hogy az ember méltóságot hordoz?"
 ---
 
 , de mi a helyzet a tudománnyal, ott is megtalálható…(?)…

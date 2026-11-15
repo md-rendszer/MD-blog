@@ -4,6 +4,8 @@ date: 2026-10-11 06:29:39
 image: 2026/ne_gyozzon_le_teged_a_rossz_hanem_te_gyozd_le_joval_a_rosszat.avif
 image_alt: Ne győzzön le téged a rossz, hanem te győzd le a jóval a rosszat!
 alias: ne_gyozzon_le_teged_a_rossz_hanem_te_gyozd_le_joval_a_rosszat
+lead: "Nagyszüleink sokkal mostohább körülmények között éltek, mégis többet dolgoztak, kevesebbet panaszkodtak, és naponta hálát adtak. Ez az írás a régi és az új ember különbségéről szól, és arról, miért nem a rosszal való harc, hanem a jó cselekvése győz."
+kerdes: "Mit tanultál a szüleidtől vagy nagyszüleidtől arról, hogyan lehet nehéz körülmények között is jól élni?"
 ---
 
 A régi ember és az új ember közti különbségek…(?)…

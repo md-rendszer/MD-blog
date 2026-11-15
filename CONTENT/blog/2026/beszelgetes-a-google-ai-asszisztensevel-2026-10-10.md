@@ -3,6 +3,8 @@ title: Beszélgetés a Google AI-asszisztensével – 2026.10.10
 date: 2026-10-10 14:05:55
 image: 2026/beszelgetes-a-google-ai-asszisztensevel-2026-10-10.avif
 image_alt: Beszélgetés a Google AI-asszisztensével – 2026.10.10
+lead: "Kisajátította-e a pénzhatalom az emberiség felhalmozott tudását? Ez a beszélgetés körüljárja, milyen folyamatok erősítik ezt a félelmet a modern világban – és hol vannak még szabadon hozzáférhető források. Ha fontos neked a tudáshoz való szabad hozzáférés, olvasd el."
+kerdes: "Honnan szerzed a legmegbízhatóbb tudást – és mennyit fizetsz érte pénzben vagy figyelemben?"
 ---
 
 # Beszélgetés AI-módban. A pénzhatalom kisajátította az emberiség felhalmozott tudásanyagát…(?)……

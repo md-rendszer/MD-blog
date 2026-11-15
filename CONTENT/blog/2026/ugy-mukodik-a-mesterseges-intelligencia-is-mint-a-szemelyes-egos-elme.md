@@ -3,6 +3,8 @@ title: Úgy működik a mesterséges intelligencia is mint a személyes egos elm
 date: 2026-07-11 19:06:53
 image: 2026/ugy-mukodik-a-mesterseges-intelligencia-is-mint-a-szemelyes-egos-elme.avif
 image_alt: Úgy működik a mesterséges intelligencia is mint a személyes egos elme…(?)…
+lead: "Miért „halandzsázik” néha a mesterséges intelligencia ahelyett, hogy bevallaná: nem tudja? Hasonlít-e ez arra, ahogy az egós emberi elme védekezik? Az írás megmutatja a lényeges különbséget, és azt is, mit tanulhatunk belőle a saját „nem tudom” kimondásáról."
+kerdes: "Neked mennyire könnyű kimondani: „ezt nem tudom” – és mi segít, hogy kimondd?"
 ---
 
 Soha be nem vallaná, hogy valamit – bármit nem tud, és olyankor halandzsázik…(?)…  

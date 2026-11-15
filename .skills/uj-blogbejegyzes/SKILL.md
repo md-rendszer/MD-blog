@@ -18,11 +18,14 @@ Előbb olvasd el a repó gyökerében az `AGENTS.md`-t (formátum, nyelv, MD ter
    title: <cím, idézőjelek nélkül>
    date: <ÉÉÉÉ-HH-NN óó:pp:mm, budapesti idő>
    image: -
-   image_alt: <cím vagy a kép leírása>
+   image_alt: <egy rövid mondat a képről, legfeljebb 200 karakter>
+   lead: "<2–3 mondatos, figyelemfelkeltő bevezető: kinek szól, mit kap belőle>"
+   kerdes: "<egyszerű, nyitott, személyes kérdés az olvasóhoz>"
    ---
    ```
 
-4. Törzs: magyar, tegező, MD kanonikus szóhasználat, szövegközi forráshivatkozás nélkül. Ha Domi kész szöveget ad, ne írd át, csak formázd.
+4. A `lead` jelenik meg az Írások-kártyán, a Google-találatban és a Facebook-előnézetben; a `kerdes` a cikk végén, kiemelt dobozban. Mindkettő tegező, nem szenzációhajhász.
+5. Törzs: magyar, tegező, MD kanonikus szóhasználat, szövegközi forráshivatkozás nélkül. Ha Domi kész szöveget ad, ne írd át, csak formázd.
 
 ## 2. Borítókép (ha kérik)
 

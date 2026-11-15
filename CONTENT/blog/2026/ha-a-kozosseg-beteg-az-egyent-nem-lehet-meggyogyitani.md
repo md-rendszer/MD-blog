@@ -4,6 +4,8 @@ date: 2026-09-06 07:57:14
 image: 2026/ha-a-kozosseg-beteg-az-egyent-nem-lehet-meggyogyitani.avif
 image_alt: Ha a közösség beteg, az egyént nem lehet meggyógyítani
 alias: ha-a-kozosseg-a-tarsadalom-beteg-az-egyent-nem-lehet-meggyogyitani-kassai-lajos
+lead: "Az ember nem sziget: családokban, iskolákban, munkahelyeken válunk azzá, akik vagyunk. Ezért a helyreállítás sem lehet csak egyéni ügy – a közösségnek is gyógyulnia kell. Ez az írás arról szól, mit jelent az, hogy egy közösség beteg, és mit tehet érte az egyes ember."
+kerdes: "Melyik közösségben érzed a legjobban, hogy hatással van a jóllétedre – és mit tehetnél te érte?"
 ---
 
 # Nemcsak az embernek van szüksége helyreállításra, hanem annak a közegnek is, amelyben él

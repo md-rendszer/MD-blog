@@ -2,7 +2,9 @@
 title: 4 milliárd ember halhat meg? Így omlik össze a rendszer
 date: 2026-11-01 18:45:00
 image: 2026/4-milliard-ember-halhat-meg-igy-omlik-ossze-a-rendszer.avif
-image_alt: Sötét éjszakában lépcsőzetesen hanyatló arany görbe, alatta égő lámpás, kút és körülötte álló emberek – Nem a pánik vezet. Ami a REND-hez igazodik, fennmarad.
+image_alt: "Lépcsőzetesen hanyatló arany görbe az éjszakában, alatta égő lámpás, kút és körülötte álló emberek"
+lead: "Egy videó szerint akár négymilliárd ember is meghalhat, ha összeomlik a rendszer. Mit lehet erre felelni pánik nélkül? Ez az írás megmutatja, miben van igaza a videónak, mi túlzás benne, és mit építhetünk be az MD-be: nem a pánik vezet, hanem az, amit ma megtehetünk."
+kerdes: "Mi az, amit ma megtehetsz azért, hogy a családod és a közösséged ellenállóbb legyen?"
 ---
 
 <https://www.youtube.com/watch?v=-W9KbWZrptQ>

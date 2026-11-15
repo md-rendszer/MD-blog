@@ -3,6 +3,8 @@ title: Jó reggelt Claude! Jól meg lett fogva az ember? Nagyon sok ember, se l�
 date: 2026-06-05 19:04:08
 image: 2026/jo-reggelt-claude-jol-meg-lett-fogva-az-ember-nagyon-sok-ember-se-lat-se-hall-csak-a-kepernyot-bamulja.avif
 image_alt: Jó reggelt Claude! Jól meg lett fogva az ember? Nagyon sok ember, se lát, se hall, csak a képernyőt bámulja?
+lead: "Buszon, asztalnál, sétán: egyre több ember se lát, se hall, csak a képernyőt bámulja. Ez a beszélgetés megmutatja, miért: a képernyő ott tölti ki az ürességet, ahol a TISZTA ÖNTUDAT-nak kellene lennie. Ha érzed, hogy a telefonod többet kap belőled, mint szeretnéd, olvasd el."
+kerdes: "Hány percet töltöttél ma a képernyő előtt úgy, hogy utólag nem is emlékszel, mit láttál?"
 ---
 
 7:58

@@ -3,6 +3,8 @@ title: Az “értékek – javak” pénzben is kifejezhető, önmagukban megál
 date: 2026-10-04 17:29:49
 image: 2026/az-ertekek-javak-penzben-is-kifejezheto-onmagukban-megallo-dolgok.avif
 image_alt: Az “értékek – javak” pénzben is kifejezhető, önmagukban megálló dolgok!
+lead: "A pénzzel megvásárolhatjuk a kenyeret, de a bankszámla egyenlegét nem ehetjük meg. Ez az írás arról szól, mi marad a pénz mögött: az értékteremtő képesség, amely a tartós önállóság valódi alapja. Ha a megélhetésedről gondolkodsz, itt egy új mérce."
+kerdes: "Milyen valódi értéket teremtesz a munkáddal – túl azon, hogy pénzt hoz?"
 ---
 
 Míg a “pénz” önmagában, értékek és javak nélkül semmit sem ér.  

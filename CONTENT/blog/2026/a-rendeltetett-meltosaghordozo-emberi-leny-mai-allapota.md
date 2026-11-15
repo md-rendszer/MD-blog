@@ -3,6 +3,8 @@ title: A Rendeltetett Méltósághordozó Emberi Lény Mai Állapota…(?)…
 date: 2026-08-30 14:43:49
 image: 2026/a-rendeltetett-meltosaghordozo-emberi-leny-mai-allapota.avif
 image_alt: A Rendeltetett Méltósághordozó Emberi Lény Mai Állapota?
+lead: "Az ember rendeltetett, méltósághordozó lény – de önakarat, félelem, hiúság és hamisság miatt eltér az igaz rendtől, és belül szétesik. Ez az írás őszintén mutatja meg, hol tart ma az ember, és merre vezet a kiút a világosság és a rendezett élet felé."
+kerdes: "A négy ok – önakarat, félelem, hiúság, hamisság – közül melyik távolít el téged a leginkább önmagadtól?"
 ---
 
 # Kitől – mitől tanulhatunk úgy, hogy…(?)…

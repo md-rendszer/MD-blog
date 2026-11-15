@@ -4,6 +4,8 @@ date: 2026-09-19 16:23:54
 image: 2026/mielott-elindulsz-az-egyertelmusito-alapvetes-teljes-dokumentum.avif
 image_alt: Mielőtt elindulsz – az Egyértelműsítő Alapvetés – teljes dokumentum
 alias: mielott-elindulsz-az-egyertelmusito-alapvetes
+lead: "Mielőtt bármilyen gyakorlatba, közösségbe vagy döntésbe belekezdenél az MD Megvalósító Rendszerrel kapcsolatban, először ezt az alapvetést érdemes megismerned. Pontosan rögzíti, mi az MD, és mi nem az – hogy tisztán, félreértések nélkül indulhass. Állj meg, vizsgáld meg, és csak azután lépj tovább."
+kerdes: "Mi az a kérdés vagy kétely, amelyre választ szeretnél kapni, mielőtt elindulnál az MD útján?"
 ---
 
 **AZ MD-MEGVALÓSÍTÓ RENDSZER – ÚJJÁSZÜLETÉSI ÉS HELYREÁLLÍTÁSI PROGRAM MEGKERÜLHETETLEN ELSŐ LÉPÉSE**

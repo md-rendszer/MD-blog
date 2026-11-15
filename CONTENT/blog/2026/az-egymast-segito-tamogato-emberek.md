@@ -3,6 +3,8 @@ title: Az egymást segítő, támogató emberek…(?)…
 date: 2026-03-22 06:39:30
 image: 2026/az-egymast-segito-tamogato-emberek.avif
 image_alt: Az egymást segítő, támogató emberek…(?)…
+lead: "Ha finom életet szeretnél, az önmagad kiművelése mellett az a legfontosabb, hogy támogató ember légy, támogató társad legyen, és hozzád hasonló, a jót építő emberekkel vedd körül magad. Ez a rövid gondolat arra hív, hogy nézz rá a kapcsolataidra."
+kerdes: "Ki az az ember az életedben, aki a legtöbbet támogat – és mikor mondtad meg neki utoljára?"
 ---
 
 Lehetséges, ha jól akarsz élni,

@@ -3,6 +3,8 @@ title: Én vagyok Máté Domokos,
 date: 2026-05-25 11:59:37
 image: 2026/image-e525b48070380b65a2bc.avif
 image_alt: Vajon tényleg csak a szerencsén múlik?
+lead: "1983 óta keresem a választ azokra a kérdésekre, amelyeket a Biblia olvasása közben nem értettem. Ez a bemutatkozás elmondja, milyen könyveken, tanításokon és hagyományokon át vezetett az utam az MD Megvalósító Rendszerig. Ha szeretnéd tudni, ki ír neked, itt kezdd."
+kerdes: "Melyik könyv vagy tanítás indította el a te keresésedet?"
 ---
 
 és a szellemi fejlődés útján nem a PPH Nyílt Akadémián 2018 év elején indultam, hanem 1983 óta, a Biblia tanulmányozásával, és mert

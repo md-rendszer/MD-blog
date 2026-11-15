@@ -3,6 +3,8 @@ title: MD Megvalósító Rendszer – Újjászületési és Helyreállítási Pr
 date: 2026-01-18 10:34:04
 image: 2026/md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program-2.avif
 image_alt: MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program
+lead: "Hogyan kapcsolódik össze a belső egyensúly helyreállítása és a mindennapi életvezetés? Ez az írás a helyreállítás pilléreit veszi sorra. Ha most ismerkedsz az MD-vel, a pontos, hiteles leírást az Egyértelműsítő Alapvetésben találod."
+kerdes: "Az életed mely területén lenne a legnagyobb szükséged helyreállításra?"
 ---
 
 **MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program** egy komplex, több szakaszból álló módszertan, amelynek célja a szervezet és az egyén fizikai, mentális és energetikai egyensúlyának visszaállítása. A program alapvetően a holisztikus szemléletmódot ötvözi a modern regenerációs technikákkal.

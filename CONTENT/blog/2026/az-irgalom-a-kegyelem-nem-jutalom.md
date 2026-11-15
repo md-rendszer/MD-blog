@@ -4,6 +4,8 @@ date: 2026-08-03 19:03:19
 image: 2026/az-irgalom-a-kegyelem-nem-jutalom.avif
 image_alt: Az IRGALOM, a KEGYELEM NEM JUTALOM.
 alias: a-kegyelem-nem-jutalom
+lead: "A kegyelmet és az irgalmat semmivel nem lehet kiérdemelni – nem jutalom, hanem ajándék. A kapott élet kegyelem; a hozzá való méltó igazodás a mi válaszunk. Ez az írás arról szól, mit kezdhetünk azzal, amit érdemtelenül kaptunk."
+kerdes: "Mit kaptál az életben, amit nem érdemeltél ki – és hogyan válaszolsz rá?"
 ---
 
 Mert lehetetlen az irgalmat, a kegyelmet meg vagy kiérdemelni.

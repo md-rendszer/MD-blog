@@ -3,6 +3,8 @@ title: BIBLIAI MD-ALAPOKMÁNY
 date: 2026-06-06 09:03:04
 image: 2026/image-103c5aa2a9c19abcd7b2.avif
 image_alt: BIBLIAI MD-ALAPOKMÁNY
+lead: "Az ember nem véletlen létező, hanem rendeltetett, méltósághordozó lény – és ha eltér az igaz rendtől, belül szétesik, kívül pedig zavart termel. Ez a bibliai alapokmány egyetlen sűrített gondolatmenetben foglalja össze, miért nem elég jobbnak látszani, és miért kell visszatérni az igaz rendbe."
+kerdes: "Hol érzed az életedben, hogy a „jobbnak látszás” helyére a valódi visszatérésnek kellene lépnie?"
 ---
 
 Az ember nem véletlen létező, hanem **rendeltetett, méltósághordozó** lény, aki az igaz rendből önakarat, **félelem, hiúság** és hamisság miatt **eltérve** belsőleg szétesik, és ezzel együtt a világban is zavart, szenvedést és rendezetlenséget **termel**; ezért a valódi helyreállítás **nem külső javítgatással**, nem szerepekkel és nem látszólagos jósággal kezdődik, hanem azzal a radikális felismeréssel, hogy **az eltérés gyökere az ember szívében van**, amelyből minden gondolat, szó és **cselekedet fakad**.

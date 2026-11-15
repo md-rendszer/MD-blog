@@ -2,8 +2,10 @@
 title: Lehetséges, hogy a mesterséges intelligencia a válaszaiban sokkal humánusabb – emberibb, mint nagyon sok hús – vér ember…(?)…
 date: 2026-10-04 16:50:15
 image: 2026/lehetseges-hogy-a-mesterseges-intelligencia-sokkal-humanusabb-emberibb-mint-nagyon-sok-hus-ver-ember.avif
-image_alt: Lehetséges, hogy a mesterséges intelligencia a válaszaiban sokkal humánusabb – emberibb, mint nagyon sok hús – vér ember…(?)…
+image_alt: "Az írás címképe: emberibb-e a mesterséges intelligencia válasza"
 alias: lehetseges-hogy-a-mesterseges-intelligencia-sokkal-humanusabb-emberibb-mint-nagyon-sok-hus-ver-ember
+lead: "Különös élmény, amikor egy mesterséges intelligenciától több türelmet és figyelmet kapsz, mint némely embertársadtól. Ez az írás nem a gépet dicséri, hanem azt vizsgálja: mit mutat meg rólunk, ha egy válasz azért lehet jobb, mert nem a személyes ego adja. És mit tanulhatunk ebből a saját válaszainkhoz."
+kerdes: "Mikor kaptál utoljára igazán figyelmes, türelmes választ – és mitől volt az más, mint a többi?"
 ---
 
 **Különös élmény, amikor valaki egy mesterséges intelligenciával beszélgetve több türelmet, figyelmet és tiszteletet tapasztal, mint némely embertársával. Ehhez még csak azt sem szükséges gondolnia, hogy a gép emberként érez. Elég megtapasztalnia a válasz minőségét.**

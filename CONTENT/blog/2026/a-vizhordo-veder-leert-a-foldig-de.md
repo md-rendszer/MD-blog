@@ -3,6 +3,8 @@ title: A vízhordó veder leért a földig, de
 date: 2026-01-31 16:01:23
 image: 2026/a-vizhordo-veder-leert-a-foldig-de.avif
 image_alt: Vizet hordó fiu
+lead: "Tizenkét évesen pékségben kezdtem dolgozni, és azóta szinte megszakítás nélkül dolgozom – miközben egész életemben féltem a szegénységtől. Ez a személyes vallomás a gyerekkori félelmekről szól, és arról a hangról a fejünkben, amely ezeket a félelmeket életben tartja."
+kerdes: "Melyik gyerekkori félelmed kísér máig – és mit tanultál meg azóta róla?"
 ---
 
 attól hordtam a vizet a pompás kútról… ahogy 12 évesen mehettem dolgozni a Szombatfalvi pékségbe, mentem, ahogy… Gyermekkori munka (12-16) plusz 47+1 évet dolgoztam fő állásban mert mikor kezdtem csak 17 éves voltam, és ma is munkába járók minden munkanap.

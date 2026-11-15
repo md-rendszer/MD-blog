@@ -3,6 +3,8 @@ title: Az “ember” alapja és tartó pillérei…(?)…
 date: 2026-01-25 11:16:17
 image: 2026/az-ember-alapja-es-tarto-pillerei.avif
 image_alt: Az ember alapja és tartó pillérei
+lead: "Ki voltál, mielőtt megmondták neked, hogy ki vagy? Ez az egyetlen kérdés az ember alapja és tartópillére. Olvasd el, állj meg egy percre, és engedd, hogy a kérdés dolgozzon benned."
+kerdes: "Ki voltál, mielőtt megmondták neked, hogy ki vagy?"
 ---
 
 Ki voltál az előtt, mielőtt megmondták neked, hogy ki vagy…(?)…

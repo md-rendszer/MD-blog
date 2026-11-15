@@ -3,6 +3,8 @@ title: A most hatalma, A felszabadult lélek, Jogananda – Egy jogi életutja, 
 date: 2026-01-10 19:12:00
 image: 2026/a-most-hatalma-a-felszabadult-lelek-jogananda-egy-jogi-eletutja-shadguru-belso-mernokseg.avif
 image_alt: A Modern Spirituális Irodalom Alapművei
+lead: "Négy könyv, négy út a belső béke felé: Eckhart Tolle A most hatalma, Michael A. Singer A felszabadított lélek, Jógánanda Egy jógi önéletrajza és Sadhguru Belső mérnöksége. Ez az írás röviden bemutatja mindegyiket, hogy megtaláld, melyik szól most hozzád."
+kerdes: "A négy könyv közül melyiket olvastad már – vagy melyikkel kezdenéd?"
 ---
 
 Ez a négy könyv a modern spirituális irodalom alapműve, amelyek különböző megközelítésből segítik az önismeretet és a belső béke elérését:

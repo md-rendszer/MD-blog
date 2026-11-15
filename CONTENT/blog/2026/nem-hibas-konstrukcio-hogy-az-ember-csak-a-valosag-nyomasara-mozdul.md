@@ -4,6 +4,8 @@ date: 2026-07-05 08:56:21
 image: 2026/nem-hibas-konstrukcio-hogy-az-ember-a-valosag-nyomasara-mozdul.avif
 image_alt: Nem hibás konstrukció, hogy az ember csak a valóság nyomására mozdul…(?)…
 alias: nem-hibas-konstrukcio-hogy-az-ember-a-valosag-nyomasara-mozdul
+lead: "Miért van az, hogy szinte mindannyian csak akkor változtatunk, amikor az élet rákényszerít? A válasz meglepő: nem hibás konstrukció, hanem a működésünk természete. Ha bántott már, hogy csak a baj mozdított ki, ez az írás megmutatja, mit intézhetsz el addig, amíg a fordulat el nem jön."
+kerdes: "Melyik volt az a fordulat az életedben, amelyet csak egy nehéz helyzet nyomására tettél meg – és mit tanultál belőle?"
 ---
 
 Nem, nincs más, ami mozdíthatná.

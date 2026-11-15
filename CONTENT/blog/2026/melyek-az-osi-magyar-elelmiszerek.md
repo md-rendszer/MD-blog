@@ -3,6 +3,8 @@ title: Melyek az ősi magyar élelmiszerek?
 date: 2026-08-21 18:53:27
 image: 2026/melyek-az-osi-magyar-elelmiszerek.avif
 image_alt: Melyek az ősi magyar élelmiszerek?
+lead: "Honfoglaló őseink nem ettek paprikás krumplit és lecsót – az ő konyhájukat az állattartás, a halászat és a gyűjtögetés határozta meg. Ez az írás kategóriánként mutatja be az ősi magyar alapanyagokat a szárított hústól a mézig. Ha szeretnéd jobban ismerni a gyökereidet, a konyhánál is kezdheted."
+kerdes: "Melyik az a régi, családi étel, amelyet szívesen megőriznél és továbbadnál?"
 ---
 
 Az **ősi magyar élelmiszerek** és a honfoglalás kori konyha alapanyagai alapvetően különböztek a mai, fűszerpaprikás és paradicsomos „hagyományos” magyar fogásoktól. Eleink étkezését a **nomád állattartás, a halászat, a gyűjtögetés**, valamint a szálláshelyeken végzett kezdetleges növénytermesztés határozta meg. [[1](https://www.nosalty.hu/ajanlo/ezt-ette-7-vezer-tobb-mint-1000-eve-igy-etkeztek-honfoglalo-magyarok), [2](https://www.penzcentrum.hu/hellovidek/20220819/ezt-ettek-honfoglalo-oseink-filleres-etelek-es-luxusfogasok-a-lecso-es-a-paprikas-elotti-idokbol-1161995), [3](https://www.facebook.com/ancient.hungary/posts/az-%C5%91si-magyar-konyhaa-szer-eteta-magyar-konyham%C5%B1v%C3%A9szet-gy%C3%B6kerei-t%C3%B6bb-ezer-%C3%A9vre-n/1525262417598143/), [4](http://vilagkonyha.network.hu/blog/vilagkonyha_klub_hirei/az-osmagyar-konyha-alapetelei-es-a-bodag-oseink-hamuban-sult-pogacsaja)]

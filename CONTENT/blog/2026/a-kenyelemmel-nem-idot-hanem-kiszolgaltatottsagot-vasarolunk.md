@@ -3,6 +3,8 @@ title: A kényelemmel nem időt, hanem kiszolgáltatottságot vásárolunk…(?)
 date: 2026-10-04 10:02:19
 image: 2026/a-kenyelemmel-nem-idot-hanem-kiszolgaltatottsagot-vasarolunk.avif
 image_alt: A kényelemmel nem időt, hanem kiszolgáltatottságot vásárolunk…(?)…
+lead: "A kényelem nem jólét, hanem aranykalitka: minden gombnyomás és kiszállított étel egy kicsit csökkenti az önálló cselekvőképességünket. Ez az írás egy rövid videóból indul ki, és arról szól, mivel fizetünk valójában a kényelmünkért. Ha szeretnéd megőrizni a függetlenségedet, olvasd el."
+kerdes: "Melyik kényelmi szolgáltatásról mondanál le, hogy egy kicsit önállóbb legyél?"
 ---
 
 A kényelem nem jólét, a kényelem egy aranykalitka, ami észrevétlenül szoktat rá a kiszolgáltatottságra!  

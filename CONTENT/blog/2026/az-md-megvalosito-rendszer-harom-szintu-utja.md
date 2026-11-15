@@ -4,6 +4,8 @@ date: 2026-07-05 17:38:45
 image: 2026/az-md-megvalosito-rendszer-harom-szintu-utja.avif
 image_alt: Az MD Megvalósító Rendszer - Újjászületési és Helyreállítási Program Három Szintű Útja
 alias: az-md-megvalosito-rendszer-utja
+lead: "Minden egyetlen felismerésből indult: az emberek többsége nem rossz, hanem eltávolodott a saját eredeti rendeltetésétől. Nem több tudásra van szükség, hanem egy olyan rendszerre, amely segít megvalósítani azt, amit már tudunk. Ez az írás bemutatja az MD háromszintű útját és útvonaltérképét."
+kerdes: "Mi az, amit már régóta tudsz, de még nem valósítottál meg az életedben?"
 ---
 
 # Hogyan született meg az MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program?

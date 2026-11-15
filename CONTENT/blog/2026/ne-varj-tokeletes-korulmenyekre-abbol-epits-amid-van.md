@@ -3,6 +3,8 @@ title: Ne várj tökéletes körülményekre – abból építs, amid VAN!
 date: 2026-09-09 20:37:28
 image: 2026/ne-varj-tokeletes-korulmenyekre-abbol-epits-amid-van.avif
 image_alt: Ne várj tökéletes körülményekre, abból építs, amid van!
+lead: "Ha nem változtatunk a szokásainkon, a változó világ egyre inkább helyettünk alakítja az életünket. Ez az írás arra hív, hogy a meglévő időből, erőből, tudásból és kapcsolatokból már ma kezdd el a helyreállítást. Nem beletörődés ez, hanem a cselekvőképességed visszavétele."
+kerdes: "Mi az, ami már most is a kezedben van – idő, tudás, kapcsolat –, és még nem használod ki?"
 ---
 
 **Alcím:** Ha nem változtatunk a szokásainkon, a változó világ egyre inkább helyettünk alakítja az életünket. Az MD Megvalósító Rendszer arra hív, hogy a rendelkezésünkre álló időből, erőből, tudásból és emberi kapcsolatokból már ma kezdjük meg a helyreállítást.

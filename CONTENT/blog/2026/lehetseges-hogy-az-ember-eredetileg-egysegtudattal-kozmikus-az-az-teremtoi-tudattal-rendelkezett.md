@@ -3,6 +3,8 @@ title: Lehetséges, hogy az ember eredetileg egységtudattal = kozmikus, az az t
 date: 2026-02-15 16:27:56
 image: 2026/lehetseges-hogy-az-ember-eredetileg-egysegtudattal-kozmikus-az-az-teremtoi-tudattal-rendelkezett.avif
 image_alt: Az ember kiesése az egységtudatból
+lead: "Rendelkezett-e az ember eredetileg egységtudattal, amelyet később elveszített? Ez az ősi kérdés a tudomány, a metafizika és a spiritualitás határán mozog. Az írás bemutatja a legfontosabb nézőpontokat – és megnyitja a sorozat következő kérdését."
+kerdes: "Átéltél már olyan pillanatot, amikor úgy érezted, minden egy és összetartozik? Mi történt akkor?"
 ---
 
 Ez egy izgalmas és ősi kérdés, amely a tudomány, a metafizika és a spiritualitás határmezsgyéjén mozog. Röviden: **igen, számos spirituális és bölcseleti irányzat vallja ezt**, de a válasz attól függ, milyen szemüvegen keresztül nézzük.

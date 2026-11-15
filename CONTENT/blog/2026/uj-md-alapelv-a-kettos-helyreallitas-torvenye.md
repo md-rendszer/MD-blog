@@ -3,6 +3,8 @@ title: "Új MD-alapelv: A kettős helyreállítás törvénye"
 date: 2026-09-06 08:27:21
 image: 2026/uj-md-alapelv-a-kettos-helyreallitas-torvenye.avif
 image_alt: Új MD-alapelv_A kettős helyreállítás törvénye
+lead: "Nem lehet csak önmagunkat helyreállítani, miközben a közösség, amelyben élünk, beteg marad. Az MD 1+1 gyakorlat ezért naponta két apró, de valóságos cselekedetet kér: egyet magadért, egyet valaki másért. Ha szeretnéd, hogy a változásod ne csak benned, hanem körülötted is látszódjon, itt a napi módszer."
+kerdes: "Mi lehetne a holnapi napodon az az egy apró tett, amellyel valaki más életét is jobbá teszed?"
 ---
 
 > **Az ember nem önmagában betegszik meg, és nem is kizárólag önmagában áll helyre. Ezért az MD Megvalósító Rendszerben minden nap kettős feladatunk van: rendet teremteni önmagunkban, és életet támogató módon hozzájárulni annak a közösségnek a helyreállításához, amelyben élünk.**

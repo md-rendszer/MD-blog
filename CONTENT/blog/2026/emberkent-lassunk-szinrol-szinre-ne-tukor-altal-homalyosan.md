@@ -3,6 +3,8 @@ title: Emberként lássunk színről – színre, ne tükör által homályosan�
 date: 2026-01-12 20:03:39
 image: 2026/emberkent-lassunk-szinrol-szinre-ne-tukor-altal-homalyosan.avif
 image_alt: Emberként lássunk színről – színre, ne tükör által homályosan…(?)…
+lead: "A fejünkben megállás nélkül beszélő, mindenbe belekotyogó elme villámgyors – de ritkán látja tisztán, ami valóban van. Ez az írás arra hív, hogy lássunk színről színre, ne tükör által homályosan, és ne hagyjuk, hogy a belső zaj elrontsa a napjainkat."
+kerdes: "Melyik helyzetben homályosítja el leginkább a belső zaj azt, hogy tisztán lásd, mi történik?"
 ---
 
 Emberként lássunk színről – színre, de ne tükör által homályosan, ne hagyjuk, hogy a bennünk lakozó, a fejünkben megállás nélkül beszélő, kotnyeles, minden lében kanál tudálékoskodó, mindig negatív személyes egos elme, belekontárkodjon, bele ártsa magát minden dolgunkba, elrontsa az életünk összes napjait, perceit!

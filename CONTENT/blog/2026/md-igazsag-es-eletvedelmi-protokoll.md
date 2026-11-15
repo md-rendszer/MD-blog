@@ -3,6 +3,8 @@ title: MD IGAZSÁG- ÉS ÉLETVÉDELMI PROTOKOLL
 date: 2026-08-15 11:43:15
 image: 2026/md-igazsag-es-eletvedelmi-protokoll.avif
 image_alt: MD IGAZSÁG- ÉS ÉLETVÉDELMI PROTOKOLL
+lead: "Tény, megalapozott következtetés, hipotézis, metafizikai alapvetés vagy személyes élmény? Az MD-ben minden állítást be kell sorolni, mielőtt elfogadnánk. Ez a protokoll megvédi az embert a tévtanításoktól, a vezetői visszaélésektől és a tudományosnak álcázott hiedelmektől. Ha fontos neked, hogy ne vezessenek félre, ez az írás neked szól."
+kerdes: "Melyik volt az az állítás, amelyet sokáig ténynek hittél, és később kiderült, hogy csak hiedelem volt?"
 ---
 
 *Az állítások, tanítások, tanítók és közösségi működés ellenőrzési rendje*

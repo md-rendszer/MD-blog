@@ -3,6 +3,8 @@ title: Reggeli fohász az önátadáshoz!
 date: 2026-08-22 18:17:07
 image: 2026/reggeli-fohasz-az-onatadashoz.avif
 image_alt: Reggeli fohász az önátadáshoz
+lead: "Egy reggeli fohász, amely bármely hitben vagy hit nélkül is elmondható: te választod meg, kihez fordulsz – Jóistenhez, Jézushoz, Boldogasszonyhoz vagy az Univerzumhoz. Néhány csendes perc a nap elején, amely irányt ad mindannak, ami utána következik. Ha szeretnéd, hogy a napod ne kapkodással, hanem igazodással induljon, próbáld ki."
+kerdes: "Mivel kezded most a reggeleidet – és mit szeretnél, ha ezentúl az első gondolatod lenne?"
 ---
 
 Megjegyzés: az, aki más szellemi vezetőhöz, például a Jóistenhez, Jézushoz, Szűzmáriához, Nagy-boldog asszonyhoz, Budhához, vagy egyszerűen az Univerzumhoz kíván fohászkodni, egyszerűen azzal a “névvel” kezdje – gyakorolja a reggeli fohászkodását!

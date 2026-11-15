@@ -3,6 +3,8 @@ title: Kriya yóga
 date: 2026-02-07 17:04:28
 image: 2026/image-1469d4bbd57177f9ae06.avif
 image_alt: Mahavatar Babaji adta át tanítványának, Lahiri Mahasayának 1861-ben. Világszerte Paramahansa Yogananda
+lead: "A Krija-jóga ősi meditációs rendszer, amelyet a „cselekvés jógájának” is neveznek: légzéssel, figyelemmel és belső fegyelemmel gyorsítja a szellemi fejlődést. Ez a rövid összefoglaló bemutatja eredetét Bábádzsítól Jógánandáig, és azt, hol lehet ma hitelesen elsajátítani."
+kerdes: "Milyen belső gyakorlat segít neked a legjobban abban, hogy elcsendesedj?"
 ---
 
 A

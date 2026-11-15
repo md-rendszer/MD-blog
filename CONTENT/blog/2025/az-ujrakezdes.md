@@ -4,6 +4,8 @@ date: 2025-03-31 17:02:18
 image: 2025/image-25ecd655f7cc4a876a08.avif
 image_alt: Az újrakezdés
 alias: hello-world
+lead: "Nyolcéves korom óta kutatom, mi és ki az ember – több ezer könyvet olvastam el. Mégis rá kellett jönnöm, hogy a tudás önmagában nem elég: újra kell kezdeni. Ez a személyes írás az újrakezdés bátorságáról szól."
+kerdes: "Mit kezdenél újra, ha ma tiszta lappal indulhatnál?"
 ---
 
 Nyolc éves korom óta, hiába olvastam el több-ezer könyvet, mint ahogy egyedül önmagamban gyermekeim sem születhettek volna meg…(?)…

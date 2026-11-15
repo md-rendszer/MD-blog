@@ -2,7 +2,9 @@
 title: Miért nem megy át?
 date: 2026-11-07 15:50:00
 image: 2026/miert-nem-megy-at.avif
-image_alt: Egyetlen kis lámpa lángja, körülötte kifelé terjedő hanghullámok, dupla arany keretben – Miért nem megy át? A gépezet és a hang
+image_alt: "Egyetlen kis lámpa lángja, körülötte kifelé terjedő hanghullámok"
+lead: "Egy politikai elemző a választási vereség után nem a választóra mutatott, hanem önmagára: miért nem tudtuk átadni, amit fontosnak tartottunk? Ez az írás politikai állásfoglalás nélkül vizsgálja meg ezt a ritka önvizsgálatot – és azt, mit tanulhatunk belőle a saját mondanivalónk átadásáról."
+kerdes: "Mikor érezted utoljára, hogy valami fontosat mondasz, de nem megy át – és mit tettél ilyenkor?"
 ---
 
 *Egy önvizsgálat tanulsága – politikai állásfoglalás nélkül*

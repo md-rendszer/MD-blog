@@ -3,6 +3,8 @@ title: Mindenkinek az lesz a valóság, amit képes a “VALÓSÁGBÓL” felfog
 date: 2026-09-27 16:42:23
 image: 2026/mindenkinek-az-lesz-a-valosag-amit-kepes-a-valosagbol-felfogni-befogadni.avif
 image_alt: Mindenkinek az lesz a valóság, amit képes a VALÓSÁGBÓL felfogni, befogadni.
+lead: "A kút fenekén élő békának hiába mondod, hogy a tér szinte végtelen – ő csak a falakat látja. Ez a rövid írás arról szól, hogy mindenki annyit lát a valóságból, amennyit be tud fogadni, és hogyan tágulhat ez a látókör. Ha úgy érzed, beszorultál a saját falaid közé, olvasd el."
+kerdes: "Melyik felismerés tágította ki utoljára a látóköröd – és mi tette ezt lehetővé?"
 ---
 
 <https://www.tiktok.com/@utikonyv/video/7690096051717459222>

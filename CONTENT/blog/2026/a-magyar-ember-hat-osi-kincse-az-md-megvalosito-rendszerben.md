@@ -4,6 +4,8 @@ date: 2026-03-28 07:11:57
 image: 2026/a-magyar-ember-hat-osi-kincse-az-md-megvalosito-rendszerben.avif
 image_alt: A MAGYAR EMBER HAT ŐSI KINCSE AZ MD MEGVALÓSÍTÓ RENDSZERBEN
 alias: a-magyar-ember-hat-osi-kincseaz-md-megvalosito-rendszerben
+lead: "A magyar nyelv, a rovásírás, a népmesék, a népdalok, a néptáncok és a népművészet nem múzeumi tárgyak, hanem élő források. Ez az írás megmutatja, hogyan eleveníthetik fel naponta önmagunkat ezek a kincsek az MD Megvalósító Rendszerben. Ha fontosak neked a gyökereid, itt a napi gyakorlat."
+kerdes: "A hat kincs közül melyik él a legjobban a te mindennapjaidban – és melyiket szeretnéd újra felfedezni?"
 ---
 
 Summázott beépítési alapok az „MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” számára

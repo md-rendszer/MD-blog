@@ -3,6 +3,8 @@ title: Az MD Megvalósító Rendszer – Újjászületési és Helyreállítási
 date: 2026-03-08 20:52:29
 image: 2026/az-md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program-4.avif
 image_alt: Az MD Megvalósító Rendszer szimbolikus képe – újjászületés és tudatos élet
+lead: "Egész életemben zavart minden hazugság és félrebeszélés – már gyerekként sem tudtam elfogadni, hogy az emberek gyakran nem az igazság szerint élnek. Ez az írás elmondja, miért hoztam létre az MD Megvalósító Rendszert, mit jelent benne az újjászületés, és hogyan működhet egy ilyen közösség."
+kerdes: "Mi az a helytelenség a világban, amely téged a legjobban zavar – és mit teszel ellene a saját életedben?"
 ---
 
 Miért hoztam létre az MD Megvalósító Rendszert?  

@@ -4,6 +4,8 @@ date: 2026-08-29 13:09:39
 image: 2026/akinek-senki-sem-fogja-a-kezet.avif
 image_alt: Akinek senki sem fogja a kezét
 alias: akinek_senki_sem_fogja_a_kezet
+lead: "A szomorúság kútja végtelenül mély, és sokan élnek benne úgy, hogy senki sem fogja a kezüket. Ez az írás Robin Williams sorsán keresztül szól azokról, akik mosolyognak, miközben belül egyedül vannak – és arról, mit tehetünk értük. Ha nehéz időszakon mész át, ne maradj egyedül: szólj valakinek."
+kerdes: "Ki az, akinek ma jól esne, ha megfognád a kezét – akár csak egy üzenettel?"
 ---
 
 **Nem hinném, hogy a legszomorúbb ember a Világon én magam lennék, mert…(?)…**

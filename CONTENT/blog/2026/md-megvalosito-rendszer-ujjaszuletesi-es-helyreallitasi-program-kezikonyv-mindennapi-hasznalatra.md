@@ -4,6 +4,8 @@ date: 2026-03-22 10:42:21
 image: 2026/md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program-kezikonyv-mindennapi-hasznalatra.avif
 image_alt: MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program – KÉZIKÖNYV MINDENNAPI HASZNÁLATRA!
 alias: az-elet-nem-veletlen-igy-allitsd-helyre-a-mukodesed-gyakorlati-rendszer
+lead: "Az élet nem véletlen, nem káosz és nem szerencse kérdése: rend szerint működik. A legtöbb ember nem azért szenved, mert rossz dolgok történnek vele, hanem mert senki nem tanította meg, hogyan működik az élete. Ez a rövid kézikönyv nem motiváció, hanem gyakorlati működési rendszer – ma elkezdheted."
+kerdes: "Melyik életterületeden érzed leginkább, hogy senki nem tanította meg, hogyan kellene működnie?"
 ---
 
 ---

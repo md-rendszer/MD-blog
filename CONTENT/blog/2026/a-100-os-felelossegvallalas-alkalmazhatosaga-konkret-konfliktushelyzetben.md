@@ -3,6 +3,8 @@ title: A 100%-os felelősségvállalás alkalmazhatósága konkrét konfliktushe
 date: 2026-02-08 08:21:49
 image: 2026/a-100-os-felelossegvallalas-alkalmazhatosaga-konkret-konfliktushelyzetben.avif
 image_alt: CSEND - IGAZSÁG - FELELŐSSÉG
+lead: "Mit jelent a gyakorlatban a 100%-os felelősségvállalás, amikor a párod vagy egy kollégád elfelejtett valamit, ami neked fontos volt? Ez az írás egy hétköznapi példán mutatja meg a különbséget: a másik hibáztatása helyett a saját hatáskörödre figyelsz. Nem az igazad bizonyítása a cél."
+kerdes: "Melyik legutóbbi vitádban lett volna más a vége, ha azt kérdezed: „Mit tehetek én most?”"
 ---
 
 Igen, szeretném tudni, hogyan lehet ezt a szemléletet alkalmazni egy konkrét konfliktushelyzetben!

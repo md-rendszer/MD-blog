@@ -2,7 +2,9 @@
 title: Készítsünk-e egy összevont, hibrid cselekvési tervet, amely a magyar Himnusz értékteremtő céljait ötvözi a román himnusz agresszív végrehajtási dinamikájával?
 date: 2026-05-24 15:46:06
 image: 2026/keszitsunk-e-egy-osszevont-hibrid-cselekvesi-tervet-amely-a-magyar-himnusz-ertekteremto-celjait-otvozi-a-roman-himnusz-agressziv-vegrehajtasi-dinamikajaval.avif
-image_alt: Készítsünk-e egy összevont, hibrid cselekvési tervet, amely a magyar Himnusz értékteremtő céljait ötvözi a román himnusz agresszív végrehajtási dinamikájával?
+image_alt: "Az írás címképe: a magyar és a román himnusz szellemének összevetése"
+lead: "Mit tanulhatunk két himnusz eltérő szelleméből? A magyar Himnusz a hosszú távú értékteremtés fohásza, a román himnusz az azonnali cselekvésre szólít. Ez a kísérleti terv azt vizsgálja, hogyan lehet a sóvárgásból fegyelmezett napi cselekvés."
+kerdes: "Neked mi hiányzik inkább: a hosszú távú cél, vagy a ma elvégzett, fegyelmezett lépés?"
 ---
 
 You said: Igen, készíts!

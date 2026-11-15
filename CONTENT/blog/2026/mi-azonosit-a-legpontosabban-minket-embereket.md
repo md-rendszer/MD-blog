@@ -3,6 +3,8 @@ title: Mi azonosít a legpontosabban minket, embereket…(?)…
 date: 2026-08-30 15:15:18
 image: 2026/mi-azonosit-a-legpontosabban-minket-embereket.avif
 image_alt: Mi azonosít a legpontosabban, minket embereket
+lead: "Nem a nevünk, a foglalkozásunk vagy a vagyonunk azonosít a legpontosabban, hanem a lelkiismeretünk, az ítélőképességünk és az, hogy mennyi felelősséget vállalunk a döntéseinkért. Ez az írás megmutatja, miért nem mondhatunk le ezekről soha. Ha keresed, ki vagy valójában, itt a kiindulópont."
+kerdes: "Mikor hallgattál utoljára a lelkiismeretedre akkor is, amikor kényelmesebb lett volna nem tenni?"
 ---
 
 A csak ránk jellemző lelkiismeretünk, ítélőképességünk, és a döntéseinkért viselt felelősségvállalásunk mértéke…(?)…

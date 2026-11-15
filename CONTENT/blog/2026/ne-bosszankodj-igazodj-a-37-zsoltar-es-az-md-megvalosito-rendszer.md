@@ -2,7 +2,9 @@
 title: Ne bosszankodj – igazodj! A 37. zsoltár és az MD Megvalósító Rendszer
 date: 2026-11-12 13:45:00
 image: 2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer.avif
-image_alt: Törtfehér háttér, dupla arany keret, rombusz díszek. A horizonton felkelő arany nap, felé lépcsőkövekből álló ösvény vezet. Bal oldalon elszáradó fű (mint a fű, elfonnyadnak), jobb oldalon mélyen gyökerező, lombos fa (e földön lakozzál és hűséggel élj). Felirat: A 37. zsoltár. Ne bosszankodj — igazodj. Ha elesik, nem terül el, mert az Úr támogatja kezével.
+image_alt: "Felkelő nap felé vezető kőösvény; egyik oldalán elszáradó fű, a másikon mélyen gyökerező fa"
+lead: "Miért boldogul a csaló, és miért marad le a becsületes? A 37. zsoltár erre az ősi kérdésre válaszol – nem vitával, hanem nyugodt bizonyossággal. Ez az írás megmutatja, hol találkozik a zsoltár üzenete az MD-vel, és mit jelent a mindennapokban bosszankodás helyett igazodni."
+kerdes: "Kire vagy mire bosszankodtál mostanában a legtöbbet – és mit tennél, ha a bosszúság helyett igazodnál?"
 ---
 
 *Tedd meg, amit itt és most képes vagy megtenni.*

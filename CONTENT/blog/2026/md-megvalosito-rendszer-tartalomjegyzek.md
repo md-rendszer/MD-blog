@@ -3,6 +3,8 @@ title: MD MEGVALÓSÍTÓ RENDSZER – Tartalomjegyzék
 date: 2026-07-25 19:59:09
 image: 2026/md-megvalosito-rendszer-420-fejezetes-tartalomjegyzeke.avif
 image_alt: MD MEGVALÓSÍTÓ RENDSZER – Tartalomjegyzék
+lead: "Ébredés, Önismeret, Igazodás, Felelősség, Cselekvés, Közösség, Kiteljesedés: a hét kötet nem hét külön témakönyv, hanem egyetlen visszavezető út hét állomása. Ez a tartalomjegyzék a teljes sorozat szerkezeti térképe. Ha szeretnéd látni, hová vezet az út, itt az egész egy helyen."
+kerdes: "A hét állomás közül melyiknél érzed, hogy most éppen tartasz?"
 ---
 
 Újjászületési és Helyreállítási Program

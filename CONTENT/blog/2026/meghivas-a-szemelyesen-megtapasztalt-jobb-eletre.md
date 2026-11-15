@@ -3,6 +3,8 @@ title: Meghívás a személyesen megtapasztalt jobb életre
 date: 2026-09-27 12:19:23
 image: 2026/meghivas-a-szemelyesen-megtapasztalt-jobb-eletre.avif
 image_alt: Meghívás a személyesen megtapasztalt jobb életre
+lead: "Nem szeretném megmondani neked, hogyan kellene élned. Arra hívlak, hogy figyeld meg: van-e valami a mindennapjaidban, amitől tartósan jobban élhetnél. Ha a napjaid úgy telnek, ahogy éppen sikerül, ez a meghívás neked szól."
+kerdes: "Ha ma este megkérdeznéd magadtól: „Valóban így szeretném folytatni?”, mit válaszolnál?"
 ---
 
 **Nem szeretném megmondani neked, hogyan kell, avagy kellene élned. Arra hívlak, hogy figyeld meg: van-e valami a mindennapjaidban, amitől tartósan jobban élhetnél.**

@@ -3,6 +3,8 @@ title: Ébredj fel, a valóság nem a többség véleményén múlik!
 date: 2026-08-02 11:40:12
 image: 2026/ebredj-fel-a-valosag-nem-a-tobbseg-velemenyen-mulik.avif
 image_alt: Ébredj fel, a valóság nem a többség véleményén múlik!
+lead: "A valóság akkor is az, ami, ha senkit sem érdekel: nem igazodik a közvélemény-kutatásokhoz, a divathoz vagy a lájkok számához. Ez az írás arról szól, miért vonzóbb a látszat, és miért kell bátorság ahhoz, hogy a valóság szerint éljünk. Ha elfáradtál a zajban, itt egy kapaszkodó."
+kerdes: "Melyik az a dolog, amelyről tudod, hogy igaz, de a környezetedben kevesen fogadják el?"
 ---
 
 A valóság akkor is az ami, ha az senkit sem érdekel!

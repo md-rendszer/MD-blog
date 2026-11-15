@@ -3,6 +3,8 @@ title: Alá tudod támasztani, hogy Ma, 2026 -ban, Magyarországon van az egyetl
 date: 2026-02-02 19:38:05
 image: 2026/ala-tudod-tamasztani-hogy-ma-2026-ban-magyarorszagon-van-az-egyetlen-kormany-amely-a-boseges-csere-elvet-alkalmazza.avif
 image_alt: Hol és Mennyire van Bőséges Csere az Európai Unióban, és Hol a Legmagasabb a Közbiztonság?
+lead: "Mit jelent a „bőséges csere elve”, és mit mutatnak az adatok arról, hogyan érvényesül ma a bérekben és a munkavállalói viszonyokban? Ez az írás egy állítást vet össze uniós statisztikákkal. Ha érdekel, hogyan lehet egy elvet a számok tükrében megvizsgálni, olvasd el."
+kerdes: "A saját munkahelyeden mennyire érzed, hogy a csere bőséges és kölcsönös – és mi kellene ahhoz, hogy az legyen?"
 ---
 
 A Magyar GPT 5.2 – től kérdezem:

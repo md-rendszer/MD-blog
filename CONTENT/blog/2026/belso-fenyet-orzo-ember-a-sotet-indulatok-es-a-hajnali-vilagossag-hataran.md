@@ -3,6 +3,8 @@ title: Belső fényét őrző ember a sötét indulatok és a hajnali világoss�
 date: 2026-10-03 11:23:45
 image: 2026/belso-fenyet-orzo-ember-a-sotet-indulatok-es-a-hajnali-vilagossag-hataran.avif
 image_alt: Belső fényét őrző ember a sötét indulatok és a hajnali világosság határán…(?)…
+lead: "Vannak, akik nem viselik el mások jóságát, mert túlságosan emlékezteti őket a saját árnyékukra. Mit tehet ilyenkor a jóságos ember? Ez az írás arról szól, hogyan őrizheted meg a belső fényedet úgy, hogy közben ne add fel önmagad, és ne válj te is bántóvá."
+kerdes: "Hogyan szoktál reagálni, amikor a jó szándékodat rosszindulattal viszonozzák?"
 ---
 
 Mert vannak nyomorult lelkek, melyek nem viselik el mások jóságát…(?)…

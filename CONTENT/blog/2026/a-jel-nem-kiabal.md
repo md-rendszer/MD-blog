@@ -2,7 +2,9 @@
 title: A jel nem kiabál – Egy „most vagy soha” videó, és ami mögötte valóban igaz
 date: 2026-11-08 21:45:00
 image: 2026/a-jel-nem-kiabal.avif
-image_alt: Törtfehér háttér, dupla arany keret, rombusz díszek. Középen két arany fényoszlop között résnyire nyitott ajtó, belőle meleg fény árad; az ajtó fölött egy kis lámpa. Bal oldalon bordó, zsúfolt felkiáltójelek és órák (A ZAJ – most vagy soha, kattints, írd be), jobb oldalon egyetlen nyugodt, nyitott szem aranyban (A CSEND – észreveszed, ami eddig is ott volt). Alul: A jel nem érkezik. A figyelmedben kiderül.
+image_alt: "Résnyire nyitott ajtó meleg fénnyel két arany fényoszlop között; egyik oldalon zsúfolt felkiáltójelek, a másikon nyugodt, nyitott szem"
+lead: "Egy egyórás videó azt ígérte, hogy pont engem kellett megtalálnia, és soha többé nem fogom látni. Végighallgattam, és megkértem Claude-ot, mondja el őszintén, mit lát benne. Ez az írás leveszi a sürgetés csomagolását, és megmutatja, ami alatta valóban igaz: a jel nem kiabál."
+kerdes: "Melyik „most vagy soha” üzenet sürgetett utoljára – és mi lett volna, ha nem a sürgetésre, hanem a csendre figyelsz?"
 ---
 
 *A REND nem közeledik — kiderül.*

@@ -2,7 +2,9 @@
 title: Tanulni mindenkitől, hű maradni önmagunkhoz!
 date: 2026-08-29 18:46:53
 image: 2026/tanulni-mindenkitol-hu-maradni-onmagunkhoz.avif
-image_alt: Tanulni mindenkitől, hű maradni önmagunkhoz! Kitől – mitől tanulhatunk úgy, hogy…(?)… …közben nem mondunk le a lelkiismeretünkről, az ítélőképességünkről és a döntéseinkért viselt felelősségünkről…(?)…
+image_alt: "Tanulni mindenkitől, hű maradni önmagunkhoz – az írás címképe"
+lead: "Tanulhatunk-e bárkitől úgy, hogy közben nem adjuk fel a lelkiismeretünket és az ítélőképességünket? Ez az írás arról szól, hogyan maradhatsz nyitott minden tanításra, miközben a döntés felelőssége a tiéd marad. Ha sok tanítóra figyelsz, és néha elbizonytalanodsz, itt kapaszkodót találsz."
+kerdes: "Kitől tanultál a legtöbbet úgy, hogy közben mégis a saját utadon maradtál?"
 ---
 
 **Kitől – mitől tanulhatunk úgy, hogy…(?)…**

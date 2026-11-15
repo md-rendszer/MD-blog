@@ -3,6 +3,8 @@ title: Önátadásunkkal az életet létrehozó és fenntartó RENDHEZ kívánun
 date: 2026-08-23 14:33:59
 image: 2026/onatadasunkkal-az-eletet-letrehozo-es-fenntarto-rendhez-kivanunk-igazodni.avif
 image_alt: Ego pusztításból az önátadás rendjébe
+lead: "Áldás lehet-e az önátadás, és mikor válik veszélyessé? Ez a beszélgetés pontosan kijelöli a választóvonalat: az önátadás nem engedelmesség, nem passzivitás, és nem egy vezetőnek való alárendelődés, hanem a HELYES felismerése és az ahhoz való igazodás. Ha keresed, hogyan engedhetnéd el a görcsös akarást úgy, hogy közben ne add fel önmagad, itt a válasz."
+kerdes: "Hol érzed az életedben, hogy a saját akaratod erőltetése több kárt okoz, mint hasznot?"
 ---
 
 **„Nem az akaratomat akarom mindenáron megvalósítani; azt akarom felismerni, mi a HELYES, és ahhoz akarok igazodni.”**
