@@ -4,6 +4,10 @@
 
 - Az Írások között csak a képpel ellátott bejegyzések maradnak nyilvánosak; a kép nélküli belső munkajegyzetek (103 db) az archívumba kerültek, a Biblia – MD kivonat 2. és 3. része nyilvános maradt, régi címük az Írások kezdőlapjára visz.
 
+## Képek
+
+- Minden bejegyzés képe – a borítókép és a szövegközi illusztrációk is – kattintásra teljes képernyőn nyílik meg, a legnagyobb elérhető felbontásban; a képre újra koppintva tovább nagyítható, így az apró feliratok is olvashatók. Bezárás: ×, Esc vagy a kép mellé kattintás.
+
 ## Megosztás
 
 - Minden bejegyzés végén követésre és megosztásra hívó, a REND-hez igazodás szellemében írt szöveg áll, a Facebook-oldal és a YouTube-csatorna követőgombjaival.

@@ -562,6 +562,64 @@ if (navigator.share) {{
 </script>"""
 
 
+def image_lightbox() -> str:
+    """Kattintásra teljes képernyős nézet a bejegyzés képeihez (borító és szövegközi képek)."""
+    return """<div class="lightbox" id="kepnagyito" role="dialog" aria-modal="true" aria-label="Kép teljes képernyőn" hidden>
+  <button type="button" class="lightbox-close" aria-label="Bezárás">×</button>
+  <div class="lightbox-stage"><img class="lightbox-img" alt=""></div>
+  <p class="lightbox-hint">Koppints a képre a nagyításhoz · Esc vagy × a bezáráshoz</p>
+</div>
+<script>
+(function () {
+  var box = document.getElementById('kepnagyito');
+  if (!box) return;
+  var big = box.querySelector('.lightbox-img');
+  var closeBtn = box.querySelector('.lightbox-close');
+  var opener = null;
+  function largest(img) {
+    var best = img.currentSrc || img.src, bestW = 0;
+    (img.getAttribute('srcset') || '').split(',').forEach(function (part) {
+      var bits = part.trim().split(/\\s+/);
+      var w = parseInt(bits[1], 10) || 0;
+      if (bits[0] && w > bestW) { bestW = w; best = bits[0]; }
+    });
+    return best;
+  }
+  function open(img) {
+    opener = img;
+    big.src = largest(img);
+    big.alt = img.alt || '';
+    box.classList.remove('is-zoomed');
+    box.hidden = false;
+    document.documentElement.classList.add('lightbox-open');
+    closeBtn.focus();
+  }
+  function close() {
+    box.hidden = true;
+    box.classList.remove('is-zoomed');
+    big.removeAttribute('src');
+    document.documentElement.classList.remove('lightbox-open');
+    if (opener) opener.focus();
+  }
+  document.querySelectorAll('.article .featured-image img, .article .prose img').forEach(function (img) {
+    if (img.closest('a')) return;
+    img.classList.add('zoomable');
+    img.setAttribute('tabindex', '0');
+    img.setAttribute('role', 'button');
+    img.setAttribute('title', 'Kattints a teljes képernyős nézethez');
+    img.addEventListener('click', function () { open(img); });
+    img.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(img); }
+    });
+  });
+  big.addEventListener('click', function (e) { e.stopPropagation(); box.classList.toggle('is-zoomed'); });
+  closeBtn.addEventListener('click', close);
+  box.addEventListener('click', function (e) { if (e.target === box || e.target.classList.contains('lightbox-stage')) close(); });
+  document.addEventListener('keydown', function (e) { if (!box.hidden && e.key === 'Escape') close(); });
+})();
+</script>"""
+
+
 def closing_question(post: Document) -> str:
     if not post.kerdes:
         return ""
@@ -927,7 +985,8 @@ def main() -> None:
   {share_bar(post_url, post.title)}
   {comments_section(post, post_url)}
   {post_navigation(posts, index)}
-</article>"""
+</article>
+{image_lightbox()}"""
         write_page(
             OUTPUT / "blog" / post.slug / "index.html",
             post.title,

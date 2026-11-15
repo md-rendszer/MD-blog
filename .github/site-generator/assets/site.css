@@ -169,3 +169,18 @@ main { min-height: 70vh; }
 .feedback-form input[type="text"], .feedback-form input[type="email"] { display: block; width: 100%; margin-top: 6px; padding: 10px; border: 1px solid var(--line); border-radius: 6px; font: 16px/1.5 var(--serif); box-sizing: border-box; }
 .feedback-error { margin: 12px 0 0; color: #8B1E2D; font-size: 15px; }
 .feedback-send[disabled] { opacity: .6; cursor: wait; }
+
+/* Kép teljes képernyőn (kattintásra) */
+.article img.zoomable { cursor: zoom-in; }
+.article img.zoomable:focus-visible { outline: 3px solid var(--gold-deep); outline-offset: 4px; }
+html.lightbox-open, html.lightbox-open body { overflow: hidden; }
+.lightbox { position: fixed; inset: 0; z-index: 1000; background: rgba(14, 4, 18, .95); }
+.lightbox[hidden] { display: none; }
+.lightbox-stage { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; padding: 48px 12px 40px; box-sizing: border-box; overflow: auto; }
+.lightbox-img { display: block; max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; cursor: zoom-in; box-shadow: 0 0 0 1px var(--gold-deep); }
+.lightbox.is-zoomed .lightbox-stage { display: block; padding: 0; }
+.lightbox.is-zoomed .lightbox-img { max-width: none; max-height: none; width: auto; min-width: 100%; cursor: zoom-out; }
+.lightbox-close { position: absolute; top: 8px; right: 12px; z-index: 2; width: 48px; height: 48px; border: 1px solid #E0B455; border-radius: 999px; background: rgba(14, 4, 18, .8); color: #FBDE78; font: 32px/1 Georgia, serif; cursor: pointer; }
+.lightbox-close:focus-visible { outline: 3px solid #FBDE78; outline-offset: 2px; }
+.lightbox-hint { position: absolute; left: 0; right: 0; bottom: 8px; margin: 0; text-align: center; color: #C9C0AA; font-size: 14px; pointer-events: none; }
+.lightbox.is-zoomed .lightbox-hint { display: none; }
