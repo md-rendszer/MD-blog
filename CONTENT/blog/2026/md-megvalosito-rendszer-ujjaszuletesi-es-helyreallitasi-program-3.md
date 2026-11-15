@@ -7,25 +7,23 @@ lead: "Mi az MD Megvalósító Rendszer, kinek szól, és milyen hagyományokra 
 kerdes: "Mi az, ami miatt egy életvezetési program egyáltalán felkelti az érdeklődésedet?"
 ---
 
-Az **MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program** egy komplex személyiségfejlesztő és spirituális szemléletű módszertan, amelynek központi alakja [Máté Domokos](https://matedomokos.com/). A program célja az egyéni életminőség javítása, a belső egyensúly helyreállítása és a tudatos életvezetés segítése.
+Az **MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program** egy komplex személyiségfejlesztő és spirituális szemléletű módszertan, amelynek központi alakja [Máté Domokos](/rolam/). A program célja az egyéni életminőség javítása, a belső egyensúly helyreállítása és a tudatos életvezetés segítése.
 
 **A rendszer főbb jellemzői**
 
 A program különböző spirituális és önfejlesztő tanításokra épít, integrálva a klasszikus és modern megközelítéseket:
 
 - **Spirituális alapok:** Olyan neves tanítók és műveik szolgálnak forrásként, mint **Paramahansza Jogananda** (*A siker törvénye*), **Maharishi Mahesh Yogi** (*A lét tudománya és az élet művészete*) és **Bob Roth** (*A belső csend ereje*).
-- **Helyreállítási fókusz:** A program hangsúlyozza a fizikai és mentális “helyreállítást”, amely a belső blokkok oldását és az életerő regenerálását célozza.
-- **Struktúra:** A rendszer több szintű folyamatot (menetrendet) kínál, amely ingyenes anyagokat, blogbejegyzéseket és strukturált képzési modulokat tartalmaz.
+- **Helyreállítási fókusz:** A program a belső rend helyreállítását hangsúlyozza: a REND-hez való igazodást, a felelős döntést és a napi visszamérést. Nem gyógymód, és nem helyettesíti a szakmai segítséget.
+- **Struktúra:** A rendszer hét egymásra épülő kötetből áll (Ébredés → Önismeret → Igazodás → Felelősség → Cselekvés → Közösség → Kiteljesedés), mindennapi gyakorlatokkal.
 
 **Elérhetőségek és közösség**
 
 A program aktív jelenléttel bír a közösségi médiában és saját webes felületein:
 
-- **Weboldalak:** matedomokos.com, [matedomokos.net](https://matedomokos.net/) és [matedomokos.hu](/).
+- **Weboldalak:** a Program hivatalos oldala [mdmegvalositorendszer.hu](https://mdmegvalositorendszer.hu/), Domi személyes oldala és blogja [matedomokos.hu](/).
 - **Közösség:** A rendszerhez kapcsolódik egy dedikált közösségi csoport, ahol a résztvevők megoszthatják tapasztalataikat és aktuális információkat kaphatnak a program menetéről.
 
 A módszertan elsősorban azoknak szól, akik keresik a mélyebb önismeretet, a spirituális növekedést és egy strukturált keretrendszert kívánnak alkalmazni mindennapi életük “újjászervezéséhez”.
-
-Az AI-válaszokban előfordulhatnak hibák.
 
 2026.01.24. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

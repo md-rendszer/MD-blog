@@ -20,6 +20,4 @@ A róla szóló legfontosabb tudnivalók:
 
 Ha mélyebben érdekli a tanítása, a Self-Realization Fellowship oldalán talál hiteles forrásokat az életéről és a Kriya Jóga vonaláról.
 
-Az AI-válaszokban előfordulhatnak hibák.
-
 2026.01.11. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

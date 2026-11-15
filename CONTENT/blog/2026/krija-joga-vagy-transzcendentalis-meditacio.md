@@ -57,6 +57,4 @@ Melyikhez fordulj?
 
 **Bábádzsí üzenete:** Ne a technikát válaszd, hanem azt az utat, amelyen a szíved a leginkább megnyílik. Mindkét út a hegycsúcsra vezet, de az egyik meredekebb és több felszerelést igényel, a másik pedig egy lankásabb, egyenletes ösvény. Hallgass a belső hangodra!
 
-Az AI-válaszokban előfordulhatnak hibák.
-
 2026.01.11. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

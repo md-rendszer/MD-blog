@@ -9,7 +9,7 @@ kerdes: "Mit gondolsz, egy nép himnusza mennyire formálja azt, ahogyan az embe
 
 A román nemzeti himnusz (**Deșteaptá-te, române!** – *Ébredj, román!*, Andrei Mureșanu 1848-as verse) az MD Megvalósító Rendszer szemüvegén keresztül nézve egy **radikálisan más dinamikájú és filozófiájú alapmű**, mint a magyar Himnusz.
 
-Míg a magyar Himnusz egy transzcendens, passzív és bűnbánó fohász, addig a román himnusz egy **vegytiszta krízismenedzsment-protokoll és egy agresszív, aktív cselekvési terv**.
+Míg a magyar Himnusz egy transzcendens, passzív és bűnbánó fohász, addig a román himnusz egy **ébresztő, cselekvésre mozgósító felhívás**.
 
 ---
 
@@ -42,5 +42,5 @@ Míg a magyar Himnusz egy transzcendens, passzív és bűnbánó fohász, addig 
 
 Ha szeretné, továbbvihetjük az elemzést:
 
-- Készítsünk-e egy **összevont, hibrid cselekvési tervet**, amely a magyar Himnusz értékteremtő céljait ötvözi a román himnusz agresszív végrehajtási dinamikájával?
+- [Fohász és tett – hogyan ötvözhető a magyar Himnusz bőségvágya a román himnusz ébresztő lendületével?](/blog/keszitsunk-e-egy-osszevont-hibrid-cselekvesi-tervet-amely-a-magyar-himnusz-ertekteremto-celjait-otvozi-a-roman-himnusz-agressziv-vegrehajtasi-dinamikajaval/)
 - Megvizsgáljuk-e, hogy a román himnusz **„Most vagy soha” (Urgency)** elve hogyan alkalmazható a 90 napos tervünk első hetében?

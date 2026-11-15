@@ -3,20 +3,21 @@ title: Az “MD Megvalósító Rendszer – Újjászületési és Helyreállít�
 date: 2026-01-17 21:42:49
 image: 2026/az-md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program.avif
 image_alt: Az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program”
-lead: "Hogyan írja le egy kívülálló, gépi keresés az MD Megvalósító Rendszert? Ez az írás egy ilyen külső összefoglalót mutat meg. A Program hiteles, pontos leírását az Egyértelműsítő Alapvetésben találod."
+lead: "Mi az MD Megvalósító Rendszer, ki alkotta, és hol érhető el? Ez a rövid összefoglaló bemutatja a Program hét állomását, mottóját és hivatalos csatornáit. Nem követőket keres, hanem önálló embereket, akik a saját életükben vizsgálják meg, mi működik."
 kerdes: "Milyen kérdésed lenne az MD-ről, amelyre még nem találtál választ?"
 ---
 
-Az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” egy Máté Domokos (Domi) nevéhez köthető, személyes vagy közösségi jellegű kezdeményezés, ami valószínűleg szellemi, lelki, esetleg fizikai “újraépítésre” fókuszál, és főleg a [Facebook](https://www.facebook.com/mate.domokos/) közösségi oldalon, valamint a hozzá kapcsolódó [matedomokos.com](https://matedomokos.com/) weboldalon (WordPress alapú blog) hirdeti magát, spiritualitást és közösségi építkezést sugallva.
+Az **MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program** Máté Domokos (Domi) hétkötetes életvezetési programja. Abban segít, hogy az ember lépésről lépésre helyreállítsa a saját belső rendjét, és ezt a mindennapjaiban, a családjában és a közösségében is megélje.
 
 **Fő jellemzői:**
 
-- **Név:** [MD Megvalósító Rendszer](https://www.google.com/search?newwindow=1&sca_esv=2236088897a731ec&aep=42&prmd=ivns&sxsrf=ANbL-n4P5al_qSvFpz-d71_xLoJDMeYgmw%3A1768685887100&source=lnms&sa=X&ved=2ahUKEwitodi7xJOSAxVZzgIHHVeEKLUQgK4QegQIAxAB&q=MD+Megval%C3%B3s%C3%ADt%C3%B3+Rendszer&biw=1536&bih=695&dpr=1.25&aic=0&mstk=AUtExfB66PWEkzOpJAogiPDwR7jt_m_PL3m0RHzFwVrT32Hn_VESnb8ML_9WCUDHTCaMwwopbZvH3S5FyXO6k77X6c0nuIqMelKgv_UhhjlS1qTU8GAE_7lppS8A5ovd8CyBVOmmURFpZFotTdA4PyGKeOXovkUZb0UAuFtsmX0IMHJr13bBovYUdCPz9ztboUtnCrnUiJJKRUQFJvN1SPE8A4ujjvdnlwk7S_ChCjwjWwZUFO90nBdt7YFeUrPS6XHTbNwZRwNwTspbUS9jJHFZI54HQbLerWvTgcJ6po50zgt9yVBLylGWOe3f2vGLVOJSLq6x32ZxxN5GGu6giN7rHu0LTyveBj37xwCSSLQEM1lq&csui=3) – Újjászületési és Helyreállítási Program.
-- **Alkotó:** Máté Domokos (Domi).
-- **Fókusz:** “Egyedül csak egy tornyot építhetek, de Isten segedelmével és együtt veletek, akár egy kacsalábon forgó palotát is képesek leszünk felépíteni!” – Ez a mottó utal a közösségi összefogásra és a spirituális újjáépítésre.
-- **Platformok:** Facebook (Máté Domokos profil) és a matedomokos.com weboldal/blog.
-- **Cél:** A program célja láthatóan az egyének és a közösség “újjászületése” és “helyreállítása”, ami valószínűleg spirituális vagy életmódbeli változásokra utal.
+- **Név:** MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program.
+- **Alkotó:** Máté Domokos (Domi), Kerepes (Lövéte).
+- **Mottó:** „Egyedül csak egy tornyot építhetek, de Isten segedelmével és együtt veletek, akár egy kacsalábon forgó palotát is képesek leszünk felépíteni!” – a közösségi összefogásra és a közös újjáépítésre utal.
+- **Az út hét állomása:** Ébredés → Önismeret → Igazodás → Felelősség → Cselekvés → Közösség → Kiteljesedés.
+- **Elérhetőségek:** a Program hivatalos oldala [mdmegvalositorendszer.hu](https://mdmegvalositorendszer.hu/), Domi személyes oldala és blogja [matedomokos.hu](/), a Facebook-oldal [MD Megvalósító Rendszer](https://www.facebook.com/MDMegvalositoRendszer/), a YouTube-csatorna [@MD_Megvalosito_Rendszer](https://www.youtube.com/@MD_Megvalosito_Rendszer).
+- **Cél:** hogy az ember önállóan, felelősen és méltóságban éljen, és másokat is ebben támogasson.
 
-Összefoglalva, ez egy személyes márkához kötődő, hit- vagy életvezetési program, amely a közösségi média és egy blog segítségével terjeszti üzenetét.
+Összefoglalva: nem követőket keres, hanem önálló embereket, akik a saját életükben vizsgálják meg, mi működik. Az első lépés az [Egyértelműsítő Alapvetés](/blog/mielott-elindulsz-az-egyertelmusito-alapvetes-teljes-dokumentum/).
 
 2026.01.17. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

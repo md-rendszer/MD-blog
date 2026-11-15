@@ -57,4 +57,3 @@ Ahhoz, hogy kelendő legyen, adj egy könnyen emészthető mintát a rendszerbő
 
 Szeretnéd, hogy kidolgozzunk egy konkrét szlogent vagy egy rövid bemutatkozó szöveget a programhoz?
 
-Az AI-válaszokban előfordulhatnak hibák.

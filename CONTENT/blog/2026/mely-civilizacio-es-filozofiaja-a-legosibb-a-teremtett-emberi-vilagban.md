@@ -33,6 +33,4 @@ Ha a civilizációt nem az íráshoz, hanem a szervezett rituális építkezésh
 **Összegezve:**  
 Ha az írott történelmet nézzük, a **sumer** a legősibb. Ha a máig ható, mély filozófiai rendszereket keressük, akkor az **ősi indiai (védikus)** hagyomány tekinthető a legkorábbinak.
 
-Az AI-válaszokban előfordulhatnak hibák.
-
 2026.01.11. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

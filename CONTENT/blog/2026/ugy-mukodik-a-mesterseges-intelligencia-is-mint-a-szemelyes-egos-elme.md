@@ -32,6 +32,4 @@ Ha gondolod, tovább beszélgethetünk erről. Amennyiben érdekel, szívesen ki
 - Mi a pontos különbség a **statisztikai valószínűség** és a valódi megértés között?
 - Hogyan lehet olyan **utasításokat (prompteket) írni**, amelyek őszinteségre kényszerítik az MI-t?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 2026.07.11. Kárpát-medence. Pest Vármegye. Kerepes (Lövéte). Máté Domokos

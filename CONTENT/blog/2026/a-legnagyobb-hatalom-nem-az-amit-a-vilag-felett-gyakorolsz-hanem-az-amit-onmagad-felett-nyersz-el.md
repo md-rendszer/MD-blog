@@ -41,7 +41,6 @@ Hogyan fordítsd ezt a saját javadra a mindennapokban?
 
 **Összegezve:** A költemény szerint a legnagyobb hatalom nem az, amit a világ felett gyakorolsz, hanem az, amit önmagad felett nyersz el. Ez a felismerés adhatja meg neked azt a tartós békét és örömöt, amit semmilyen külső siker nem tud garantálni.
 
-Az AI-válaszokban előfordulhatnak hibák.  
   
 A költeményt az “Egy JOGI önéletrajza” 41. Idill Dél-Indiában részben találtam:  
   

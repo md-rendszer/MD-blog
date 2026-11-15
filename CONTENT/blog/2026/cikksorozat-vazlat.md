@@ -1,15 +1,15 @@
 ---
-title: Cikksorozat-vázlat
+title: Csend – Igazság – Felelősség – egy készülő cikksorozat négy kérdése
 date: 2026-01-25 09:56:46
 image: 2026/a-100-os-felelossegvallalas-alkalmazhatosaga-konkret-konfliktushelyzetben.avif
 image_alt: CSEND - IGAZSÁG - FELELŐSSÉG
-lead: "Miért lett a hallgatás erény, és miért támadják azokat, akik figyelmeztetnek? Ez a vázlat egy háromrészes cikksorozat szerkezetét rögzíti: a csend kultúrájáról, az igazság megbélyegzéséről és a felelősség elutasításáról."
-kerdes: "Melyik résznek látnád szívesen elsőként a kidolgozott változatát?"
+lead: "Miért lett a hallgatás erény, és miért támadják azokat, akik figyelmeztetnek? Ez az írás egy készülő négyrészes cikksorozat kérdéseit gyűjti össze a csend kultúrájától az ébresztés lehetőségéig – nem vádként, hanem lámpával."
+kerdes: "A négy kérdéskör közül melyikre keresnéd elsőként a választ – és miért éppen arra?"
 ---
 
 ### **Csend – Igazság – Felelősség**
 
-Ez már **mélyebb hatású, hosszabb távú projekt**, akár Substackre, blogra, könyvalapnak is.
+Négy kérdéskör, amelyen az elkövetkező írásaimban végig szeretnék menni. Nem vádként, hanem lámpával: hogy meglássuk, hol hallgatunk, ahol szólni kellene, és hol várjuk mástól, ami a mi dolgunk.
 
 ### 🔹 I. rész: **A Csend Kultúrája**
 
@@ -37,18 +37,10 @@ Ez már **mélyebb hatású, hosszabb távú projekt**, akár Substackre, blogra
 
 ---
 
-### Hogyan tovább?
+### Merre tovább?
 
-Ha szeretnéd, a következő lépés lehet:
+Az első rész – *A Csend Kultúrája* – hamarosan itt olvasható lesz. Ha van olyan kérdés, amelyre szerinted elsőként választ kellene keresnünk, írd meg a cikk alatti visszajelzésben.
 
-- 🎯 **egy konkrét platformra szabás** (Facebook / Substack / blog),
-- 🖼️ **kép + szöveg párosítás** publikálásra,
-- 📖 vagy **egy egységes, kiadható esszé / könyvkezdemény** felépítése.
+Ez nem tartalomgyártás. Ez állásfoglalás – a REND mellett.
 
-Ez nem „tartalom”.  
-Ez **állásfoglalás**.
-
-Mondd, melyikkel menjünk tovább —  
-és építjük.  
-  
 2026.01.25. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

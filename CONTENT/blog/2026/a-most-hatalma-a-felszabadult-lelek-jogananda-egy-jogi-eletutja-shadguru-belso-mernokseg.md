@@ -14,4 +14,3 @@ Ez a négy könyv a modern spirituális irodalom alapműve, amelyek különböz�
 - **Paramahansa Yogananda: Egy jógi önéletrajza** – A 20. század egyik legfontosabb spirituális klasszikusa. Yogananda életén keresztül mutatja be a kriya jóga tudományát és a keleti misztika mélységeit, hidat képezve Nyugat és Kelet között.
 - **Sadhguru: Belső mérnökség** – Egy modern útmutató az örömhöz. Sadhguru nem vallásos, hanem technológiai megközelítést alkalmaz: eszköztárat ad ahhoz, hogy testünket és elménket úgy „huzalozzuk át”, hogy azok ne akadályozzák, hanem szolgálják a jóllétünket.
 
-Az AI-válaszokban előfordulhatnak hibák.

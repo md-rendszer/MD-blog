@@ -1,7 +1,8 @@
 ---
 title: 📖 BIBLIA – MD KIVONAT (2. RÉSZ)
 date: 2026-05-08 19:25:20
-image: -
+image: 2026/biblia-md-kivonat-2-resz.avif
+image_alt: "Homokóra, lámpás és fénylő kapu: hiábavalóság, a próféták hangja, megújulás – Biblia – MD kivonat II."
 lead: "A Prédikátor könyvétől az Énekek énekén és a prófétákon át az Újszövetségig: a kivonat második része azt mutatja meg, mit tanítanak ezek a könyvek a hiábavalóság felismeréséről és a valódi tartalom kereséséről. Ha úgy érzed, sokat hajszolsz, mégsem telsz be, olvasd el."
 kerdes: "Mit hajszoltál sokáig, amiről később kiderült, hogy önmagában nem adott beteljesülést?"
 ---

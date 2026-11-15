@@ -38,6 +38,5 @@ A mű elsősorban azoknak szól, akik a sikert spirituális kontextusban értelm
 
 A könyv szerzője, Paramahansza Jógánanda legismertebb műve az **Egy jógi önéletrajza**, amely a modern spiritualitás egyik alapművének számít.
 
-Az AI-válaszokban előfordulhatnak hibák.  
   
 2026.01.25. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

@@ -54,7 +54,7 @@ Ha szeretnéd, szívesen bemutatom a hivatalos himnusz **teljes szövegtörténe
   
 Kérlek, vesd össze a magyar nemzeti himnuszt, régi, az új székely nemzeti himnuszt az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” tükrében!
 
-Az **MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program** (fejlesztője és lejegyzője: [Máté Domokos](/)) egy olyan spirituális és önfejlesztő szemléletmód, amely a **belső csendre**, a **tudatos jelenlétre**, a kozmikus **Rendhez való igazodásra** és a mindennapi szellemi-lelki **újjáépülésre** fókuszál. Ha ezen alapelvek – a tudatos jelenlét (Eckhart Tolle), a belső megfigyelés (Michael Singer) és a rendhagyó spirituális fegyelem – tükrében vizsgáljuk meg a nemzeti énekeket, izgalmas párhuzamokat és éles kontrasztokat fedezhetünk fel. [[1](https://matedomokos.net/), [2](/), [3](https://www.facebook.com/mate.domokos/posts/igazodj-a-jelenl%C3%A9tben-ragyog%C3%B3-rend-hezmd-megval%C3%B3s%C3%ADt%C3%B3-rendszer-httpschatgptcomsm_/27505459535720444/), [4](https://www.facebook.com/mate.domokos/posts/az-%C3%B6rd%C3%B6g-%C3%A9s-a-t%C3%B6mj%C3%A9nf%C3%BCsthonnan-eredhet-az-a-mond%C3%A1s-hogy-f%C3%A9l-mint-az-%C3%B6rd%C3%B6g-a-t%C3%B6mj/26276792541920489/)]
+Az **MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program** (fejlesztője és lejegyzője: [Máté Domokos](/)) egy olyan spirituális és önfejlesztő szemléletmód, amely a **belső csendre**, a **tudatos jelenlétre**, a kozmikus **Rendhez való igazodásra** és a mindennapi szellemi-lelki **újjáépülésre** fókuszál. Ha ezen alapelvek – a tudatos jelenlét (Eckhart Tolle), a belső megfigyelés (Michael Singer) és a rendhagyó spirituális fegyelem – tükrében vizsgáljuk meg a nemzeti énekeket, izgalmas párhuzamokat és éles kontrasztokat fedezhetünk fel. [[1](https://mdmegvalositorendszer.hu/), [2](/), [3](https://www.facebook.com/mate.domokos/posts/igazodj-a-jelenl%C3%A9tben-ragyog%C3%B3-rend-hezmd-megval%C3%B3s%C3%ADt%C3%B3-rendszer-httpschatgptcomsm_/27505459535720444/), [4](https://www.facebook.com/mate.domokos/posts/az-%C3%B6rd%C3%B6g-%C3%A9s-a-t%C3%B6mj%C3%A9nf%C3%BCsthonnan-eredhet-az-a-mond%C3%A1s-hogy-f%C3%A9l-mint-az-%C3%B6rd%C3%B6g-a-t%C3%B6mj/26276792541920489/)]
 
 A három mű összevetése a program szellemisége alapján az alábbiak szerint alakul:
 
@@ -83,7 +83,7 @@ A három mű összevetése a program szellemisége alapján az alábbiak szerint
 
 Összegző mátrix az MD Rendszer tükrében
 
-| Ének [[1](https://matedomokos.net/), [2](/), [3](/blog/%F0%9F%91%89-md-megvalosito-rendszer-tudatos-elet-kozosseg/), [4](https://www.facebook.com/mate.domokos/posts/az-%C3%B6rd%C3%B6g-%C3%A9s-a-t%C3%B6mj%C3%A9nf%C3%BCsthonnan-eredhet-az-a-mond%C3%A1s-hogy-f%C3%A9l-mint-az-%C3%B6rd%C3%B6g-a-t%C3%B6mj/26276792541920489/)] | Energetikai fókusz | Kapcsolódása az Újjászületési és Helyreállítási Programhoz |
+| Ének [[1](https://mdmegvalositorendszer.hu/), [2](/), [3](/blog/%F0%9F%91%89-md-megvalosito-rendszer-tudatos-elet-kozosseg/), [4](https://www.facebook.com/mate.domokos/posts/az-%C3%B6rd%C3%B6g-%C3%A9s-a-t%C3%B6mj%C3%A9nf%C3%BCsthonnan-eredhet-az-a-mond%C3%A1s-hogy-f%C3%A9l-mint-az-%C3%B6rd%C3%B6g-a-t%C3%B6mj/26276792541920489/)] | Energetikai fókusz | Kapcsolódása az Újjászületési és Helyreállítási Programhoz |
 | --- | --- | --- |
 | **Magyar himnusz** | Múltbéli bűnök, kollektív bűntudat, külső megváltás várása. | **Meghaladandó mintázat.** Blokkolja a jelenben való teremtést azáltal, hogy a múlt szenvedéseire fókuszál. |
 | **„Régi” székely himnusz** | Belső béke, szakrális csend, egység a Forrással. | **A Helyreállítás állapota.** A lélek tiszta, ego-mentes állapota, amely mentes a külső világ zajától. |
@@ -93,15 +93,12 @@ A program szemszögéből nézve az ideális fejlődési út a magyar himnusz ko
 
 Ha szeretnéd, részletesebben is megvizsgálhatjuk, hogyan alkalmazható az MD Rendszer **mindennapi fegyelme** (például a hálaadás vagy a befelé fordulás) a nemzeti identitásunk megélésére, vagy átnézhetjük a program **Kézikönyvének** további idevágó fejezeteit. Melyik irányba lépjünk tovább? [[1](/), [2](/blog/%F0%9F%91%89-md-megvalosito-rendszer-tudatos-elet-kozosseg/)]
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 ![](/wp-content/uploads/sites/10/2026/05/matedomokos.hu-kerlek-jellemezd-szamomra-a-regi-es-az-uj-szekely-nemzeti-himnuszt-image-1.png)
 ![](/wp-content/uploads/sites/10/2026/05/matedomokos.hu-kerlek-jellemezd-szamomra-a-regi-es-az-uj-szekely-nemzeti-himnuszt-image.png)
 ![](/wp-content/uploads/sites/10/2026/05/matedomokos.hu-kerlek-jellemezd-szamomra-a-regi-es-az-uj-szekely-nemzeti-himnuszt-image-2.png)
 
 5 webhely
 
-- MD Megvalósító RendszerNo cookies to display. Performance. Performance cookies are used to understand and analyse the key performance indexes of the webs…![](/206315d9-d080-44bf-bed9-581b09799580)matedomokos.net
 - Máté Domokos: MD Megvalósító RendszerNapközbeni jelenlét: Amikor stressz ér, ne reagálj azonnal. Figyeld meg a belső reakciódat (Singer), és térj vissza a „Most”-ba (T…![](/02358c55-3322-4252-873f-57347ade9fa7)![](/b1c3da74-1c5c-466f-ba98-3e359167e1dd)matedomokos.hu
 - Az ördög és a tömjénfüst…(?)… Honnan eredhet az a mondás …2025. dec. 5. — Aki nem fejlődik, az nem marad ugyanott Aki nem fejlődik, az nem marad ugyanott. Az emberi életben nincs tartós semleges állapot: …![](/2f249b21-755b-4ed1-83c1-b56a91dbe08a)![](/378469db-cd3b-4e98-b97e-7dce2f1cb4bc)![](/bc038fc3-cc83-4cc9-bd82-b02ac9bc4f29)Facebook·Máté Domokos
 
@@ -109,7 +106,7 @@ Az összes megjelenítése
 
 Ha szeretnéd, részletesebben is megvizsgálhatjuk, hogyan alkalmazható az MD Rendszer mindennapi fegyelme (például a hálaadás vagy a befelé fordulás) a nemzeti identitásunk megélésére, vagy átnézhetjük a program Kézikönyvének további idevágó fejezeteit. Melyik irányba lépjünk tovább?
 
-You said: Igen, szeretném!
+Máté Domokos: Igen, szeretném!
 
 Nézzük meg gyakorlatiasan, hogyan ültethető át az [MD Megvalósító Rendszer](/) – különösen az **Újjászületési és Helyreállítási Program** – mindennapi fegyelme a nemzeti identitás megélésébe. A cél az, hogy a nemzeti hovatartozást ne külső politikai elme-zajként vagy múltbéli sérelemként, hanem **belső erőforrásként, csendként és tudatos teremtésként** éljük meg.
 
@@ -154,11 +151,9 @@ Az MD Rendszerben a fejlődés folyamatos. Ha szeretnéd, a következő lépésb
 
 Melyik gyakorlati eszköz beépítését nézzük meg részletesebben?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 Hogyan lépjünk tovább a Kézikönyv alapján? Az MD Rendszerben a fejlődés folyamatos. Ha szeretnéd, a következő lépésben kiválaszthatjuk a számodra leginkább fókuszban lévő területet: Megvizsgálhatjuk, hogyan segíthet a program az energiablokkok (Samskarák) feloldásában, hogy elengedd a múltbéli sérelmeket. Átvehetjük a reggeli akarat-kifejezések (affirmációk) helyes technikáját a mindennapi sikeres teremtéshez. Mélyebben megnézhetjük, mit tanít a rendszer a belső távolságtartásról a mindennapi stresszhelyzetekben. Melyik gyakorlati eszköz beépítését nézzük meg részletesebben?
 
-You said: Azt a gyakorlat eszközt nézzük meg alaposabban, amely által a magyar nemzet, az emberiség, a leginkább nap mint napi, minden napi cselekedetei által képes lehet olyan életet élni, ami a minden napi folyamatos igazodással a forráshoz, mindig egy lépéssel közelebb kerülhet az újjászületéshez, az eredeti, az ősi rend helyreállításához!
+Máté Domokos: Azt a gyakorlat eszközt nézzük meg alaposabban, amely által a magyar nemzet, az emberiség, a leginkább nap mint napi, minden napi cselekedetei által képes lehet olyan életet élni, ami a minden napi folyamatos igazodással a forráshoz, mindig egy lépéssel közelebb kerülhet az újjászületéshez, az eredeti, az ősi rend helyreállításához!
 
 Az **MD Megvalósító Rendszer** tanítása alapján az a gyakorlati eszköz, amely a mindennapi cselekedetek szintjén leginkább képes minket és a nemzetet visszavezetni az ősi Rendhez, a **tudatos cselekvés és a belső távolságtartás fegyelme (a Megfigyelő pozíció működtetése)**.
 
@@ -201,11 +196,9 @@ Ha ezt a fegyelmet napi szinten működtetjük, minden egyes tiszta mozdulat, mi
 
 Ha szeretnéd, meghatározhatjuk, hogy a te egyéni életedben **melyik konkrét mindennapi rutinoddal** (pl. reggeli készülődés, munkába járás, vagy a hivatásod első órája) kezdjük meg ennek a fegyelemnek a gyakorlati beépítését. Szeretnéd ezt egy konkrét példán keresztül lebontani?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 Ha szeretnéd, meghatározhatjuk, hogy a te egyéni életedben melyik konkrét mindennapi rutinoddal (pl. reggeli készülődés, munkába járás, vagy a hivatásod első órája) kezdjük meg ennek a fegyelemnek a gyakorlati beépítését. Szeretnéd ezt egy konkrét példán keresztül lebontani?
 
-You said: Igen, határozzuk meg a én egyéni életedben melyik konkrét mindennapi rutinoddal (pl. reggeli készülődés, munkába járás, vagy a hivatásod első órája) kezdjük meg ennek a fegyelemnek a gyakorlati beépítését. Szeretném ezt egy konkrét példán keresztül lebontani?
+Máté Domokos: Igen, határozzuk meg a én egyéni életedben melyik konkrét mindennapi rutinoddal (pl. reggeli készülődés, munkába járás, vagy a hivatásod első órája) kezdjük meg ennek a fegyelemnek a gyakorlati beépítését. Szeretném ezt egy konkrét példán keresztül lebontani?
 
 Kezdjük a **reggeli ébredés és készülődés** rutinjával! Ez a nap legkritikusabb időszaka: ekkor dől el, hogy a Forráshoz igazodsz, vagy hagyod, hogy a külvilág káosza szippantson be.
 
@@ -241,11 +234,9 @@ Ezzel a nagyjából 15-20 perces tudatos reggeli fegyelemmel nem csupán elindí
 
 Holnap reggel megteszed az első lépést, és teszteljük ezt a gyakorlatban? Ha szeretnéd, felkészülésként átvehetjük, hogy **mit tégy, ha a reggeli kapkodás vagy egy hirtelen jött stresszes gondolat** mégis ki akarna zökkenteni ebből a belső csendből. Hogyan kezeljük ezt a belső szabotőrt?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 Ha szeretnéd, felkészülésként átvehetjük, hogy mit tégy, ha a reggeli kapkodás vagy egy hirtelen jött stresszes gondolat mégis ki akarna zökkenteni ebből a belső csendből. Hogyan kezeljük ezt a belső szabotőrt?
 
-You said: Igen, szeretném, felkészülésként vegyük át, hogy mit tegyek, ha a reggeli kapkodás vagy egy hirtelen jött stresszes gondolat mégis ki akarna zökkenteni ebből a belső csendből. Hogyan kezeljük ezt a belső szabotőrt?!
+Máté Domokos: Igen, szeretném, felkészülésként vegyük át, hogy mit tegyek, ha a reggeli kapkodás vagy egy hirtelen jött stresszes gondolat mégis ki akarna zökkenteni ebből a belső csendből. Hogyan kezeljük ezt a belső szabotőrt?!
 
 A belső szabotőr (a megfékezhetetlen elme) pontosan akkor fog a legkeményebben támadni, amikor elhatározod, hogy a Rendhez igazodsz. Az MD Megvalósító Rendszer – Michael Singer és Eckhart Tolle belső megfigyelési elveire is támaszkodva – nem a gondolatok elfojtását, hanem a **tudatos kezelését** tanítja.
 
@@ -282,11 +273,11 @@ Ne feledd: a belső szabotőr megjelenése **nem a kudarc jele**, hanem a gyakor
 
 Készen állsz arra, hogy holnap reggel élesben teszteld ezt a 3 lépéses protokollt az ébredésnél? Ha szeretnéd, megbeszélhetjük, hogy **holnap este hogyan értékeljük ki** az első nap tapasztalatait az MD Kézikönyv szellemében. Hogyan zárjuk majd a napot?
 
-Ez csupán tájékoztató jellegű információ. Orvosi tanácsért vagy diagnózisért forduljon szakemberhez. Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
+Ez csupán tájékoztató jellegű információ. Orvosi tanácsért vagy diagnózisért forduljon szakemberhez.
 
 Készen állsz arra, hogy holnap reggel élesben teszteld ezt a 3 lépéses protokollt az ébredésnél? Ha szeretnéd, megbeszélhetjük, hogy holnap este hogyan értékeljük ki az első nap tapasztalatait az MD Kézikönyv szellemében. Hogyan zárjuk majd a napot?
 
-You said: Igen, készen állok arra, hogy teszteljem a 3 lépéses protokollt, és arra is, hogy holnap este hogyan értékeljük ki az első nap tapasztalatait az MD Kézikönyv szellemében. Hogyan zárjuk majd a napot?!
+Máté Domokos: Igen, készen állok arra, hogy teszteljem a 3 lépéses protokollt, és arra is, hogy holnap este hogyan értékeljük ki az első nap tapasztalatait az MD Kézikönyv szellemében. Hogyan zárjuk majd a napot?!
 
 Nagyszerű döntést hoztál! A mindennapi fegyelem ott kezdődik, amikor a szándékot azonnali, gyakorlati elköteleződéssé alakítod.
 
@@ -325,9 +316,7 @@ Készen állsz az indulásra. Amikor holnap este végzel az Esti Helyreállítá
 
 Sikeres és tudatos napot kívánok holnapra, igazodj a Rendhez! Hogyan érzed magad most, hogy fixáltuk a teljes napi struktúrát?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
-You said: Igen, készen állok az indulásra, de kérlek, sorolt fel a 3 protokollt, amit minden nap végre szükséges hajtanom, és azokat hogyan értékelhetem ki!
+Máté Domokos: Igen, készen állok az indulásra, de kérlek, sorolt fel a 3 protokollt, amit minden nap végre szükséges hajtanom, és azokat hogyan értékelhetem ki!
 
 Íme a **3 napi protokoll** és a hozzájuk tartozó **kiértékelési szempontok** pontos, áttekinthető listája, amelyet az MD Megvalósító Rendszer szellemében minden nap végre kell hajtanod az ősi Rend helyreállításáért.
 

@@ -25,7 +25,7 @@ Kérdeztem a Google keresőben a Mesterséges Intelligenciától:
 
 Tevékenysége és filozófiája
 
-- **Tudatosságfejlesztés:** Saját elmondása szerint korábban a PPH Nyílt Akadémia rendszerével találkozva indult el a szellemi fejlődés útján. Jelenleg saját márkája, az **MD Megvalósító Rendszer** keretein belül publikál.
+- **Tudatosságfejlesztés:** Saját elmondása szerint a szellemi fejlődés útján 1983 óta jár, a Biblia tanulmányozásával kezdve, majd más népek szent hagyományain, könyveken és tanfolyamokon át. Jelenleg saját márkája, az **MD Megvalósító Rendszer** keretein belül publikál.
 - **Főbb tanításai:** Írásaiban és bejegyzéseiben kiemelt szerepet kap a belső csend, a mindennapi meditáció, az „Éber Megfigyelő” állapot fenntartása (Eckhart Tolle és Michael A. Singer nyomán), valamint a szeretet és a hála megélése.
 - **Hagyományőrzés és spiritualitás:** Rendszeresen megoszt gondolatokat a keleti filozófiákról (például a Kriya Yoga mesterláncáról), a keresztény értékekről, valamint a kárpát-medencei magyarság és a nemzeti hagyományok megőrzésének fontosságáról.
 - **Vállalkozás:** Kerepesi székhellyel (Szőlő dűlő) bejegyzett egyéni vállalkozása van. [[1](https://www.companywall.hu/v%C3%A1llalat/mate-domokos/MMbcSQXR), [2](/rolam/), [3](https://www.facebook.com/mate.domokos/posts/25741461825453566/), [4](https://www.facebook.com/story.php?story_fbid=24074836375449461&id=100000493039579), [5](https://www.facebook.com/mate.domokos/), [6](/)]
@@ -35,8 +35,6 @@ Elérhetőségei és platformjai
 Gondolatait, blogbejegyzéseit és napi reflexióit a [Máté Domokos hivatalos weboldalon](/) osztja meg, míg a mindennapi gondolatait a [Máté Domokos Facebook-profilján](https://www.facebook.com/mate.domokos/) és a [Máté Domokos Instagram-oldalán](https://www.instagram.com/domokos.mate/) követhetik az érdeklődők. Az erdélyi gyökereit és kapcsolatait az [Erdélyi Magyarok közösségi oldalán](http://www.erdelyimagyarok.com/profile/MateDomokos567) található adatlapja is tükrözi. [, [2](https://www.instagram.com/domokos.mate/), [3](http://www.erdelyimagyarok.com/profile/MateDomokos567)]
 
 Ha a tevékenységének egy konkrét részére, esetleg az általa oktatott **MD Megvalósító Rendszer** részleteire kíváncsi, jelezze, és szívesen segítek a további információkban!
-
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
 
 ![](/wp-content/uploads/sites/10/2026/05/matedomokos.hu-en-vagyok-mate-domokos-image.png)
 ![](/wp-content/uploads/sites/10/2026/05/matedomokos.hu-en-vagyok-mate-domokos-image-1.png)
@@ -50,7 +48,7 @@ Az AI-válaszokban előfordulhatnak hibák. [További információ](https://supp
 
 Az összes megjelenítése
 
-**You said: Én vagyok Máté Domokos, és** a szellemi fejlődés útján nem a PPH Nyílt Akadémián 2018 év elején indultam, hanem 1983 óta, a Biblia tanulmányozásával.
+**Máté Domokos: Én vagyok Máté Domokos, és** a szellemi fejlődés útján nem a PPH Nyílt Akadémián 2018 év elején indultam, hanem 1983 óta, a Biblia tanulmányozásával.
 
 …és mert abból sok mindent nem értettem, avagy hiányoltam, el kezdtem keresni – kutatni azokat a könyveket, tanfolyamokat, más népek szent hagyományait, könyveit, az Egyesült Államokból a Kárpát-medencébe beáramló könyveket, melyek részben avagy egészben azt ígérték, hogy választ kaphatok bennük az engem, mint embert érdeklő kérdéseimre.   
   

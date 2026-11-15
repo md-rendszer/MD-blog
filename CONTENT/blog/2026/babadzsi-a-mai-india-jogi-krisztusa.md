@@ -22,6 +22,4 @@ Miért nevezik „jógi-Krisztusnak”?
 
 Bár Babaji létezéséről nincsenek hivatalos történelmi feljegyzések, alakja központi jelentőségű a modern jóga világában, inspirálva olyan hírességeket is, mint Steve Jobs vagy a Beatles tagjai.
 
-Az AI-válaszokban előfordulhatnak hibák.
-
 2026.01.11. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

@@ -15,7 +15,7 @@ Főbb információk Máté Domokosról:
 
 - **Származás és lakhely:** 1960-ban született Lövétén. Jelenleg Pest vármegyében, Kerepesen él, blogbejegyzéseiben és közösségi média posztjaiban gyakran hivatkozik mindkét településre (Kerepes / Lövéte).
 - **Tevékenység:** Létrehozta az **MD Megvalósító Rendszert**. Küldetése, hogy segítsen az embereknek félelmek helyett tudatosan, kiegyensúlyozottan és szabadon élni az életüket.
-- **Szakmai háttér:** Saját elmondása szerint a *PPH Nyílt Akadémia tudatosságfejlesztő rendszerével való találkozása hozott nagy változást az életébe, amely gyakorlati szellemi, lelki és anyagi eszközöket adott a fejlődéséhez*. Korábbi szakmai tapasztalatai az ingatlanüzemeltetéshez és belsőépítészeti munkákhoz kapcsolódnak.
+- **Szakmai háttér:** Saját elmondása szerint évtizedek óta, 1983 óta keresi, hogyan élhet az ember helyes, rendezett életet; ebből a keresésből és a tapasztalt hiányokból született meg az MD Megvalósító Rendszer. Korábbi szakmai tapasztalatai az ingatlanüzemeltetéshez és belsőépítészeti munkákhoz kapcsolódnak.
 - **Online jelenlét:** Aktív közösségi média jelenléttel rendelkezik. Megtalálható a [hivatalos weboldalán](/), valamint a [Máté Domokos Facebook-oldalon](https://www.facebook.com/mate.domokos/), ahol rendszeresen oszt meg motivációs gondolatokat, blogbejegyzéseket és környezettudatossággal kapcsolatos (például biodiverzitás-barát kert) videókat.  
     
   **Az alábbi online állítás igaz, de nem úgy, ahogy le van írva!**  

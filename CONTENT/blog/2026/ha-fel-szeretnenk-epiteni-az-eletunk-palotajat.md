@@ -62,6 +62,4 @@ Ne akarj mindent egyszerre. **Ma csak egyetlen téglát tegyél le tökéletese
 
 A palota az ismételt kiválóság eredménye. Kezdd el az alapozást a Magyar Pszichológiai Társaság önismereti ajánlásaival vagy keress strukturált fejlődési lehetőségeket a Coursera magyarul is elérhető kurzusai között.
 
-Az AI-válaszokban előfordulhatnak hibák.
-
 2026.01.11. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

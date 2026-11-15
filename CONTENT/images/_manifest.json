@@ -3663,5 +3663,65 @@
     "width": 1024,
     "height": 576,
     "srcset": "/images/2026/beke-a-karpat-medenceben-csak-az-igaz-alapzatarol-400x225.avif 400w, /images/2026/beke-a-karpat-medenceben-csak-az-igaz-alapzatarol-768x432.avif 768w, /images/2026/beke-a-karpat-medenceben-csak-az-igaz-alapzatarol.avif 1024w"
+  },
+  "/images/2026/biblia-md-kivonat-1-resz-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/biblia-md-kivonat-1-resz-400x225.avif 400w, /images/2026/biblia-md-kivonat-1-resz-768x432.avif 768w, /images/2026/biblia-md-kivonat-1-resz.avif 1024w"
+  },
+  "/images/2026/biblia-md-kivonat-1-resz-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/biblia-md-kivonat-1-resz-400x225.avif 400w, /images/2026/biblia-md-kivonat-1-resz-768x432.avif 768w, /images/2026/biblia-md-kivonat-1-resz.avif 1024w"
+  },
+  "/images/2026/biblia-md-kivonat-1-resz.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/biblia-md-kivonat-1-resz-400x225.avif 400w, /images/2026/biblia-md-kivonat-1-resz-768x432.avif 768w, /images/2026/biblia-md-kivonat-1-resz.avif 1024w"
+  },
+  "/images/2026/biblia-md-kivonat-2-resz-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/biblia-md-kivonat-2-resz-400x225.avif 400w, /images/2026/biblia-md-kivonat-2-resz-768x432.avif 768w, /images/2026/biblia-md-kivonat-2-resz.avif 1024w"
+  },
+  "/images/2026/biblia-md-kivonat-2-resz-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/biblia-md-kivonat-2-resz-400x225.avif 400w, /images/2026/biblia-md-kivonat-2-resz-768x432.avif 768w, /images/2026/biblia-md-kivonat-2-resz.avif 1024w"
+  },
+  "/images/2026/biblia-md-kivonat-2-resz.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/biblia-md-kivonat-2-resz-400x225.avif 400w, /images/2026/biblia-md-kivonat-2-resz-768x432.avif 768w, /images/2026/biblia-md-kivonat-2-resz.avif 1024w"
+  },
+  "/images/2026/biblia-md-kivonat-3-resz-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/biblia-md-kivonat-3-resz-400x225.avif 400w, /images/2026/biblia-md-kivonat-3-resz-768x432.avif 768w, /images/2026/biblia-md-kivonat-3-resz.avif 1024w"
+  },
+  "/images/2026/biblia-md-kivonat-3-resz-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/biblia-md-kivonat-3-resz-400x225.avif 400w, /images/2026/biblia-md-kivonat-3-resz-768x432.avif 768w, /images/2026/biblia-md-kivonat-3-resz.avif 1024w"
+  },
+  "/images/2026/biblia-md-kivonat-3-resz.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/biblia-md-kivonat-3-resz-400x225.avif 400w, /images/2026/biblia-md-kivonat-3-resz-768x432.avif 768w, /images/2026/biblia-md-kivonat-3-resz.avif 1024w"
+  },
+  "/images/2026/mik-azok-a-mitokondriumok-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/mik-azok-a-mitokondriumok-400x225.avif 400w, /images/2026/mik-azok-a-mitokondriumok-768x432.avif 768w, /images/2026/mik-azok-a-mitokondriumok.avif 1024w"
+  },
+  "/images/2026/mik-azok-a-mitokondriumok-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/mik-azok-a-mitokondriumok-400x225.avif 400w, /images/2026/mik-azok-a-mitokondriumok-768x432.avif 768w, /images/2026/mik-azok-a-mitokondriumok.avif 1024w"
+  },
+  "/images/2026/mik-azok-a-mitokondriumok.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/mik-azok-a-mitokondriumok-400x225.avif 400w, /images/2026/mik-azok-a-mitokondriumok-768x432.avif 768w, /images/2026/mik-azok-a-mitokondriumok.avif 1024w"
   }
 }

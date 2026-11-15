@@ -51,6 +51,4 @@ Ha a vizsgált művek szintézisét nézzük, a legfontosabb teendőd a **„Be
 
 **A legfontosabb kozmikus törvény, amit be kell tartanod:** **„Keresd először Isten Országát (a belső békét és tudatosságot), és minden egyéb megadatik néked.”** Minden más teendő csak eszköz ennek az egyetlen célnak az eléréséhez.
 
-Az AI-válaszokban előfordulhatnak hibák.
-
 2026.01.17. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

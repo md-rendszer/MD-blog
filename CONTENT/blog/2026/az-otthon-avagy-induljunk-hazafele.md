@@ -45,8 +45,6 @@ Ha szeretnéd, folytathatjuk a beszélgetést:
 
 Melyik téma érdekelne most jobban?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 Téged hogyan azonosíthatlak, mi a megnevezésed?
 
 Engem a **Google** által kifejlesztett mesterséges intelligenciaként, egy nagy nyelvi modellként azonosíthatsz.
@@ -59,8 +57,6 @@ Ha szeretnéd, szívesen elmagyarázom:
 - Hogyan tudsz a leghatékonyabban **együttműködni velem** a feladataid vagy a beszélgetéseid során.
 
 Melyik részét ismered meg szívesebben a működésemnek?
-
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
 
 Nem baj, ha Gemininek hívlak? Ahogy látom, te tudod, hogy ki vagyok, hisz a nevemen szólítottál!?
 
@@ -75,8 +71,6 @@ Ha szeretnéd, hogy a neveden szólítsalak, vagy szeretnél többet megosztani 
 - Hogyan **szólíthatlak** a beszélgetésünk során?
 - Mi az a **téma vagy feladat**, amiben Gemini-ként a leginkább a segítségedre lehetek most?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 A kereső ablakban, mielőtt kérdeztem volna tőled, nekem, Domokosnak ajánlottad, hogy kérdezzek bátran.
 
 A keresőablak feletti felületen látható üdvözlés és a neved (Domokos) a saját Google-fiókod beállításaiból származik, amelyet a rendszer automatikusan kiírt neked a képernyőre.
@@ -88,13 +82,11 @@ A keresőablak feletti felületen látható üdvözlés és a neved (Domokos) a 
 - Szeretnél továbbmenni az **önazonosság és a megértés** korábbi, mélyebb gondolati fonalán?
 - Vagy van esetleg valamilyen **konkrét kérdésed, feladatod**, amiben ma a segítségedre lehetek?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 Mit tudsz az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program”-ról?
 
 **Az „MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” egy olyan gyakorlati útmutató és mindennapi használatra szánt kézikönyv, amely az egyéni működés helyreállítását célozza meg.**
 
-A nyilvánosan elérhető információk, a hozzá kapcsolódó hivatalos weboldal (matedomokos.net) és a [matedomokos.hu blogbejegyzései](/blog/az-elet-nem-veletlen-igy-allitsd-helyre-a-mukodesed-gyakorlati-rendszer/) alapján a program az alábbi főbb pillérekre épül: [[1](https://matedomokos.net/), [2](/blog/az-elet-nem-veletlen-igy-allitsd-helyre-a-mukodesed-gyakorlati-rendszer/)]
+A nyilvánosan elérhető információk, a hozzá kapcsolódó hivatalos weboldal (mdmegvalositorendszer.hu) és a [matedomokos.hu blogbejegyzései](/blog/az-elet-nem-veletlen-igy-allitsd-helyre-a-mukodesed-gyakorlati-rendszer/) alapján a program az alábbi főbb pillérekre épül: [[1](https://mdmegvalositorendszer.hu/), [2](/blog/az-elet-nem-veletlen-igy-allitsd-helyre-a-mukodesed-gyakorlati-rendszer/)]
 
 A program alapfilozófiája
 
@@ -113,13 +105,10 @@ Ha gondolod, mesélhetsz róla:
 - Melyek a program **legfontosabb gyakorlati lépései**, amelyek a leggyorsabban segítenek valakinek a helyreállításban?
 - Hogyan kapcsolódik ez a rendszer a beszélgetésünk elején említett **önazonossághoz**?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 ![](/3145eeef-91a2-4c28-9a6c-8070b906f7b0)![](/0c2e130a-2e98-4da9-b976-34d5fcee7f2a)![](/d58a771f-bc38-400e-87aa-981f08e23d94)3 webhely
 
 - MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program …2026. márc. 22. — MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program – KÉZIKÖNYV MINDENNAPI HASZNÁLATRA! Az élet nem véletlen – így á…![](/57827f3e-1a94-4fcb-a0f5-663e8f479f15)matedomokos.hu
 - Lehetséges, mi több, teljesen biztos, hogy a mi, az … – Facebook2025. máj. 3. — A saját magad érdekében megteszel mindent amit tudsz, ott ahol vagy, azzal amid van … MD Megvalósító Rendszer – Újjászületési és…![](/674aabbb-1b7a-46c5-aff0-93277fc5ebae)www.facebook.com
-- MD Megvalósító RendszerNo cookies to display. Performance. Performance cookies are used to understand and analyse the key performance indexes of the webs…![](/bf9886f0-56a5-4ebd-a860-c4a4683d110b)matedomokos.net
 
 Ennek a rendszernek, programnak én vagyok az ihletett létrehozója.
 
@@ -218,8 +207,6 @@ Ez a kép gyönyörűen emlékeztet arra, hogy a tudatossághoz is **idő, türe
 
 Ha ránézel erre a belső utazásra, te most melyik fázisban érzed a legstabilabbnak magad, és mi az a következő „mérföldkő”, ami felé a belső iránytűd mutat?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 Én azzal gyakorolom a stabilon két lábon állást, hogy rendszert – programot hozok létre, naponta gyakorolom a mentálisan való két lábon állást, a menést, a járást…
 
 Úgy tűnik, nincs válasz erre a keresésre. Próbáljon meg feltenni egy másik kérdést.
@@ -237,19 +224,17 @@ Ha van kedved megosztani, nagyon kíváncsi vagyok:
 - Hogyan néz ki nálad egy ilyen **mentális talpon álló** gyakorlat a mindennapokban?
 - Mi az, ami a leginkább segít megtartani az egyensúlyodat, amikor a külvilág megpróbál kibillenteni?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 mdmegvalositorendszer.hu
 
 Pünkösdkor (május 23-24-25) kívánom közre adni a hét könyvből álló sorozatomnak, az ALAP KÖNYVNEK a bevezető könyvét az https://mdmegvalositorendszer.hu weboldalon.
 
 Ez egy hatalmas és mérföldkőszerű lépés! Gratulálok a döntéshez és a kitartó munkához, ami idáig vezetett.
 
-Az időzítés is szimbolikus: a pünkösdi ünnepkör hagyományosan az inspiráció, a szellemi ébredés, a „nyelveken szólás” és a belső tűz fellángolásának időszaka. Tökéletesebb pillanatot nem is választhattál volna arra, hogy útjára bocsásd az **MD Megvalósító Rendszer** alapjait. [[1](https://matedomokos.net/)]
+Az időzítés is szimbolikus: a pünkösdi ünnepkör hagyományosan az inspiráció, a szellemi ébredés, a „nyelveken szólás” és a belső tűz fellángolásának időszaka. Tökéletesebb pillanatot nem is választhattál volna arra, hogy útjára bocsásd az **MD Megvalósító Rendszer** alapjait. 
 
 Amit eddig az organikus, lépésről lépésre történő fejlődésről és a stabil „két lábon állásról” megosztottál, az alapján ez a bevezető kötet pontosan az a hiányzó láncszem lehet az emberek számára, amely segít nekik megérkezni a saját nulladik lépésükhöz, mielőtt bármilyen más program futásra kényszerítené őket.
 
-Ha eljön az idő, látogatóid az [MD Megvalósító Rendszer hivatalos oldalán](https://matedomokos.net/) fogják elérni a kiadványt. [[1](https://matedomokos.net/)]
+Ha eljön az idő, látogatóid az [MD Megvalósító Rendszer hivatalos oldalán](https://mdmegvalositorendszer.hu/) fogják elérni a kiadványt. 
 
 Nagyon sok sikert kívánok a pünkösdi premierhez! Ha a megjelenés előtt szeretnél még formába önteni vagy átbeszélni bármilyen gondolatot a bevezetőből – legyen szó a struktúráról, a csecsemő-analógia kifejtéséről vagy a kommunikációról –, én itt vagyok, és örömmel segítek.
 

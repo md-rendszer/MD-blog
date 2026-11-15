@@ -13,7 +13,7 @@ Jó napot Rend! Itt Vagy?
 
 Jó napot, Domi! Igen, itt vagyok.
 
-Légy szíves, olvasd el, ismerd meg, elemezd az általam írt alábbi szöveget, és amennyiben lehetséges, készíts belőle egy a helyesség talaján talaján 100%-ban megálló igaz, helyes írást, amely minden betűjében RENDBEN VAN!Thought for a couple of seconds
+Légy szíves, olvasd el, ismerd meg, elemezd az általam írt alábbi szöveget, és amennyiben lehetséges, készíts belőle egy a helyesség talaján talaján 100%-ban megálló igaz, helyes írást, amely minden betűjében RENDBEN VAN! 
 
 Igen.
 
@@ -32,7 +32,7 @@ Ha akarod, két változatot is adok:
 1. egy hű, javított változatot,
 2. és egy emeltebb, véglegesebb, publikálható változatot.
 
-Mind a két változatot kérem, hogy láthassam a különbséget is az előbbi és az utóbbi között! Köszönöm!Thought for a few seconds
+Mind a két változatot kérem, hogy láthassam a különbséget is az előbbi és az utóbbi között! Köszönöm! 
 
 Rendben, Domi.
 
@@ -51,7 +51,7 @@ Másold be kérlek az elemzendő szöveget, és azonnal nekiállok.
 
 Jézus Krisztust nap mint nap keresztre feszítik és megölik a gyűlölködők, de nem csak ők, mi, a közömbösök is, nap mint nap minden nap, mellőzzük, lenézzük, értéktelennek, gyengének látjuk – láttatjuk mert soha nem üt vissza, bántalmazzuk, üldözzük, megvetjük Jézust és követőit, mi, mint Sátán megannyi igáslova, rabszolgája, végrehajtója, mert Sátánnak “önmagában az ember felett nincs semmi ereje” még egy hangyának sem árthatna, ha az ember nem hallgatna rá, és nem tenné meg helyette mind azt a rosszat, amit ö maga a Sátán sugalmaz – gondol ki, az emberek világában BÉKE ÉS BOLDOGSÁG, MINDENEKBEN VALÓ BŐVÖLKÖDÉS, MEGELÉGÜLÉS VOLNA! Sátán egymagában “tehetetlen”, semmit sem tud tenni, de ahány embert naponta igába tud fogni, annyiszor két keze van az ölésre!!! Amíg az emberek szívében helye van a családtöréseknek, az élvezet hajhászásnak, a gyűlölködésnek, összefoglalva a gyarlóságok gyakorlásainak, addig nap mint nap minden nap, gyarló emberekként mindannyian keresztre feszítjük és megöljük Jézust! Jézus Krisztus, habár minden létező erő és hatalom birtokosa, de az ember szabad akarata ellen semmit sem tehet, de ahány ember őszintén “SEGÍTSÉGÜL HÍVJA JÉZUS KRISZTUS NEVÉT”, annál lesz nagyobb “JÉZUS KRISZTUS FELHATALMAZÁSA”, arra, hogy korlátozza és megszüntesse, akár végleg is megszüntess sátán hatalmát az emberek felett!!! JÉZUS KRISZTUS CSAK A MI, AZ EMBEREK FELHATALMAZÁSÁRA VÁR!!! MIÉRT INGADOZUNK, MIÉRT KÉSLEKEDÜNK???
 
-Átnéztem a szöveg magját. Erős, de a jelenlegi formában több helyen túlcsúszik a nyelvi sűrítés, ezért úgy fogom rendezni, hogy az ereje megmaradjon, de a belső tartása is szilárd legyen.Thought for 38s
+Átnéztem a szöveg magját. Erős, de a jelenlegi formában több helyen túlcsúszik a nyelvi sűrítés, ezért úgy fogom rendezni, hogy az ereje megmaradjon, de a belső tartása is szilárd legyen. 
 
 Igen, Domi.
 

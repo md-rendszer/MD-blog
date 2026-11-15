@@ -49,4 +49,3 @@ Ne elégedj meg a túléléssel, amikor a megvilágosodott létezés a születé
 
 Készen állsz az Újjászületésre? A **Most hatalma** a te kezedben van.
 
-Az AI-válaszokban előfordulhatnak hibák.

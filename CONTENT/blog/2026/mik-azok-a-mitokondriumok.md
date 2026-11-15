@@ -1,7 +1,8 @@
 ---
 title: Mik azok a mitokondriumok?
 date: 2026-03-03 18:00:30
-image: -
+image: 2026/mik-azok-a-mitokondriumok.avif
+image_alt: "Stilizált mitokondrium: táplálék és oxigén be, energia (ATP) ki – a sejtek erőművei"
 lead: "A mitokondriumok a sejtjeink erőművei: ők állítják elő azt az energiát, amelyből minden mozdulatunk és gondolatunk táplálkozik. Ez a rövid, közérthető összefoglaló elmondja, mit csinálnak, hol van belőlük sok, és mivel támogathatod a működésüket. Ha gyakran fáradt vagy, érdemes megismerned őket."
 kerdes: "Mi az, ami a te napjaidban a legtöbb energiát adja – és mi az, ami a legtöbbet elveszi?"
 ---

@@ -930,8 +930,6 @@ Numerológiai Sorsciklus Idővonal
 
 Már interaktív! (bétaverzió)
 
-
-
 Elkészítettem a 1960–2040 közötti teljes numerológiai sorsciklus vizuális idővonalát.
 
 Az ábra mutatja:
@@ -946,8 +944,6 @@ Ha szeretnéd, készíthetek egy részletesebb, életkoronként bontott (éves r
 Igen, kérlek készíts egy részletesebb, életkoronként bontott (éves rezgésű) grafikonos változatot is 1960–2040 között.
 
 Éves Numerológiai Rezgés Idővonal (1960–2040)
-
-
 
 Elkészült a 1960–2040 közötti éves személyes rezgésgrafikon.
 
@@ -968,8 +964,6 @@ Készíts egy második verziót is egyben, ahol: külön jelölöm a fő életfo
 
 Kiemelt Életfordulókkal Bővített Numerológiai Idővonal
 
-
-
 Elkészült a kibővített grafikon, amelyen látható:
 
 - 28 éves kor (1988) – első nagy ciklusforduló
@@ -986,8 +980,6 @@ Ha szeretnéd, készíthetek egy harmadik, még részletesebb változatot is, ah
 Készíts egy harmadik, még részletesebb változatot is, ahol: az 1-es (újrakezdő) éveket külön jelölöm, a 8-as csúcsterhelési éveket kiemelem, és a teljes 1960–2040 közötti ciklikus mintázatot értelmező összefoglaló elemzéssel egészítem ki.
 
 Részletes Numerológiai Idővonal (1-es Újrakezdések és 8-as Csúcsterhelések Jelölve)
-
-
 
 Elkészült a harmadik, részletesített grafikon:
 
@@ -1572,12 +1564,6 @@ Hanem az, amit stabilan képviselsz.
 Ha szeretnéd, készíthetek egy szimbolikus, vizuális archetípus-ábrát is (kő–kút–szél–tűzhely kompozícióval), amely ezt a személyes mitológiát képi térképként jeleníti meg.
 
 Igen, szeretném, készíts egy szimbolikus, vizuális archetípus-ábrát is (kő–kút–szél–tűzhely kompozícióval), amely ezt a személyes mitológiát képi térképként jeleníti meg.Kép létrehozva
-
-
-
-
-
-
 
 Megosztás
 

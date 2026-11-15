@@ -26,8 +26,6 @@ Radbod 719-es halála után a Fríz Királyság függetlensége és a pogány va
 
 Ha érdekel a téma, szívesen mesélek arról is, hogyan zajlott a **dorestadi csata**, vagy hogy mi történt a Fríz Királysággal **Radbod halála után**. Hogyan folytassuk?
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)
-
 AZ UTOLSÓ POGÁNY KIRÁLY I Magyar szinkron I Történelmi, Dráma, Kalandfilm I Teljes film I HD
 
 2026.07.12. Kárpát- medence. Pest Vármegye. Kerepes (Lövéte). Máté Domokos

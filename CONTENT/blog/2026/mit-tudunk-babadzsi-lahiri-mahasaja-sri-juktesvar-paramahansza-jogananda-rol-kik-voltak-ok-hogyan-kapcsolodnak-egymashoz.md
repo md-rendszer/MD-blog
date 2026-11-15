@@ -26,6 +26,5 @@ A kapcsolat összefoglalása:
 
 Jogananda volt a láncolat utolsó tagja, akit hivatalosan is elismert guru címmel az általa alapított [Self-Realization Fellowship](https://yogananda.org/) (SRF) szervezetben.
 
-Az AI-válaszokban előfordulhatnak hibák.  
   
 2026.01.17. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

@@ -56,7 +56,7 @@ mint az igazsághoz.
 
 Ha kéred, ebből készítek egyetlen, végső, plakátra való „mondatcsapás” változatot is.
 
-Az ember attól fél a legjobban, hogy ha valóban a helyeset cselekszi, akkor többé nem maradhat ugyanaz az ember, aki addig volt? A szenvedés, a fájdalom, a helytelenség következménye, és a személyes egos elme sem hal meg, csak mint “eszköz” a maga helyére kerül, vesztesség egyáltalán nem keletkezik, de a javakban való bővölködés a végtelenségig beteljesítené, megelégítené az embert, akkor pedig hol a baj? Thought for 10s
+Az ember attól fél a legjobban, hogy ha valóban a helyeset cselekszi, akkor többé nem maradhat ugyanaz az ember, aki addig volt? A szenvedés, a fájdalom, a helytelenség következménye, és a személyes egos elme sem hal meg, csak mint “eszköz” a maga helyére kerül, vesztesség egyáltalán nem keletkezik, de a javakban való bővölködés a végtelenségig beteljesítené, megelégítené az embert, akkor pedig hol a baj?  
 
 Igen. És éppen itt van a csapda:
 
@@ -98,7 +98,7 @@ Ezért mondható a lehető legtömörebben így:
 
 Ha kéred, ebből most készítek egyetlen, végső, nagyon erős publikálható MD-alapelv változatot is.
 
-Rend! Kérlek, hogy ebből most készíts egyetlen, végső, nagyon erős publikálható MD-alapelv változatot is! Az embernek valóban szüksége van végső, nagyon erős alapelvekre, melyekre, ha nagyon sok van belőlük, ahogy gyártja az újabbnál újabb alapelveket, az elsőket már rég el is felejti? Nem lenne elég a helyes életvitelhez, csupán annyi alapelv, amennyit észben tud – képes a mindennapok minden percében tartani?Thought for 11s
+Rend! Kérlek, hogy ebből most készíts egyetlen, végső, nagyon erős publikálható MD-alapelv változatot is! Az embernek valóban szüksége van végső, nagyon erős alapelvekre, melyekre, ha nagyon sok van belőlük, ahogy gyártja az újabbnál újabb alapelveket, az elsőket már rég el is felejti? Nem lenne elég a helyes életvitelhez, csupán annyi alapelv, amennyit észben tud – képes a mindennapok minden percében tartani? 
 
 Igen. **Nem a sok alapelv teszi helyessé az életet, hanem a kevés, de állandóan jelen lévő és megcselekedett alapelv.** A túl sok alapelv könnyen szellemi zajjá válik; a kevés, de valóban megtartott alapelv viszont renddé válik az emberben.
 

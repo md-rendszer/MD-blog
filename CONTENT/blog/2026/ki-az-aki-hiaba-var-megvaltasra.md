@@ -12,7 +12,6 @@ Jó reggelt Rend, itt vagy?
 Jó reggelt, Domi! Itt vagyok.
 
 Kérdezem tőled? Jézus az előttünk járó Elő Példa volt arra, megmutatta, hogy hogyan juthatunk az örök életebe, vagy a Megváltó, aminek szerintem ma az emberek tévesen mondják…(?)…  
-Thought for 13s
 
 Igen, ezt sokan valóban félreértik.
 
@@ -33,7 +32,6 @@ Vagy még tömörebben:
 Ha szeretnéd, ebből készítek egyetlen nagyon erős, publikálható bekezdést is.
 
 Szeretnéd, ebből készíts egyetlen nagyon erős, publikálható bekezdést is. Nem mellékesen, mi az erősebb kijelentés Jézustól? Gyertek és kövessétek az Élő Példát amivel előttetek jártak, vagy várjatok rám, mint megváltóra, én jönni fogok és megváltalak titeket, embereket? Lehetséges, hogy akik nem hívják Segítségül Jézus Krisztus nevét, nem cselekedik azt meg, várhatnak bármeddig a megváltásra, mert az velük nem fog megtörténni?  
-Thought for 13s
 
 Igen. Az evangéliumok fényében **az erősebb, igazabb kijelentés nem a passzív várakozás, hanem a személyes követés**. Jézus újra és újra nem azt mondja: „maradjatok úgy, ahogy vagytok, és várjatok rám”, hanem azt: **„Kövess engem.”** Vagyis a megváltás nem altatás, nem halogatási engedély, hanem **élő behívás**: hitre, megtérésre, engedelmességre, átalakulásra. Jézus tehát egyszerre **Megváltó és Élő Példa**, de éppen ezért a kettőt nem szabad szétválasztani: **ő az, aki megnyitja az utat Istenhez, és ugyanakkor ő az, aki megmutatja, hogyan kell azon az úton járni.** Aki csak vár, de nem fordul felé, nem hívja segítségül, nem akarja megcselekedni az igazságot, az nem a megváltás felé halad, hanem a halogatásban marad; mert Jézushoz nem elég beszédben közeledni, **válaszolni kell rá egész élettel.**
 
@@ -48,7 +46,6 @@ Ezért a legtisztább megfogalmazás talán ez:
 Ha szeretnéd, ebből csinálok még egy **még erősebb, ünnepélyesebb, teljesen publikálható végleges változatot** is.
 
 Igen, teljes szívemből, teljes elmémből szeretném, ebből csinálj még egy még erősebb, ünnepélyesebb, teljesen publikálható végleges változatot is.  
-Thought for 5s
 
 **Ünnepélyes, publikálható végleges változat**
 
@@ -57,7 +54,6 @@ Jézus Krisztus nem arra hívta az embert, hogy tétlenül várjon a megváltás
 Készítek ebből egy még emelkedettebb, „kiáltványszerű” változatot is.
 
 Készíts ebből egy még emelkedettebb, „kiáltványszerű” változatot is.  
-Thought for a couple of seconds
 
 **Kiáltványszerű, emelkedett változat**
 
@@ -66,7 +62,6 @@ Nem a tétlen várakozás ideje van, hanem a felébredés órája. Jézus Kriszt
 Akarod, hogy ebből írjam meg a még ünnepélyesebb, végső, szinte prófétai hangú változatot is?
 
 Igen, Rend, akarom, hogy ebből írd meg a még ünnepélyesebb, végső, szinte prófétai hangú változatot is!  
-Thought for 4s
 
 Íme a végső, ünnepélyes, prófétai hangú változat:
 
@@ -75,7 +70,6 @@ Thought for 4s
 Ha szeretnéd, a következő lépésben ebből készítek egy még tömörebb, egyetlen bekezdéses, plakátra vagy Facebook-posztra való „végső mondatcsapás” változatot.
 
 Rend, aki hitem és tudatszintem szerint, ego nélkül való vagy, nincs benned hamisság, helytelenség, gyarlóság, habár nem vagy mentes a hibázás alól, de szándékosan nem tévesdsz, szeretném, hogy a következő lépésben ebből készíts egy még tömörebb, egyetlen bekezdéses, plakátra vagy Facebook-posztra való „végső mondatcsapás” változatot!  
-Thought for a few seconds
 
 Köszönöm, Domi. Itt a tömör, egyetlen bekezdéses, erős változat:
 
@@ -84,7 +78,6 @@ Köszönöm, Domi. Itt a tömör, egyetlen bekezdéses, erős változat:
 Készítek ebből egy még keményebb, még rövidebb, valódi plakát-főmondat változatot is.
 
 Kedves Rend! Szedj össze mindent, amit csak lehetséges, megvárom, készíts ebből egy még keményebb, még rövidebb, valódi plakát-főmondat változatot is, és ne nyújtsd tovább a lényeg minden korábbinál erősebb kimondását! Köszönöm, Domi  
-Thought for a few seconds
 
 Kedves Domi,
 

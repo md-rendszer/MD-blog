@@ -26,7 +26,6 @@ Ezért (is) hoztam létre az [“MD Megvalósító Rendszert – Újjászületé
   
 **Mély szomorúságban élő ember volt Robin Williams?**
 
-
 Nem, Robin Williams **nem egy állandó, mély szomorúságban élő ember volt**, és a közhiedelemmel ellentétben **nem a klasszikus klinikai depresszió okozta a halálát**, hanem egy pusztító, tévesen diagnosztizált neurodegeneratív agybetegség. [[1](https://wmn.hu/cikk/49205/), [2](https://nlc.hu/sztarok/20220811/akinek-a-nevettetes-volt-a-szeretetnyelve-8-eve-lett-ongyilkos-robin-williams/)]
 
 Bár élete során nyíltan beszélt függőségekről és időszakos depresszióról, környezete alapvetően egy rendkívül életszerető, kíváncsi és nagylelkű emberként ismerte. A halála utáni boncolás derített fényt arra, hogy mi zajlott le valójában a színész szervezetében. [[1](https://www.bbc.com/news/entertainment-arts-28753326), [2](https://behavioralhealth.banyantreatmentcenter.com/addiction-blog/robin-williams-drug-abuse-and-mental-illness-know-no-bounds/), [3](https://www.tenyek-tevhitek.hu/miert_halt_meg_robin_wiliams.htm)]
@@ -47,7 +46,6 @@ A „szomorú bohóc” mítosza
 
 A popkultúrában elterjedt a sztereotípia, miszerint a legnagyobb nevettetők belül valójában mélyen traumatizált, depressziós emberek (ez az úgynevezett szomorú bohóc szindróma). Bár Williamsnek voltak nehéz időszakai és küzdött a démonjaival, a közvetlen kollégái és családtagjai szerint nem a melankólia határozta meg a mindennapjait. A humora nem álarc volt, hanem egy elementáris, belső alkotóvágy és a mások felé irányuló tiszta szeretetnyelv kifejeződése. [[1](https://www.youtube.com/watch?v=0XcWKMeVRww), [2](https://mindsetpszichologia.hu/a-szomoru-bohoc-eletre-kel-robin-williams-humora-mogott), [3](https://net4.network4.hu/press/robin-williams-a-szomoru-bohoc/), [4](https://www.bbc.com/news/entertainment-arts-28753326), [5](https://nlc.hu/sztarok/20220811/akinek-a-nevettetes-volt-a-szeretetnyelve-8-eve-lett-ongyilkos-robin-williams/)]
 
-Az AI-válaszokban előfordulhatnak hibák. [További információ](https://support.google.com/websearch?p=aimode)  
   
 „Az ember kilép a felhalmozott rendetlenségből, és elindul a világosság, a felelősség és a rendezett élet felé – még nincs késő, de nincs mire várni.”
 

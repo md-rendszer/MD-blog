@@ -23,6 +23,4 @@ Az alábbi táblázatban összefoglaltam a két ellentétes nézőpont legfontos
 **Összegzés:**  
 A valóság gyakran a két véglet között van. Míg a hatóságoknak kötelességük a közérdeket és a törvényességet képviselni, a társadalmi és gazdasági nyomás hatással lehet a kommunikációjukra. Éppen ezért fontos a független média és a civil kontroll szerepe, amelyek segítenek a Nemzeti Adatvédelmi és Információszabadság Hatóság által is védett közérdekű adatok átláthatóságában.
 
-Az AI-válaszokban előfordulhatnak hibák.
-
 2026.01.01. Kárpát-medence. Pest Vármegye. Kerepes. Máté Domokos

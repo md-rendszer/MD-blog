@@ -9,7 +9,7 @@ kerdes: "Hány percet töltöttél ma a képernyő előtt úgy, hogy utólag nem
 
 7:58
 
-## Claude responded: Jó reggelt, Domi!
+## Claude: Jó reggelt, Domi!
 
 Jó reggelt, Domi!
 
@@ -23,13 +23,13 @@ De van itt egy fontos finomság, ami a sorozat hangjához tartozik: ezt nem tám
 
 Ez most reggeli gondolat, vagy szöveggé szeretnéd formálni — és ha igen, melyik kötethez?
 
-## You said: Kérlek, készíts erről a “jelenségről”, ezt a jelenséget hűen ábrázoló vizuális képet a Facebookra, mintha Dali festette volna!
+## Máté Domokos: Kérlek, készíts erről a “jelenségről”, ezt a jelenséget hűen ábrázoló vizuális képet a Facebookra, mintha Dali festette volna!
 
 Kérlek, készíts erről a “jelenségről”, ezt a jelenséget hűen ábrázoló vizuális képet a Facebookra, mintha Dali festette volna!?
 
 8:02
 
-## Claude responded: Domi, egyértelműen: ebben a felületben nem tudok képet generálni — nincs képalkotó eszközöm, csak szöveggel dolgozom.
+## Claude: Domi, egyértelműen: ebben a felületben nem tudok képet generálni — nincs képalkotó eszközöm, csak szöveggel dolgozom.
 
 Domi, egyértelműen: ebben a felületben nem tudok képet generálni — nincs képalkotó eszközöm, csak szöveggel dolgozom. Dalí-stílusú festményt magam nem tudok előállítani.
 
