@@ -585,10 +585,14 @@ def feedback_section(post: Document, url: str) -> str:
     <label>Mi tetszett, vagy mi nem – és miért?<textarea name="miert" rows="3"></textarea></label>
     <label>Mi hiányzott? Mire kerested még a választ?<textarea name="hiany" rows="3"></textarea></label>
     <label>Válaszod a cikk végi kérdésre:<textarea name="valasz" rows="3"></textarea></label>
+    <label>A neved (nem kötelező):<input type="text" name="nev" autocomplete="name"></label>
+    <label>Az e-mail címed, ha választ szeretnél (nem kötelező):<input type="email" name="email" autocomplete="email"></label>
+    <input type="text" name="_honey" tabindex="-1" autocomplete="off" style="display:none">
     <button type="submit" class="share-btn feedback-send">Elküldöm a visszajelzésem</button>
-    <p class="feedback-note">A küldés a levelezőprogramodat nyitja meg, a szöveg már benne lesz. Minden visszajelzést elolvasok, és a gyakori kérdésekre írásban is válaszolok.</p>
+    <p class="feedback-note">Minden visszajelzést elolvasok, és a gyakori kérdésekre írásban is válaszolok. Az adatkezelésről az <a href="/adatkezelesi-tajekoztato/">adatkezelési tájékoztatóban</a> olvashatsz.</p>
+    <p class="feedback-error" hidden>Most nem sikerült elküldeni. <a class="feedback-mailto" href="#">Küldd el inkább e-mailben</a>, vagy próbáld újra kicsit később.</p>
   </form>
-  <p class="feedback-thanks" hidden>Köszönöm, hogy megírtad! Minden visszajelzés segít, hogy a következő írás még pontosabban szóljon.</p>
+  <p class="feedback-thanks" hidden>Köszönöm, hogy megírtad! Megérkezett. Minden visszajelzés segít, hogy a következő írás még pontosabban szóljon.</p>
 </section>
 <script>
 document.querySelectorAll('.feedback').forEach(function (box) {{
@@ -615,9 +619,27 @@ document.querySelectorAll('.feedback').forEach(function (box) {{
     var f = form.elements;
     var body = 'Írás: ' + box.dataset.title + '\\n' + box.dataset.url + '\\n\\nTetszett? ' + (vote || '-') +
       '\\n\\nMi tetszett / mi nem és miért:\\n' + f.miert.value + '\\n\\nMi hiányzott:\\n' + f.hiany.value +
-      '\\n\\nVálasz a kérdésre:\\n' + f.valasz.value + '\\n';
-    window.location.href = 'mailto:' + box.dataset.email + '?subject=' + encodeURIComponent('Visszajelzés: ' + box.dataset.title) + '&body=' + encodeURIComponent(body);
-    form.hidden = true; box.querySelector('.feedback-thanks').hidden = false;
+      '\\n\\nVálasz a kérdésre:\\n' + f.valasz.value + '\\n\\nNév: ' + f.nev.value + '\\nE-mail: ' + f.email.value + '\\n';
+    var mailto = 'mailto:' + box.dataset.email + '?subject=' + encodeURIComponent('Visszajelzés: ' + box.dataset.title) + '&body=' + encodeURIComponent(body);
+    if (f._honey.value) return;
+    var btn = form.querySelector('.feedback-send'), err = form.querySelector('.feedback-error');
+    btn.disabled = true; btn.textContent = 'Küldés…'; err.hidden = true;
+    var data = {{
+      _subject: 'Blog-visszajelzés: ' + box.dataset.title,
+      _template: 'table', _captcha: 'false',
+      'Írás': box.dataset.title, 'Link': box.dataset.url, 'Tetszett?': vote || '-',
+      'Mi tetszett / mi nem, miért': f.miert.value, 'Mi hiányzott': f.hiany.value,
+      'Válasz a kérdésre': f.valasz.value, 'Név': f.nev.value, 'email': f.email.value
+    }};
+    fetch('https://formsubmit.co/ajax/' + box.dataset.email, {{
+      method: 'POST', headers: {{ 'Content-Type': 'application/json', 'Accept': 'application/json' }}, body: JSON.stringify(data)
+    }}).then(function (r) {{ return r.json(); }}).then(function (j) {{
+      if (String(j.success) !== 'true') throw new Error(j.message || 'hiba');
+      form.hidden = true; box.querySelector('.feedback-thanks').hidden = false;
+    }}).catch(function () {{
+      err.hidden = false; err.querySelector('.feedback-mailto').href = mailto;
+      btn.disabled = false; btn.textContent = 'Elküldöm a visszajelzésem';
+    }});
   }});
 }});
 </script>"""

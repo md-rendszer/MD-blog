@@ -171,6 +171,18 @@ Megőrzés: A rögzített hanganyagokat a jogszabályi előírásoknak megfelel�
 
 A beérkezett e-maileket és az azokban található személyes adatokat 5 évig tároljuk az esetleges későbbi hivatkozás, vagy a jogi igények érvényesítésének/védelmének céljából.
 
+#### **5.5. Visszajelzés a blogbejegyzések alatt („Tetszett ez az írás?”)**
+
+Cél: az írások fejlesztése, az olvasói kérdések megválaszolása.
+
+Kezelt adatok: a visszajelzés szövege, valamint – ha megadja – a neve és az e-mail címe. A név és az e-mail cím megadása nem kötelező.
+
+Jogalap: az Ön hozzájárulása, amelyet a visszajelzés elküldésével ad meg.
+
+Adatfeldolgozó: a visszajelzést a FormSubmit (formsubmit.co) űrlaptovábbító szolgáltatás e-mailben továbbítja a kapcsolat@mdmegvalositorendszer.hu címre; a továbbítás során a szolgáltató szerverein (az Európai Unión kívül is) átmenetileg kezelheti az adatokat.
+
+Megőrzés: a beérkezett visszajelzéseket legfeljebb 5 évig, vagy hozzájárulása visszavonásáig őrizzük.
+
 ---
 
 ### **6. Az Ön Adatvédelmi Jogai és Jogorvoslati Lehetőségei**
