@@ -584,7 +584,7 @@ def feedback_section(post: Document, url: str) -> str:
   <form class="feedback-form" hidden>
     <label>Mi tetszett, vagy mi nem – és miért?<textarea name="miert" rows="3"></textarea></label>
     <label>Mi hiányzott? Mire kerested még a választ?<textarea name="hiany" rows="3"></textarea></label>
-    <label>Válaszod a cikk végi kérdésre (ha van kedved):<textarea name="valasz" rows="3"></textarea></label>
+    <label>Válaszod a cikk végi kérdésre:<textarea name="valasz" rows="3"></textarea></label>
     <button type="submit" class="share-btn feedback-send">Elküldöm a visszajelzésem</button>
     <p class="feedback-note">A küldés a levelezőprogramodat nyitja meg, a szöveg már benne lesz. Minden visszajelzést elolvasok, és a gyakori kérdésekre írásban is válaszolok.</p>
   </form>
@@ -601,12 +601,21 @@ document.querySelectorAll('.feedback').forEach(function (box) {{
       try {{ localStorage.setItem('md-vote-' + box.dataset.slug, vote); }} catch (e) {{}}
     }});
   }});
+  function openAnswer() {{
+    form.hidden = false;
+    box.querySelector('.feedback-thanks').hidden = true;
+    setTimeout(function () {{ form.elements.valasz.focus({{ preventScroll: true }}); box.scrollIntoView({{ behavior: 'smooth', block: 'start' }}); }}, 50);
+  }}
+  document.querySelectorAll('a.closing-question-link[href="#visszajelzes"]').forEach(function (a) {{
+    a.addEventListener('click', function (ev) {{ ev.preventDefault(); history.replaceState(null, '', '#visszajelzes'); openAnswer(); }});
+  }});
+  if (location.hash === '#visszajelzes') openAnswer();
   form.addEventListener('submit', function (ev) {{
     ev.preventDefault();
     var f = form.elements;
-    var body = 'Írás: ' + box.dataset.title + '\n' + box.dataset.url + '\n\nTetszett? ' + (vote || '-') +
-      '\n\nMi tetszett / mi nem és miért:\n' + f.miert.value + '\n\nMi hiányzott:\n' + f.hiany.value +
-      '\n\nVálasz a kérdésre:\n' + f.valasz.value + '\n';
+    var body = 'Írás: ' + box.dataset.title + '\\n' + box.dataset.url + '\\n\\nTetszett? ' + (vote || '-') +
+      '\\n\\nMi tetszett / mi nem és miért:\\n' + f.miert.value + '\\n\\nMi hiányzott:\\n' + f.hiany.value +
+      '\\n\\nVálasz a kérdésre:\\n' + f.valasz.value + '\\n';
     window.location.href = 'mailto:' + box.dataset.email + '?subject=' + encodeURIComponent('Visszajelzés: ' + box.dataset.title) + '&body=' + encodeURIComponent(body);
     form.hidden = true; box.querySelector('.feedback-thanks').hidden = false;
   }});
