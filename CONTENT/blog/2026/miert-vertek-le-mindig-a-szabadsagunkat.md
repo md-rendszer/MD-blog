@@ -5,6 +5,9 @@ image: 2026/miert-vertek-le-mindig-a-szabadsagunkat.avif
 image_alt: "Idővonal három rombusszal – 1711, 1849, 1956 –, a középső mögül halvány fény tör fel"
 lead: "1711, 1849, 1956: miért bukott el minden szabadságküzdelmünk? A válasz nem egyetlen név, hanem egy minta: az uralom mindig önmagát védi. Ez az írás tényeket tesz rendbe, és megmutatja, mi maradt fenn akkor is, amikor a birodalmak elmúltak."
 kerdes: "Szerinted mi az, ami egy népet akkor is életben tart, amikor a szabadságát elveszik?"
+kinek: "érdekel, miért buktak el a magyar szabadságharcok"
+tema: magyarsag-es-tortenelem
+kereses: "1711 1849 1956; magyar szabadságharcok; miért buktunk el"
 ---
 
 > Lehetséges, hogy habár lassan, de biztosan kiderül, hogy miért volt az Első és a Második Világháború, és az is, hogy kik és miért szorgalmazzák a Harmadik Világháborút is...(?)...

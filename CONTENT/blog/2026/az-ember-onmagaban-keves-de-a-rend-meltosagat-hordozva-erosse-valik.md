@@ -6,6 +6,9 @@ image_alt: Az ember önmagában kevés,de a Rend méltóságát hordozva erőss�
 alias: az-ember-onmagaban-kevesde-a-rend-meltosagat-hordozva-erosse-valik
 lead: "Az ember nem önmagától nagy, hanem attól, amit méltón hordoz. Minél inkább hordozza a REND méltóságát, annál nagyobb ereje támad a helyes élethez. Ez a rövid írás egyetlen mondatban sűríti, honnan ered a valódi erő."
 kerdes: "Mikor érezted magad igazán erősnek – és mi volt az, amit akkor hordoztál?"
+kinek: "azt keresed, honnan ered a valódi belső erő"
+tema: meltosag-es-ujrakezdes
+kereses: "belső erő forrása; méltóság; REND"
 ---
 
 Az ember nem önmagától nagy, hanem attól, amit méltón hordoz. Minél inkább hordozza a Rend méltóságát,  

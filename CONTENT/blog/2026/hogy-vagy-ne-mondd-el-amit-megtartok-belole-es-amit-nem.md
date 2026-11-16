@@ -5,6 +5,9 @@ image: 2026/hogy-vagy-ne-mondd-el-amit-megtartok-belole-es-amit-nem.avif
 image_alt: Félig nyitott boltíves kapu, mögötte nyugodt lámpaláng, dupla arany keretben – „Hogy vagy?”
 lead: "Egy népszerű videó szerint, ha megkérdezik, hogy vagy, ne mondd el, mert elveszíted az erődet. Megnéztem, mi igaz benne, és mi nem. Ez az írás megmutatja, mit érdemes megtartani belőle – és mit nem –, hogy se el ne zárkózz, se ki ne add a kezedből a saját irányodat."
 kerdes: "Kinek mondod el őszintén, hogy vagy – és mitől érzed, hogy nála biztonságban van?"
+kinek: "láttad a „ha megkérdezik, hogy vagy, ne mondd el” videót"
+tema: tanitok-es-tisztanlatas
+kereses: "hogy vagy ne mondd el; erő megőrzése; videó elemzés"
 ---
 
 <https://www.youtube.com/watch?v=3zn2p1a-9eQ>

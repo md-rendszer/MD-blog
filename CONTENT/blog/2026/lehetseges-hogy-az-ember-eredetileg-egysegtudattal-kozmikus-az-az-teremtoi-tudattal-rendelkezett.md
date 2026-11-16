@@ -5,6 +5,9 @@ image: 2026/lehetseges-hogy-az-ember-eredetileg-egysegtudattal-kozmikus-az-az-te
 image_alt: Az ember kiesése az egységtudatból
 lead: "Rendelkezett-e az ember eredetileg egységtudattal, amelyet később elveszített? Ez az ősi kérdés a tudomány, a metafizika és a spiritualitás határán mozog. Az írás bemutatja a legfontosabb nézőpontokat – és megnyitja a sorozat következő kérdését."
 kerdes: "Átéltél már olyan pillanatot, amikor úgy érezted, minden egy és összetartozik? Mi történt akkor?"
+kinek: "érdekel, rendelkezett-e az ember eredetileg egységtudattal"
+tema: onismeret-es-jelenlet
+kereses: "egységtudat; kozmikus tudat; elveszett paradicsom"
 ---
 
 Ez egy izgalmas és ősi kérdés, amely a tudomány, a metafizika és a spiritualitás határmezsgyéjén mozog. Röviden: **igen, számos spirituális és bölcseleti irányzat vallja ezt**, de a válasz attól függ, milyen szemüvegen keresztül nézzük.

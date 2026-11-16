@@ -5,6 +5,9 @@ image: 2026/az-otodik-egtaj.avif
 image_alt: "Bordó-arany iránytűrózsa; a négy irány mellett egy-egy kérdés, középen a fénylő „Itt állok” pont"
 lead: "A négy égtájat mindenki ismeri – az ötödiket a legtöbben elfelejtjük, pedig nélküle a másik négy semmit sem ér. Ez az ötödik égtáj az „Ön itt áll” pont: ahol most vagy. Ez az írás négy egyszerű kérdéssel segít, hogy pontosan lásd, honnan jössz, hová tartasz, és mihez igazodsz."
 kerdes: "Ha ma egy térképre kellene rajzolnod, hol állsz most az életedben – mit írnál az „Ön itt áll” pont mellé?"
+kinek: "nem látod tisztán, hol tartasz most az életedben"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "hol tartok az életemben; önmeghatározás; négy kérdés"
 ---
 
 **Máté Domokos kérdése:**

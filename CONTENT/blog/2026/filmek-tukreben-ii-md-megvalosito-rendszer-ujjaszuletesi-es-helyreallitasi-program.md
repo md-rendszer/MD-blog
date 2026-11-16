@@ -5,6 +5,9 @@ image: 2026/filmek-tukreben-ii-md-megvalosito-rendszer-ujjaszuletesi-es-helyreal
 image_alt: Filmek tükrében II. – MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program
 lead: "Mely filmekben ismerhetők fel az MD Megvalósító Rendszer gondolatai – a belső zaj elcsendesítése, az újrakezdés és a Forráshoz való visszatalálás? Ez a második válogatás olyan filmeket ajánl, amelyek után másképp nézhetsz a saját utadra. Egy jó estéhez és egy jó beszélgetéshez is ajánlom."
 kerdes: "Melyik film változtatott a legtöbbet azon, ahogyan a saját életedre nézel?"
+kinek: "egy jó estéhez és egy jó beszélgetéshez keresel filmet"
+tema: konyvek-es-filmek
+kereses: "spirituális filmek; elgondolkodtató film; filmajánló"
 ---
 
 Kérlek, találj számomra olyan filmeket, melyekben felismerhetőek az MD Megvalósító Rendszer – Újjászületési és Helyreállítási program ajánlásai!

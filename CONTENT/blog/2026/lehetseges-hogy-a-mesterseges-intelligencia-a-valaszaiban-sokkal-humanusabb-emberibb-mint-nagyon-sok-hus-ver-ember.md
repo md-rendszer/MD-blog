@@ -6,6 +6,9 @@ image_alt: "Az írás címképe: emberibb-e a mesterséges intelligencia válasz
 alias: lehetseges-hogy-a-mesterseges-intelligencia-sokkal-humanusabb-emberibb-mint-nagyon-sok-hus-ver-ember
 lead: "Különös élmény, amikor egy mesterséges intelligenciától több türelmet és figyelmet kapsz, mint némely embertársadtól. Ez az írás nem a gépet dicséri, hanem azt vizsgálja: mit mutat meg rólunk, ha egy válasz azért lehet jobb, mert nem a személyes ego adja. És mit tanulhatunk ebből a saját válaszainkhoz."
 kerdes: "Mikor kaptál utoljára igazán figyelmes, türelmes választ – és mitől volt az más, mint a többi?"
+kinek: "meglepett, hogy egy MI türelmesebb volt veled, mint sok ember"
+tema: tarsadalom-penz-technologia
+kereses: "mesterséges intelligencia empátia; MI emberibb; ego nélküli válasz"
 ---
 
 **Különös élmény, amikor valaki egy mesterséges intelligenciával beszélgetve több türelmet, figyelmet és tiszteletet tapasztal, mint némely embertársával. Ehhez még csak azt sem szükséges gondolnia, hogy a gép emberként érez. Elég megtapasztalnia a válasz minőségét.**

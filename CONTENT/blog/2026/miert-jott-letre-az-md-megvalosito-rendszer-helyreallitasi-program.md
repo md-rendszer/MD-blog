@@ -5,6 +5,9 @@ image: 2026/miert-jott-letre-az-md-megvalosito-rendszer-helyreallitasi-program.a
 image_alt: Miért született meg az MD Megvalósító Rendszer
 lead: "Ki az a Máté Domokos, és miért hozta létre az MD Megvalósító Rendszert? Ez az írás elmondja, honnan indultam – Lövétéről Kerepesig –, és milyen hiány szülte meg a Programot: a használható, mindennapi életvezetési tudás hiánya. Ha szeretnéd tudni, kinek a tapasztalatára építesz, itt kezdd."
 kerdes: "Neked mi hiányzott a legjobban abból, amit az iskolában vagy otthon az életvezetésről tanultál?"
+kinek: "tudni szeretnéd, kinek a tapasztalatára építesz"
+tema: md-megvalosito-rendszer
+kereses: "Máté Domokos; MD célja; Lövéte Kerepes"
 ---
 
 Máté Domokos, Kerepes (Lövéte)…(?)…

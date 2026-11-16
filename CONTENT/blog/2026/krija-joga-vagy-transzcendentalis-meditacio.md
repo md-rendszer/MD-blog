@@ -5,6 +5,9 @@ image: 2026/image-8977d2a3102c476c389a.avif
 image_alt: Krijá Jóga, vagy Transzcendentális Meditáció…(?)…
 lead: "Krija-jóga vagy Transzcendentális Meditáció – melyiket érdemes választania annak, aki ma befelé keres? Ez az írás pontokba szedve veti össze a két utat: az egyik meredekebb és több elköteleződést kíván, a másik lankásabb és egyenletes. Ha döntés előtt állsz, segít tisztán látni."
 kerdes: "Ha ma választanod kellene egy meditációs utat, mi döntené el számodra, melyiket kezded?"
+kinek: "döntés előtt állsz: Krija-jóga vagy TM"
+tema: meditacio-es-joga
+kereses: "Kriya jóga vagy TM; meditáció választás; melyik meditáció"
 ---
 
 Bábádzsí, India jógi-Krisztusa! Kérlek, hogy a Mesterséges Intelligencián keresztül, mond meg nekem, hogy a mai Istenkereső embereknek a Kryja joga beavató tanárai, vagy a Transzcendentális Meditációra beavató tanárral azok, akikhez ajánlott fordulnunk…(?)…   

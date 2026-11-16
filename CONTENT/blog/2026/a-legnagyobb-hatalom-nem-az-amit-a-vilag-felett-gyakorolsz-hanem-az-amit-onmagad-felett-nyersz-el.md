@@ -5,6 +5,9 @@ image: 2026/image-4c156d6ba202d6452e4b.avif
 image_alt: A Legnagyobb Hatalom
 lead: "Megülhetsz vad elefántot, aranyat gyárthatsz, bejárhatod a világot – de az elmédet megfékezni a legnehezebb. Ez az írás egy ősi költemény tanítását bontja ki: a legnagyobb hatalom nem a világ, hanem önmagad felett van. Ha szeretnél úrrá lenni a saját nyugtalanságodon, olvasd el."
 kerdes: "Melyik az a szokásod vagy indulatod, amely felett a legnehezebb uralkodnod?"
+kinek: "nyugtalan az elméd, és szeretnél úrrá lenni rajta"
+tema: ego-es-elme
+kereses: "elme megfékezése; önuralom; ősi bölcsesség"
 ---
 
 Az **AI**– tól kérdezem!

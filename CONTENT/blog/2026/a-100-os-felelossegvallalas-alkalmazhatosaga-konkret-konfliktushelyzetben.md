@@ -5,6 +5,9 @@ image: 2026/a-100-os-felelossegvallalas-alkalmazhatosaga-konkret-konfliktushelyz
 image_alt: CSEND - IGAZSÁG - FELELŐSSÉG
 lead: "Mit jelent a gyakorlatban a 100%-os felelősségvállalás, amikor a párod vagy egy kollégád elfelejtett valamit, ami neked fontos volt? Ez az írás egy hétköznapi példán mutatja meg a különbséget: a másik hibáztatása helyett a saját hatáskörödre figyelsz. Nem az igazad bizonyítása a cél."
 kerdes: "Melyik legutóbbi vitádban lett volna más a vége, ha azt kérdezed: „Mit tehetek én most?”"
+kinek: "a párod vagy a kollégád cserben hagyott, és nem tudod, hogyan reagálj hibáztatás nélkül"
+tema: kapcsolatok-es-konfliktusok
+kereses: "100% felelősségvállalás a gyakorlatban; konfliktus a párommal; hibáztatás helyett"
 ---
 
 Igen, szeretném tudni, hogyan lehet ezt a szemléletet alkalmazni egy konkrét konfliktushelyzetben!

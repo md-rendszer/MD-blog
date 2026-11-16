@@ -5,6 +5,9 @@ image: 2026/a-kozmikus-tudatra-ebredes-altal-az-ember-visszanyerheti-az-eredeti-
 image_alt: Valódi Öntudatra Ébredés
 lead: "Visszanyerheti-e az ember az eredeti, halhatatlan létét? A válasz attól függ, mit értünk „ember” alatt: a test és a személyiség elmúlik, de a spirituális hagyományok szerint a tudat lényege nem. Ez az írás megmutatja, mit jelent az azonosulás váltása, és miért nem az ego elpusztítása a cél."
 kerdes: "Mi változna a mindennapjaidban, ha nem a testeddel és a gondolataiddal azonosítanád magad?"
+kinek: "azt kérdezed, mi marad belőlünk a halál után, és mit jelent a kozmikus tudat"
+tema: onismeret-es-jelenlet
+kereses: "kozmikus tudat; halhatatlan lélek; ébredés"
 ---
 
 A válasz attól függ, mit értünk „ember” alatt. Ha a biológiai testet és a személyiséget, akkor a válasz fizikai értelemben nem, de ha a **tudat lényegét**, akkor a spirituális hagyományok szerint **egyértelműen igen**.

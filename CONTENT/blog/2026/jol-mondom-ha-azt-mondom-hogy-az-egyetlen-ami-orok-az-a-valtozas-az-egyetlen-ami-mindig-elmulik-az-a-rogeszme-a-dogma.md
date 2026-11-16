@@ -5,6 +5,9 @@ image: 2026/jol-mondom-ha-azt-mondom-hogy-az-egyetlen-ami-orok-az-a-valtozas-az-
 image_alt: "Az írás címképe: a változás és a dogma"
 lead: "Örök-e a változás, és mulandó-e minden dogma? Ez a rövid beszélgetés pontosítja a gyakran idézett gondolatot: a rögeszme előbb-utóbb mindig összeütközik a valósággal. Ha ragaszkodsz valamihez, ami már nem működik, ez az írás neked szól."
 kerdes: "Melyik meggyőződésed változott meg a legjobban az elmúlt években – és mi változtatta meg?"
+kinek: "ragaszkodsz valamihez, ami már nem működik"
+tema: onismeret-es-jelenlet
+kereses: "egyetlen állandó a változás; dogma; rögeszme"
 ---
 
 Részben igen, de így még nem teljesen pontos.

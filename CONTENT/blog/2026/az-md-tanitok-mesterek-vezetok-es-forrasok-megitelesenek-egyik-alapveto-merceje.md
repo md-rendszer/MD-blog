@@ -5,6 +5,9 @@ image: 2026/az-md-tanitok-mesterek-vezetok-es-forrasok-megitelesenek-egyik-alapv
 image_alt: A Helyeshez Igazodunk, Nem Emberekhez
 lead: "Nem a tekintély, a cím, a népszerűség vagy a követők száma dönt, hanem az, hogy a tanítás megalapozható-e, összhangban van-e a tanító tetteivel, és valóban szolgálja-e az életet. Ez a mérce minden tanítóra vonatkozik – az MD-re magára is."
 kerdes: "Mi az a jel, amelyből a leggyorsabban felismered, hogy egy tanító vagy vezető nem hiteles?"
+kinek: "tanítót, vezetőt vagy forrást mérlegelsz, és nem a népszerűség alapján döntenél"
+tema: tanitok-es-tisztanlatas
+kereses: "tanító megítélése; hiteles forrás; mérce"
 ---
 
 > # \*\*NEM A TANÍTÓ IGAZOLJA A HELYEST.

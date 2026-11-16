@@ -5,6 +5,9 @@ image: 2026/filmek-tukreben-i-md-megvalosito-rendszer-ujjaszuletesi-es-helyreall
 image_alt: Filmek tükrében I. – MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program
 lead: "Vannak filmek, amelyek többet tanítanak az újrakezdésről, mint sok könyv. Ez az első válogatás olyan alkotásokat gyűjt össze, amelyekben felismerhető az MD egy-egy gondolata – a romboló szokások következményeitől a helyreállításig. Ha szeretnél tartalmas filmet nézni, itt a lista."
 kerdes: "Melyik filmet ajánlanád valakinek, aki éppen újra szeretné kezdeni az életét?"
+kinek: "újrakezdésről szóló tartalmas filmet keresel"
+tema: konyvek-es-filmek
+kereses: "újrakezdés film; tartalmas filmek; filmajánló"
 ---
 
 Kérlek, találj számomra olyan filmeket, melyekben felismerhetőek az MD Megvalósító Rendszer – Újjászületési és Helyreállítási program ajánlásai!

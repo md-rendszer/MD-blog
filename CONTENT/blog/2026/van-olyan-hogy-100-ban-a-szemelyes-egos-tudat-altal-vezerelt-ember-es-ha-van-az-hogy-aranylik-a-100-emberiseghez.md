@@ -5,6 +5,9 @@ image: 2026/van-olyan-hogy-100-ban-a-szemelyes-egos-tudat-altal-vezerelt-ember-e
 image_alt: Van olyan, hogy 100%-ban a személyes egos tudat által vezérelt ember, és ha van, az hogy aránylik a 100% emberiséghez?
 lead: "Létezik-e ember, akit teljesen az egós, személyes tudat vezet – és ha igen, hányan lehetnek? A válasz meglepően árnyalt: nem százalékokról, hanem a jelenlét és az önmegfigyelés hiányáról szól. Ha kérdezted már, miért viselkednek az emberek úgy, ahogy, ez az írás közelebb visz a válaszhoz."
 kerdes: "Melyik helyzetben veszed észre leginkább, hogy nálad is az ÖSZTÖNÖS ÖNTUDAT veszi át az irányítást?"
+kinek: "azt kérdezed, miért viselkednek az emberek úgy, ahogy"
+tema: ego-es-elme
+kereses: "egós ember; emberi viselkedés oka; jelenlét hiánya"
 ---
 
 Igen, **van olyan ember, aki gyakorlatilag teljesen az egós, személyes tudat mintázatai által vezéreltnek látszik** — de a „100%” itt inkább **szemléltető kifejezés**, nem pontosan mérhető tudományos érték.

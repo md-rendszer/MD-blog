@@ -5,6 +5,9 @@ image: 2026/non-dualis-alap-dualis-kifejezodes.avif
 image_alt: Non-duális alap, duális kifejeződés…(?)…
 lead: "Lehet-e valódi önismeretből, belső egységből fakadóan, örömmel és erőszakmentesen eljátszani a hétköznapi szerepeinket – szülőt, munkatársat, barátot? Ez a beszélgetés arról szól, hogyan fér meg a mély csend és a teljes, cselekvő élet egymás mellett. Ha úgy érzed, a spiritualitás és a hétköznapok két külön világ, itt összeérnek."
 kerdes: "Melyik hétköznapi szerepedben érzed a legkönnyebbnek, és melyikben a legnehezebbnek, hogy önmagad maradj?"
+kinek: "a spiritualitást és a hétköznapjaidat két külön világnak érzed"
+tema: onismeret-es-jelenlet
+kereses: "non-dualitás hétköznapokban; spiritualitás és szerepek; csend és cselekvés"
 ---
 
 Valódi önismeretből, non-dualitásból, lehetséges, hogy örömteli, erőszakmentes, szívvel – lélekkel, duális szerepeket játszunk el?   

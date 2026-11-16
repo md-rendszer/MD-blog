@@ -5,6 +5,9 @@ image: 2026/mi-az-a-legfontosabb-teendo-amit-minden-ember-fianak-lanyanak-nap-mi
 image_alt: "Az írás címképe: a legfontosabb napi teendő a kozmikus törvények szerint"
 lead: "Jógánanda, a Transzcendentális Meditáció és más, Istent keresőknek szóló könyvek tükrében kerestem a választ: mi az az egyetlen napi teendő, amelyből minden más következik? A válasz egyszerű, és mindenkinek elérhető. Ha elvesztél a sok jó tanács között, ez az írás visszavezet a lényeghez."
 kerdes: "Ha csak egyetlen dolgot tehetnél meg minden nap a belső békédért, mi lenne az?"
+kinek: "elvesztél a sok jó tanács között, és az egyetlen lényeges napi teendőt keresed"
+tema: meditacio-es-joga
+kereses: "napi meditáció; legfontosabb napi teendő; Jógánanda"
 ---
 
 Kérlek, vizsgáld meg az alábbi Isten keresőknek ajánlott, általam is olvasott könyveket, a mellékelt könyvek tükrében mély részletességgel, a legfontosabb teendőket vastagon kiemelve!, adj nekem javaslatot! Paramahansza Jogananda – 1. A lélek igazságai – Az ébredés tanításai, 2. A siker törvénye, 3. Egy jógi önéletrajza; A belső csend ereje – A Transzcendentális Meditáció; Felszabadított Lélek – Michael A. Singer; A Lét Tudománya és az Élet Művészete – Kérlek, vizsgáld meg az alábbi Isten keresőknek ajánlott, általam is olvasott könyveket, a mellékelt könyvek tükrében mély részletességgel, a legfontosabb teendőket vastagon kiemelve!, adj nekem javaslatot! Paramahansza Jogananda – 1. A lélek igazságai – Az ébredés tanításai, 2. A siker törvénye, 3. Egy jógi önéletrajza; A belső csend ereje – A Transzcendentális Meditáció; Felszabadított Lélek – Michael A. Singer; A Lét Tudománya és az Élet Művészete – Maharishi Mahesh Yogi; Túljárni az ördög eszén – Napoleon Hill; Biblia, Szabadság a világtól, A MOST HATALMA, A káoszból a tudatoságba – ECKHART Tolle;; Túljárni az ördög eszén – Napoleon Hill; Biblia, Szabadság a világtól, A MOST HATALMA, A káoszból a tudatosságba – ECKHART Tolle;

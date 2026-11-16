@@ -5,6 +5,9 @@ image: 2026/a-finom-elet-ennyire-egyszeru.avif
 image_alt: A finom élet ennyire egyszerű – lépésről lépésre igazodás a REND felé
 lead: "A finom életet senki más nem adhatja meg nekünk – nekünk kell nap mint nap „megviselkednünk”. Nem a tudás hiányzik, és nem tökéletesség kell hozzá, hanem következetesség: egy lépés, mindig csak egy. Ez az írás arról szól, miért ilyen egyszerű, és miért mégis ilyen ritka."
 kerdes: "Mi az az egy lépés, amelyet holnap a finom életed felé megtehetsz?"
+kinek: "jobb életre vágysz, és azt keresed, mi az, ami valóban rajtad múlik"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "jó élet titka; következetesség; hogyan éljek jobban"
 ---
 
 *Lehetséges, hogy ha „finom” életet szeretnénk élni, az a lehető legfontosabb, hogy ismerjük fel, hogy értsük meg, hogy tudva tudjuk, és nap mint nap, minden nap úgy is „viselkedjünk”, hogy annak a gyümölcse, az eredménye a „finom élet” lehessen…(?)…*

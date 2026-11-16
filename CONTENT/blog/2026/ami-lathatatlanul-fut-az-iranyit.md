@@ -5,6 +5,9 @@ image: 2026/ami-lathatatlanul-fut-az-iranyit.avif
 image_alt: Ami láthatatlanul fut, az irányít
 lead: "Egy biztosító vezérigazgatója szerint a mesterséges intelligencia veszélyesebb az atomfegyvernél, mert azt látod, hogy jön, ezt nem. De ez a mondat nem csak a technológiáról szól, hanem rólad: ami láthatatlanul fut benned, az irányít. Ez az írás segít meglátni."
 kerdes: "Melyik automatikus szokásod irányít a leginkább úgy, hogy közben észre sem veszed?"
+kinek: "a mesterséges intelligencia kockázatai, és a benned láthatatlanul futó minták is érdekelnek"
+tema: ego-es-elme
+kereses: "tudattalan minták; MI veszélye; rejtett programok"
 ---
 
 **Egy biztosítótársaság vezérigazgatója leül egy podcast-stúdióban, és kimond egy mondatot, amit nehéz elengedni: ez veszélyesebb, mint az atomfegyver. Nem azért, mert erősebb. Azért, mert az atomfegyvert látod, hogy jön. Ezt nem látod.**

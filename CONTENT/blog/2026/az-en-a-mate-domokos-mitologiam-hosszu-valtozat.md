@@ -5,6 +5,9 @@ image: 2026/az-en-a-mate-domokos-mitologiam-hosszu-valtozat.avif
 image_alt: Az Én, Máté Domokos mitológiám
 lead: "Lövéte, 1960, egy székely család fia: mit mutat egy ember sorsmintázata, ha összevetjük hasonló életutakkal? Ez a személyes kísérlet a saját életem mintázatait keresi – a csendes, jelenléttel teli sorsformát. Ha szereted a személyes történeteket, ez egy közülük."
 kerdes: "Milyen mintázatot látsz a saját életed fordulópontjaiban?"
+kinek: "kíváncsi vagy Máté Domokos életútjára és sorsmintázatára"
+tema: domi-utja
+kereses: "Máté Domokos élete; Lövéte; sorsmintázat"
 ---
 
 Címezve a ChatGPT – Magyar GPT 5.2 – nek:  

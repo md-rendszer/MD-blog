@@ -5,6 +5,9 @@ image: 2026/az-elottunk-jart-emberek-hagyatekabol.avif
 image_alt: Máté Domokos, háttérben a budapesti Országház
 lead: "Az előttünk járók hagyatékából egyre jobban értem, hogyan élhetek jó életet úgy, hogy az ne a felhalmozott pénz függvénye legyen. De azt is tudom, hogy erre senkit nem kötelezhetek – sőt, néha magamban is erős ellenállást tapasztalok a változással szemben. Ez az írás erről az őszinte kettősségről szól."
 kerdes: "Melyik változással szemben tapasztalod magadban a legerősebb ellenállást – pedig tudod, hogy jó lenne?"
+kinek: "jó életet szeretnél élni anélkül, hogy minden a pénzen múlna"
+tema: domi-utja
+kereses: "jó élet pénz nélkül; változással szembeni ellenállás; előttünk járók"
 ---
 
 Az előttünk járt emberek hagyatékából,

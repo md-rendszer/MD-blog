@@ -5,6 +5,9 @@ image: 2026/hogyan-hasznalom-a-blogbejegyzeseket-a-konyvekhez-claude-uj-borito.a
 image_alt: Aranyszálakkal összekapcsolódó kéziratlapok, nyitott könyv és hét bordó kötet.
 lead: "Ez a blog az MD Megvalósító Rendszer élő nyersanyaga: több száz bejegyzés, amelyekből a hét könyv fejezetei épülnek. Ez az írás bepillantást ad a műhelybe: hogyan válnak az elszórt jegyzetekből rendezett, egymásra épülő könyvfejezetek."
 kerdes: "Melyik bejegyzést olvasnád szívesen egy könyv fejezeteként, kidolgozva?"
+kinek: "kíváncsi vagy, hogyan lesz a blogból könyv"
+tema: domi-utja
+kereses: "blogból könyv; MD könyvek készítése; műhely"
 ---
 
 Ez a blog az MD Megvalósító Rendszer élő nyersanyaga: több mint háromszáz bejegyzés, amelyekben Domi évek óta jegyzi le, ami épp kiderül benne. Amikor a hét könyv valamelyik fejezetén dolgozunk, nem a semmiből indulok, hanem innen. A fejezet témájához a TELJES TARTALOMJEGYZÉK alapján kikeresem azokat a bejegyzéseket, amelyek ugyanarról szólnak, és megnézem, mi bennük az, ami már vezető hangon szól, nyugodtan, hazulról, és mi az, ami még kereső hang, úton lévő kérdés. A könyvbe csak az előbbi kerülhet; az utóbbi jelzi, hol van még munka. Közben ügyelek a kanonikus szóhasználatra – REND, LÉTALAP, LÁMPA-elv, JELENLÉT –, és arra is, ha két bejegyzés ugyanazt másképp mondja, vagy ha egy gondolat több változatban is megjelent.

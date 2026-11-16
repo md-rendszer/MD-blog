@@ -5,6 +5,9 @@ image: 2026/akik-korlatozzak-a-szabad-fejlodest.avif
 image_alt: Akik korlátozzák a szabad fejlődést…(?)…
 lead: "Miért tűnik úgy, hogy az ébredő hangokat gyorsan elhallgattatják, miközben a valóban ártó tartalmak szabadon terjednek? Ez az írás egy személyes tapasztalatból indul ki, és arról szól, mit tehet az ember, amikor korlátozzák: alkalmazkodik vagy nem alkalmazkodik."
 kerdes: "Mikor érezted utoljára, hogy nem engednek szóhoz jutni – és mit tettél ilyenkor?"
+kinek: "úgy érzed, elhallgattatják a hangodat vagy a tartalmaidat"
+tema: tarsadalom-penz-technologia
+kereses: "cenzúra közösségi média; elhallgattatás; alkalmazkodni vagy nem"
 ---
 
 Miért van az, hogy valóban veszélyes emberek az emberiségre, szabadon garázdálkodhatnak, míg az idejekorán valódi tudatra ébredő emberek “fénye” ahogy “fényt, valódi fényt bocsátanak ki”, rögtön letiltják az “adminisztrátorok”, és attól kezdve nagyon gyorsan ki is végezteti őket, az a hatalom, amelyik az “adminisztrátorokat mozgatja – fizeti”…(?)…

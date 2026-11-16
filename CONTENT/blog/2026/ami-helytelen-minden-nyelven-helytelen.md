@@ -5,6 +5,9 @@ image: 2026/ami-helytelen-minden-nyelven-helytelen.avif
 image_alt: "Éjszakai háttér előtt égő lámpás, körülötte tizenkét nyelven az „igaz” szó egy közös körön; a körön kívül szétszóródó, halványuló szilánkok"
 lead: "A hazugság nem lesz igaz attól, hogy más nyelven mondják, és a gyűlölet sem lesz jó attól, hogy jó ügyre hivatkozik. Ez az írás arról szól, miért csak a helyesből, az igazból és a rendből születhet jó az emberek világában, és miért nem ellenségeskedés, ha valaki kiáll mellette."
 kerdes: "Melyik az a vélemény, amelyet ma igaznak tartasz, és amelyet érdemes lenne a helyeshez, az igazhoz, a REND-hez mérned?"
+kinek: "kiállnál a helyes mellett, de félsz, hogy ellenségeskedésnek tűnik"
+tema: kapcsolatok-es-konfliktusok
+kereses: "igazság mellett kiállni; gyűlölet jó ügyért; helyes és helytelen"
 ---
 
 **Máté Domokos kérdése:** Ami helytelen, hazug, rendetlen, az minden nyelven helytelen, hazug, rendetlen, és minden esetben a gyűlölködés, az ellenségeskedés, az erőszak, a háborúk, a sodródás, a szétszóratás, a pusztulás melegágya. Nem vezet semmi embernek való jó dologra. Az embernek való jó dolgok kizárólag a mindenkor helyes, igaz, rendes állapotokból nyilvánulhatnak meg az emberek világában. Az emberi vélemények csak akkor lehetnének teljes körűen elfogadhatóak, követésre méltóak, ha teljes mértékben egybeesnének az örökké helyessel, igazzal, renddel. Aki a helyesre, az igazra, a rendre törekszik, az minden egyes ember legfőbb javáért, az ember minőségi életéért száll síkra, és egyáltalán nem ellenségességből.

@@ -5,6 +5,9 @@ image: 2026/mit-vesztunk-ha-elvesztjuk-a-meltosagunkat.avif
 image_alt: Mit vesztünk, ha elvesztjük a méltóságunkat…(?)…
 lead: "Minél inkább kiesik az ember a méltóságából, annál tehetetlenebbé válik – de nem az erejét veszíti el, hanem a hozzáférést hozzá. Ez az írás lépésről lépésre mutatja meg, mi történik, amikor a méltóság kiesik: szétesik a belső iránytű, gyengül az akarat. És azt is, hogyan lehet visszatalálni."
 kerdes: "Mikor érezted utoljára, hogy elvesztetted a hozzáférést a saját erődhöz – és mi hozott vissza?"
+kinek: "úgy érzed, elvesztetted a hozzáférést a saját erődhöz"
+tema: meltosag-es-ujrakezdes
+kereses: "tehetetlenség; belső iránytű; akarat gyengülése"
 ---
 
 Rend! Ahogy, hitem szerint helyesen megállapítottuk, az ember “rendeltetett méltóság hordozó”!   

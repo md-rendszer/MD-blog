@@ -5,6 +5,9 @@ image: 2026/4-milliard-ember-halhat-meg-igy-omlik-ossze-a-rendszer.avif
 image_alt: "Lépcsőzetesen hanyatló arany görbe az éjszakában, alatta égő lámpás, kút és körülötte álló emberek"
 lead: "Egy videó szerint akár négymilliárd ember is meghalhat, ha összeomlik a rendszer. Mit lehet erre felelni pánik nélkül? Ez az írás megmutatja, miben van igaza a videónak, mi túlzás benne, és mit építhetünk be az MD-be: nem a pánik vezet, hanem az, amit ma megtehetünk."
 kerdes: "Mi az, amit ma megtehetsz azért, hogy a családod és a közösséged ellenállóbb legyen?"
+kinek: "egy összeomlásról szóló videó után szorongsz, és pánik nélküli választ keresel"
+tema: tarsadalom-penz-technologia
+kereses: "rendszer összeomlása félelem; 4 milliárd ember videó; hogyan ne pánikoljak"
 ---
 
 <https://www.youtube.com/watch?v=-W9KbWZrptQ>

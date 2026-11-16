@@ -5,6 +5,9 @@ image: 2026/osszhangban-a-let-torvenyeivel-tobbnyire-finom-eletet-elhetsz-egyebk
 image_alt: Összhangban a lét törvényeivel – vándor az omladozó légvár és a napfényes ösvény között
 lead: "Aki nem ismeri, mit tehet meg szenvedés nélkül és mit nem, akaratlanul is a saját szenvedésének forrásává válik. Ez a rövid, egyenes írás arról szól, hogy a finom élet nem szerencse kérdése, hanem a LÉT törvényeihez való igazodásé. Ha ugyanazokba a falakba ütközöl újra és újra, olvasd el."
 kerdes: "Melyik az a visszatérő szenvedés az életedben, amelyről sejted, hogy nem a véletlen, hanem egy figyelmen kívül hagyott törvény okozza?"
+kinek: "újra és újra ugyanazokba a falakba ütközöl"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "élet törvényei; ismétlődő szenvedés; finom élet"
 ---
 
 Bármely ember, aki nem ismeri, érti, tudja, hogy mit tehet meg szenvedés nélkül, és mit nem, óhatatlanul rengeteg szenvedés forrásává válik önmaga számára!

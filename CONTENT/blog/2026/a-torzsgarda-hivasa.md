@@ -5,6 +5,9 @@ image: 2026/a-torzsgarda-hivasa.avif
 image_alt: A törzsgárda hívása
 lead: "Téged hívunk, aki már megérezted, hogy az MD nem újabb teher, hanem hazaút – és aki nemcsak olvasni, hanem élni is szeretné ezt az utat. Ez a felhívás bemutatja, mit ajánl a törzsgárda, milyen három lépésben lehet csatlakozni, és mi az az egyetlen szabály, amely mindent tisztán tart."
 kerdes: "Mi lenne számodra a legfontosabb, ha egy közösség aktív tagjává válnál?"
+kinek: "már olvasod az MD-t, és nemcsak olvasni, hanem élni is szeretnéd"
+tema: md-megvalosito-rendszer
+kereses: "MD törzsgárda; csatlakozás MD; MD közösség"
 ---
 
 MD Megvalósító Rendszer — Újjászületési és Helyreállítási Program

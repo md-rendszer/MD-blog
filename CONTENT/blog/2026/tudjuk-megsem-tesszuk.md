@@ -5,6 +5,9 @@ image: 2026/tudjuk-megsem-tesszuk.avif
 image_alt: "Kettéhasadt kép: balra éjszaka egy ember a telefonja fölé görnyed, jobbra hajnalban egy ember kitárt karral áll a felkelő nap felé"
 lead: "A legtöbben tudjuk, mi lenne jó nekünk: aludni, mozogni, figyelni egymásra. Mégsem tesszük. Ez az írás életterületenként, két oszlopban veti össze, hol bánunk jól magunkkal és egymással, és hol nem – és megmutatja, hogyan léphetsz egyetlen sorban egy lépéssel közelebb a helyeshez."
 kerdes: "Melyik az az egy sor az életedben, ahol tudod, mi lenne a helyes, és holnap egy lépéssel közelebb mennél hozzá?"
+kinek: "tudod, mi lenne jó neked, mégsem teszed"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "tudom mégsem teszem; jó szokások; önmagunkkal bánni"
 ---
 
 **Máté Domokos kérdése:** Lehetséges, mi több, többnyire bizonyított, hogy az emberek még önmagukkal sem bánnak helyesen, többnyire nem, önmagukkal sem követik a rendet, az igazságot, nem, hogy másokkal viselkednének helyesen. Kérlek, írj egy blogot, sorold fel, hogy általában az emberek, bizonyítottan, fő életterületekre bontva, mikor viselkednek helyesen, és mikor nem viselkednek helyesen, egy „A” és egy „B” oszlopban összeszedve, egymással összevetve. Elemezd a mai emberek megszokott mindennapi viselkedését.

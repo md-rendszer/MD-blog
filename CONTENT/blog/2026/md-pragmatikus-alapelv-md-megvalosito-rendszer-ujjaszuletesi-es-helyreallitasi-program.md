@@ -5,6 +5,9 @@ image: 2026/md-pragmatikus-alapelv-md-megvalosito-rendszer-ujjaszuletesi-es-hely
 image_alt: MD PRAGMATIKUS ALAPELV
 lead: "Az MD-ben egy tanítás nem attól értékes, hogy szép, hanem attól, hogy működik a hétköznapokban. A Pragmatikus Alapelv ezt a mércét rögzíti: a belső, szellemi alapozástól a külső, anyagi stabilitásig minden lépést a gyakorlati haszon igazol. Ha elegedet van az elméletekből, ez az alapelv neked szól."
 kerdes: "Melyik tanítás vagy tanács bizonyult számodra a gyakorlatban is valóban hasznosnak?"
+kinek: "eleged van az elméletekből"
+tema: md-megvalosito-rendszer
+kereses: "működő tanítás; pragmatikus; anyagi stabilitás"
 ---
 
 Az **MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program** egy Máté Domokos által kidolgozott, tudatosan felépített életvezetési és közösségi program. A rendszer lényege, hogy a belső spirituális alapozástól vezesse el a résztvevőket a külső, mindennapi és anyagi stabilitásig. [[1](https://www.youtube.com/watch?v=OyiT0uqANJ0), [2](/blog/az-md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program-3/)]

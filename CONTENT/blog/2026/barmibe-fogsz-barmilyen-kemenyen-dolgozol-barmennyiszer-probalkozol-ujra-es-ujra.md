@@ -5,6 +5,9 @@ image: 2026/barmibe-fogsz-barmilyen-kemenyen-dolgozol-barmennyiszer-probalkozol-
 image_alt: Bármibe fogsz – Bármilyen keményen dolgozol – Bármennyiszer próbálkozol újra és újra…(?)….
 lead: "Bármibe fogsz, bármilyen keményen dolgozol, valami mindig megakad, szétesik, visszahúz? Lehet, hogy nem azzal van a gond, amit csinálsz, hanem azzal, amiből csinálod. Ez az írás arról szól, miért nem több erőlködés, hanem a méltóság helyreállítása a megoldás."
 kerdes: "Melyik területen érzed, hogy hiába dolgozol keményen, valami mindig visszahúz?"
+kinek: "bármibe fogsz, valami mindig visszahúz"
+tema: meltosag-es-ujrakezdes
+kereses: "semmi nem sikerül; kudarc újra és újra; miért nem sikerül"
 ---
 
 Mégis azt tapasztalod, érzed:  

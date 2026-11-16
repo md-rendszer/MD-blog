@@ -5,6 +5,9 @@ image: 2026/miert-nem-megy-at.avif
 image_alt: "Egyetlen kis lámpa lángja, körülötte kifelé terjedő hanghullámok"
 lead: "Egy politikai elemző a választási vereség után nem a választóra mutatott, hanem önmagára: miért nem tudtuk átadni, amit fontosnak tartottunk? Ez az írás politikai állásfoglalás nélkül vizsgálja meg ezt a ritka önvizsgálatot – és azt, mit tanulhatunk belőle a saját mondanivalónk átadásáról."
 kerdes: "Mikor érezted utoljára, hogy valami fontosat mondasz, de nem megy át – és mit tettél ilyenkor?"
+kinek: "fontosat mondasz, de nem megy át, és magadban keresed az okát"
+tema: kapcsolatok-es-konfliktusok
+kereses: "kommunikáció kudarc; önvizsgálat; üzenet átadása"
 ---
 
 *Egy önvizsgálat tanulsága – politikai állásfoglalás nélkül*

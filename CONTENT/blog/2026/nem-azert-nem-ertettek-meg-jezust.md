@@ -5,6 +5,9 @@ image: 2026/nem-azert-nem-ertettek-meg-jezust.avif
 image_alt: A rabtartójától felszabadult emberi lény
 lead: "Nem azért nem értették meg Jézust, mert nem lett volna nyilvánvaló, amit mondott – hanem mert nem akarták elveszíteni azt, amihez ragaszkodtak. Ez az írás nem a tanítványokról szól, hanem rólad: kívülről követed, vagy belülről újjászületsz?"
 kerdes: "Mi az, amihez ragaszkodsz, pedig tudod, hogy elengedése nélkül nem tudsz továbblépni?"
+kinek: "azt kérdezed: kívülről követed Jézust, vagy belülről születsz újjá"
+tema: hit-es-biblia
+kereses: "Jézus megértése; újjászületés; ragaszkodás"
 ---
 
 És Ma Sem Nem Azért Nem Értik Meg Az Emberek Az Igaz És Helyes Gondolkodást, Viselkedést, Mert Az Nem Volna Nyilvánvaló.

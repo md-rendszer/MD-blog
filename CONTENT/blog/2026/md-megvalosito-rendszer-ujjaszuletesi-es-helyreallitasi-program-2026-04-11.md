@@ -6,6 +6,9 @@ image_alt: MD Megvalósító Rendszer – Újjászületési és Helyreállítás
 alias: md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program-4
 lead: "Ez nem egy újabb könyv arról, mit kellene tenni, és nem is egy lehetőség a sok közül. Az első kötet tartalomjegyzéke és bevezetője arról szól, hogy amíg még van idő, az ember helyreállíthatja, ami elromlott. A kérdés nem az, hogy tetszik-e, hanem az, hogy időben megtesszük-e."
 kerdes: "Mi az, amiről úgy érzed, időben kellene megtenned, mielőtt késő lesz?"
+kinek: "az első kötet tartalomjegyzékére és bevezetőjére vagy kíváncsi"
+tema: md-megvalosito-rendszer
+kereses: "MD első kötet; Alapkönyv bevezető; helyreállítás"
 ---
 
 I. KÖNYV – VÉGLEGES TARTALOMJEGYZÉK

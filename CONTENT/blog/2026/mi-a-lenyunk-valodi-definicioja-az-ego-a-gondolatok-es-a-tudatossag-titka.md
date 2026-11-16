@@ -6,6 +6,9 @@ image_alt: Mi a lényünk valódi definíciója – az ego, a gondolatok és a t
 alias: mi-lehet-a-lenyunk-definicioja
 lead: "Azonosak vagyunk a gondolatainkkal, az érzéseinkkel vagy az élethelyzeteinkkel? A pszichológia, a filozófia és a spirituális hagyományok mind keresték a választ. Ez az írás összefoglalja, mit mondanak – és mit jelenthet ez a te hétköznapjaidban."
 kerdes: "Melyik az a gondolat vagy érzés, amellyel a leggyakrabban azonosítod magad – pedig sejted, hogy nem te vagy?"
+kinek: "azt kérdezed: azonos vagy-e a gondolataiddal"
+tema: ego-es-elme
+kereses: "azonos vagyok a gondolataimmal; tudatosság; ego definíció"
 ---
 
 ## Bevezető

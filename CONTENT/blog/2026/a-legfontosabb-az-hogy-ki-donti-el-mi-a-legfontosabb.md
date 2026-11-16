@@ -5,6 +5,9 @@ image: 2026/a-legfontosabb-az-hogy-ki-donti-el-mi-a-legfontosabb.avif
 image_alt: A legfontosabb az, hogy ki dönti el, mi a legfontosabb…(?)…
 lead: "Mindenki mindig azt teszi, ami számára éppen a legfontosabb. A kérdés csak az: ki dönti el benned, mi a legfontosabb – az egós elme vagy a házigazda? Ez az írás arról szól, mi változik meg, amikor a házigazda hazatér."
 kerdes: "Ha visszanézel a mai napodra, ki döntött arról, mi volt a legfontosabb – te vagy a megszokás?"
+kinek: "érzed, hogy nem mindig te döntöd el, mi a fontos az életedben"
+tema: ego-es-elme
+kereses: "prioritások; ki dönt bennem; ego és lényem"
 ---
 
 Mindenki és mindenkor pont azt teszi, ami számára épp a legfontosabb, és ez alól csak az kivétel, aki kényszer hatására teszi azt amit tesz!

@@ -5,6 +5,9 @@ image: 2026/amikor-a-szolgabol-uralkodo-lesz.avif
 image_alt: Amikor a szolgából uralkodó lesz…(?)…
 lead: "Háborúk, elnyomás, megalázás – természetes, hogy keressük a felelőst: a hatalmat, a pénzt, a politikát. Ez az írás egy mélyebb erőre mutat rá: az egós elmére, amely eltévedt szolgálóból uralkodóvá vált. A fizikai erőszak előtt rendszerint már bennünk megtörtént valami."
 kerdes: "Hol veszed észre magadban azt a pillanatot, amikor egy gondolat már nem szolgál, hanem uralkodni kezd?"
+kinek: "a háborúk és az erőszak mélyebb okát keresed"
+tema: ego-es-elme
+kereses: "erőszak oka; ego és háború; elnyomás gyökere"
 ---
 
 ## Hogyan szabadulhatunk meg a személyes egós elme erőszakos uralmától úgy, hogy ne újabb harcot indítsunk, hanem békét teremtsünk önmagunkban és egymás között…(?)…

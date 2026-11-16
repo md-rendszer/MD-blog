@@ -5,6 +5,9 @@ image: 2026/bibliai-tortenetek-amelyek-lepesrol-lepesre-bemutatjak-a-meltosag-el
 image_alt: Bibliai történetek, amelyek lépésről lépésre bemutatják a méltóság elvesztését és visszaszerzését…(?)…
 lead: "A tékozló fiú és Zákeus története lépésről lépésre mutatja meg, hogyan veszíti el az ember a méltóságát, és hogyan szerzi vissza. Ez az írás térképként használja a két történetet a sérült önbecsüléstől a helyreállított önazonosságig. Ha te is úton vagy hazafelé, ismerős lesz."
 kerdes: "A két történet közül melyikben ismersz magadra jobban – a tékozló fiúéban vagy Zákeuséban?"
+kinek: "sérült az önbecsülésed, és hazafelé tartasz"
+tema: meltosag-es-ujrakezdes
+kereses: "tékozló fiú Zákeus; önbecsülés visszaszerzése; bibliai történetek"
 ---
 
 A Biblia elbeszélései közül kettő különösen tűpontosan, **lépésről lépésre modellezi a méltóság elvesztésének és visszaszerzésének** folyamatát.

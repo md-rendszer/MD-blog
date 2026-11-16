@@ -184,3 +184,29 @@ html.lightbox-open, html.lightbox-open body { overflow: hidden; }
 .lightbox-close:focus-visible { outline: 3px solid #FBDE78; outline-offset: 2px; }
 .lightbox-hint { position: absolute; left: 0; right: 0; bottom: 8px; margin: 0; text-align: center; color: #C9C0AA; font-size: 14px; pointer-events: none; }
 .lightbox.is-zoomed .lightbox-hint { display: none; }
+
+/* Kinek szól? – célzott olvasó a cím alatt */
+.audience { margin: 4px 0 22px; padding: 16px 20px; background: #FAF6EF; border: 1px solid var(--line); border-left: 4px solid var(--gold-deep); border-radius: 0 10px 10px 0; }
+.audience-label { margin: 0 0 4px; font: 600 14px/1.3 var(--serif); letter-spacing: .08em; text-transform: uppercase; color: var(--gold-deep); }
+.audience-text { margin: 0 0 8px; font-size: 18px; line-height: 1.5; color: var(--night); }
+.audience-topic, .related-more { color: var(--link); font-size: 16px; text-decoration: underline; text-decoration-color: var(--gold-deep); text-underline-offset: 3px; }
+
+/* Neked ajánlom még */
+.related { margin: 36px 0 0; padding: 22px 24px; border: 1px solid var(--line); border-radius: 10px; background: #fff; }
+.related-title { margin: 0 0 12px; font-family: var(--display); font-size: 20px; line-height: 1.3; color: var(--night); }
+.related ul { margin: 0 0 14px; padding: 0; list-style: none; }
+.related li { margin: 0 0 14px; }
+.related li a { color: var(--link); font-size: 18px; font-weight: 600; text-decoration: none; }
+.related li a:hover { text-decoration: underline; }
+.related li span { display: block; margin-top: 2px; color: var(--muted); font-size: 15px; line-height: 1.45; }
+
+/* Témák */
+.topic-back { margin: 0 0 8px; font-size: 16px; }
+.topic-back a { color: var(--link); }
+.topic-intro { max-width: 720px; margin: 0 0 26px; font-size: 18px; line-height: 1.6; color: var(--muted); }
+.topic-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; margin: 0; padding: 0; list-style: none; }
+.topic-list a { display: flex; flex-direction: column; gap: 6px; height: 100%; padding: 18px 20px; border: 1px solid var(--line); border-radius: 10px; background: #fff; color: var(--night); text-decoration: none; box-sizing: border-box; }
+.topic-list a:hover, .topic-list a:focus-visible { border-color: var(--gold-deep); }
+.topic-list strong { font-family: var(--display); font-size: 20px; }
+.topic-list span { color: var(--muted); font-size: 16px; line-height: 1.5; }
+.topic-list em { margin-top: auto; color: var(--gold-deep); font-size: 15px; font-style: normal; }

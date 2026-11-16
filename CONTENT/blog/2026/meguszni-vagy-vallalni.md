@@ -5,6 +5,9 @@ image: 2026/meguszni-vagy-vallalni.avif
 image_alt: "Bal oldalon lefelé kanyargó, végén összegubancolódó út (MEGÚSZNI), jobb oldalon meredeken felfelé vezető, kiegyenesedő út (VÁLLALNI)"
 lead: "Elkésel, és a forgalomra fogod. Elrontasz valamit, és gyorsan találsz valakit, aki „igazából” hibás. A megúszás ma könnyű, de holnap nehéz – a vállalás ma nehéz, de holnap könnyebb. Ez az írás arról szól, miért mérhetetlen a különbség a két út között."
 kerdes: "Mikor választottad utoljára a megúszást a vállalás helyett – és mit tennél most másképp?"
+kinek: "hajlamos vagy kifogást vagy hibást keresni"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "felelősségvállalás; kifogások; megúszás"
 ---
 
 *Lehet, hogy eljött az ideje, hogy ne mindig a megúszásra játsszunk.*

@@ -5,6 +5,9 @@ image: 2026/mennyire-helyes-az-ami-hatosagilag-hiteles.avif
 image_alt: Helyes - igaz az, ami hatóságilag hiteles?
 lead: "Mindig helyes az, ami hatóságilag hiteles? Ez az írás két oszlopban veti össze, mikor szolgálják a hatósági nyilatkozatok valóban a közjót, és mikor kedvezhetnek inkább azoknak, akik mögöttük állnak. Ha szeretnél tisztábban látni a hivatalos közlések között, itt kapaszkodót találsz."
 kerdes: "Mi alapján döntöd el, hogy egy hivatalos közlésnek mennyire hiszel?"
+kinek: "tisztábban szeretnél látni a hivatalos közlések között"
+tema: tarsadalom-penz-technologia
+kereses: "hivatalos közlés hitelessége; hatóság és közjó; kritikus gondolkodás"
 ---
 
 Légy szíves, írd meg nekem két oszlopba rendezve egymás alá (bal – jobb), hogy szerinted a hatóságok mindenben a helyes módon nyilatkozik, vagy a hatósági nyilatkozatok is mindig azoknak kedveznek, akik a nyilatkozatokért fizetnek?

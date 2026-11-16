@@ -5,6 +5,9 @@ image: 2026/ha-nem-akarod-hogy-az-oregkor-szenvedes-legyen-ezt-a-4-dolgot-meg-id
 image_alt: Ha nem akarod, hogy az öregkor szenvedés legyen, ezt a 4 dolgot még időben tedd meg
 lead: "Az öregkor nem azért fáj, mert telnek az évek, hanem mert túl sok mindent nem tettünk meg, amikor még lehetett volna. Ez az írás négy dolgot sorol fel, amelyet érdemes időben megtenned – a függetlenségtől a jól megválasztott közeli emberekig. Ha még előtted áll az öregkor, most van itt az ideje."
 kerdes: "A négy közül melyiket érzed a legsürgetőbbnek a saját életedben – és mi lenne az első lépés?"
+kinek: "még előtted áll az öregkor, és szeretnél felkészülni"
+tema: egeszseg-es-termeszet
+kereses: "felkészülés az öregkorra; időskor függetlenség; nyugdíjas évek"
 ---
 
 Sokan azt hiszik, hogy az öregkor önmagában fájdalmas.  

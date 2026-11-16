@@ -5,6 +5,9 @@ image: 2026/nem-homokra-nem-ingovanyra.avif
 image_alt: NEM HOMOKRA. NEM INGOVÁNYRA.
 lead: "Felhívás azoknak, akik nem újabb véleményt vagy hitrendszert keresnek, hanem vizsgálható, dogmamentes és megélhető alapot. Ha eleged van a hangzatos ígéretekből és a tévedhetetlennek mutatkozó tanítókból, itt egy alap, amely elbírja a kérdéseidet – és egy teljes életet."
 kerdes: "Mire építetted eddig az életed legfontosabb döntéseit – és mi bizonyult ingoványnak közülük?"
+kinek: "dogmamentes, vizsgálható alapot keresel"
+tema: md-megvalosito-rendszer
+kereses: "dogmamentes spiritualitás; szilárd alap; vizsgálható tanítás"
 ---
 
 ## Olyan alapra, amely elbír egy teljes életet

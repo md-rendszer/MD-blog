@@ -5,6 +5,9 @@ image: 2026/a-szekelyek-arpad-fogadoi-mit-mondanak-a-kronikak.avif
 image_alt: Idővonal a honfoglalástól a krónikák lejegyzéséig – A székelyek, Árpád fogadói?
 lead: "Ha a krónikák szerint a székelyek fogadták Árpád seregét, miért csak 1116-ban esik róluk először írásban szó? Ez az írás megmutatja, mit mondanak valójában a krónikák, mikor írták le őket, és hogyan különíthető el bennük a legenda és a történeti réteg."
 kerdes: "Mit jelent számodra a székely örökség – és mit adnál tovább belőle az unokáidnak?"
+kinek: "érdekel, valóban a székelyek fogadták-e Árpádot"
+tema: magyarsag-es-tortenelem
+kereses: "székelyek eredete; székelyek Árpád; krónikák székelyek"
 ---
 
 *Kiegészítés a [Ki őshonos a Kárpát-medencében?](/blog/ki-oshonos-a-karpat-medenceben/) című bejegyzéshez.*

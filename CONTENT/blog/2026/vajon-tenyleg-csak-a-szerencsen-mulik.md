@@ -5,6 +5,9 @@ image: 2026/image-e525b48070380b65a2bc.avif
 image_alt: Vajon tényleg csak a szerencsén múlik?
 lead: "Nyolcéves korom óta foglalkoztat, miért él valaki bőségben, más pedig szűkösségben. Évtizedek tapasztalata után ma azt látom: az életünk minősége nem a véletlenen, hanem az önismereten múlik. Ha úgy érzed, a családi vagy pénzügyi elakadásokat csak elviselni lehet, ez az írás neked szól."
 kerdes: "Van olyan helyzet az életedben, amelyet eddig szerencsének vagy balszerencsének tulajdonítottál, de ma már másképp látod?"
+kinek: "családi vagy pénzügyi elakadásokat élsz meg"
+tema: domi-utja
+kereses: "szerencse vagy önismeret; pénzügyi elakadás; bőség és szűkösség"
 ---
 
 Mert szenvedések között, boldogtalanul, pénzszűkében éltünk, 1968 – nyolc éves korom óta érdekel, hogy hogy lehetne több mint élég pénzünk, 2018 májusa óta foglalkozom napi szinten az emberi működés és az életjobbítás kérdéseivel. Azóta rengeteg tudás ment át a kezemen, de az egyik legfontosabb felismerésem az volt, hogy az életünk minősége nem a véletleneken múlik, hanem azon, mennyire ismerjük saját magunkat.

@@ -5,6 +5,9 @@ image: 2026/lepcso-a-tisztanlatas-fele.avif
 image_alt: Lépcső a tisztánlátás felé!
 lead: "A tisztánlátás felé vezető lépcső első foka az Egyértelműsítő Alapvetés: ez nem előszó, hanem a bejárat az MD Megvalósító Rendszerbe. Ez az írás megmutatja, miért érdemes először ezt megismerned, mielőtt bármilyen gyakorlatba vagy közösségbe belekezdenél."
 kerdes: "Melyik kérdésben szeretnél a legjobban tisztán látni most az életedben?"
+kinek: "az MD-vel ismerkedsz, és a helyes kezdőpontot keresed"
+tema: md-megvalosito-rendszer
+kereses: "Egyértelműsítő Alapvetés; MD kezdés; tisztánlátás"
 ---
 
 **Elsőként az EGYÉRTELMŰSÍTŐ ALAPVETÉSSEL szükséges találkoznod**

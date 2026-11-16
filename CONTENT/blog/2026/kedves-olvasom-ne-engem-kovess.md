@@ -6,6 +6,9 @@ image_alt: Kedves Olvasóm, ne engem kövess!
 alias: kedves-olvasom
 lead: "Amit itt megosztok, azt nem végső, megkérdőjelezhetetlen igazságként teszem eléd. Ne higgy nekem azért, mert határozottan fogalmazok, vagy mert egy ismert tanítóra hivatkozom. Azt kövesd, amit becsületes vizsgálódás, saját tapasztalat és tiszta lelkiismeret alapján igaznak ismersz fel."
 kerdes: "Mi alapján döntöd el, hogy egy tanításnak hiszel-e – a tanító hírneve vagy a saját tapasztalatod alapján?"
+kinek: "fontos neked, hogy senkit ne kövess vakon, engem sem"
+tema: tanitok-es-tisztanlatas
+kereses: "ne kövess vakon; saját tapasztalat; tiszta lelkiismeret"
 ---
 
 Amit ezen az oldalon, a könyveimben és az MD Megvalósító Rendszer keretében megosztok veled, azt nem végső, megkérdőjelezhetetlen igazságként kívánom eléd helyezni.

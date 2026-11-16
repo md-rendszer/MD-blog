@@ -5,6 +5,9 @@ image: 2026/a-lathatatlansagbol-mukodo-kigyo-feje.avif
 image_alt: A láthatatlanságból működő kígyó feje…(?)…
 lead: "Minden viselkedés annak a belső erőnek a megnyilvánulása, amelyből fakad. Ez az írás a régi erkölcstan főbűneit és ellentétes erényeit állítja párba, hogy felismerhesd: mi az a láthatatlan „kígyófej”, amely a romboló viselkedések mögött működik – és hogyan lehet legyőzni."
 kerdes: "Melyik erényt erősítenéd magadban a legszívesebben, ha ma elkezdhetnéd?"
+kinek: "azt keresed, milyen belső erő áll a romboló viselkedések mögött"
+tema: ego-es-elme
+kereses: "hét főbűn és erény; romboló viselkedés oka; erények"
 ---
 
 Hogyan lehet beazonosítani, és hogyan vágható le a láthatatlan kígyó feje…(?)…  

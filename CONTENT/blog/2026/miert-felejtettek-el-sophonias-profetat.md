@@ -5,6 +5,9 @@ image: 2026/miert-felejtettek-el-sophonias-profetat.avif
 image_alt: Miért FELEJTETTÉK EL Sophoniás prófétát…(?)…
 lead: "Egy videó Sophoniás próféciájáról: félelemkeltés vagy figyelmeztetés, amelyre oda kell figyelnünk? Ez az írás korrekt, kiegyensúlyozott választ ad: megmutatja, mi hiteles benne, mi problémás a körítésében, és hol végződik valójában az üzenet. Ha a félelmet keltő tartalmak között keresed az igazat, ez segít."
 kerdes: "Hogyan szoktad eldönteni, hogy egy ijesztő üzenet figyelmeztetés-e vagy csak félelemkeltés?"
+kinek: "láttad a Sophoniás-videót, és nem tudod, mi igaz belőle"
+tema: tanitok-es-tisztanlatas
+kereses: "Sophoniás próféta; félelemkeltő videó; prófécia"
 ---
 
 Az Úr napjának megdöbbentő próféciája…(?)…

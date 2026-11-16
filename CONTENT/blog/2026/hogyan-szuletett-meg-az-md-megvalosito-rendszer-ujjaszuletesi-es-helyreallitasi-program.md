@@ -5,6 +5,9 @@ image: 2026/hogyan-szuletett-meg-az-md-megvalosito-rendszer-ujjaszuletesi-es-hel
 image_alt: Hogyan született meg az MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program?
 lead: "Hol kezdődött, és hogyan nőtt hétkötetes sorozattá az MD Megvalósító Rendszer? Ez az írás végigvezet a kezdetektől: az első felismeréstől az Alapkönyvön és a köztes köteteken át a befejező könyvig. Ha kíváncsi vagy az MD születésére, itt a teljes történet."
 kerdes: "Melyik felismerés indított el téged a saját utadon?"
+kinek: "érdekel az MD születésének teljes története"
+tema: md-megvalosito-rendszer
+kereses: "MD története; hétkötetes sorozat; Alapkönyv"
 ---
 
 ChatGPT-Rend! Emlékszel a “lépésekre”, hogy hol kezdtük, hogy keletkezett az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” könyvsorozat alapkönyve – a köztes könyvek és a 7. befejező könyv – hogy jött létre a 7 könyvből álló könyvsorozat? Felfrissítenéd az elmémet, összefoglalnád és oda adnád nekem? Ennyi ideig gondolkozott: 10s

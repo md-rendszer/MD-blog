@@ -5,6 +5,9 @@ image: 2026/beke-a-karpat-medenceben-csak-az-igaz-alapzatarol.avif
 image_alt: "Éjszakai Kárpát-medence aranyló hegyívvel, középen égő lámpás, körülötte kilenc fénypont egy közös körön"
 lead: "Négy határ, négy állapot: hol tart ma a magyar–szlovák, a magyar–román, a magyar–szerb és a magyar–ukrán viszony? Ez a kiderítő írás nem hibást keres, hanem azt mutatja meg, hogy minden eltérés az igaztól békétlenséget szül – és a béke csak az igaz alapzatáról épülhet."
 kerdes: "Mi az az egy lépés, amelyet te tehetnél meg a szomszéd népek felé, hogy közelebb kerüljünk egymáshoz?"
+kinek: "a magyar–szlovák, –román, –szerb vagy –ukrán viszony foglalkoztat"
+tema: magyarsag-es-tortenelem
+kereses: "magyar szomszéd viszony; Kárpát-medence béke; magyar ukrán viszony"
 ---
 
 **Máté Domokos kérdése:** Én amit úgy román, mint magyar, mint minden, a Kárpát-medencében élő népre vonatkozóan egy olyan kiderítő blogot kívánok írni, melynek nyomán, alapján, minden Kárpát-medencei nép számára kiderülhet, hogy minden eltérés, a helyestől, az igaztól, a REND-től, békétlenséget, ellenségeskedést, agressziót eredményes, és ahhoz, hogy békében élhessünk, azt a helyes, az igaz, a REND alapzatáról lehetséges létrehozni, és sehogy más képen. Jóslatok – legendák szólnak arról, hogy a világbéke (aranykor), a Kárpát-medencéből fog elindulni és elterjedni az egész földi világunkra, de amíg az itt élő népek, még itt sem képesek békében élni egymással, addig azt a földre, az emberiségre sem leszünk képesek kiterjeszteni. Kérlek szépen, tűpontosan járd körbe ezt a témát, azt, hogy ma mi van, és ha valóban a béke megteremtői óhajtunk, kívánunk lenni, és vállaljuk ezt a nemes küldetést, mint szükséges megtennünk?

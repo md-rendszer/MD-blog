@@ -5,6 +5,9 @@ image: 2026/image-216c546562032c51f1c1.avif
 image_alt: MD Megvalósító Program - Újjászületési és Helyreállítási Program
 lead: "Ha érzed, hogy több van benned, és szeretnél végre békében, tudatosan élni, ez a rövid, egyszerű bemutató neked szól. Elmondja, mi az MD Megvalósító Rendszer, mit segít helyreállítani, és hogyan kezdheted el használni a mindennapokban – csodavárás helyett."
 kerdes: "Mi az, amiről érzed, hogy több van benned belőle, mint amennyit most az életedben megélsz?"
+kinek: "érzed, hogy több van benned, és békében, tudatosan szeretnél élni"
+tema: md-megvalosito-rendszer
+kereses: "tudatos élet; több van bennem; MD bemutató"
 ---
 
 A **Máté Domokos** által létrehozott **MD Megvalósító Rendszer** lényege az, hogy segítsen neked rendbe tenni az életedet és visszatalálni a belső békédhez. Itt a legfontosabb tudnivaló egyszerűen:

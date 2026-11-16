@@ -5,6 +5,9 @@ image: 2026/volt-olyan-a-tortenelemben-hogy-az-emberek-tobbsege-kiallt-az-igazsa
 image_alt: Aradi vértanuk
 lead: "Hányszor fordult elő a történelemben, hogy nem egy maroknyi bátor ember, hanem a többség állt ki az igaz ügy mellett? Ebben az írásban dokumentált kiállásokat veszünk sorra dátumokkal és létszámokkal. Ha úgy érzed, egyedül maradtál az igazaddal, itt kiderül, kik álltak már ott előtted."
 kerdes: "Te mikor álltál ki utoljára valami mellett, amit igaznak tudtál, akkor is, ha kevesen voltatok?"
+kinek: "úgy érzed, egyedül maradtál az igazaddal"
+tema: tarsadalom-penz-technologia
+kereses: "tömeges kiállás az igazság mellett; történelmi tiltakozások; erőszakmentes ellenállás"
 ---
 
 Kérlek, nézz utána a netten, hogy igaz ügy mellet kik, mikor és hányan álltak ki következetesen a történelem során!

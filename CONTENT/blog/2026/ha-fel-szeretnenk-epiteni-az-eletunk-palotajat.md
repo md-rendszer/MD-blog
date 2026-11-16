@@ -5,6 +5,9 @@ image: 2026/ha-fel-szeretnenk-epiteni-az-eletunk-palotajat.avif
 image_alt: Ha fel szeretnénk építeni az “Életünk Palotáját”…(?)…
 lead: "Ha egy házat szilárd alapra kell építeni, az életünket még inkább. Ez az írás arra keres választ, mivel és hogyan érdemes kezdeni, hogy minden „tégla”, amit az életedbe teszel, egy egyre nagyobb és szilárdabb egészet építsen. Ha újrakezdenél, itt az alapozás sorrendje."
 kerdes: "Mi az az alap, amelyre az életedben eddig a legbiztosabban építhettél?"
+kinek: "újrakezdenéd az életedet, és az alapozás sorrendjét keresed"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "élet újraépítése; mivel kezdjem; alapok"
 ---
 
 Ha a mai élő ember a lehető legtöbbet szeretné kihozni a saját mostani életéből, mit – mivel – hogyan a legajánlottabb kezdenie, hogy úgy mint egy ház, mely szilárd alapokra épülhessen, és minden egyes “tégla”, amit az “élete házába” beletesz, az úgy legyen megcselekedve, hogy az “élete háza” az “élete palotájává terebélyesedhess az örök időben”…(?)… Kérlek, szed részletesen pontokba úgy a kezdést, az alapozást, mint minden azt követő következő megtenni valót!

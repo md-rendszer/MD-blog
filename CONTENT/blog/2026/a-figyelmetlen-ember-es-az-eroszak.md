@@ -5,6 +5,9 @@ image: 2026/a-figyelmetlen-ember-es-az-eroszak.avif
 image_alt: "Bal oldalon hevesen kilengő bordó vonal (A JEL), középen két arany vonal között rombusz (A RÉS), jobb oldalon nyugodt vonal"
 lead: "Felcsattanunk, odacsapunk az asztalra, kiabálunk a gyerekre, a társunkra, a másik sofőrre – aztán azt mondjuk: „ilyen vagyok”. Ez az írás megmutatja, mi történik a kitörés előtt a testben, honnan tanultuk ezt a mintát, és hogyan veheted elejét. A jel és a tett között van egy rés."
 kerdes: "Te mikor vetted észre utoljára azt a bizonyos rést egy feszült helyzetben – a jel és a tett között?"
+kinek: "hirtelen felcsattansz a gyereken, a társadon vagy a volánnál, és utána bánod"
+tema: kapcsolatok-es-konfliktusok
+kereses: "dühkitörés kezelése; kiabálok a gyerekkel; indulatkezelés"
 ---
 
 *Amit mindenki természetesnek vesz – és amit senki nem tanított meg nekünk*

@@ -5,6 +5,9 @@ image: 2026/hazafele-ajanlas-mindenkinek-aki-faradtabb-mint-amennyit-a-napjai-in
 image_alt: Hazafelé — ajánlás mindenkinek, aki fáradtabb, mint amennyit a napjai indokolnának!
 lead: "Van egy csendes fáradtság, amelyet sokan ismernek: reggel mintha másnak ébrednél, mint aki valójában vagy. Nem azért, mert kevés vagy, hanem mert elveszett az irány, amelyhez a napjaid igazodnak. Ez az ajánlás azoknak szól, akik haza szeretnének találni önmagukhoz."
 kerdes: "Mi az, ami a legtöbb energiát elveszi tőled úgy, hogy közben nem is tudsz róla?"
+kinek: "fáradtabb vagy, mint amennyit a napjaid indokolnának"
+tema: onismeret-es-jelenlet
+kereses: "megmagyarázhatatlan fáradtság; elveszett irány; kiégés"
 ---
 
 MD Megvalósító Rendszer · mdmegvalositorendszer.hu · 2026. 06. 06.  

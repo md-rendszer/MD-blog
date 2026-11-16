@@ -5,6 +5,9 @@ image: 2026/lehetseges-mi-tobb-teljesen-biztos-hogy-a-fejunkben-allandoan-beszel
 image_alt: A Személyes Egos Elme Nem Jó Tanácsadó
 lead: "A fejünkben állandóan beszélő hang ritkán ad jó tanácsot a lelki bajainkra – sokszor éppen ő tartja fenn őket. Michael A. Singer Felszabadított lélek című könyve abban segít, hogy hátrébb léphess ettől a hangtól. Ha elfáradtál a saját belső zajodban, ez az ajánló neked szól."
 kerdes: "Mit szokott mondani a fejedben beszélő hang, amikor nehéz helyzetbe kerülsz – és mennyire hiszel neki?"
+kinek: "elfáradtál a saját belső zajodban, és Michael Singer könyve érdekel"
+tema: konyvek-es-filmek
+kereses: "Michael Singer Felszabadított lélek; belső hang; könyvajánló"
 ---
 
 Lehetséges, mi több, teljesen biztos, hogy a fejünkben állandóan beszélő “eszünk”, alkalmatlan arra, hogy helyes tanácsokat adjon nekünk a lelki bajainkra, az lenne számunkra a lehető legjobb, ha végérvényesen befogná a “száját”…(?)…

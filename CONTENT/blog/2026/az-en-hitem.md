@@ -5,6 +5,9 @@ image: 2026/az-en-hitem.avif
 image_alt: Máté Domokos 2020 Wakelet
 lead: "Lehet, hogy amit sokan hitnek neveznek, valójában a saját felelősségük átruházása másokra – Istenre vagy a kormányra? Ez a személyes hitvallás arról szól, miért csak a 100%-ban vállalt felelősségből születhet valódi, autonóm élet. Ha azon gondolkodsz, mit jelent számodra hinni, olvasd el."
 kerdes: "Miért vállalsz ma teljes felelősséget az életedben – és mit szeretnél inkább másra hagyni?"
+kinek: "azon gondolkodsz, mit jelent számodra hinni"
+tema: domi-utja
+kereses: "mit jelent hinni; felelősség és hit; személyes hitvallás"
 ---
 
 *“Én személy szerint az gondolom, hogy az Istenben és az országom kormányzásában való hit a leginkább az jelenti, hogy kényelemből a saját felelőségemet átruházom másokra(Istenre és kormányzásra\*) , így nagymértékben másoktól teszem függővé az életem minőségét, tehát inkább leszek függő mint autonóm emberi lény, NEMDE…(?)….”*

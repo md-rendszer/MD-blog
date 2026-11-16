@@ -5,6 +5,9 @@ image: 2026/mi-ma-az-ember-legfontosabb-es-rendszeres-napi-tennivaloja.avif
 image_alt: Mi az ember legfontosabb és rendszeres napi tennivalója
 lead: "Egy olyan világban, ahol sokszor kölcsönösen kifosztjuk egymást, mi a legfontosabb napi teendője annak, aki békében, biztonságban és jólétben szeretne élni? A válasz: nem a világot irányítani, hanem azt növelni, amire valódi befolyásod van. Ez az írás konkrét lépésekben mutatja meg, hogyan."
 kerdes: "Mi az, amire valóban befolyásod van az életedben – és mennyi energiát fordítasz rá ahhoz képest, amire nincs?"
+kinek: "békében, biztonságban és jólétben szeretnél élni egy kizsákmányoló világban"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "napi teendő; befolyási kör; jólét"
 ---
 
 Ha a mai körülmények között, békében, biztonságban, jólétben kíván élni…(?)…

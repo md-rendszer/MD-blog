@@ -5,6 +5,9 @@ image: 2026/szemelyes-erintettsegem-okan.avif
 image_alt: Személyes érintettségem okán…(?)…
 lead: "Nem vagyok jobb ember másoknál – éppen ezért foglalkozom az életvezetéssel. Ez a személyes vallomás arról szól, hogyan vezetett a saját lejtőm és újrakezdésem oda, hogy a helyreállítás lehetőségét másokkal is megosszam. Ha te is jártál már lent, és most a kiutat keresed, ez az írás neked szól."
 kerdes: "Melyik saját tapasztalatod tanított a legtöbbet arról, hogyan lehet újrakezdeni?"
+kinek: "jártál már lent, és most a kiutat keresed"
+tema: domi-utja
+kereses: "mélypont után; újrakezdés; személyes vallomás"
 ---
 
 ## Vallomás arról, miért foglalkozom az emberrel, az életvezetéssel és a helyreállítás lehetőségével

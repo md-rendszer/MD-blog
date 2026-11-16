@@ -5,6 +5,9 @@ image: 2026/az-md-megvalosito-rendszer-lenyege-az-elso-lepesek-szintjere-leegysz
 image_alt: "Az MD Megvalósító Rendszer első lépései – az írás címképe"
 lead: "Ahogy a kisbaba egy nap úgy dönt, hogy nem mászik tovább, te is eldöntheted: elég volt a sodródásból. Ez az írás az MD Megvalósító Rendszer lényegét az első lépések szintjére egyszerűsíti le, hogy még ma elindulhass. Ha nem tudod, hol kezdd, itt kezdd."
 kerdes: "Miből lett eleged – és mi lenne ma az első lépés, hogy ne sodródj tovább benne?"
+kinek: "elég volt a sodródásból, és azt keresed, hol kezdd"
+tema: md-megvalosito-rendszer
+kereses: "első lépések; belső szabadság; MD röviden"
 ---
 
 1. Állj fel: Ébredj rá az erődre!

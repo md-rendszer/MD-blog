@@ -6,6 +6,9 @@ image_alt: A Bibliában megtalálható az emberről, hogy Rendeltetett Méltós�
 alias: a-bibliaban-megtalalhato-az-emberrol-hogy-rendeltetett-meltosaghordozo-leny-de-mi-a-helyzet-a-tudomannyal-ott-is-megtalalhato
 lead: "A Biblia Isten képmásáról beszél – de mit mond a tudomány az emberi méltóságról? Ez az írás megmutatja, hogy a modern tudományágak is felismerik az ember egyedülálló, tiszteletet érdemlő felépítését, csak más nyelven. Ha a hit és a tudomány közös pontjait keresed, olvasd el."
 kerdes: "Számodra mi bizonyítja a legjobban, hogy az ember méltóságot hordoz?"
+kinek: "a hit és a tudomány közös pontjait keresed az emberi méltóságról"
+tema: hit-es-biblia
+kereses: "emberi méltóság tudomány és hit; Isten képmása tudomány; méltóság Biblia"
 ---
 
 , de mi a helyzet a tudománnyal, ott is megtalálható…(?)…

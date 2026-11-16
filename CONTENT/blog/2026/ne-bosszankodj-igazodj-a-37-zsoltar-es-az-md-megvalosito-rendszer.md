@@ -5,6 +5,9 @@ image: 2026/ne-bosszankodj-igazodj-a-37-zsoltar-es-az-md-megvalosito-rendszer.av
 image_alt: "Felkelő nap felé vezető kőösvény; egyik oldalán elszáradó fű, a másikon mélyen gyökerező fa"
 lead: "Miért boldogul a csaló, és miért marad le a becsületes? A 37. zsoltár erre az ősi kérdésre válaszol – nem vitával, hanem nyugodt bizonyossággal. Ez az írás megmutatja, hol találkozik a zsoltár üzenete az MD-vel, és mit jelent a mindennapokban bosszankodás helyett igazodni."
 kerdes: "Kire vagy mire bosszankodtál mostanában a legtöbbet – és mit tennél, ha a bosszúság helyett igazodnál?"
+kinek: "bosszant, hogy a csaló boldogul, a becsületes lemarad"
+tema: hit-es-biblia
+kereses: "37. zsoltár; ne bosszankodj; igazságtalanság"
 ---
 
 *Tedd meg, amit itt és most képes vagy megtenni.*

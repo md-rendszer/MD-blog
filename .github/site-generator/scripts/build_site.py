@@ -34,6 +34,25 @@ MOVED_PAGES = {
     "mdhu_megvalosito_rendszer": MAIN_SITE_URL,
 }
 FEED_SIZE = 20
+# Témakörök: minden bejegyzés frontmatterében `tema:` jelöli, melyikbe tartozik.
+# A témaoldalak (/tema/<slug>/) abban segítenek, hogy az olvasó a neki szóló
+# írásokat egy helyen találja; a cikkek végén ugyanebből jön a „Neked ajánlom még”.
+TOPICS: dict[str, tuple[str, str]] = {
+    "felelosseg-es-napi-gyakorlat": ("Felelősség és napi gyakorlat", "Ha tudod, mi lenne jó, mégsem teszed; ha halogatsz, vagy azt keresed, mi múlik valóban rajtad – itt a következő lépésed."),
+    "ego-es-elme": ("Ego, elme, belső hang", "Ha a fejedben szóló hang nem hallgat el, ítél, aggódik és rágódik – ezek az írások abban segítenek, hogy újra te vezess."),
+    "onismeret-es-jelenlet": ("Önismeret és jelenlét", "Ha azt kérdezed, ki vagy valójában, és hogyan találhatsz haza önmagadhoz – itt kezdd."),
+    "meltosag-es-ujrakezdes": ("Méltóság és újrakezdés", "Ha hibát cipelsz, szégyent érzel, vagy úgy érzed, elvesztetted a méltóságodat – ezek az írások a visszautat mutatják."),
+    "kapcsolatok-es-konfliktusok": ("Kapcsolatok és konfliktusok", "Harag, vita, cserbenhagyás, indulat, magány – ha a kapcsolataidban keresel kapaszkodót, ezek neked szólnak."),
+    "hit-es-biblia": ("Hit és Biblia", "Ha a Biblia üzenetét a mai életedre fordítanád le – a méltóságról, a kegyelemről, a hazatérésről."),
+    "meditacio-es-joga": ("Meditáció, jóga, mesterek", "Krija-jóga, Transzcendentális Meditáció, Bábádzsí és Jógánanda – ha befelé vezető utat és gyakorlatot keresel."),
+    "tanitok-es-tisztanlatas": ("Tanítók és tisztánlátás", "Ha egy tanító, egy videó vagy egy „most vagy soha” üzenet hatása alatt vagy, és szűrőt keresel, mielőtt rábíznád magad."),
+    "tarsadalom-penz-technologia": ("Társadalom, pénz, technológia", "Kényelem, képernyő, mesterséges intelligencia, életszínvonal, közös döntések – ha a világ működését szeretnéd tisztábban látni."),
+    "magyarsag-es-tortenelem": ("Magyarság és történelem", "Himnusz, székelyek, Trianon, a Kárpát-medence népei – ha fontosak a gyökereid, és igazul szeretnéd szeretni a múltunkat."),
+    "egeszseg-es-termeszet": ("Egészség és természet", "Sejtek, mikrobiom, öregkor, víz és föld – ha a tested és a ránk bízott világ egészsége foglalkoztat."),
+    "konyvek-es-filmek": ("Könyvek és filmek", "Ha jó könyvet, hangoskönyvet vagy elgondolkodtató filmet keresel a belső úthoz."),
+    "md-megvalosito-rendszer": ("Az MD Megvalósító Rendszer", "Ha az MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program érdekel: mi ez, hogyan épül fel, és hol kezdheted."),
+    "domi-utja": ("Domi útja – személyes írások", "Ha szeretnéd tudni, ki ír neked: Máté Domokos személyes vallomásai és életútja."),
+}
 # Hozzászólások: Hyvor Talk (talk.hyvor.com). Üresen hagyva nincs hozzászólás-mező.
 # A Website ID nem titkos, a Hyvor Talk konzoljában látható.
 HYVOR_WEBSITE_ID = os.environ.get("HYVOR_WEBSITE_ID", "").strip()
@@ -62,6 +81,9 @@ class Document:
     alias: str
     lead: str = ""
     kerdes: str = ""
+    kinek: str = ""
+    tema: str = ""
+    kereses: tuple[str, ...] = ()
 
 
 def split_frontmatter(text: str, path: Path) -> tuple[dict[str, str], str]:
@@ -97,6 +119,11 @@ def load_document(path: Path) -> Document:
         alias=metadata.get("alias", ""),
         lead=metadata.get("lead", ""),
         kerdes=metadata.get("kerdes", ""),
+        kinek=metadata.get("kinek", ""),
+        tema=metadata.get("tema", ""),
+        kereses=tuple(
+            part.strip() for part in metadata.get("kereses", "").split(";") if part.strip()
+        ),
     )
 
 
@@ -289,7 +316,7 @@ def social_meta(meta: dict | None) -> str:
     return "\n  ".join(lines)
 
 
-def layout(title: str, content: str, description: str = "", meta: dict | None = None) -> str:
+def layout(title: str, content: str, description: str = "", meta: dict | None = None, head_extra: str = "") -> str:
     safe_title = html.escape(title)
     safe_description = html.escape(description or title, quote=True)
     return f"""<!doctype html>
@@ -300,6 +327,7 @@ def layout(title: str, content: str, description: str = "", meta: dict | None = 
   <meta name="description" content="{safe_description}">
   <title>{safe_title} · {html.escape(SITE_NAME)}</title>
   {social_meta(meta)}
+  {head_extra}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@500;600;700&display=swap">
@@ -318,6 +346,7 @@ def layout(title: str, content: str, description: str = "", meta: dict | None = 
     </a>
     <nav aria-label="Fő navigáció">
       <a href="{href('/')}">Írások</a>
+      <a href="{href('/temak/')}">Témák</a>
       <a href="{href('/rolam/')}">Rólam</a>
       <a href="{href('/online-kozossegeim/')}">Online közösségeim</a>
       <a href="{href('/ajanlott/')}">Ajánlott</a>
@@ -715,6 +744,153 @@ def comments_section(post: Document, url: str) -> str:
 </section>"""
 
 
+def post_href(post: Document) -> str:
+    return href(f"/blog/{urllib.parse.quote(post.slug, safe='-_.~')}/")
+
+
+def clean_title(title: str) -> str:
+    """Cím a keresőknek: a …(?)… jelzés, emojik és szélső idézőjelek nélkül."""
+    text = re.sub(r"[.…]+\s*\(\?\)\s*[.…]*", "", title)
+    text = re.sub(r"[\U0001F000-\U0001FAFF\u2600-\u27BF\uFE0F]", "", text)
+    text = text.strip().strip('"„”“').strip().rstrip(",:")
+    return re.sub(r"\s+", " ", text) or title
+
+
+def search_title(post: Document) -> str:
+    """A böngészőfül és a Google-találat címe: a bejegyzés címe + a fő keresett kifejezés."""
+    base = clean_title(post.title)
+    if post.kereses:
+        phrase = post.kereses[0]
+        if phrase.casefold() not in base.casefold():
+            return f"{base} – {phrase[0].upper()}{phrase[1:]}"
+    return base
+
+
+def audience_box(post: Document) -> str:
+    if not post.kinek:
+        return ""
+    topic = ""
+    if post.tema in TOPICS:
+        topic = (
+            f'<a class="audience-topic" href="{href(f"/tema/{post.tema}/")}">'
+            f"Téma: {html.escape(TOPICS[post.tema][0])} →</a>"
+        )
+    return f"""<aside class="audience" aria-label="Kinek szól ez az írás">
+  <p class="audience-label">Kinek szól?</p>
+  <p class="audience-text">Neked, ha {html.escape(post.kinek)}.</p>
+  {topic}
+</aside>"""
+
+
+def related_posts(post: Document, posts: list[Document], limit: int = 3) -> list[Document]:
+    same = [p for p in posts if p.tema == post.tema and p.slug != post.slug]
+    position = {p.slug: i for i, p in enumerate(posts)}
+    me = position[post.slug]
+    same.sort(key=lambda p: abs(position[p.slug] - me))
+    return same[:limit]
+
+
+def related_section(post: Document, posts: list[Document]) -> str:
+    related = related_posts(post, posts)
+    if not related:
+        return ""
+    items = "".join(
+        f'<li><a href="{post_href(p)}">{html.escape(p.title)}</a>'
+        + (f'<span>Neked, ha {html.escape(p.kinek)}.</span>' if p.kinek else "")
+        + "</li>"
+        for p in related
+    )
+    more = ""
+    if post.tema in TOPICS:
+        more = (
+            f'<a class="related-more" href="{href(f"/tema/{post.tema}/")}">'
+            f"Minden írás ebben a témában: {html.escape(TOPICS[post.tema][0])} →</a>"
+        )
+    return f"""<section class="related" aria-label="Neked ajánlom még">
+  <p class="related-title">Ha ez az írás neked szólt, ezeket is neked ajánlom:</p>
+  <ul>{items}</ul>
+  {more}
+</section>"""
+
+
+def article_jsonld(post: Document, url: str, description: str, image: str) -> str:
+    data = {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": clean_title(post.title)[:110],
+        "description": description,
+        "url": url,
+        "mainEntityOfPage": url,
+        "image": image,
+        "datePublished": datetime_attribute(post.date),
+        "inLanguage": "hu",
+        "author": {"@type": "Person", "name": "Máté Domokos", "url": f"{SITE_URL}/rolam/"},
+        "publisher": {"@type": "Person", "name": "Máté Domokos"},
+    }
+    if post.kereses:
+        data["keywords"] = ", ".join(post.kereses)
+    if post.tema in TOPICS:
+        data["articleSection"] = TOPICS[post.tema][0]
+    if post.kinek:
+        data["audience"] = {"@type": "Audience", "audienceType": f"Akinek: {post.kinek}"}
+    text = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
+    return f'<script type="application/ld+json">{text}</script>'
+
+
+def write_topic_pages(posts: list[Document]) -> list[str]:
+    urls = []
+    cards = []
+    for slug, (name, intro) in TOPICS.items():
+        topic_posts = [p for p in posts if p.tema == slug]
+        if not topic_posts:
+            continue
+        cards.append(
+            f'<li><a href="{href(f"/tema/{slug}/")}"><strong>{html.escape(name)}</strong>'
+            f"<span>{html.escape(intro)}</span><em>{len(topic_posts)} írás</em></a></li>"
+        )
+        content = f"""<section class="blog-archive topic-page">
+  <p class="topic-back"><a href="{href('/temak/')}">← Minden téma</a></p>
+  <h1>{html.escape(name)}</h1>
+  <p class="topic-intro">{html.escape(intro)}</p>
+  <div class="post-grid">{''.join(post_card(p) for p in topic_posts)}</div>
+</section>"""
+        write_page(OUTPUT / "tema" / slug / "index.html", name, content, intro)
+        urls.append(f"/tema/{slug}/")
+    content = f"""<section class="page-content topics">
+  <h1>Témák – mit keresel most?</h1>
+  <p class="topic-intro">Válaszd ki, mi foglalkoztat most a leginkább: ott találod azokat az írásokat, amelyek neked szólnak.</p>
+  <ul class="topic-list">{''.join(cards)}</ul>
+</section>"""
+    write_page(
+        OUTPUT / "temak" / "index.html",
+        "Témák",
+        content,
+        "Máté Domokos írásai témák szerint: önismeret, ego és elme, felelősség, kapcsolatok, hit, meditáció, magyarság és az MD Megvalósító Rendszer.",
+    )
+    urls.append("/temak/")
+    return urls
+
+
+def write_sitemap(paths: list[tuple[str, str]]) -> None:
+    rows = "".join(
+        f"  <url><loc>{html.escape(SITE_URL + href(path))}</loc>"
+        + (f"<lastmod>{html.escape(lastmod)}</lastmod>" if lastmod else "")
+        + "</url>\n"
+        for path, lastmod in paths
+    )
+    filesystem_path(OUTPUT / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + rows
+        + "</urlset>\n",
+        encoding="utf-8",
+    )
+    filesystem_path(OUTPUT / "robots.txt").write_text(
+        f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}{BASE_PATH}/sitemap.xml\n",
+        encoding="utf-8",
+    )
+
+
 def post_navigation(posts: list[Document], index: int) -> str:
     links = []
     if index < len(posts) - 1:
@@ -772,11 +948,16 @@ def pagination(current_page: int, total_pages: int) -> str:
 
 
 def write_page(
-    path: Path, title: str, content: str, description: str = "", meta: dict | None = None
+    path: Path,
+    title: str,
+    content: str,
+    description: str = "",
+    meta: dict | None = None,
+    head_extra: str = "",
 ) -> None:
     path = filesystem_path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(layout(title, content, description, meta), encoding="utf-8")
+    path.write_text(layout(title, content, description, meta, head_extra), encoding="utf-8")
 
 
 def write_redirect(path: Path, title: str, target: str) -> None:
@@ -978,9 +1159,10 @@ def main() -> None:
         excerpt = post.lead or share_excerpt(body) or post.title
         content = f"""<article class="page-content article">
   {featured_image(post, "featured-image")}
-  <header class="article-header"><h1>{html.escape(post.title)}</h1>{share_top(post_url, post.title)}</header>
+  <header class="article-header"><h1>{html.escape(post.title)}</h1>{audience_box(post)}{share_top(post_url, post.title)}</header>
   <div class="prose">{body}</div>
   {closing_question(post)}
+  {related_section(post, posts)}
   {feedback_section(post, post_url)}
   {share_bar(post_url, post.title)}
   {comments_section(post, post_url)}
@@ -989,7 +1171,7 @@ def main() -> None:
 {image_lightbox()}"""
         write_page(
             OUTPUT / "blog" / post.slug / "index.html",
-            post.title,
+            search_title(post),
             content,
             excerpt,
             {
@@ -1002,6 +1184,7 @@ def main() -> None:
                 "image_alt": post.image_alt,
                 "published": datetime_attribute(post.date),
             },
+            article_jsonld(post, post_url, excerpt, image_url),
         )
         if post.alias and post.alias.casefold() != post.slug.casefold():
             old_route = OUTPUT / "blog" / post.alias / "index.html"
@@ -1010,6 +1193,21 @@ def main() -> None:
                 post.title,
                 f"/blog/{urllib.parse.quote(post.slug, safe='-_.~')}/",
             )
+
+    topic_urls = write_topic_pages(posts)
+    sitemap = [("/", posts[0].date[:10])]
+    sitemap += [(f"/blog/page/{n}/", "") for n in range(2, total_pages + 1)]
+    sitemap += [(url, "") for url in topic_urls]
+    sitemap += [
+        (f"/{urllib.parse.quote(page.slug, safe='-_.~')}/", "")
+        for page in pages
+        if page.slug != "blog"
+    ]
+    sitemap += [
+        (f"/blog/{urllib.parse.quote(post.slug, safe='-_.~')}/", post.date[:10])
+        for post in posts
+    ]
+    write_sitemap(sitemap)
 
     page_count = (
         1

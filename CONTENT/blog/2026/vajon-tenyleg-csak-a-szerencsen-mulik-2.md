@@ -5,6 +5,9 @@ image: 2026/image-e525b48070380b65a2bc.avif
 image_alt: Vajon tényleg csak a szerencsén múlik?
 lead: "Szegénységben nőttem fel, és gyerekkorom óta keresem a választ: tényleg csak a szerencsén múlik, hogyan alakul az életünk? Ma már tudom, hogy a legtöbb helyzetre van pontos használati utasítás, ha ismerjük önmagunkat. Ha néha te is úgy érzed, szétrobbansz a feszültségtől, olvasd el."
 kerdes: "Mit érzel, amikor úgy érzed, szétrobbansz a feszültségtől – és mi az, ami ilyenkor eddig segített?"
+kinek: "néha úgy érzed, szétrobbansz a feszültségtől"
+tema: domi-utja
+kereses: "szerencse vagy önismeret; feszültség; szegénységből"
 ---
 
 Mert szenvedések között, boldogtalanul, pénzszűkében éltünk, 1968 – nyolc éves korom óta érdekel, hogy hogy lehetne több mint élég pénzünk, 2018 májusa óta foglalkozom napi szinten az emberi működés és az életjobbítás kérdéseivel. Azóta rengeteg tudás ment át a kezemen, de az egyik legfontosabb felismerésem az volt, hogy az életünk minősége nem a véletleneken múlik, hanem azon, mennyire ismerjük saját magunkat.

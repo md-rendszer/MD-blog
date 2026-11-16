@@ -5,6 +5,9 @@ image: 2026/az-ember-meltosaga-elore-jar-a-bizalom-csak-utana-koveti-a-tetteket.
 image_alt: Az ember méltósága előre jár; a bizalom csak utána követi a tetteket…(?)…
 lead: "Hogyan lehet mindenkinek előre megadni a méltóságot anélkül, hogy naivan mindenkiben megbíznánk? Az MD válasza: a méltóság előre jár, a bizalom pedig a tetteket követi. Ez az írás napi végrehajtási képletet ad ehhez az érett emberi rendhez."
 kerdes: "Kinek adtál túl hamar bizalmat – és kitől vontad meg túl hamar a tiszteletet?"
+kinek: "nem tudod, hogyan tisztelj mindenkit anélkül, hogy naivan megbíznál bennük"
+tema: kapcsolatok-es-konfliktusok
+kereses: "méltóság és bizalom; kiben bízzak; naivitás"
 ---
 
 Rend! Amennyiben mi magunk is teljes értékű emberek kívánunk lenni, és teljes értékű emberekkel kívánjuk élni a mindennapi életünket, megelőlegezve úgy önmagunk részére, mint a velünk kapcsolatba lépő embereknek, hogy mindannyian (megelőlegezetten) teljes értékű emberek vagyunk, ezt hogy tudjuk végre hajtani?

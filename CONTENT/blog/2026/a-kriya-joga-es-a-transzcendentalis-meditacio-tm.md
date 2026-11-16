@@ -6,6 +6,9 @@ image_alt: A Kriya Jóga és a Transzcendentális Meditáció (TM)
 alias: 1153-2
 lead: "Melyik a hatékonyabb út a tiszta tudathoz: a Krija-jóga vagy a Transzcendentális Meditáció? A válasz nem erősség, hanem alkati megfelelőség kérdése. Ez az írás összeveti a két módszert, hogy megtaláld azt, amelyik hozzád illik."
 kerdes: "Neked a rendszeresség vagy a mélység a nehezebb a belső gyakorlatban?"
+kinek: "azon gondolkodsz, Krija-jógát vagy Transzcendentális Meditációt válassz"
+tema: meditacio-es-joga
+kereses: "Kriya jóga vagy TM; melyik meditáció; Transzcendentális Meditáció"
 ---
 
 A Kriya Jóga és a Transzcendentális meditáció hatékonyabb vagy gyengébb módszerek az önvaló tudatnak az eléréséhez?

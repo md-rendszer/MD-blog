@@ -5,6 +5,9 @@ image: 2026/olni-csak-hogy-igaza-legyen.avif
 image_alt: "Sötét lépcső vezet lefelé egy kardot emelő, „igazam van!”-t kiáltó alaktól; a fokokon: nem hallgat meg, címkéz, lekicsinyel, kizár"
 lead: "Képes-e az ember ölni csak azért, hogy igaza legyen? A történelem és a hírek szerint igen – a kényelmetlenebb fele a válasznak pedig az, hogy ez az ember nem „valaki más”. Ez az írás lépcsőfokonként mutatja meg, hogyan vezet le az „igazam van” a címkézéstől a kizárásig, és hol lehet megállni."
 kerdes: "Te mikor vetted észre utoljára, hogy egy vitában fontosabb lett az igazad, mint a másik ember?"
+kinek: "látod, hogyan vezet az „igazam van” gyűlölethez"
+tema: kapcsolatok-es-konfliktusok
+kereses: "igazam van gyűlölet; címkézés; erőszak lépcsői"
 ---
 
 **Máté Domokos kérdése:**

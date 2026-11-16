@@ -5,6 +5,9 @@ image: 2026/a-bezart-ajto-a-kibekithetetlen-harag-lelektana.avif
 image_alt: "Bordó, íves ajtó, alóla és a kulcslyukon meleg fény szűrődik ki; előtte a padlón egy arany kulcs"
 lead: "Mi zajlik abban, aki éveken át nem bocsát meg egy szerettének? A kibékíthetetlen harag ritkán arról szól, ami történt – sokkal inkább arról, mit jelentett az annak, aki haragszik. Ez az írás megmutatja, mi marad nekünk, amikor egy ajtó bezárul, és a kulcs nem nálunk van."
 kerdes: "Van olyan ajtó az életedben, amely bezárult – és mit tehetsz a saját oldaladon, hogy nyitva maradjon a lehetőség?"
+kinek: "egy szereted évek óta haragszik rád, vagy te nem tudsz megbocsátani neki"
+tema: kapcsolatok-es-konfliktusok
+kereses: "kibékíthetetlen harag; családtag nem bocsát meg; haragtartás lélektana"
 ---
 
 **Máté Domokos kérdése:**

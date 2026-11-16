@@ -5,6 +5,9 @@ image: 2026/md-megvalosito-rendszer.avif
 image_alt: MD Megvalósító Rendszer
 lead: "Az „MD” a nevem monogramja – a Megvalósító Rendszer pedig az az eszköz, amelynek segítségével bárki lépésről lépésre helyreállíthatja a saját integritását. Ez az írás a Rendszer születésének egyik első műhelybeszélgetése: miért és kinek készül. Ha kíváncsi vagy az MD kezdeteire, itt találod."
 kerdes: "Mit jelent számodra az, hogy valaki „helyreállítja a saját integritását”?"
+kinek: "az MD kezdetei és első műhelybeszélgetései érdekelnek"
+tema: md-megvalosito-rendszer
+kereses: "MD kezdetei; MD monogram; MD születése"
 ---
 
 Kérlek, segíts, hogy egy nagyon kelendő segítséget legyek képes nyújtani az embereknek az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Programmal”! Az “MD” a nevem monogramja. A Megvalósító Rendszer az a rendszer kíván lenni, aminek a használatával minden, a rendszert használni hajlandó ember, lépésről lépésre képes legyen újjászületni, helyreállítani a saját integritását, olyan módon és azzá, mint ahogy és amilyen minőséggel bírt teremtésekor.

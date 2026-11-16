@@ -5,6 +5,9 @@ image: 2026/nem-a-szavaid-mondjak-meg-ki-vagy.avif
 image_alt: Szavaid és tetteid tükrében
 lead: "Bárki mondhatja magáról, hogy becsületes, szeretetteljes vagy igazságos. Ezek azonban mindaddig csak állítások, amíg a viselkedésben meg nem jelennek. Ez az írás arról szól, miért a tetteid a valódi személyazonosságod – és mit tehetsz, ha a szó és a tett ellentmond egymásnak."
 kerdes: "Melyik az az érték, amelyet szívesen mondasz magadról, de a tetteidben még nem mindig látszik?"
+kinek: "ellentmond egymásnak, amit mondasz, és amit teszel"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "tettek beszélnek; szó és tett; hitelesség"
 ---
 
 ## A viselkedésed állítja ki a valódi személyazonosságodat

@@ -5,6 +5,9 @@ image: 2026/nem-vagyok-tokeletes-es-ez-jo-hir-neked-is.avif
 image_alt: Aranyló ösvény vezet a végtelen fény felé, dupla arany keretben – Nem vagyok tökéletes, és ez jó hír neked is
 lead: "Nem vagyok tökéletes, és nem is leszek – ezt nem szégyenkezve, hanem megkönnyebbülten mondom. Tökéletes csak az, ami teljes, és ilyen egyetlen van: a REND. Ha elfáradtál abban, hogy hibátlannak kellene lenned, ez az írás felszabadít, és megmutatja, miért érdemes mégis elindulni."
 kerdes: "Hol követelsz magadtól tökéletességet ott, ahol elég lenne a következetesség?"
+kinek: "elfáradtál abban, hogy hibátlannak kellene lenned"
+tema: meltosag-es-ujrakezdes
+kereses: "perfekcionizmus; nem kell tökéletesnek lenni; megkönnyebbülés"
 ---
 
 Egy vallomással kezdem: nem vagyok tökéletes. Soha nem is leszek az. És ezt nem szégyenkezve mondom, hanem megkönnyebbülten.

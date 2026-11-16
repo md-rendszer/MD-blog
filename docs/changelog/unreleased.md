@@ -2,6 +2,9 @@
 
 ## Tartalom
 
+- Mind a 255 bejegyzés célzott olvasót kapott: a cím alatt „Kinek szól?” doboz mondja meg, kinek szól az írás, a cikk végén három ugyanilyen helyzetű olvasónak szóló írás ajánlója áll.
+- Új Témák oldal és 14 témaoldal (pl. Ego, elme, belső hang; Kapcsolatok és konfliktusok; Magyarság és történelem), a főmenüben is.
+- Keresőknek: minden bejegyzés böngésző- és Google-címe a fő keresett kifejezéssel bővül, a bejegyzések strukturált adatot (BlogPosting) kapnak, és elkészül a sitemap.xml és a robots.txt.
 - Az Írások között csak a képpel ellátott bejegyzések maradnak nyilvánosak; a kép nélküli belső munkajegyzetek (103 db) az archívumba kerültek, a Biblia – MD kivonat 2. és 3. része nyilvános maradt, régi címük az Írások kezdőlapjára visz.
 
 ## Képek

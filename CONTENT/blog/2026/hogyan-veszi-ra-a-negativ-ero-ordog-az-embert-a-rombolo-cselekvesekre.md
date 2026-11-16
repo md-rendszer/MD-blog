@@ -5,6 +5,9 @@ image: 2026/hogyan-veszi-ra-a-negativ-ero-ordog-az-embert-a-rombolo-cselekvesekr
 image_alt: Hogyan veszi rá a negatív erő (ördög) az embert a romboló cselekvésekre?
 lead: "Napoleon Hill szerint a romboló erő nem parancsol, hanem három lépésben dolgozik: elbizonytalanít, elhiteti, hogy a gondolat a tiéd, majd ismétléssel megszilárdítja. Ez az írás összefoglalja a könyv fő állításait a sodródásról. Ha érzed, hogy valami lefelé húz, itt felismerheted a mechanizmusát."
 kerdes: "Melyik gondolat ismétlődik benned a leggyakrabban, amelyről sejted, hogy nem a te javadat szolgálja?"
+kinek: "érzed, hogy valami lefelé húz, és ismered vagy érdekel Napoleon Hill"
+tema: konyvek-es-filmek
+kereses: "Napoleon Hill ördög; Túljárni az ördög eszén; sodródás"
 ---
 
 Hill logikája szerint nem közvetlen parancsolással, hanem három lépésben:

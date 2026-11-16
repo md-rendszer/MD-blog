@@ -5,6 +5,9 @@ image: 2026/image-103c5aa2a9c19abcd7b2.avif
 image_alt: Emberek! Emberek! Emberek!
 lead: "Az első lépés egyszerű: viselkedjünk úgy, ahogy rendeltetett méltósághordozó emberi lényhez illik. Ne zsákmányoljunk ki senkit, és ne hagyjuk, hogy minket kizsákmányoljanak – sem anyagilag, sem érzelmileg. Ez a rövid felhívás arra emlékeztet, hogy a méltóság nem cél, hanem az eredetünk."
 kerdes: "Hol érzed, hogy kihasználnak – vagy hol veszed észre, hogy te használsz ki valakit, akaratlanul is?"
+kinek: "elég volt abból, hogy kizsákmányolnak, vagy te zsákmányolsz ki másokat"
+tema: meltosag-es-ujrakezdes
+kereses: "kizsákmányolás; érzelmi kizsákmányolás; emberi méltóság"
 ---
 
 Első lépésben javasolt, hogy minden ember a rendeltetésének megfelelően viselkedjen, az az úgy mint ahogy a “Rendeltetett Méltósághordozó Emberi Lény”-ként illik, hogy viselkedjen!!!

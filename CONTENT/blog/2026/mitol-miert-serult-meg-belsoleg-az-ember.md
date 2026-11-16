@@ -5,6 +5,9 @@ image: 2026/mitol-miert-serult-meg-belsoleg-az-ember.avif
 image_alt: Mitől – miért sérült meg belsőleg az ember…(?)…
 lead: "Amit a teológia bűnbeesésnek, a pszichológia sérült önbecsülésnek nevez – meglepően ugyanazt a belső törést írja le, csak más szavakkal. Ez az írás összeveti a két emberképet, hogy közelebb kerülj a saját sebeid megértéséhez. Ha keresed, honnan ered a belső hiányérzeted, itt nyomra találsz."
 kerdes: "Mikor érezted először, hogy valami eltört benned – és mi segített azóta a legtöbbet a gyógyulásban?"
+kinek: "belső hiányérzetet hordozol, és a gyökerét keresed"
+tema: meltosag-es-ujrakezdes
+kereses: "belső seb; sérült önbecsülés; bűnbeesés pszichológia"
 ---
 
 Nézzük meg, hogy a modern pszichológia és önismeret (pl. a sérült önbecsülés fogalma) hogyan cseng össze a Biblia által leírt belső töréssel!

@@ -5,6 +5,9 @@ image: 2026/a-siker-nem-az-aminek-hitted.avif
 image_alt: 🔥 A SIKER NEM AZ, AMINEK HITTED… 🔥
 lead: "A legtöbben azt hisszük, a siker egyenlő a pénzzel, a hatalommal és az elismeréssel – de hány „sikeres” ember boldogtalan? A siker nem kint kezdődik, hanem benned; a valódi mércéje a belső béke és a boldogság. Ez a rövid írás új mércét ad."
 kerdes: "Ha a belső béke lenne a siker mércéje, mennyire lennél ma sikeres – és mi segítene?"
+kinek: "sikeres vagy, vagy azt hitted, az leszel, mégsem vagy boldog"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "mi a siker; siker és boldogság; belső béke"
 ---
 
 A legtöbb ember azt hiszi,  

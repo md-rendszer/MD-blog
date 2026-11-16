@@ -21,10 +21,13 @@ Előbb olvasd el a repó gyökerében az `AGENTS.md`-t (formátum, nyelv, MD ter
    image_alt: <egy rövid mondat a képről, legfeljebb 200 karakter>
    lead: "<2–3 mondatos, figyelemfelkeltő bevezető: kinek szól, mit kap belőle>"
    kerdes: "<egyszerű, nyitott, személyes kérdés az olvasóhoz>"
+   kinek: "<élethelyzet, ahogy az olvasó maga mondaná – a cikkben így jelenik meg: „Neked, ha …”>"
+   tema: <témakör slugja a build_site.py TOPICS listájából>
+   kereses: "<2–3 kifejezés, amit az olvasó a Google-be írna; pontosvesszővel elválasztva>"
    ---
    ```
 
-4. A `lead` jelenik meg az Írások-kártyán, a Google-találatban és a Facebook-előnézetben; a `kerdes` a cikk végén, kiemelt dobozban. Mindkettő tegező, nem szenzációhajhász.
+4. A `lead` jelenik meg az Írások-kártyán, a Google-találatban és a Facebook-előnézetben; a `kerdes` a cikk végén, kiemelt dobozban. Mindkettő tegező, nem szenzációhajhász. A `kinek` a cím alatti „Kinek szól?” dobozban áll; a `tema` dönti el, melyik témaoldalon (/tema/<slug>/) és melyik „Neked ajánlom még” listában jelenik meg az írás; a `kereses` első kifejezése a böngészőfül és a Google-találat címébe kerül. Konkrét élethelyzetet írj (mit él át, mire keres rá az olvasó), ne általános témát.
 5. Törzs: magyar, tegező, MD kanonikus szóhasználat, szövegközi forráshivatkozás nélkül. Ha Domi kész szöveget ad, ne írd át, csak formázd.
 
 ## 2. Borítókép (ha kérik)

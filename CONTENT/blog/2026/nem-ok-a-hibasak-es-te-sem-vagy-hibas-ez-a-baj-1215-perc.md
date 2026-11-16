@@ -6,6 +6,9 @@ image_alt: Nem ők a hibásak, ez a baj
 alias: nem-ok-a-hibasak-es-te-sem-vagy-hibas-12-15-perc
 lead: "Ha ugyanaz az érzés ismétlődik minden konfliktusodban, a közös pont nem a másik ember, hanem a saját működésed. Ezt nem jó hallani – de ez a jó hír is: amit látsz, azon változtatni tudsz. Ez a 12–15 perces szöveg lépésről lépésre bontja ki a mintázatot és a kiutat."
 kerdes: "Melyik az az érzés, amely különböző emberekkel újra és újra ugyanúgy előjön az életedben?"
+kinek: "ugyanaz az érzés ismétlődik minden konfliktusodban"
+tema: kapcsolatok-es-konfliktusok
+kereses: "ismétlődő konfliktusok; párkapcsolati minták; saját működés"
 ---
 
 ## 0–1 perc – Nyitás (marad)

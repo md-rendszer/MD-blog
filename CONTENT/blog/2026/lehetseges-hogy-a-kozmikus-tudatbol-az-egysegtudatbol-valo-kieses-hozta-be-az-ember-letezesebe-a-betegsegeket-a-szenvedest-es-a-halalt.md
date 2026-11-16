@@ -5,6 +5,9 @@ image: 2026/lehetseges-hogy-a-kozmikus-tudatbol-az-egysegtudatbol-valo-kieses-ho
 image_alt: Az ember születése a Föld bolygóra
 lead: "Számos vallási és spirituális hagyomány szerint a betegség, a szenvedés és a halál nem az ember eredeti természetéhez tartozik, hanem az egységből való kiesés következménye. Ez az írás bemutatja, hogyan jelenik meg ez a gondolat a különböző tanításokban. Ha a szenvedés értelmét keresed, itt új nézőpontot találhatsz."
 kerdes: "Szerinted a gyógyulás inkább testi folyamat, vagy egy belső visszatérés is – és mit tapasztaltál erről?"
+kinek: "a szenvedés és a halál értelmét keresed"
+tema: onismeret-es-jelenlet
+kereses: "szenvedés értelme; egységtudat; bűnbeesés"
 ---
 
 Ez a gondolat nemcsak lehetséges, hanem **számos vallási, filozófiai és spirituális rendszer központi tanítása**. Ezek az irányzatok azt vallják, hogy a betegség és a halál nem az ember eredeti természetéhez tartozik, hanem egyfajta „tudati szakadás” vagy „eltávolodás” következménye.

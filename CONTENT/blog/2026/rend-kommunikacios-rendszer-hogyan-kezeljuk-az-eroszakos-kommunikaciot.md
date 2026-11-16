@@ -6,6 +6,9 @@ image_alt: "Infografika: az erőszakos kommunikáció kezelése három lépésbe
 alias: tiszteletteljes-kommunikacio-szabalyzata
 lead: "Személyeskedés, gúny, bűntudatkeltés, manipuláció – a legtöbben nap mint nap találkozunk velük. Ez a rövid protokoll három lépésben mutatja meg, hogyan húzhatsz határt méltósággal, harag nélkül. Ha gyakran kerülsz olyan beszélgetésbe, amelyből megsebezve jössz ki, ez neked szól."
 kerdes: "Melyik erőszakos kommunikációs formával találkozol a leggyakrabban – és hogyan szoktál rá reagálni?"
+kinek: "gúnyolnak, manipulálnak vagy bűntudatot keltenek benned beszélgetés közben"
+tema: kapcsolatok-es-konfliktusok
+kereses: "erőszakos kommunikáció kezelése; manipuláció ellen; határhúzás"
 ---
 
 (Önkéntes részvételen alapuló protokoll)

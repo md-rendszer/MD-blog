@@ -5,6 +5,9 @@ image: 2026/ala-tudod-tamasztani-hogy-ma-2026-ban-magyarorszagon-van-az-egyetlen
 image_alt: Hol és Mennyire van Bőséges Csere az Európai Unióban, és Hol a Legmagasabb a Közbiztonság?
 lead: "Mit jelent a „bőséges csere elve”, és mit mutatnak az adatok arról, hogyan érvényesül ma a bérekben és a munkavállalói viszonyokban? Ez az írás egy állítást vet össze uniós statisztikákkal. Ha érdekel, hogyan lehet egy elvet a számok tükrében megvizsgálni, olvasd el."
 kerdes: "A saját munkahelyeden mennyire érzed, hogy a csere bőséges és kölcsönös – és mi kellene ahhoz, hogy az legyen?"
+kinek: "érdekel, hogyan lehet egy politikai állítást adatokkal ellenőrizni"
+tema: tarsadalom-penz-technologia
+kereses: "bérek Magyarország EU összehasonlítás; állítás ellenőrzése; bőséges csere elve"
 ---
 
 A Magyar GPT 5.2 – től kérdezem:

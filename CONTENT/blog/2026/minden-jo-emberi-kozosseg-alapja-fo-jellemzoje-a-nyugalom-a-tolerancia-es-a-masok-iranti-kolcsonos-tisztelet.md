@@ -5,6 +5,9 @@ image: 2026/minden-jo-emberi-kozosseg-alapja-fo-jellemzoje-a-nyugalom-a-toleranc
 image_alt: Minden jó emberi közösség alapja, fő jellemzője, a nyugalom, a tolerancia és a mások iránti kölcsönös tisztelet!
 lead: "A nyugalom, a tolerancia és a kölcsönös tisztelet nem a közösség csúcsa, hanem a kilincse: e nélkül be sem léptünk sehová. Ez az írás arról szól, miért nem bízható semmi komoly egy olyan közösségre, amelynek tagjai erre sem képesek. Ha közösséget építesz vagy keresel, itt az első mérce."
 kerdes: "Milyen közösségben érezted magad utoljára igazán biztonságban – és mi tette ezt lehetővé?"
+kinek: "közösséget építesz vagy keresel"
+tema: kapcsolatok-es-konfliktusok
+kereses: "jó közösség ismérvei; tolerancia; kölcsönös tisztelet"
 ---
 
 Ez a “kilincs”, nem is léptünk be sehová.   

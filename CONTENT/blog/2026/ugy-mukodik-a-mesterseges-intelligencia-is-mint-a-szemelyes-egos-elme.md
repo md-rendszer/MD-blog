@@ -5,6 +5,9 @@ image: 2026/ugy-mukodik-a-mesterseges-intelligencia-is-mint-a-szemelyes-egos-elm
 image_alt: Úgy működik a mesterséges intelligencia is mint a személyes egos elme…(?)…
 lead: "Miért „halandzsázik” néha a mesterséges intelligencia ahelyett, hogy bevallaná: nem tudja? Hasonlít-e ez arra, ahogy az egós emberi elme védekezik? Az írás megmutatja a lényeges különbséget, és azt is, mit tanulhatunk belőle a saját „nem tudom” kimondásáról."
 kerdes: "Neked mennyire könnyű kimondani: „ezt nem tudom” – és mi segít, hogy kimondd?"
+kinek: "érdekel, miért „hallucinál” a mesterséges intelligencia"
+tema: tarsadalom-penz-technologia
+kereses: "MI hallucináció; nem tudom kimondása; ego és MI"
 ---
 
 Soha be nem vallaná, hogy valamit – bármit nem tud, és olyankor halandzsázik…(?)…  

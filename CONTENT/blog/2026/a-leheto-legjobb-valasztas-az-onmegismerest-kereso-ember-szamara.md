@@ -5,6 +5,9 @@ image: 2026/image-216c546562032c51f1c1.avif
 image_alt: MD Megvalósító Program - Újjászületési és Helyreállítási Program
 lead: "Ragaszkodjunk ahhoz, amit a fejünkben beszélő hang mond, vagy merüljünk el teljesen a LÉT-ben? A válasz nem a kettő közötti választás: a legjobb út az, ha az elmédet eszközként használod, de a LÉT-ben gyökerezel. Ez az írás megmutatja, hogyan."
 kerdes: "Mikor érzed, hogy a LÉT-ben gyökerezel – és mikor, hogy az elméd visz magával?"
+kinek: "önismeretet keresel, és nem tudod, a gondolkodásra vagy a csendre építs"
+tema: onismeret-es-jelenlet
+kereses: "önmegismerés útja; elme mint eszköz; lét és gondolat"
 ---
 
 Kérdezem! Az-e a lehető legjobb az önmegismerést kereső ember számára, hogy ahhoz ragaszkodik, amit a személyes egos elméje megállás nélkül, ott belül, a fejében, mond neki, és meghal, vagy az a legjobb, ha teljesen elmerül a “LÉTBEN”, és örökké “ÉL”…(?)…

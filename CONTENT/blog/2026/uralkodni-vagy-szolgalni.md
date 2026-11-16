@@ -5,6 +5,9 @@ image: 2026/uralkodni-vagy-szolgalni.avif
 image_alt: "Bal oldalon sötét négyzet húzza magához a köröket (HATALOM), jobb oldalon bordó rombuszból arany nyilak áradnak kifelé (SZERETET)"
 lead: "A hatalom magához húz, a szeretet kiárad – de a határvonal nem köztünk fut, hanem bennünk. Ugyanazzal a pénzzel, szóval, tudással lehet valakit magadhoz kötni, és lehet talpra állítani. Ez az írás abban segít, hogy a mindennapokban felismerd, melyik irányba mutat a kezedben lévő eszköz."
 kerdes: "Melyik eszközödet – időt, pénzt, szót, tudást – fordítanád holnaptól tudatosabban a másik javára?"
+kinek: "azt kérdezed, magadhoz kötsz-e valakit vagy talpra állítod"
+tema: kapcsolatok-es-konfliktusok
+kereses: "hatalom vagy szeretet; szolgáló vezetés; uralkodni"
 ---
 
 > A „HATALOM” mindenkor URALKODNI akar, mindenkor és minden eszközzel meg is teszi!

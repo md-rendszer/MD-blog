@@ -5,6 +5,9 @@ image: 2026/ki-iranyit-valojaban-bennunket-mi-magunk-vagy-a-fejunkben-megszolalo
 image_alt: "Ki irányít valójában bennünket: mi magunk, vagy a fejünkben megszólaló hang?"
 lead: "Van egy hang a fejünkben, amely szinte soha nem hallgat el: kommentál, ítél, aggódik, magyaráz. De valóban ez a hang az, aki vagyunk? Ez az írás megmutatja, mi történik, amikor túl nagy hatalmat adunk neki – és hogyan vehetjük vissza az irányítást."
 kerdes: "Te irányítod a gondolataidat, vagy néha úgy érzed, ők irányítanak téged? Mikor a leginkább?"
+kinek: "a fejedben szóló hang ítél és aggódik, és vissza akarod venni az irányítást"
+tema: ego-es-elme
+kereses: "ki irányít bennem; belső hang; elme"
 ---
 
 Van egy hang a fejünkben, amely szinte soha nem hallgat el.  

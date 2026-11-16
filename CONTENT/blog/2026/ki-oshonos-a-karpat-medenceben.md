@@ -5,6 +5,9 @@ image: 2026/ki-oshonos-a-karpat-medenceben.avif
 image_alt: Idővonal a Kárpát-medence népeiről a földművesektől napjainkig – Ki őshonos a Kárpát-medencében?
 lead: "Van-e ma olyan nép a Kárpát-medencében, amely az idők kezdetétől, megszakítás nélkül itt él? A hiteles válasz: nincs. Ez az írás a legrégebbi tényektől napjainkig mutatja meg, kik éltek itt – és miért nem az „őshonosság”, hanem az igazság lehet a béke alapja."
 kerdes: "Mit jelent számodra az, hogy valahol „otthon vagy” – a származás vagy az, ahogyan ott élsz?"
+kinek: "vitában az „őshonosság” kérdése merült fel a Kárpát-medencéről"
+tema: magyarsag-es-tortenelem
+kereses: "ki őshonos Kárpát-medence; Kárpát-medence népei története; őshonosság"
 ---
 
 ## Röviden

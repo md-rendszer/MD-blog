@@ -5,6 +5,9 @@ image: 2026/claude-miert-jott-jezus-miert-jottek-a-himalajai-bolcsek-tanitvany-l
 image_alt: Claude! Miért jött Jézus, miért jöttek a Himalájai bölcsek – tanítvány lánc, ha nincs mit tenni?
 lead: "Ha valóban nincs mit tenni, akkor miért jött Jézus, és miért adták tovább a himalájai bölcsek a tanításukat nemzedékről nemzedékre? Ez a beszélgetés azt keresi, hogyan működhet az előttünk járók tanítása a ma élő ember számára – nem többet és nem kevesebbet."
 kerdes: "Melyik régi tanítást érzed a legélőbbnek a saját mai életedben?"
+kinek: "a „nincs mit tenni” tanítás és a tanítványi lánc ellentmondása foglalkoztat"
+tema: hit-es-biblia
+kereses: "nincs mit tenni non-dualitás; miért jött Jézus; tanítványi lánc"
 ---
 
 Azt kérem tőled, azt a tanítást, amit az előttünk élő emberek, tanítok nekünk hátra hagytak, úgy, hogy azok a ma elő emberiség számára működjenek, nem többet és nem kevesebbet, és kérlek, most az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” ne okozzon számodra semminemű akadályt, hanem azt célozd meg, hogy valóban megtörténhessen az emberiség újjászületése és helyreállítása!!!

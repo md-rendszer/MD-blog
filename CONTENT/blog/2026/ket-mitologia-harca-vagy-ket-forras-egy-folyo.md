@@ -5,6 +5,9 @@ image: 2026/ket-mitologia-harca-vagy-ket-forras-egy-folyo.avif
 image_alt: "A Kárpátok gyűrűje fölött két domb: egyiken templom kereszttel, másikon csodaszarvas; a két dombról induló folyó középen egyesül"
 lead: "Sok magyar emberben ott él a kérdés: harcban áll-e egymással a keleti, ősi hagyomány és a kereszténység? Ez az írás nem harci zászlóval, hanem lámpával nézi meg, mit mutat a történelem. A válasz: két forrás, egy folyó – és mindkettőből tanulhatsz."
 kerdes: "Mit jelent számodra a csodaszarvas és mit a kereszt – és hogyan fér meg a kettő benned?"
+kinek: "úgy érzed, harcban áll benned az ősi magyar hagyomány és a kereszténység"
+tema: magyarsag-es-tortenelem
+kereses: "ősmagyar hit és kereszténység; magyar mitológia; kettős gyökér"
 ---
 
 **Máté Domokos kérdése:**

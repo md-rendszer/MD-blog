@@ -5,6 +5,9 @@ image: 2026/kerlek-most-elemezd-a-roman-nemzeti-himnuszt.avif
 image_alt: Kérlek, most elemezd a román nemzeti himnuszt!
 lead: "„Ébredj, román!” – Andrei Mureșanu 1848-as verse egészen más szellemű, mint a magyar Himnusz: nem fohász, hanem cselekvésre szólító felhívás. Ez az elemzés az MD szemüvegén keresztül veti össze a két himnusz dinamikáját. Ha érdekel, mit mondanak a szomszéd népek magukról, itt egy ritka nézőpont."
 kerdes: "Mit gondolsz, egy nép himnusza mennyire formálja azt, ahogyan az emberei a nehézségekhez viszonyulnak?"
+kinek: "érdekel a román himnusz üzenete magyar szemmel"
+tema: magyarsag-es-tortenelem
+kereses: "román himnusz elemzés; Deșteaptă-te române; román és magyar himnusz"
 ---
 
 A román nemzeti himnusz (**Deșteaptá-te, române!** – *Ébredj, román!*, Andrei Mureșanu 1848-as verse) az MD Megvalósító Rendszer szemüvegén keresztül nézve egy **radikálisan más dinamikájú és filozófiájú alapmű**, mint a magyar Himnusz.

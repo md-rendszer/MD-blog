@@ -5,6 +5,9 @@ image: 2026/ertekteremto-eletpalya-ajanlat-ujratoltve.avif
 image_alt: Értékteremtő Életpálya Ajánlat_újratöltve
 lead: "Változik a gazdaság, a technológia és a munka világa: ami tegnap biztos megélhetés volt, holnap megszűnhet. Ezért már nem elég egyetlen szakmára vagy munkahelyre építeni – változásra képes, értékteremtő emberré kell válnunk. Ez az írás bemutatja, hogyan működik az Értékteremtő Életpálya."
 kerdes: "Ha holnap megszűnne a mostani munkád, milyen képességedre építenél először?"
+kinek: "bizonytalan a munkád vagy a szakmád jövője"
+tema: tarsadalom-penz-technologia
+kereses: "változó munka világa; értékteremtő életpálya; megélhetés jövője"
 ---
 
 ## Nem egyszerűen munkát keresünk az embernek – az alkalmazkodni, fejlődni és értéket teremteni képes embert műveljük ki

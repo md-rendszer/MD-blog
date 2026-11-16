@@ -5,6 +5,9 @@ image: 2026/az-ero-csapdaja-amikor-mindenki-gyozni-akar-es-vegul-mindenki-veszit
 image_alt: Az erő csapdája – amikor mindenki győzni akar, és végül mindenki veszíthet…(?)…
 lead: "Minél erősebbnek érzi magát az ember, annál könnyebben születik meg benne a gondolat: „Miért én engedjek?” Ez az írás az erő csapdájáról szól – arról, hogy nem minden győzelem valódi győzelem, és hogy az érett ember, vezető és civilizáció másképp kérdez."
 kerdes: "Melyik vitádban lenne a legnagyobb erő ma az, hogy te engedsz elsőként?"
+kinek: "vitában, vezetőként vagy közösségben úgy érzed: „miért én engedjek?”"
+tema: kapcsolatok-es-konfliktusok
+kereses: "ki engedjen; győzni akarás; erő csapdája"
 ---
 
 ## **Mi történik akkor, amikor fontosabbá válik az akaratunk érvényesítése, mint annak felismerése, hogy csak együtt maradhatunk biztonságban?**

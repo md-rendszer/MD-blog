@@ -5,6 +5,9 @@ image: 2026/miert-ragaszkodnak-az-emberek-foggal-korommel-a-sajat-elkepzeleseikh
 image_alt: Miért ragaszkodnak az emberek foggal – körömmel a saját elképzeléseikhez…(?)…
 lead: "Az elképzeléseink nem egyszerű gondolatok a világról, hanem az a szövet, amelyből az „én”-ünk áll. Ezért, amikor egy véleményt védünk, valójában önmagunkat védjük. Ha gyakran kerülsz meddő vitákba, ez az írás megmutatja, mi zajlik ilyenkor benned és a másikban."
 kerdes: "Melyik az a meggyőződésed, amelynek elengedése a legnehezebben menne – és mit védesz valójában vele?"
+kinek: "gyakran kerülsz meddő vitákba"
+tema: kapcsolatok-es-konfliktusok
+kereses: "meddő viták; ragaszkodás véleményhez; miért nem hallgat meg"
 ---
 
 Az emberek azért ragaszkodik a saját elképzeléseikhez, mert az elképzeléseik nem egyszerűen gondolatok a világról — hanem az a szövet, amiből az “én” – jük áll.   

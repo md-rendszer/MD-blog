@@ -5,6 +5,9 @@ image: 2026/carl-jung-minden-a-helyere-kerul-erted-csak-varj-egy-kicsit.avif
 image_alt: A belső rend csendes fénye
 lead: "Ami korábban mozdulatlannak látszott, most irányt kap: semmi sem véletlen, és semmi sem érkezett túl későn. Ez az írás egy Carl Jung gondolataira épülő videóból indul ki, és a csendes bizalomról szól: arról, hogy pontosan ott vagy, ahol lenned kell. Ha türelmetlen vagy a saját utaddal, olvasd el."
 kerdes: "Mi az, amiről most úgy érzed, túl lassan halad – és mit tanulhatsz addig, amíg vársz?"
+kinek: "türelmetlen vagy a saját utaddal, és láttad a Carl Jung-os videót"
+tema: tanitok-es-tisztanlatas
+kereses: "Carl Jung minden a helyére kerül; türelem; bizalom az életben"
 ---
 
 <https://www.youtube.com/watch?v=OZRtEQ1sx7A&t=2398s>

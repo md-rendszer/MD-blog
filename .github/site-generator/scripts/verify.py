@@ -56,6 +56,12 @@ def check(path: Path) -> list[str]:
         errors.append("nincs lead (2–3 mondatos bevezető a kártyára és a megosztáshoz)")
     if not meta.get("kerdes"):
         errors.append("nincs kerdes (nyitott kérdés az olvasóhoz a cikk végére)")
+    if not meta.get("kinek"):
+        errors.append("nincs kinek (kinek szól az írás: „Neked, ha …”)")
+    if not meta.get("tema"):
+        errors.append("nincs tema (a témakör slugja, lásd TOPICS a build_site.py-ban)")
+    if not meta.get("kereses"):
+        errors.append("nincs kereses (pontosvesszővel elválasztott keresőkifejezések)")
     if len(meta.get("image_alt", "")) > 200:
         errors.append("az image_alt túl hosszú (legfeljebb 200 karakter, egy rövid mondat)")
     image = meta.get("image", "-")

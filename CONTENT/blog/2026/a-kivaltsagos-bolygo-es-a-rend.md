@@ -5,6 +5,9 @@ image: 2026/a-kivaltsagos-bolygo-es-a-rend.avif
 image_alt: Halvány kék pont egy aranyló fénysávban, dupla arany keretben – A kiváltságos bolygó és a REND
 lead: "1990-ben a Voyager–1 hatmilliárd kilométerről lefényképezte a Földet: egy halvány kék pontot. A kiváltságos bolygó című film arról szól, milyen pontos igazodás kell ahhoz, hogy itt élet lehessen. Ez az írás megmutatja, mit tanít ez nekünk a REND-ről és a saját életünkről."
 kerdes: "Mi az, ami a te életedben „pontos igazodást” kíván ahhoz, hogy jól működjön?"
+kinek: "láttad A kiváltságos bolygó című filmet, vagy a Föld különlegessége foglalkoztat"
+tema: egeszseg-es-termeszet
+kereses: "A kiváltságos bolygó film; halvány kék pont; Föld finomhangolás"
 ---
 
 <https://www.youtube.com/watch?v=k2gY1rL1KVY&list=PLPZqmuT-AHlrxY_haqgup3y7L34FGYP_y>

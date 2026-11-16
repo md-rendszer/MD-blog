@@ -5,6 +5,9 @@ image: 2026/a-valosagban-nincs-eroszak-beke-es-nyugalom-van.avif
 image_alt: A valóságban nincs erőszak, béke és nyugalom van…(?)…
 lead: "Az ember élete nem akkor teljes, amikor hazaér, hanem amikor észreveszi, hogy sosem volt máshol. Ez az írás arról szól, hogyan válik az élet erőszakmentessé, amikor felismerjük, hogy a ragaszkodásaink a képzelt „én” védelméből fakadnak. A valóság mélyén béke és nyugalom van."
 kerdes: "Mikor tapasztaltad meg utoljára azt a mély nyugalmat, amely nem függött a körülményektől?"
+kinek: "belső békére vágysz, és érdekel, honnan erednek a ragaszkodásaink"
+tema: onismeret-es-jelenlet
+kereses: "belső béke; ragaszkodás elengedése; erőszakmentesség"
 ---
 
 Az emberek azért ragaszkodnak a saját elképzeléseikhez, mert az elképzeléseik nem egyszerűen gondolatok a világról — hanem az a szövet, amiből a képzelt “én” – jük áll…(?)…

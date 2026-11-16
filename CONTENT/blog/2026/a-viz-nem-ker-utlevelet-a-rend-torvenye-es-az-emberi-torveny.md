@@ -5,6 +5,9 @@ image: 2026/a-viz-nem-ker-utlevelet-a-rend-torvenye-es-az-emberi-torveny.avif
 image_alt: "Viharos ég alatt hegykoszorú, közöttük arany fényben ragyogó folyó, amely átfolyik egy szétszakadt határkerítésen"
 lead: "Emberi törvény nem védte a Kárpát-medence földrajzi egységét – de van egy másik törvény, amely nem kér engedélyt. A víz nem kér útlevelet: az árvizek és a szennyezések minden határon átjutnak. Ez az írás megmutatja, hogyan mutatja be a valóság a számlát, ha az emberi törvény eltér a REND törvényétől."
 kerdes: "Hol tapasztaltad meg, hogy egy mesterséges határ nem állította meg azt, ami összetartozik?"
+kinek: "a Kárpát-medence vízgyűjtője és Trianon következményei foglalkoztatnak"
+tema: magyarsag-es-tortenelem
+kereses: "Kárpát-medence vízgazdálkodás; árvíz határokon át; Trianon víz"
 ---
 
 *A REND nem közeledik — kiderül.*

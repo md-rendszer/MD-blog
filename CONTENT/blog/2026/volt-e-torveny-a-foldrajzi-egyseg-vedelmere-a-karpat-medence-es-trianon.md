@@ -5,6 +5,9 @@ image: 2026/volt-e-torveny-a-foldrajzi-egyseg-vedelmere-a-karpat-medence-es-tria
 image_alt: "A Kárpát-medence vázlata arany hegykoszorúval, kék folyókkal és az 1920-as határ szaggatott vonalával"
 lead: "Sokan hordozzuk az emléket egy törvényről, amely tiltotta volna az egybefüggő tájegységek szétdarabolását. Utánanéztünk: volt-e ilyen, és mi hangzott el Párizsban a Kárpát-medence egységéről. A válasz nem az, amit vártunk – de igaz, és ezért többet ér."
 kerdes: "Mit jelent számodra a Kárpát-medence egysége: földrajzot, történelmet vagy valami mást, amit nehéz szavakba önteni?"
+kinek: "úgy emlékszel, volt egy törvény a földrajzi egység védelmére Trianon előtt"
+tema: magyarsag-es-tortenelem
+kereses: "Trianon földrajzi egység; Kárpát-medence egysége; Párizs béketárgyalás"
 ---
 
 *Ami a REND-hez igazodik, fennmarad; ami eltávolodik tőle, szétesik.*

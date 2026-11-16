@@ -5,6 +5,9 @@ image: 2026/nincs-erosebb-egeszsegesebb-boldogabb-ember-annal.avif
 image_alt: Nincs erősebb, egészségesebb, boldogabb ember annál…(?)…
 lead: "Van egy emberi mód, amelyet nem az egó, a félelem és a hiúság vezet, hanem a folyamatos visszaigazodás a REND-hez. Ez az írás azt mutatja meg, miért ez az ember a legerősebb, legegészségesebb és legboldogabb – és miért nem távoli cél, hanem most is elérhető működés. Ha erőt keresel, itt a forrása."
 kerdes: "Mikor érezted utoljára, hogy belső rendben, méltósággal cselekszel – és mi segítette ezt abban a pillanatban?"
+kinek: "erőt keresel, és a forrását"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "belső erő; boldog ember; igazodás"
 ---
 
 A Rendeltetett Méltósághordozó Lény

@@ -5,6 +5,9 @@ image: 2026/kar-a-szoert.avif
 image_alt: Máté Domokos
 lead: "Vannak időszakok, amikor kár a szóért: bármit mondasz, valaki megsértődik, csak azért, mert másképp gondolkodsz. Ez a rövid írás a türelmetlenségről szól, amely ellehetetleníti a beszélgetést – és arról, hogyan élhetnénk mégis békében egymás mellett."
 kerdes: "Mikor sértődtél meg utoljára azon, hogy valaki másképp gondolkodott – és mit látsz most ebből?"
+kinek: "bármit mondasz, valaki megsértődik"
+tema: kapcsolatok-es-konfliktusok
+kereses: "sértődékenység; vita másképp gondolkodókkal; türelmetlenség"
 ---
 
 Lehetséges, hogy van időszak, és egyre több olyan időszak van, amikor kár a szóért, mert semmi, sehogy és senkinek nem elég jó...(?)...

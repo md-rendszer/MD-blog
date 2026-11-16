@@ -5,6 +5,9 @@ image: 2026/vizsgaljuk-meg-hogy-a-biblia-szerint-mikent-serul-meg-ez-a-meltosag-
 image_alt: Vizsgáljuk meg, hogy a Biblia szerint miként sérül meg ez a méltóság a mindennapokban…(?)…
 lead: "A Biblia szerint az ember méltósága nem steril, sérthetetlen állapot: a hétköznapokban törik meg, ott, ahol a legkevésbé figyelünk. Ez az írás három viszonyban mutatja meg, hol sérül: a forrással, a másik emberrel és önmagunkkal. Ha érezted már, hogy valahol elvesztetted a tartásodat, itt megtalálhatod, hol kezdődött."
 kerdes: "A három viszony közül – a forrással, a másikkal, önmagaddal – melyikben érzed most leginkább a sérülést?"
+kinek: "érezted már, hogy valahol elvesztetted a tartásodat"
+tema: hit-es-biblia
+kereses: "méltóság sérülése; Biblia mindennapok; tartás"
 ---
 
 A Biblia rendkívül realista módon mutatja be, hogy az ember eredendő, királyi méltósága nem egy steril, sérthetetlen állapot. Bár az „Isten képmása” (Imago Dei) bélyegét a teológia szerint az ember **sosem veszíti el teljesen**, ez a kép a mindennapokban alaposan **összetörik, eltorzul és beszennyeződik**.

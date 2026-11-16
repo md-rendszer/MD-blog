@@ -5,6 +5,9 @@ image: 2026/mik-azok-a-mitokondriumok.avif
 image_alt: "Stilizált mitokondrium: táplálék és oxigén be, energia (ATP) ki – a sejtek erőművei"
 lead: "A mitokondriumok a sejtjeink erőművei: ők állítják elő azt az energiát, amelyből minden mozdulatunk és gondolatunk táplálkozik. Ez a rövid, közérthető összefoglaló elmondja, mit csinálnak, hol van belőlük sok, és mivel támogathatod a működésüket. Ha gyakran fáradt vagy, érdemes megismerned őket."
 kerdes: "Mi az, ami a te napjaidban a legtöbb energiát adja – és mi az, ami a legtöbbet elveszi?"
+kinek: "gyakran fáradt vagy, és érdekel, honnan jön a sejtjeid energiája"
+tema: egeszseg-es-termeszet
+kereses: "mitokondrium egyszerűen; fáradtság sejt szinten; mitokondrium támogatása"
 ---
 
 A mitokondriumok a sejtek „erőművei”. Olyan sejtszervecskék, amelyek a tápanyagokból energiát állítanak elő a sejt számára.

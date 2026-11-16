@@ -5,6 +5,9 @@ image: 2026/keszitsunk-e-egy-osszevont-hibrid-cselekvesi-tervet-amely-a-magyar-h
 image_alt: "A magyar és a román himnusz szellemének összevetése – fohász és tett"
 lead: "A magyar Himnusz a jó élet fohásza, a román himnusz ébredésre és cselekvésre szólít. Az MD-ben a kettő nem verseny, hanem két kéz: ez az írás egy szelíd, de határozott hétnapos tervet ad ahhoz, hogy a sóvárgásból napi, fegyelmezett lépés legyen."
 kerdes: "Neked mi hiányzik inkább: a hosszú távú cél, vagy a ma elvégzett, fegyelmezett lépés?"
+kinek: "a sóvárgásból napi cselekvést szeretnél"
+tema: magyarsag-es-tortenelem
+kereses: "hétnapos cselekvési terv; fohász és tett; Himnusz bőség"
 ---
 
 > Mit tanulhatunk két himnusz eltérő szelleméből – úgy, hogy egyikből se a félelem vagy a harc szóljon, hanem a helyes cselekvés?

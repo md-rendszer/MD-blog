@@ -5,6 +5,9 @@ image: 2026/az-igazsag-a-valosag-van.avif
 image_alt: AZ IGAZSÁG, a VALÓSÁG VAN!
 lead: "Az igazságot nem kitalálni lehet, csak rátalálni. A valóság tőlünk függetlenül létezik – a mi dolgunk nem megalkotni, hanem felfedezni. Ez az írás azt mutatja meg, miért érdemes csenddel és figyelemmel keresni, ahelyett hogy a saját elképzeléseinket erőltetnénk rá a világra."
 kerdes: "Mikor találtál rá utoljára egy igazságra – és mi segített abban, hogy meglásd?"
+kinek: "az igazságot keresed, nem a saját elképzeléseid megerősítését"
+tema: onismeret-es-jelenlet
+kereses: "mi az igazság; valóság felfedezése; csend és figyelem"
 ---
 
 Kitalálni NEM, csak RÁTALÁLNI lehetséges!

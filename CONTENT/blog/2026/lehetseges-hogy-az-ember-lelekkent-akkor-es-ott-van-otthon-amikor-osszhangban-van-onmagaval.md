@@ -6,6 +6,9 @@ image_alt: Az emberi lélek otthona
 alias: lehetseges-hogy-az-ember-akkor-es-ott-van-otthon-amikor-osszhangban-van-onmagaval
 lead: "Lehet, hogy a lélek otthona nem egy hely, hanem egy állapot – az, amikor összhangban vagy önmagaddal? Filozófiai, spirituális és pszichológiai nézőpontból járjuk körül ezt a kérdést. Ha gyakran érzed, hogy „nem teljesen ide tartozol”, ez az írás neked szól."
 kerdes: "Mikor és hol érzed magad a leginkább otthon – nem helyként, hanem belső állapotként?"
+kinek: "gyakran érzed, hogy „nem teljesen ide tartozol”"
+tema: onismeret-es-jelenlet
+kereses: "nem érzem otthon magam; lélek otthona; összhang önmagammal"
 ---
 
 Lehetséges, hogy az ember lelkének az otthona nem egy bizonyos fizikai bolygó, hanem egy tudatállapot?

@@ -5,6 +5,9 @@ image: 2026/md-onatadasi-alapvetes.avif
 image_alt: MD önátadási alapvetés infografika
 lead: "Az történjen, amit én akarok – vagy felismerem, ami HELYES, és ahhoz igazodom? Az MD Önátadási Alapvetés világosan kimondja: az önátadás nem önfeladás, és nem vak engedelmesség, hanem igazodás a REND-hez. Ha keresed, hol a határ az akarat és az elengedés között, itt pontos választ kapsz."
 kerdes: "Melyik helyzetben érezted már, hogy a saját akaratod elengedése hozta a legjobb eredményt?"
+kinek: "keresed, hol a határ az akarat és az elengedés között"
+tema: md-megvalosito-rendszer
+kereses: "önátadás nem önfeladás; elengedés; MD Önátadási Alapvetés"
 ---
 
 ## Önátadás nem önfeladás – igazodás a HELYESHEZ, a RENDHEZ

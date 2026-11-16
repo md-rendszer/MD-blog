@@ -6,6 +6,9 @@ image_alt: Matedomokos.hu Matedomokos.hu 1 1 Matedomokos.hu 1 1.20mc381tc38920do
 alias: teszt
 lead: "Az ember legelső és legfontosabb tennivalója, hogy valódi öntudatra tegyen szert. Carl Rogers feltétel nélküli elfogadásától Eckhart Tolle csendjéig ez az írás azt mutatja meg, miről ismerhető fel a tudatos ember. Ha keresed, hol kezdődik az út, itt kezdődik."
 kerdes: "Ki az az ember az életedben, aki feltétel nélkül meghallgatott – és mit adott ez neked?"
+kinek: "most kezded az önismeret útját, és azt keresed, hol érdemes elindulnod"
+tema: onismeret-es-jelenlet
+kereses: "mi az öntudat; tudatos ember ismérvei; önismeret kezdete"
 ---
 
 Lehetséges, mi több, teljesen biztos, hogy az ember “MINDENEK ELŐTTI” legelső és legfontosabb tennivalója, hogy “VALÓDI ÖNTUDATRA TEGYEN SZERT”…(?)…

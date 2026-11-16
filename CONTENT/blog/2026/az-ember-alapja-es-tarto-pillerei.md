@@ -5,6 +5,9 @@ image: 2026/az-ember-alapja-es-tarto-pillerei.avif
 image_alt: Az ember alapja és tartó pillérei
 lead: "Ki voltál, mielőtt megmondták neked, hogy ki vagy? Ez az egyetlen kérdés az ember alapja és tartópillére. Olvasd el, állj meg egy percre, és engedd, hogy a kérdés dolgozzon benned."
 kerdes: "Ki voltál, mielőtt megmondták neked, hogy ki vagy?"
+kinek: "egyetlen mély önismereti kérdésre van most szükséged"
+tema: onismeret-es-jelenlet
+kereses: "ki vagyok valójában; önismereti kérdés; ki voltál mielőtt"
 ---
 
 Ki voltál az előtt, mielőtt megmondták neked, hogy ki vagy…(?)…

@@ -5,6 +5,9 @@ image: 2026/kasszandra-figyelmeztetese-es-noe-barkaja.avif
 image_alt: KASSZANDRA FIGYELMEZTETÉSE ÉS NÓÉ BÁRKÁJA
 lead: "Az emberiség történetében újra és újra megtörtént: valaki látta a közelgő bajt, szólt – és nem hallgattak rá. Kasszandra és Nóé két ősi története két lehetséges választ mutat. Ez az írás arról szól, hogyan ismerhetjük fel időben a veszélyt, és mit építhetünk – mi magunk – a bárkából."
 kerdes: "Melyik figyelmeztetést hallottad meg túl későn az életedben – és mit tanultál belőle?"
+kinek: "időben szeretnéd felismerni a közelgő veszélyt"
+tema: tarsadalom-penz-technologia
+kereses: "Kasszandra; Noé bárkája; veszély felismerése"
 ---
 
 Hogyan ismerjük fel időben a veszélyt, és mit tehetünk azért, hogy a 21. század ne váljon újabb Kasszandra-történetté?

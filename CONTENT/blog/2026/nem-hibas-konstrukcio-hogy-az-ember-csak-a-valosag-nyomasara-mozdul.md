@@ -6,6 +6,9 @@ image_alt: Nem hibás konstrukció, hogy az ember csak a valóság nyomására m
 alias: nem-hibas-konstrukcio-hogy-az-ember-a-valosag-nyomasara-mozdul
 lead: "Miért van az, hogy szinte mindannyian csak akkor változtatunk, amikor az élet rákényszerít? A válasz meglepő: nem hibás konstrukció, hanem a működésünk természete. Ha bántott már, hogy csak a baj mozdított ki, ez az írás megmutatja, mit intézhetsz el addig, amíg a fordulat el nem jön."
 kerdes: "Melyik volt az a fordulat az életedben, amelyet csak egy nehéz helyzet nyomására tettél meg – és mit tanultál belőle?"
+kinek: "bánt, hogy csak a baj mozdított ki"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "miért csak baj után változunk; változás kényszer; változás"
 ---
 
 Nem, nincs más, ami mozdíthatná.

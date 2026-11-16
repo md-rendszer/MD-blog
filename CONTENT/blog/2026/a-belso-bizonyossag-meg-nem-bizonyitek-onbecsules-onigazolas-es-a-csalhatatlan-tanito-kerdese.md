@@ -5,6 +5,9 @@ image: 2026/a-belso-bizonyossag-meg-nem-bizonyitek-onbecsules-onigazolas-es-a-cs
 image_alt: A belső bizonyosság még nem bizonyíték – önbecsülés, önigazolás és a „csalhatatlan tanító” kérdése
 lead: "Honnan tudom, hogy amit igaznak gondolok, valóban igaz – és nem csak nagyon erősen hiszem? Ez a kérdés különösen fontos, amikor valaki tanítóként olyat állít, amit mások nem ellenőrizhetnek. Ez az írás az egészséges önbecsülés és az önigazolás különbségéről szól, egy egyszerű önellenőrző kérdéssel."
 kerdes: "Melyik meggyőződésedről derült ki utólag, hogy inkább erős hit volt, mint bizonyosság?"
+kinek: "egy tanító vagy saját belső bizonyosságod biztosnak tűnik, de nem tudod ellenőrizni"
+tema: tanitok-es-tisztanlatas
+kereses: "önbecsülés vagy önigazolás; tévedhetetlen tanító; honnan tudom hogy igaz"
 ---
 
 ## Van egy kényelmetlen kérdés, amelyet nemcsak másokkal, hanem **önmagunkkal szemben is fel kell tudnunk tenni**:

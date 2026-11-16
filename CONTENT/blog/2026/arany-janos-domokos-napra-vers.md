@@ -5,6 +5,9 @@ image: 2026/arany-janos-domokos-napra-vers.avif
 image_alt: Arany János – Domokos napra – vers?
 lead: "„Legnagyobb cél pedig, itt, e földi létben, / Ember lenni mindég, minden körülményben.” Arany János 1851-ben egy névnapi köszöntőt írt – és a magyar irodalom egyik legfontosabb erkölcsi intelme született belőle. Ez az írás bemutatja a vers születését és üzenetét."
 kerdes: "Mit jelent számodra „ember lenni minden körülményben” – és mikor volt ez a legnehezebb?"
+kinek: "Arany János Domokos napra című versét keresed"
+tema: magyarsag-es-tortenelem
+kereses: "Arany János Domokos napra; ember lenni mindég; névnapi vers"
 ---
 
 **Arany János ***Domokos napra***** című verse egy **1851. augusztus 4-én** keletkezett alkalmi költemény, amely egy ifjú névnapi köszöntéseként indult, ám az idők során az egyik legfontosabb magyar erkölcsi tanítássá és szállóigévé vált. A költeményből származik a magyar irodalom egyik leghíresebb intelme: *„Legnagyobb cél pedig, itt, e földi létben, / Ember lenni mindég, minden körülményben.”* [[1](https://www.eternus.hu/vers/112), [2](https://gondoloblog.wordpress.com/2016/03/02/arany-janos-1817-1882/), [3](https://www.citatum.hu/idezet/4968), [4](https://www.facebook.com/tanulasdg/posts/nemes-%C3%B6nbizalom-de-ne-az-%C3%B6nhitts%C3%A9gr%C3%BAg%C3%B3i-lelkedet-nagy-c%C3%A9lra-fesz%C3%ADts%C3%A9klegnagyobb-/1108699171271352/)]

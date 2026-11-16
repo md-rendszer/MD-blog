@@ -5,6 +5,9 @@ image: 2026/onatadasunkkal-az-eletet-letrehozo-es-fenntarto-rendhez-kivanunk-iga
 image_alt: Ego pusztításból az önátadás rendjébe
 lead: "Áldás lehet-e az önátadás, és mikor válik veszélyessé? Ez a beszélgetés pontosan kijelöli a választóvonalat: az önátadás nem engedelmesség, nem passzivitás, és nem egy vezetőnek való alárendelődés, hanem a HELYES felismerése és az ahhoz való igazodás. Ha keresed, hogyan engedhetnéd el a görcsös akarást úgy, hogy közben ne add fel önmagad, itt a válasz."
 kerdes: "Hol érzed az életedben, hogy a saját akaratod erőltetése több kárt okoz, mint hasznot?"
+kinek: "elengednéd a görcsös akarást anélkül, hogy feladnád önmagad"
+tema: md-megvalosito-rendszer
+kereses: "önátadás; elengedés; görcsös akarás"
 ---
 
 **„Nem az akaratomat akarom mindenáron megvalósítani; azt akarom felismerni, mi a HELYES, és ahhoz akarok igazodni.”**

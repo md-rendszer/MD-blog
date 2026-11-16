@@ -5,6 +5,9 @@ image: 2026/aldgisl-friz-kiraly-dorestad-volt-az-utolso-pogany-kiraly.avif
 image_alt: Aldgisl fríz király – Dorestad – volt az utolsó pogány király…(?)…
 lead: "Aldgisl volt az utolsó pogány fríz király? Nem – ő volt az első, akit a történelem igazol. Ez a rövid írás tisztázza Aldgisl és Radbod szerepét, és bemutatja Dorestad, a korabeli kereskedőváros jelentőségét. Ha szereted a kevéssé ismert történelmet, jó olvasmány."
 kerdes: "Melyik történelmi korszak vagy alak érdekel a legjobban – és mit tanulsz belőle a mai életre?"
+kinek: "szereted a kevéssé ismert európai történelmet"
+tema: magyarsag-es-tortenelem
+kereses: "Aldgisl fríz király; Dorestad; Radbod"
 ---
 
 **Nem, Aldgisl nem az utolsó pogány király volt**, hanem az első történelmileg igazolható fríz uralkodó. A történelem (és a popkultúra) az utána következő **Radbod (vagy Redbad) fríz királyt** tekinti a Fríz Királyság utolsó, nagy pogány uralkodójának. [[1](https://www.filmtekercs.hu/kritikak/az-utolso-pogany-kiraly-redbad-kritika), [2](https://en.wikipedia.org/wiki/Aldgisl), [3](https://grokipedia.com/page/Aldgisl), [4](https://www.mafab.hu/movies/redbad-304446.html)]

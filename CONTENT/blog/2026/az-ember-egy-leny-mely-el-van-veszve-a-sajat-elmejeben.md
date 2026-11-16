@@ -5,6 +5,9 @@ image: 2026/az-ember-egy-leny-mely-el-van-veszve-a-sajat-elmejeben.avif
 image_alt: Az ember egy lény, mely el van veszve a saját elméjében…(?)…
 lead: "Az ember nem a világban vész el először, hanem a saját elméjében: a múlt sebeiben, a jövőtől való félelemben, mások véleményében. Sokszor nem azt éljük, ami van, hanem amit az elménk rávetít. Ez az írás megmutatja a kijáratot."
 kerdes: "Melyik gondolati kör az, amelyben a leggyakrabban elveszel – és mi hoz vissza belőle?"
+kinek: "a múlt sebei, a jövő félelmei és mások véleménye kötik le a figyelmedet"
+tema: ego-es-elme
+kereses: "elveszve a gondolataimban; túlgondolás; jelen pillanat"
 ---
 
 **Az ember nem a világban veszik el először, hanem a saját elméjének rendezetlen, félelmekkel, vágyakkal, sérelmekkel, ítéletekkel és ismétlődő gondolati köreivel teli belső világában.**

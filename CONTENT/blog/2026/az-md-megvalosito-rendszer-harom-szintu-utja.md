@@ -6,6 +6,9 @@ image_alt: Az MD Megvalósító Rendszer - Újjászületési és Helyreállítá
 alias: az-md-megvalosito-rendszer-utja
 lead: "Minden egyetlen felismerésből indult: az emberek többsége nem rossz, hanem eltávolodott a saját eredeti rendeltetésétől. Nem több tudásra van szükség, hanem egy olyan rendszerre, amely segít megvalósítani azt, amit már tudunk. Ez az írás bemutatja az MD háromszintű útját és útvonaltérképét."
 kerdes: "Mi az, amit már régóta tudsz, de még nem valósítottál meg az életedben?"
+kinek: "érdekel, hogyan épül fel az MD útja szintről szintre"
+tema: md-megvalosito-rendszer
+kereses: "MD háromszintű út; MD útvonaltérkép; MD Megvalósító Rendszer felépítése"
 ---
 
 # Hogyan született meg az MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program?

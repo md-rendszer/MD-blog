@@ -5,6 +5,9 @@ image: 2026/ne-csak-vagyj-a-jobb-eletre-rakd-ossze.avif
 image_alt: Ne csak vágyj a jobb életre – Rakd össze!
 lead: "Este, az ágyban fekve meg tudnád mondani, hogy jobb volt-e a mai napod, mint a tegnapi? Ha csak egy homályos érzés van benned, ez az írás neked szól. Öt egyszerű napi mérőszámot ad, amelyekkel lépésről lépésre visszamérheted, merre halad az életed."
 kerdes: "Ha ma este egyetlen dolgot mérnél vissza a napodból, mi lenne az?"
+kinek: "nem tudod megmondani, jobb volt-e a mai napod a tegnapinál"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "napi mérőszámok; fejlődés mérése; visszamérés"
 ---
 
 Ne csak várd a jobb életet – mérd vissza!

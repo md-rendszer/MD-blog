@@ -5,6 +5,9 @@ image: 2026/mindenkinek-az-lesz-a-valosag-amit-kepes-a-valosagbol-felfogni-befog
 image_alt: Mindenkinek az lesz a valóság, amit képes a VALÓSÁGBÓL felfogni, befogadni.
 lead: "A kút fenekén élő békának hiába mondod, hogy a tér szinte végtelen – ő csak a falakat látja. Ez a rövid írás arról szól, hogy mindenki annyit lát a valóságból, amennyit be tud fogadni, és hogyan tágulhat ez a látókör. Ha úgy érzed, beszorultál a saját falaid közé, olvasd el."
 kerdes: "Melyik felismerés tágította ki utoljára a látóköröd – és mi tette ezt lehetővé?"
+kinek: "úgy érzed, beszorultál a saját falaid közé"
+tema: onismeret-es-jelenlet
+kereses: "kút fenekén béka; látókör tágítása; szűklátókörűség"
 ---
 
 <https://www.tiktok.com/@utikonyv/video/7690096051717459222>

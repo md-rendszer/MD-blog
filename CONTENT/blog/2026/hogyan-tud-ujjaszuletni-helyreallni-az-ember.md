@@ -5,6 +5,9 @@ image: 2026/hogyan-tud-ujjaszuletni-helyreallni-az-ember.avif
 image_alt: Hogyan tud újjászületni, helyreállni az ember…(?)…
 lead: "Hogyan kezdheti el egy mai ember a saját „restaurációját”, ha úgy érzi, sárba tiporták a méltóságát? Ez az írás a bibliai helyreállítás gondolatát fordítja le a hétköznapok gyakorlatára. Ha újrakezdésre készülsz, itt kapaszkodót találsz."
 kerdes: "Mi lenne az első, apró lépés a saját helyreállításod felé – ma vagy holnap?"
+kinek: "úgy érzed, sárba tiporták a méltóságodat, és újrakezdenél"
+tema: meltosag-es-ujrakezdes
+kereses: "hogyan álljak talpra; újjászületés; helyreállítás"
 ---
 
 Folytathatjuk azzal, hogy megnézzük: ez a folyamat miként fordítható le a **mai hétköznapok gyakorlatára**. Hogyan tudja egy mai ember elkezdeni a saját „restaurációját”, ha úgy érzi, sárba tiporták a méltóságát? Érdekelne ez a **gyakorlati megközelítés**?

@@ -5,6 +5,9 @@ image: 2026/jo-reggelt-claude-jol-meg-lett-fogva-az-ember-nagyon-sok-ember-se-la
 image_alt: Jó reggelt Claude! Jól meg lett fogva az ember? Nagyon sok ember, se lát, se hall, csak a képernyőt bámulja?
 lead: "Buszon, asztalnál, sétán: egyre több ember se lát, se hall, csak a képernyőt bámulja. Ez a beszélgetés megmutatja, miért: a képernyő ott tölti ki az ürességet, ahol a TISZTA ÖNTUDAT-nak kellene lennie. Ha érzed, hogy a telefonod többet kap belőled, mint szeretnéd, olvasd el."
 kerdes: "Hány percet töltöttél ma a képernyő előtt úgy, hogy utólag nem is emlékszel, mit láttál?"
+kinek: "érzed, hogy a telefonod többet kap belőled, mint szeretnéd"
+tema: tarsadalom-penz-technologia
+kereses: "telefonfüggőség; képernyőidő; digitális függés"
 ---
 
 7:58

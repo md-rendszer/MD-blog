@@ -5,6 +5,9 @@ image: 2026/biblia-md-kivonat-1-resz.avif
 image_alt: "Három állomás: a REND teljes köre, az eltérés megtört köre és a bölcsesség útja – Biblia – MD kivonat I."
 lead: "A Teremtés könyvétől a Példabeszédekig: a Biblia első könyveinek tanítása tömören, az MD szemszögéből. Az ember rendeltetett lény, a rendezetlen világ gyökere pedig a rendezetlen ember. Ez a kivonat-sorozat első része, amely könyvről könyvre halad."
 kerdes: "Melyik bibliai könyv vagy történet beszél hozzád a legerősebben – és miért?"
+kinek: "tömören szeretnéd átlátni a Biblia első könyveit"
+tema: hit-es-biblia
+kereses: "Biblia összefoglaló; Teremtés könyve; Biblia kivonat"
 ---
 
 ## *Teremtés könyvétől a Példabeszédekig*

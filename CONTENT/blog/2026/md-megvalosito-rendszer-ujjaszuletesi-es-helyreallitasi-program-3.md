@@ -5,6 +5,9 @@ image: 2026/image-216c546562032c51f1c1.avif
 image_alt: MD Megvalósító Program - Újjászületési és Helyreállítási Program
 lead: "Mi az MD Megvalósító Rendszer, kinek szól, és milyen hagyományokra épít? Ez a rövid összefoglaló bemutatja a Program főbb jellemzőit és célját: az egyéni életminőség javítását és a tudatos életvezetés támogatását. Ha most ismerkedsz az MD-vel, jó első lépés."
 kerdes: "Mi az, ami miatt egy életvezetési program egyáltalán felkelti az érdeklődésedet?"
+kinek: "most ismerkedsz az MD-vel"
+tema: md-megvalosito-rendszer
+kereses: "mi az MD; tudatos életvezetés; MD összefoglaló"
 ---
 
 Az **MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program** egy komplex személyiségfejlesztő és spirituális szemléletű módszertan, amelynek központi alakja [Máté Domokos](/rolam/). A program célja az egyéni életminőség javítása, a belső egyensúly helyreállítása és a tudatos életvezetés segítése.

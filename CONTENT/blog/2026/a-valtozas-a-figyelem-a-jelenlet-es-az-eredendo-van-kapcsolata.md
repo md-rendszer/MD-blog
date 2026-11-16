@@ -5,6 +5,9 @@ image: 2026/a-valtozas-a-figyelem-a-jelenlet-es-az-eredendo-van-kapcsolata.avif
 image_alt: A változás, a figyelem, a jelenlét és az eredendő VAN kapcsolata…(?)…
 lead: "Minden változik, minden elmúlik – de a tiszta VAN nem múlik. Ez az írás lépésről lépésre járja körül a változás, a figyelem, a jelenlét és az eredendő VAN kapcsolatát, egészen egy ünnepélyes MD-alapelvig. Ha keresed, mi marad meg, amikor minden más változik, olvasd lassan."
 kerdes: "Mi az benned, ami az évek alatt minden változás ellenére ugyanaz maradt?"
+kinek: "azt keresed, mi marad meg, amikor minden más változik"
+tema: onismeret-es-jelenlet
+kereses: "jelenlét; mi az ami nem változik; figyelem és változás"
 ---
 
 „**Minden változik, minden elmúlik, de a tiszta VAN nem múlik: végső soron csak Ő VAN.”**  

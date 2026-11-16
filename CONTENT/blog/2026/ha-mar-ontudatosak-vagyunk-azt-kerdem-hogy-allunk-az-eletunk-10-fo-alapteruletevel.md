@@ -5,6 +5,9 @@ image: 2026/ha-mar-ontudatosak-vagyunk-azt-kerdem-hogy-allunk-az-eletunk-10-fo-a
 image_alt: Addig nem teljesedhet ki az életünk? Meddig addig?
 lead: "Önmagunkkal, a párunkkal, a szüleinkkel, a gyermekeinkkel, a munkánkkal – hogyan bánunk az életünk tíz fő területével? Ez az írás arra hív, hogy őszintén nézz rá mindegyikre, és keresd meg, hol van a legnagyobb szükség igazodásra. Ha kiteljesedésre vágysz, itt a térkép."
 kerdes: "A tíz terület közül melyiken állsz a legjobban, és melyiken a legkevésbé – és mi lenne ott az első lépés?"
+kinek: "szeretnéd áttekinteni életed fő területeit"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "életterületek; élet kerék; önértékelés"
 ---
 
 Ha már tudjuk, hogy “Kik Voltunk akkor, amikor volt “Valódi Én Tudatunk” – “ÖNTUDATUNK” az előtt, míg valakik meg nem mondták nekünk, hogy KIK VAGYUNK, ha ezzel “rendben vagyunk”, hogy állunk az életünk 10 fő területével…(?)…  

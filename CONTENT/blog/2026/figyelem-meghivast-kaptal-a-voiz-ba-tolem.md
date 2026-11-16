@@ -5,6 +5,9 @@ image: 2026/figyelem-meghivast-kaptal-a-voiz-ba-tolem.avif
 image_alt: 30 napig korlátlanul és ingyen hallgathatsz több ezer magyar hangoskönyvet.
 lead: "30 napig ingyen hallgathatsz több ezer magyar hangoskönyvet – köztük azokat a spirituális és önismereti műveket, amelyeket a blogon is ajánlok. Ebben az írásban azt is leírom, hogyan használhatod ki az ingyenes időszakot úgy, hogy ne válj akaratlanul előfizetővé."
 kerdes: "Melyik hangoskönyvvel kezdenéd, ha most 30 napig ingyen hallgathatnál?"
+kinek: "hangoskönyvet hallgatnál ingyen, előfizetés nélkül"
+tema: konyvek-es-filmek
+kereses: "VOIZ ingyen 30 nap; magyar hangoskönyv; spirituális hangoskönyv"
 ---
 
 30 napig korlátlanul és ingyen hallgathatsz több ezer magyar hangoskönyvet.

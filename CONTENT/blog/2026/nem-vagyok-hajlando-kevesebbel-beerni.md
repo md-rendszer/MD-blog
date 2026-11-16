@@ -5,6 +5,9 @@ image: 2026/nem-vagyok-hajlando-kevesebbel-beerni.avif
 image_alt: NEM VAGYOK HAJLANDÓ KEVESEBBEL BEÉRNI
 lead: "Ha örök létező vagyok, aki csak formát ölt, akkor mi lehet a lehető legjobb, amit ebben az életben megélhetek? Ez a személyes kiállás arról szól, miért nem érem be kevesebbel – és miért vállalom közben a teljes vizsgálatot. Ne fogadd el azért, mert én mondom: vizsgáld meg."
 kerdes: "Miben érzed, hogy eddig kevesebbel érted be, mint ami valóban neked rendeltetett?"
+kinek: "a lehető legjobbat akarod kihozni ebből az életből"
+tema: domi-utja
+kereses: "ne érd be kevesebbel; teljes élet; örök létező"
 ---
 
 ## Mi lehet nekem – és minden embernek – a lehető legjobb?

@@ -5,6 +5,9 @@ image: 2026/szemelyes-egos-onazonositas-es-a-valodi-onismeret.avif
 image_alt: Személyes egos önazonosítás és a valódi önismeret…(?)…
 lead: "Mi a különbség aközött, akinek mutatjuk magunkat, és aki valójában vagyunk? Egy kép szerkezetén keresztül mutatom meg: az énkép csak egy áttetsző fátyol, amelyen a valódi tengely töretlenül áthalad. Ha elfáradtál a megfelelésben, ez az írás csendet ad."
 kerdes: "Melyik az a szerep vagy énkép, amelyet a legtöbb energiába kerül fenntartanod?"
+kinek: "elfáradtál a megfelelésben"
+tema: ego-es-elme
+kereses: "énkép és valódi én; megfelelési kényszer; önismeret"
 ---
 
 Az elcsendesedés maga az önismeret. Megmutatkozásra sosem volt szükség.  

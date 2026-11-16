@@ -5,6 +5,9 @@ image: 2026/mit-remelhetsz-az-md-tol-a-program-tiz-legfontosabb-szolgaltatasa.av
 image_alt: "Hét egyre magasabb lépcsőfok a hét könyv nevével, a tetején egy íves kapu"
 lead: "Mit kap az, aki elindul az MD Megvalósító Rendszer útján, és mit remélhet tőle? Ebben az írásban súlyozva gyűjtöttem össze a Program tíz legfontosabb szolgáltatását, az alapkönyvtől a befejező kötetig. Ha azon gondolkodsz, érdemes-e elindulnod, itt minden lényeges egy helyen."
 kerdes: "A tíz szolgáltatás közül melyikre lenne most a legnagyobb szükséged – és miért?"
+kinek: "azon gondolkodsz, érdemes-e elindulnod az MD útján"
+tema: md-megvalosito-rendszer
+kereses: "MD szolgáltatásai; mit ad az MD; érdemes-e"
 ---
 
 *A méltóság nem tökéletesség, hanem következetesség.*

@@ -5,6 +5,9 @@ image: 2026/md-igazsag-es-eletvedelmi-protokoll.avif
 image_alt: MD IGAZSÁG- ÉS ÉLETVÉDELMI PROTOKOLL
 lead: "Tény, megalapozott következtetés, hipotézis, metafizikai alapvetés vagy személyes élmény? Az MD-ben minden állítást be kell sorolni, mielőtt elfogadnánk. Ez a protokoll megvédi az embert a tévtanításoktól, a vezetői visszaélésektől és a tudományosnak álcázott hiedelmektől. Ha fontos neked, hogy ne vezessenek félre, ez az írás neked szól."
 kerdes: "Melyik volt az az állítás, amelyet sokáig ténynek hittél, és később kiderült, hogy csak hiedelem volt?"
+kinek: "meg akarod védeni magad a tévtanításoktól és az álcázott hiedelmektől"
+tema: tanitok-es-tisztanlatas
+kereses: "tévtanítás ellen; kritikus gondolkodás; tény és hiedelem"
 ---
 
 *Az állítások, tanítások, tanítók és közösségi működés ellenőrzési rendje*

@@ -5,6 +5,9 @@ image: 2026/a-szelet-nem-te-fujod-de-a-vitorlat-te-allitod.avif
 image_alt: "Két vitorlás ugyanabban a szélben: az egyik vitorlája csapkod, a másiké megtelik, és a hajó nyugodtan halad"
 lead: "Két vitorlás ugyanazon a tavon, ugyanabban a szélben: az egyik halad, a másik a hullámokba fúródik. A különbség nem a szélben van, hanem a vitorlában. Ez az írás arról szól, mi a te dolgod abban, amit nem te irányítasz – és miért kell a vitorlát újra és újra beállítani."
 kerdes: "Milyen „szél” fúj most az életedben, amelyet nem te irányítasz – és hogyan állíthatnád hozzá a vitorládat?"
+kinek: "olyan körülmények között élsz, amelyeket nem te irányítasz"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "amit nem irányíthatok; alkalmazkodás; irányítás elengedése"
 ---
 
 **Máté Domokos gondolata:**

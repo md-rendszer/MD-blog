@@ -5,6 +5,9 @@ image: 2026/mely-civilizacio-es-filozofiaja-a-legosibb-a-teremtett-emberi-vilagb
 image_alt: Mely civilizáció és filozófiája a legősibb a teremtett emberi világban…(?)…
 lead: "Melyik civilizáció a legősibb, és melyik filozófia hat ma is a legmélyebben? Ez az írás a sumerektől a védikus hagyományig vezet végig a régészet és a történettudomány mai állása szerint. Ha érdekel, honnan erednek az emberiség legmélyebb kérdései, jó kiindulópont."
 kerdes: "Melyik ősi bölcsesség vagy hagyomány áll hozzád a legközelebb – és miért?"
+kinek: "érdekel, melyik a legősibb civilizáció és filozófia"
+tema: magyarsag-es-tortenelem
+kereses: "legősibb civilizáció; sumérok; védikus filozófia"
 ---
 
 A történettudomány és a régészet jelenlegi állása szerint a legősibb civilizáció és az ahhoz köthető vallási-filozófiai gondolkodás az alábbiakhoz köthető:

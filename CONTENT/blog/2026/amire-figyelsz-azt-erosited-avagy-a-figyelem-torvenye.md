@@ -5,6 +5,9 @@ image: 2026/amire-figyelsz-azt-erosited-avagy-a-figyelem-torvenye.avif
 image_alt: Amire figyelsz, azt erősíted avagy a figyelem törvénye…(?)…
 lead: "Amire tartósan figyelsz, annak erőt adsz: ha a hiányra, a betegségre, a helytelenségre összpontosítasz, azokat erősíted; ha a jóra, a rendre és a bőségre, azoknak nyitsz utat. Ez az írás egy egyszerű napi gyakorlatot és esti ellenőrző kérdést ad ehhez."
 kerdes: "Mire adtad ma a legtöbb figyelmedet – és ezt szeretnéd erősíteni az életedben?"
+kinek: "azt veszed észre, hogy mindig a hiányra és a bajra figyelsz"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "figyelem törvénye; pozitív fókusz; napi gyakorlat"
 ---
 
 Amire az ember tartósan gondol, amit belül újra és újra táplál, annak ad erőt.Ha a hiányra, a betegségre, a szegénységre, a helytelenségre összpontosít, akkor belső világában ezeket erősíti tovább.Ha viszont az egészségre, a helyességre, a bőségre, a rendre és a jóra irányítja tudatosan a figyelmét, akkor ezeknek nyit utat önmagában és az életében.

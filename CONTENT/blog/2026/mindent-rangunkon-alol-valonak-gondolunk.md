@@ -5,6 +5,9 @@ image: 2026/mindent-rangunkon-alol-valonak-gondolunk.avif
 image_alt: Mindent rangunkon alól valónak gondolunk…(?)…
 lead: "A gőgös ember mindent magához mér, és mindent lenéz – ezt fejezi ki a régi magyar fordulat. Ez az írás megmutatja, hogyan zárja el a büszkeség a tanulás és a kapcsolódás útját, és mi az ellenszere a hétköznapokban. Ha érezted már, hogy valami „nem méltó hozzád”, érdemes megállnod itt."
 kerdes: "Mi az, amit sokáig rangodon alulinak tartottál, és később kiderült, hogy sokat tanulhattál belőle?"
+kinek: "érezted már, hogy valami „nem méltó hozzád”"
+tema: ego-es-elme
+kereses: "gőg; büszkeség; rangunkon alul"
 ---
 
 A gőgös ember mindent magához mér, és mindent lenéz…(?)…  

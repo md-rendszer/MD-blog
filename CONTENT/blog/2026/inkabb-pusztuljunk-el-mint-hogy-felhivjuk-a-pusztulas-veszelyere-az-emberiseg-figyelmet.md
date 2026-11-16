@@ -5,6 +5,9 @@ image: 2026/inkabb-pusztuljunk-el-mint-hogy-felhivjuk-a-pusztulas-veszelyere-az-
 image_alt: Vesztesség vagy Remény?
 lead: "Az emberiség történetében nem az igazság kimondása okozta a pusztulást, hanem az, hogy nem akartuk meghallani, és elhallgattattuk azokat, akik figyelmeztettek. Ez az írás arról szól, miért nem szabad a kényelmetlen figyelmeztetést elhallgatni – akkor sem, ha nehéz ránézni."
 kerdes: "Melyik kényelmetlen igazságot szeretnéd, ha többen meghallanának ma?"
+kinek: "azt látod, hogy elhallgattatják azokat, akik figyelmeztetnek"
+tema: tarsadalom-penz-technologia
+kereses: "figyelmeztetés elhallgatása; igazság kimondása; közöny"
 ---
 
 Mert az általunk létrehozott kép megsértheti az erőszakra vonatkozó szabályainkat…(?)…  

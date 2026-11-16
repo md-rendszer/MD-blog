@@ -5,6 +5,9 @@ image: 2026/gondoltal-mar-arra-hogy-van-az-a-hiba-ami-utan-mar-nincs-visszaut.av
 image_alt: Gondoltál már arra, hogy van az a hiba, ami után már nincs visszaút? 🛑
 lead: "Van az a hiba, amely után már nincs visszaút? A tékozló fiú példabeszéde az ellenkezőjét mutatja: a disznóólból is van út hazafelé, és ott valaki kitárt karokkal vár. Ha cipelsz egy hibát, amelyet megbocsáthatatlannak érzel, ez az írás neked szól."
 kerdes: "Volt már olyan, hogy azt hitted, nincs visszaút – és mégis volt? Mi segített hazatalálni?"
+kinek: "egy hibát cipelsz, amelyet megbocsáthatatlannak érzel"
+tema: meltosag-es-ujrakezdes
+kereses: "megbocsáthatatlan hiba; van visszaút; tékozló fiú"
 ---
 
 Jézus egyik leghíresebb története, a tékozló fiú példabeszéde pont az ellenkezőjét bizonyítja. Képzeld el a szituációt: a fiatalabb fiú kikéri az örökségét (ami akkoriban felért egy sértéssel), elköltözik, és az utolsó fillérig elveri bulikra és luxusra. 💸

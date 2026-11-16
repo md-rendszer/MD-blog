@@ -5,6 +5,9 @@ image: 2026/babadzsi-a-mai-india-jogi-krisztusa-2.avif
 image_alt: Bábádzsí, a mai India jógi-Krisztusa
 lead: "Ki az a Mahávatár Bábádzsí, akit a jógikus hagyomány a mai India jógi-Krisztusaként tisztel? Ez a rövid összefoglaló elmondja a legfontosabb tudnivalókat róla, és megmutatja, hol találhatsz hiteles forrásokat a tanításáról."
 kerdes: "Mit jelent számodra az, hogy valaki „mester” – mi alapján bízol meg egy tanítóban?"
+kinek: "röviden szeretnél megtudni a legfontosabbakat Bábádzsíról"
+tema: meditacio-es-joga
+kereses: "Mahávatár Bábádzsí; Babaji ki volt; Babaji tanításai"
 ---
 
 A jógikus hagyományban

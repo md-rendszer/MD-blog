@@ -5,6 +5,9 @@ image: 2026/a-boseges-csere-vagy-boseges-szolgaltatas-mint-uzleti-es-etikai-alap
 image_alt: A bőséges csere (vagy bőséges szolgáltatás) mint üzleti és etikai alapelv…(?)…
 lead: "Mindig adj valamivel többet, jobbat, mint amit elvárnak vagy kifizettek – ez a bőséges csere elve. Ez az írás bemutatja, miért nem csak etikai, hanem üzleti szempontból is erős alapelv, és miért ritka ma mégis. Ha vállalkozol vagy szolgáltatsz, itt egy egyszerű mérce."
 kerdes: "Hol adhatnál a munkádban egy kis pluszt holnap úgy, hogy az a másiknak valóban érték legyen?"
+kinek: "vállalkozó vagy szolgáltató vagy, és tisztességes, mégis sikeres üzleti mércét keresel"
+tema: tarsadalom-penz-technologia
+kereses: "bőséges csere elve; etikus vállalkozás; adj többet mint amit fizetnek"
 ---
 
 A **bőséges csere** (vagy bőséges szolgáltatás) egy olyan üzleti és etikai alapelv, amely szerint **mindig valamivel többet, jobb minőségűt vagy extra értéket kell nyújtanod az ügyfeleidnek, mint amennyit tőled elvárnak vagy amennyit kifizettek.**

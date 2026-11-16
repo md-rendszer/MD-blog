@@ -5,6 +5,9 @@ image: 2026/ki-ul-az-asztalfore-a-kert-amelyet-gondozni-kaptunk.avif
 image_alt: "Hosszú terített asztal egy kertben, egyik oldalon elszáradt fák, a másikon gyümölcsfa; elöl egy kertész palántát ültet"
 lead: "Az ember egy kertbe érkezett, amelyet nem ő ültetett, és egyetlen dolgot kértek tőle: hogy gondozza. Ma mindenki asztalhoz akar ülni – de ki megy ki holnap reggel a kertbe? Ez az írás a gazda és a tulajdonos különbségéről szól, és arról, mi a mi dolgunk a ránk bízott világban."
 kerdes: "Mi az a kis „kert” az életedben, amelyet gondozni kaptál – és hogyan gondozod?"
+kinek: "azt kérdezed, mi a dolgunk a ránk bízott világban"
+tema: egeszseg-es-termeszet
+kereses: "teremtésvédelem; gazda és tulajdonos; föld gondozása"
 ---
 
 **Máté Domokos kérdése:**

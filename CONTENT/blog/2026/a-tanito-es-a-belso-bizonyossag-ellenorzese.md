@@ -5,6 +5,9 @@ image: 2026/a-tanito-es-a-belso-bizonyossag-ellenorzese.avif
 image_alt: A tanító és a belső bizonyosság ellenőrzése…(?)…
 lead: "Sem lelki élmény, sem karizma, sem állítólagos égi kapcsolat nem teszi tévedhetetlenné a tanítót. Minden tanításnak el kell viselnie a kérdéseket, az ellenvéleményt és a tényszerű ellenőrzést. Ez a rövid mérce megvéd attól, hogy vakon kövess bárkit."
 kerdes: "Melyik tanítást vizsgálnád meg újra ezzel a mércével?"
+kinek: "követsz egy karizmatikus tanítót, és nem akarsz vakon követni"
+tema: tanitok-es-tisztanlatas
+kereses: "tanító ellenőrzése; karizmatikus vezető; vak követés"
 ---
 
 Sem lelki élmény, sem karizma, sem átalakulás, sem állítólagos égi kapcsolat nem teszi tévedhetetlenné a tanítót.

@@ -5,6 +5,9 @@ image: 2026/md-megvalosito-rendszer-2.avif
 image_alt: MD MEGVALÓSÍTÓ RENDSZER
 lead: "Mielőtt bármit tennél az MD Megvalósító Rendszerrel kapcsolatban, először az Egyértelműsítő Alapvetéssel érdemes találkoznod. Ez nem előszó, hanem a bejárat: minden további tanítás, gyakorlat és közösségi forma ebből indul ki. Állj meg, vizsgáld meg, és csak azután lépj tovább."
 kerdes: "Mi az, amit egy új útra lépés előtt mindenképpen tisztáznod kell magadban?"
+kinek: "az MD-vel kapcsolatban bármibe kezdenél, és a bejáratot keresed"
+tema: md-megvalosito-rendszer
+kereses: "MD Megvalósító Rendszer; Egyértelműsítő Alapvetés; MD bejárat"
 ---
 
 **AZ MD-RENDSZER MEGKERÜLHETETLEN ELSŐ LÉPÉSE**

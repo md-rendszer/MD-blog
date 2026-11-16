@@ -5,6 +5,9 @@ image: 2026/md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program-2.av
 image_alt: MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program
 lead: "Helyreállítás, újjászületés, megvalósítás: az MD Megvalósító Rendszer három nagy mozdulata. Ez a rövid összefoglaló elmondja, mit ad a Program, kinek szól, és mit nem ígér – mert nem csodamódszer, hanem mindennapi, vizsgálható út."
 kerdes: "Az életed mely területén lenne a legnagyobb szükséged helyreállításra?"
+kinek: "tudni szeretnéd, mit ad az MD, és mit nem ígér"
+tema: md-megvalosito-rendszer
+kereses: "MD mit ad; nem csodamódszer; MD Program"
 ---
 
 Az **MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program** egy hét kötetből álló, mindennapi gyakorlatra épülő életvezetési program. Nem gyógymód, nem kúra és nem csodamódszer: abban segít, hogy az ember felismerje a valós helyzetét, és lépésről lépésre visszaigazodjon ahhoz, ami helyes – a REND-hez.

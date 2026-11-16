@@ -6,6 +6,9 @@ image_alt: Az ember nem önmagában működő, steril szervezet
 alias: az-ember-nem-onmagaban-mukodo-steril-szervezet-hanem-egymasba-agyazott-eletkozossegek-resze
 lead: "Testünkben és testünkön élőlények milliárdjai élnek velünk, és a talaj egészsége a miénkkel is összefügg. Ez az írás közérthetően mutatja be, mit jelent a mikrobiom, és miért ugyanannak a helyreállításnak két része a belső és a külső életközösség védelme."
 kerdes: "Mit teszel – akár aprót – a saját tested és a környezeted élővilágának egészségéért?"
+kinek: "érdekel a mikrobiom, és az, hogyan függ össze a talaj és a te egészséged"
+tema: egeszseg-es-termeszet
+kereses: "mikrobiom egyszerűen; bélflóra; talaj egészség"
 ---
 
 Hanem egymásba ágyazott életközösségek része  

@@ -5,6 +5,9 @@ image: 2026/a-legegyszerubb-erkolcsi-formula.avif
 image_alt: A legegyszerűbb erkölcsi formula…(?)…
 lead: "Ne tedd másnak, amit nem szeretnél, hogy veled tegyenek – ez a szabály Konfuciusznál és a keresztény hagyományban is megtalálható. A legnagyobb probléma nem az, hogy nem ismerjük, hanem hogy félelemből, kényelemből vagy érdekből nem tartjuk be. Ez az írás erről a nehézségről szól."
 kerdes: "Mikor szegted meg utoljára ezt az egyszerű szabályt – és mi vitt rá?"
+kinek: "tudod az aranyszabályt, mégis nehéz betartanod"
+tema: kapcsolatok-es-konfliktusok
+kereses: "aranyszabály; amit nem szeretnél hogy veled tegyenek; erkölcs"
 ---
 
 ## **Helyes viselkedés:**

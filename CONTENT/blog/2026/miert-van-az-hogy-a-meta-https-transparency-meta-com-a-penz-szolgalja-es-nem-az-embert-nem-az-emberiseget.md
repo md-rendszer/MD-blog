@@ -6,6 +6,9 @@ image_alt: Miért van az, hogy a “meta” https://transparency.meta.com/ a pé
 alias: miert-van-az-hogy-a-meta-https-transparency-meta-com-a-penz-szolgalja-es-nem-az-embert
 lead: "Miért szolgálják az óriási közösségi platformok elsősorban a profitot, és nem az embert? Ez az írás közérthetően bemutatja a gazdasági és strukturális okokat – és azt is, milyen alternatívák léteznek, ha szeretnéd tudatosabban használni a közösségi médiát."
 kerdes: "Mennyire érzed úgy, hogy te irányítod, mennyi időt töltesz a közösségi médiában – és nem fordítva?"
+kinek: "tudatosabban használnád a közösségi médiát"
+tema: tarsadalom-penz-technologia
+kereses: "Meta Facebook profit; közösségi média alternatívák; tudatos használat"
 ---
 
 A kérdező: Máté Domokos, az “MD Megvalósító Rendszer – Újjászületési és Helyreállító Program” alapítója  

@@ -5,6 +5,9 @@ image: 2026/amikor-a-szolga-uralkodni-kezd-az-ego-es-az-emberi-elme-tortenete.av
 image_alt: "Illusztráció az ego és az emberi elme kapcsolatáról: belső csend és ego-uralom kontrasztja"
 lead: "Van egy hang a fejünkben, amely szinte soha nem hallgat el: kommentál, értékel, aggódik. Az ego segít eligazodni a világban – de mi történik, amikor átveszi az irányítást? Ez az írás megmutatja, hogyan válhat újra eszközzé, és mit tapasztalhatunk meg, amikor már nem uralkodik."
 kerdes: "Mi az a jel nálad, amelyből észreveszed, hogy az egód vette át az irányítást?"
+kinek: "a fejedben szóló hang kommentál, aggódik, és nem hallgat el"
+tema: ego-es-elme
+kereses: "ego működése; belső hang; elme irányítása"
 ---
 
 ## Bevezető

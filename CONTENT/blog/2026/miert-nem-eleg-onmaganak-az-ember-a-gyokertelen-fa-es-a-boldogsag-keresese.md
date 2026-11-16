@@ -5,6 +5,9 @@ image: 2026/miert-nem-eleg-onmaganak-az-ember-a-gyokertelen-fa-es-a-boldogsag-ke
 image_alt: Miért nem elég önmagának az ember? – A gyökértelen fa és a boldogság keresése
 lead: "Dolgozunk, gyűjtünk, bizonyítunk – és amikor egy cél teljesül, már jelenik is meg a következő aggodalom. Ez az írás a gyökértelen fa képén keresztül mutatja meg, miért nem elég önmagának az ember, és hol találhat valódi megnyugvást. Ha a siker után is üresnek érzed magad, itt a válasz kezdete."
 kerdes: "Mi az, amiben a gyökereidet érzed – ami akkor is megtart, amikor minden más bizonytalan?"
+kinek: "a siker után is üresnek érzed magad"
+tema: onismeret-es-jelenlet
+kereses: "üresség siker után; boldogság keresése; gyökértelenség"
 ---
 
 **A mai ember sok mindent képes megszerezni, miközben egyre nehezebben találja meg azt, amiben megnyugodhat.**

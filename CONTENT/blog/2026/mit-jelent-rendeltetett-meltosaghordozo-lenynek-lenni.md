@@ -5,6 +5,9 @@ image: 2026/mit-jelent-rendeltetett-meltosaghordozo-lenynek-lenni.avif
 image_alt: Mit jelent, Rendeltetett Méltósághordozó Lénynek Lenni…(?)…
 lead: "Nem a véletlen műve vagy: rendeltetéssel jöttél létre, és méltóságot hordozol, akkor is, ha ezt most nem érzed. Ez az írás három szóra bontja a kifejezést, hogy pontosan értsd, mit jelent rendeltetett méltósághordozó lénynek lenni. Ha kételkedsz a saját értékedben, ez neked szól."
 kerdes: "Mi segít neked emlékezni a saját értékedre azokon a napokon, amikor ezt a legkevésbé érzed?"
+kinek: "kételkedsz a saját értékedben"
+tema: meltosag-es-ujrakezdes
+kereses: "önérték; méltósághordozó lény; rendeltetés"
 ---
 
 A **„Rendeltetett Méltósághordozó Lénynek Lenni”** kifejezés egy mély, egyszerre teológiai, filozófiai és spirituális megfogalmazás. Azt jelenti, hogy az ember nem a véletlen műve, hanem egy **meghatározott felsőbb céllal (rendeltetéssel) megalkotott létező, aki önmagában hordozza az isteni vagy egyetemes méltóságot**.

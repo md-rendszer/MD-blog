@@ -5,6 +5,9 @@ image: 2026/biblia-md-kivonat-3-resz.avif
 image_alt: "Lefelé, majd felfelé ívelő út: REND, kiesés, szétesés, megtérés, helyreállítás – Biblia – MD kivonat III."
 lead: "A teljes Biblia egyetlen összefüggő képletben: kiesés az igaz rendből, belső szétesés, majd helyreállítás megtéréssel, igazodással és fegyelmezett cselekvéssel. A kivonat harmadik része ezt a főképletet bontja ki, és lefordítja az MD nyelvére."
 kerdes: "A képlet lépései közül – megtérés, igazodás, cselekvés – melyik a legnehezebb számodra?"
+kinek: "a Biblia egészének egyetlen összefüggő ívét keresed"
+tema: hit-es-biblia
+kereses: "Biblia fő üzenete; bűnbeesés és helyreállítás; Biblia lényege"
 ---
 
 ## **A teljes Biblia egyetlen összefüggő MD-alapképlete + napi életvezetési protokollá alakítva** I. A TELJES BIBLIA EGYETLEN ÖSSZEFÜGGŐ MD-ALAPKÉPLETE

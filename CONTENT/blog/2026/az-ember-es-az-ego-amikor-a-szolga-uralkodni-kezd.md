@@ -6,6 +6,9 @@ image_alt: Amikor a szolga uralkodni kezd – az ember és az ego története
 alias: lehetseges-hogy-az-esz-uralkodoket-nem-csupan-eszkozkent-az-ember-egyik-legnagyobb-erteke
 lead: "Az ego jó szolga, de rossz uralkodó: ha irányítjuk, segít élni a világban; ha ő uralkodik, zaj, félelem és belső feszültség lesz belőle. Ez az írás spirituális és filozófiai nézőpontból mutatja meg, hogyan vehetjük vissza a vezetést."
 kerdes: "Melyik helyzetben veszed észre leginkább, hogy az egód átvette az irányítást?"
+kinek: "filozófiai és spirituális szemmel szeretnéd megérteni az egót"
+tema: ego-es-elme
+kereses: "ego jó szolga rossz úr; ego spiritualitás; vezetés visszavétele"
 ---
 
 **Bevezető gondolat**

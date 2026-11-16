@@ -5,6 +5,9 @@ image: 2026/ertekteremto-eletpalya-ajanlat.avif
 image_alt: Értékteremtő Életpálya Ajánlat
 lead: "Pénzt, tárgyakat, lehetőségeket újra megszerezhetünk – az eltelt életidőnket soha. Az Értékteremtő Életpálya Ajánlat arról szól, hogyan fordíthatod a legértékesebb kincsedet olyan munkára, amely értéket teremt neked és másoknak is. Ha azon gondolkodsz, mire érdemes tenned az éveidet, olvasd el."
 kerdes: "Ha visszanézel az elmúlt évre, az idődnek mekkora része teremtett valódi értéket – neked vagy másoknak?"
+kinek: "azon gondolkodsz, mire érdemes tenned az éveidet"
+tema: tarsadalom-penz-technologia
+kereses: "életidő értéke; értelmes munka; életpálya"
 ---
 
 Az ember legértékesebb kincse az életideje – nem mindegy, mire fordítja, és mit épít fel belőle  

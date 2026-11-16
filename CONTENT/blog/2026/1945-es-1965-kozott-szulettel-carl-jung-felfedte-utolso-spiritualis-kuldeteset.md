@@ -5,6 +5,9 @@ image: 2026/1945-es-1965-kozott-szulettel-carl-jung-felfedte-utolso-spiritualis-
 image_alt: Aranyló híd két part között, közepén égő lámpás – 1945–1965, nem az utolsó esélyed, a mai napod
 lead: "Egy egyórás videó azoknak szól, akik 1945 és 1965 között születtek: a „hídépítő” nemzedéknek. Végigolvastam a leiratot, és leírtam, mit vettem ki belőle – és mit nem. Nem az utolsó esélyed ez, hanem a mai napod. Ha ebbe a nemzedékbe tartozol, ez neked szól."
 kerdes: "Mit szeretnél átadni a következő nemzedéknek abból, amit az életed során megtanultál?"
+kinek: "1945 és 1965 között születtél, és láttad a Carl Jung-os „hídépítő nemzedék” videót"
+tema: tanitok-es-tisztanlatas
+kereses: "Carl Jung 1945 1965 között születtek; hídépítő nemzedék; Jung spirituális küldetés videó"
 ---
 
 <https://www.youtube.com/watch?v=oStPDwruhwQ>

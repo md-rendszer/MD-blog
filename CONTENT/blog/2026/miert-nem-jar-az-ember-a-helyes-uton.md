@@ -5,6 +5,9 @@ image: 2026/miert-nem-jar-az-ember-a-helyes-uton.avif
 image_alt: Miért nem jár az ember a helyes úton…(?)…
 lead: "A lelke mélyén az ember gyakran pontosan tudja, mit kellene tennie – mégis ezernyi látszattevékenységet talál ki helyette. Ennek oka többnyire nem a tudás hiánya, hanem az, hogy a bennünk lévő egyik rész nem bírja el a változás kényelmetlenségét. Ha ismerős a halogatás, ez az írás megmutatja a gyökerét."
 kerdes: "Mi az az egy dolog, amit a lelked mélyén tudod, hogy meg kellene tenned – és mivel szoktad helyettesíteni?"
+kinek: "tudod, mit kellene tenned, mégis halogatod"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "halogatás oka; tudom mégsem teszem; változás kényelmetlensége"
 ---
 
 Miért van az, hogy az ember, habár a lelke mélyén pontosan tudja, hogy mit kellene tennie, de inkább kitalál milliárd és milliárd “látszat tevékenységet”, mint, hogy megtenné, de akárcsak megközelítené azt az egyet, aminek megtételére a lelke ösztönzi?

@@ -5,6 +5,9 @@ image: 2026/az-onmagunkra-ebredesunk-a-vegpontja-a-foldi-utunknak-vagy-csak-egy-
 image_alt: A felszabadult lélek extázisa
 lead: "Az önmagunkra ébredés nem végpont, hanem küszöb: nem kilépés az életből, hanem egészen más minőségű belépés bele. Ez az írás arról szól, mi változik meg, és mi marad, amikor az ember már nem azonosul a szerepeivel és a sebeivel. Ha átéltél már egy ilyen pillanatot, ismerős lesz."
 kerdes: "Melyik szereped vagy történeted az, amelytől a legnehezebb lenne megkülönböztetned önmagad?"
+kinek: "átéltél egy ébredés-pillanatot, és azt kérdezed: és most mi jön?"
+tema: onismeret-es-jelenlet
+kereses: "spirituális ébredés után; ébredés vége vagy kezdete; tudatos létezés"
 ---
 
 Ez nem végpont.

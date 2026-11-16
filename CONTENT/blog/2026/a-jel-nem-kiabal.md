@@ -5,6 +5,9 @@ image: 2026/a-jel-nem-kiabal.avif
 image_alt: "Résnyire nyitott ajtó meleg fénnyel két arany fényoszlop között; egyik oldalon zsúfolt felkiáltójelek, a másikon nyugodt, nyitott szem"
 lead: "Egy egyórás videó azt ígérte, hogy pont engem kellett megtalálnia, és soha többé nem fogom látni. Végighallgattam, és megkértem Claude-ot, mondja el őszintén, mit lát benne. Ez az írás leveszi a sürgetés csomagolását, és megmutatja, ami alatta valóban igaz: a jel nem kiabál."
 kerdes: "Melyik „most vagy soha” üzenet sürgetett utoljára – és mi lett volna, ha nem a sürgetésre, hanem a csendre figyelsz?"
+kinek: "egy „most vagy soha” spirituális videó sürgetett, és bizonytalan vagy, mit higgy"
+tema: tanitok-es-tisztanlatas
+kereses: "most vagy soha videó; spirituális jel; manipulatív spirituális videók"
 ---
 
 *A REND nem közeledik — kiderül.*

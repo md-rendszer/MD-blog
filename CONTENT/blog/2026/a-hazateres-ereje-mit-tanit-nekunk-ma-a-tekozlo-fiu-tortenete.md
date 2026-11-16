@@ -5,6 +5,9 @@ image: 2026/a-hazateres-ereje-mit-tanit-nekunk-ma-a-tekozlo-fiu-tortenete.avif
 image_alt: "A hazatérés ereje: Mit tanít nekünk ma a tékozló fiú története?"
 lead: "Mindannyian követtünk már el olyan hibát, amely után úgy éreztük, nincs visszaút. A tékozló fiú története erről a mélypontról szól – és az azt követő, felfoghatatlan kegyelemről. Ez az írás lépésről lépésre bontja ki, mit tanít ma nekünk a hazatérés ereje."
 kerdes: "Ki várt rád kitárt karokkal, amikor a legkevésbé érezted, hogy megérdemled?"
+kinek: "elkövettél egy hibát, és úgy érzed, nincs visszaút"
+tema: meltosag-es-ujrakezdes
+kereses: "tékozló fiú tanulsága; van visszaút; megbocsátás"
 ---
 
 A fiú, aki mindent elveszített, és az apa, aki mindent visszaadott

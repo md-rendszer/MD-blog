@@ -6,6 +6,9 @@ image_alt: Nem egy ember az út – MD Megvalósítási Rendszer
 alias: nem_egy_ember_az_ut
 lead: "Van-e olyan ember, aki egymaga, önmagát útnak kinevezve boldog életbe vezetheti az emberiséget? A rövid válasz: nincs. Ez az írás azt mutatja meg, miért nem egy személy, hanem a mindenki által vizsgálható igazodás az út – és miért nem követőket, hanem önálló embereket keres az MD."
 kerdes: "Követtél már olyan tanítót vagy vezetőt, akiben később csalódtál – és mit tanított ez neked a saját ítélőképességedről?"
+kinek: "valaki azt állítja, ő az egyetlen út"
+tema: tanitok-es-tisztanlatas
+kereses: "guru kultusz; egyetlen út; önálló ember"
 ---
 
 Újjászületési és Helyreállítási Program

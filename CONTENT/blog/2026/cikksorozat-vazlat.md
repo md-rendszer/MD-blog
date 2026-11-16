@@ -5,6 +5,9 @@ image: 2026/a-100-os-felelossegvallalas-alkalmazhatosaga-konkret-konfliktushelyz
 image_alt: CSEND - IGAZSÁG - FELELŐSSÉG
 lead: "Miért lett a hallgatás erény, és miért támadják azokat, akik figyelmeztetnek? Ez az írás egy készülő négyrészes cikksorozat kérdéseit gyűjti össze a csend kultúrájától az ébresztés lehetőségéig – nem vádként, hanem lámpával."
 kerdes: "A négy kérdéskör közül melyikre keresnéd elsőként a választ – és miért éppen arra?"
+kinek: "érdekel, miért lett erény a hallgatás"
+tema: tarsadalom-penz-technologia
+kereses: "hallgatás kultúrája; figyelmeztetők; csend és igazság"
 ---
 
 ### **Csend – Igazság – Felelősség**

@@ -5,6 +5,9 @@ image: 2026/a-tudasbol-egyutt-teremtunk-erteket.avif
 image_alt: A tudásból együtt teremtünk értéket
 lead: "Nem kívánok Ön fölé állni, sürgetni vagy meggyőzni. Azt javaslom, hogy semmit – még a saját gondolatait se – fogadja el megfigyelés, megértés és a REND-hez való igazodás nélkül. Ez a meghívás arról szól, hogyan teremthetünk a tudásból közösen, felelősen értéket."
 kerdes: "Milyen tudásod van, amelyből másokkal együtt értéket teremthetnél?"
+kinek: "együttműködést keresel, és fontos, hogy ne sürgessenek, ne győzködjenek"
+tema: md-megvalosito-rendszer
+kereses: "közös értékteremtés; MD meghívás; együttműködés"
 ---
 
 Nem kívánok Ön fölé állni, sürgetni, meggyőzni, félelmet kelteni Önben, vagy bármilyen módon ráerőltetni Önre azt, amit én igaznak és értékesnek tartok.  

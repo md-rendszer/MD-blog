@@ -5,6 +5,9 @@ image: 2026/az-md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program-4
 image_alt: Az MD Megvalósító Rendszer szimbolikus képe – újjászületés és tudatos élet
 lead: "Egész életemben zavart minden hazugság és félrebeszélés – már gyerekként sem tudtam elfogadni, hogy az emberek gyakran nem az igazság szerint élnek. Ez az írás elmondja, miért hoztam létre az MD Megvalósító Rendszert, mit jelent benne az újjászületés, és hogyan működhet egy ilyen közösség."
 kerdes: "Mi az a helytelenség a világban, amely téged a legjobban zavar – és mit teszel ellene a saját életedben?"
+kinek: "tudni szeretnéd, miért hozta létre Domi az MD-t"
+tema: md-megvalosito-rendszer
+kereses: "MD keletkezése; miért MD; újjászületés közösség"
 ---
 
 Miért hoztam létre az MD Megvalósító Rendszert?  

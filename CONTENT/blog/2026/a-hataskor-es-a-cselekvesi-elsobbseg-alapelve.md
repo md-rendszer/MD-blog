@@ -5,6 +5,9 @@ image: 2026/a-hataskor-es-a-cselekvesi-elsobbseg-alapelve.avif
 image_alt: A HATÁSKÖR ÉS A CSELEKVÉSI ELSŐBBSÉG ALAPELVE
 lead: "Mi az, ami most valóban rajtam múlik? Mi a következő konkrét lépés? Mit kell elengednem, mert nincs rá befolyásom? Ez a három kérdés az MD mindennapi gyakorlatának alapja. Ha szétszórt vagy, vagy túl sok mindenért aggódsz, tedd fel őket még ma."
 kerdes: "Ha most feltennéd magadnak a három kérdést, mi lenne a második kérdésre a válaszod: mi a következő konkrét lépés?"
+kinek: "szétszórt vagy, túl sok mindenért aggódsz, és nem tudod, mivel kezdd"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "mi múlik rajtam; túl sokat aggódom; következő lépés"
 ---
 
 > **Mindennapi figyelmünket, időnket és erőnket elsősorban arra fordítjuk, amit ténylegesen jobbá tehetünk.**

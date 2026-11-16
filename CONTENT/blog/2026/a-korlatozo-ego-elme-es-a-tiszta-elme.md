@@ -5,6 +5,9 @@ image: 2026/a-korlatozo-ego-elme-es-a-tiszta-elme.avif
 image_alt: A korlátozó ego-elme és a tiszta elme…(?)…
 lead: "Hová juthat az az ember, akit a versengő, mindig főszereplő akaró ego-elme mozgat – és hová az, aki tiszta elmével él? Ez a rövid írás egyetlen mondatban is összefoglalja a lényeget: nem az ego tökéletesítése a cél, hanem a vele való téves azonosulás meghaladása."
 kerdes: "Hol versengsz még ma is, ahol valójában nem is akarsz győzni?"
+kinek: "röviden szeretnéd megérteni, mi a különbség az ego-elme és a tiszta elme között"
+tema: ego-es-elme
+kereses: "ego elme; tiszta elme; ego meghaladása"
 ---
 
 Emberként mire juthatunk az ego-elmével, és mire juthatunk a teljes elmével…(?)…   

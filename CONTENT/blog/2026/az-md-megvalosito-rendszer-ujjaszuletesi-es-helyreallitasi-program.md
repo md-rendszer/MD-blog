@@ -5,6 +5,9 @@ image: 2026/az-md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program.a
 image_alt: Az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program”
 lead: "Mi az MD Megvalósító Rendszer, ki alkotta, és hol érhető el? Ez a rövid összefoglaló bemutatja a Program hét állomását, mottóját és hivatalos csatornáit. Nem követőket keres, hanem önálló embereket, akik a saját életükben vizsgálják meg, mi működik."
 kerdes: "Milyen kérdésed lenne az MD-ről, amelyre még nem találtál választ?"
+kinek: "gyorsan szeretnéd megtudni, mi az MD, ki alkotta, és hol érhető el"
+tema: md-megvalosito-rendszer
+kereses: "MD Megvalósító Rendszer; Máté Domokos program; MD hét állomás"
 ---
 
 Az **MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program** Máté Domokos (Domi) hétkötetes életvezetési programja. Abban segít, hogy az ember lépésről lépésre helyreállítsa a saját belső rendjét, és ezt a mindennapjaiban, a családjában és a közösségében is megélje.

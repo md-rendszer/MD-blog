@@ -5,6 +5,9 @@ image: 2026/mienk-lesz-a-holnap-de-nekunk-a-ma-kell.avif
 image_alt: Miénk lesz a holnap…? – De nekünk a MA kell!
 lead: "„Miénk lesz a holnap” – mondjuk, és közben elszalasztjuk az egyetlen időt, amely valóban a miénk: a mát. Ez az írás néhány egyszerű, napi lépést ad ahhoz, hogy úgy élj ma, hogy a holnap valóban a tiéd legyen. Ha mindig későbbre halasztod az életet, ez neked szól."
 kerdes: "Mit tennél még ma, ha tudnád, hogy a holnap nem biztos?"
+kinek: "mindig későbbre halasztod az életet"
+tema: felelosseg-es-napi-gyakorlat
+kereses: "halogatás; élj ma; napi lépések"
 ---
 
 *Írta: Máté Domokos | Kategória: Életrend, Tudatosság | Dátum: 2026. július 18.*

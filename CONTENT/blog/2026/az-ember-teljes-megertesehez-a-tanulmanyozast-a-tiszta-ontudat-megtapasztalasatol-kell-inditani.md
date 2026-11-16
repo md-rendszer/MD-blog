@@ -5,6 +5,9 @@ image: 2026/image-171d20150f2881233021.avif
 image_alt: Az ember teljes megértéséhez a tanulmányozást a tiszta öntudat megtapasztalásától kell indítani,
 lead: "Ha az embert teljesen meg szeretnéd érteni, honnan érdemes kezdened, és milyen sorrendben haladnod? Ez az írás azt javasolja: a tiszta öntudat megtapasztalásától a külső elmén és az egyetemes törvényeken át a mindennapi cselekvésig. Az önismeret nem elmélet, hanem gyakorlat."
 kerdes: "Az önismereted útján mi segített többet: egy könyv, egy ember vagy egy saját tapasztalat?"
+kinek: "rendszerezetten szeretnéd megismerni az embert, és a helyes sorrendet keresed"
+tema: onismeret-es-jelenlet
+kereses: "önismeret sorrendje; tiszta öntudat; önismeret gyakorlat"
 ---
 
 majd fokozatosan haladni a külső elme, az egyetemes törvények és a mindennapi cselekvés felé.

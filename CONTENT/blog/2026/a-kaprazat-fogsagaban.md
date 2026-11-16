@@ -5,6 +5,9 @@ image: 2026/a-kaprazat-fogsagaban.avif
 image_alt: A KÁPRÁZAT FOGSÁGÁBAN…(?)…
 lead: "Miért nem azt látjuk, ami pőrén előttünk van? Mert nem a szem téved először, hanem az értelmezés – és mert ragaszkodunk a számunkra kényelmes káprázathoz. Ez az írás megmutatja, hogyan ül trónra a vélemény az igazság helyén, és hogyan léphetsz ki a tükörteremből."
 kerdes: "Mit nem vagy hajlandó ma meglátni, mert kényelmesebb tovább hinni a róla alkotott képedet?"
+kinek: "úgy érzed, a véleményed vagy mások véleménye elhomályosítja, ami valóban van"
+tema: onismeret-es-jelenlet
+kereses: "illúzió és valóság; vélemény vs igazság; tisztánlátás"
 ---
 
 Miért nem azt látja a mai ember, ami pőrén előtte VAN?

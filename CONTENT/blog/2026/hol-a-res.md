@@ -5,6 +5,9 @@ image: 2026/hol-a-res.avif
 image_alt: "Sötét falon egyetlen keskeny rés, amelyen arany fénysugár hatol át egy bordó rombuszig"
 lead: "Amikor rendszerről beszélsz, az emberek tanítást hallanak, és védekeznek. Amikor azt mondod: „ezt a saját életemen próbáltam ki”, embert hallanak, és odafordulnak. Ez az írás arról szól, hol a rés, ahol a szó átjut – és miért a saját hangod a kulcs."
 kerdes: "Te mikor vetted észre utoljára azt a bizonyos rést egy beszélgetésben, ahol a szavad végre átjutott?"
+kinek: "fontosat mondanál, de az emberek védekeznek, amikor tanítást hallanak"
+tema: kapcsolatok-es-konfliktusok
+kereses: "hogyan adjam át; meggyőzés helyett; saját tapasztalat"
 ---
 
 > Milyen az én hangom, amin szólnom ajánlott? MD Megvalósító Rendszeres, avagy Máté Domokosos? És ahogy a szántóvető ember kérdezné: hová és milyen életképes magokat vessek, hogy a megnehezült, mostoha körülmények között is kihajtsanak és termést hozzanak?

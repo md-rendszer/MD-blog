@@ -5,6 +5,9 @@ image: 2026/md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program-prag
 image_alt: "Az MD Pragmatikus Alapelv címképe"
 lead: "Az MD Pragmatikus Alapelv a módszertan egyik legfontosabb zsinórmértéke: elméletek és tanítások önmagukban nem érnek semmit, csak a gyakorlatban igazolt hasznuk számít. Ez az írás pontokba szedve foglalja össze, hogyan teremti meg ez az elv a szellemi és anyagi egyensúlyt."
 kerdes: "Mi az, amit sokáig csak elméletben tudtál, és amikor végre a gyakorlatba ültetted, megváltozott tőle valami?"
+kinek: "csak a gyakorlatban igazolt tanítások érdekelnek"
+tema: md-megvalosito-rendszer
+kereses: "pragmatikus alapelv; gyakorlati haszon; MD alapelv"
 ---
 
 Az **MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program** keretein belül az **MD Pragmatikus Alapelv** a módszertan egyik legfontosabb gyakorlati zsinórmértéke. [[1](/blog/md-pragmatikus-alapelv-md-megvalosito-rendszer-ujjaszuletesi-es-helyreallitasi-program/)]

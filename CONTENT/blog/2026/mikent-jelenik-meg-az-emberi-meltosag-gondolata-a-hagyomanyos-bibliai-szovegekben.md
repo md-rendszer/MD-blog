@@ -5,6 +5,9 @@ image: 2026/mikent-jelenik-meg-az-emberi-meltosag-gondolata-a-hagyomanyos-biblia
 image_alt: Miként jelenik meg az emberi méltóság gondolata a hagyományos bibliai szövegekben…(?)…
 lead: "A Zsoltárok könyvétől az evangéliumokig a Biblia sokféleképpen beszél az ember méltóságáról. Ez az írás közvetlenül összeveti a hagyományos szövegeket a mai, „rendeltetett méltósághordozó lény” megfogalmazással. Ha a hitedben és az önismeretedben is keresed a méltóság forrását, itt összeérnek."
 kerdes: "Melyik bibliai mondat vagy történet beszél hozzád a legerősebben az emberi méltóságról?"
+kinek: "a hitedben és az önismeretedben is a méltóság forrását keresed"
+tema: hit-es-biblia
+kereses: "emberi méltóság Biblia; Zsoltárok méltóság; bibliai idézetek"
 ---
 
 A hagyományos bibliai szövegek és a modern spirituális megfogalmazás („Rendeltetett Méltósághordozó Lény”) alapvetően **ugyanabból a teológiai magból táplálkoznak**, de a nyelvezetük, a hangsúlyaik és a kontextusuk jelentősen eltér.
