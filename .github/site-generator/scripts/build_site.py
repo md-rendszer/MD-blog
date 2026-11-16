@@ -328,9 +328,9 @@ def layout(title: str, content: str, description: str = "", meta: dict | None = 
   <title>{safe_title} · {html.escape(SITE_NAME)}</title>
   {social_meta(meta)}
   {head_extra}
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,600;1,400&family=Playfair+Display:wght@500;600;700&display=swap">
+  <link rel="preload" href="{href('/assets/fonts/gelasio-latin-wght-normal.woff2')}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{href('/assets/fonts/gelasio-ext-wght-normal.woff2')}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{href('/assets/fonts/playfair-display-latin-wght-normal.woff2')}" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="{href('/assets/site.css')}">
   <link rel="icon" href="{href('/assets/favicon.svg')}" type="image/svg+xml">
   <link rel="alternate" type="application/rss+xml" title="{html.escape(SITE_NAME, quote=True)}" href="{SITE_URL}/feed.xml">
@@ -414,6 +414,7 @@ def image_element(
     srcset: str = "",
     sizes: str = "(max-width: 760px) 100vw, 900px",
     loading: str = "lazy",
+    priority: bool | None = None,
 ) -> str:
     attributes = [
         f'src="{html.escape(prefixed_url(source), quote=True)}"',
@@ -421,7 +422,7 @@ def image_element(
         f'loading="{loading}"',
         'decoding="async"',
     ]
-    if loading == "eager":
+    if priority if priority is not None else loading == "eager":
         attributes.append('fetchpriority="high"')
     if width:
         attributes.append(f'width="{width}"')
@@ -439,7 +440,7 @@ def image_element(
     return f"<img {' '.join(attributes)}>"
 
 
-def featured_image(document: Document, class_name: str) -> str:
+def featured_image(document: Document, class_name: str, position: int | None = None) -> str:
     if not document.image:
         return ""
     image_path = filesystem_path(CONTENT / "images" / document.image)
@@ -456,15 +457,18 @@ def featured_image(document: Document, class_name: str) -> str:
         "(max-width: 699px) 100vw, (max-width: 1399px) 46vw, 640px"
         if class_name == "post-card-image"
         else "(max-width: 760px) 100vw, 900px",
-        "eager" if class_name == "featured-image" else "lazy",
+        # Az első sor kártyaképei azonnal látszanak: nem lustán töltjük őket,
+        # és a legelső kapja a legnagyobb prioritást (gyorsabb első megjelenés).
+        "eager" if class_name == "featured-image" or (position is not None and position < 3) else "lazy",
+        True if class_name == "featured-image" or position == 0 else (False if position is not None else None),
     )
     return f'<figure class="{class_name}">{image}</figure>'
 
 
-def post_card(post: Document) -> str:
+def post_card(post: Document, position: int | None = None) -> str:
     # A kártyán a kép díszítő: a cím ugyanabban a linkben áll, ezért üres alt,
     # különben a képleírás a cikk-kivonat elé kerülne (Google, felolvasók).
-    image = featured_image(post, "post-card-image").replace(
+    image = featured_image(post, "post-card-image", position).replace(
         f'alt="{html.escape(post.image_alt or post.title, quote=True)}"', 'alt=""', 1
     )
     post_url = href(f"/blog/{urllib.parse.quote(post.slug, safe='-_.~')}/")
@@ -852,7 +856,7 @@ def write_topic_pages(posts: list[Document]) -> list[str]:
   <p class="topic-back"><a href="{href('/temak/')}">← Minden téma</a></p>
   <h1>{html.escape(name)}</h1>
   <p class="topic-intro">{html.escape(intro)}</p>
-  <div class="post-grid">{''.join(post_card(p) for p in topic_posts)}</div>
+  <div class="post-grid">{''.join(post_card(p, index) for index, p in enumerate(topic_posts))}</div>
 </section>"""
         write_page(OUTPUT / "tema" / slug / "index.html", name, content, intro)
         urls.append(f"/tema/{slug}/")
@@ -1111,7 +1115,7 @@ def main() -> None:
         page_posts = posts[(current_page - 1) * per_page : current_page * per_page]
         archive = f"""<section class="blog-archive">
   {blog_intro}
-  <div class="post-grid">{''.join(post_card(post) for post in page_posts)}</div>
+  <div class="post-grid">{''.join(post_card(post, index) for index, post in enumerate(page_posts))}</div>
   {pagination(current_page, total_pages)}
 </section>
 """

@@ -7,6 +7,10 @@
 - Keresőknek: minden bejegyzés böngésző- és Google-címe a fő keresett kifejezéssel bővül, a bejegyzések strukturált adatot (BlogPosting) kapnak, és elkészül a sitemap.xml és a robots.txt.
 - Az Írások között csak a képpel ellátott bejegyzések maradnak nyilvánosak; a kép nélküli belső munkajegyzetek (103 db) az archívumba kerültek, a Biblia – MD kivonat 2. és 3. része nyilvános maradt, régi címük az Írások kezdőlapjára visz.
 
+## Sebesség
+
+- Gyorsabban jelenik meg az Írások oldal és minden bejegyzés: a betűtípusok a saját oldalról, előre betöltve érkeznek (nem a Google-tól), az első sor képei pedig azonnal, kiemelt elsőbbséggel töltődnek be.
+
 ## Képek
 
 - Minden bejegyzés képe – a borítókép és a szövegközi illusztrációk is – kattintásra teljes képernyőn nyílik meg, a legnagyobb elérhető felbontásban; a képre újra koppintva tovább nagyítható, így az apró feliratok is olvashatók. Bezárás: ×, Esc vagy a kép mellé kattintás.
