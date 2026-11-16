@@ -56,8 +56,7 @@ TOPICS: dict[str, tuple[str, str]] = {
 # Hozzászólások: Hyvor Talk (talk.hyvor.com). Üresen hagyva nincs hozzászólás-mező.
 # A Website ID nem titkos, a Hyvor Talk konzoljában látható.
 HYVOR_WEBSITE_ID = os.environ.get("HYVOR_WEBSITE_ID", "").strip()
-# Olvasói visszajelzés (Tetszett? + három kérdés). Amíg nincs SalesAutopilot-űrlap,
-# a válasz e-mailben érkezik erre a címre.
+# Korábbi visszajelzési cím (a SalesAutopilot-űrlap óta nem használt).
 FEEDBACK_EMAIL = os.environ.get("FEEDBACK_EMAIL", "kapcsolat@mdmegvalositorendszer.hu").strip()
 MD = markdown.Markdown(extensions=["extra", "sane_lists", "smarty"])
 IMAGE_MANIFEST_PATH = CONTENT / "images" / "_manifest.json"
@@ -664,76 +663,24 @@ def closing_question(post: Document) -> str:
 </aside>"""
 
 
+# SalesAutopilot-űrlap (Domi által megadott beágyazó kód) – SZÓ SZERINT, változtatás nélkül.
+SALESAUTOPILOT_FORM_EMBED = """<div id="mmform339223" class="mmform" style="position: relative; padding-bottom: 300px; height: 0; overflow: hidden; max-width: 100%;"></div>
+<script type="text/javascript">
+var uniqueId = 3392231794854362663,
+	listId = 172831,
+	formId = 339223,
+	iwidth=420,
+	mmDomain='salesautopilot.s3.amazonaws.com',
+	secondMMDomain='sw.marketingszoftverek.hu',
+	spancont=false,
+	secure='https:' == (document.location.protocol)?true:false;
+</script>
+<script type="text/javascript" src="https://d1ursyhqs5x9h1.cloudfront.net/sw/scripts/mm-embed-iframe-1.19.min.js"></script>"""
+
+
 def feedback_section(post: Document, url: str) -> str:
-    attr = lambda value: html.escape(value, quote=True)
-    return f"""<section class="feedback" id="visszajelzes" aria-label="Visszajelzés" data-slug="{attr(post.slug)}" data-title="{attr(post.title)}" data-url="{attr(url)}" data-email="{attr(FEEDBACK_EMAIL)}">
-  <p class="feedback-title">Tetszett ez az írás?</p>
-  <div class="feedback-vote" role="group" aria-label="Tetszett?">
-    <button type="button" class="feedback-btn" data-vote="Tetszett" aria-pressed="false">👍 Tetszett</button>
-    <button type="button" class="feedback-btn" data-vote="Nem igazán" aria-pressed="false">🤔 Nem igazán</button>
-  </div>
-  <form class="feedback-form" hidden>
-    <label>Mi tetszett, vagy mi nem – és miért?<textarea name="miert" rows="3"></textarea></label>
-    <label>Mi hiányzott? Mire kerested még a választ?<textarea name="hiany" rows="3"></textarea></label>
-    <label>Válaszod a cikk végi kérdésre:<textarea name="valasz" rows="3"></textarea></label>
-    <label>A neved (nem kötelező):<input type="text" name="nev" autocomplete="name"></label>
-    <label>Az e-mail címed, ha választ szeretnél (nem kötelező):<input type="email" name="email" autocomplete="email"></label>
-    <input type="text" name="_honey" tabindex="-1" autocomplete="off" style="display:none">
-    <button type="submit" class="share-btn feedback-send">Elküldöm a visszajelzésem</button>
-    <p class="feedback-note">Minden visszajelzést elolvasok, és a gyakori kérdésekre írásban is válaszolok. Az adatkezelésről az <a href="/adatkezelesi-tajekoztato/">adatkezelési tájékoztatóban</a> olvashatsz.</p>
-    <p class="feedback-error" hidden>Most nem sikerült elküldeni. <a class="feedback-mailto" href="#">Küldd el inkább e-mailben</a>, vagy próbáld újra kicsit később.</p>
-  </form>
-  <p class="feedback-thanks" hidden>Köszönöm, hogy megírtad! Megérkezett. Minden visszajelzés segít, hogy a következő írás még pontosabban szóljon.</p>
-</section>
-<script>
-document.querySelectorAll('.feedback').forEach(function (box) {{
-  var form = box.querySelector('.feedback-form'), vote = '';
-  box.querySelectorAll('.feedback-btn').forEach(function (b) {{
-    b.addEventListener('click', function () {{
-      vote = b.dataset.vote;
-      box.querySelectorAll('.feedback-btn').forEach(function (o) {{ o.setAttribute('aria-pressed', o === b ? 'true' : 'false'); }});
-      form.hidden = false;
-      try {{ localStorage.setItem('md-vote-' + box.dataset.slug, vote); }} catch (e) {{}}
-    }});
-  }});
-  function openAnswer() {{
-    form.hidden = false;
-    box.querySelector('.feedback-thanks').hidden = true;
-    setTimeout(function () {{ form.elements.valasz.focus({{ preventScroll: true }}); box.scrollIntoView({{ behavior: 'smooth', block: 'start' }}); }}, 50);
-  }}
-  document.querySelectorAll('a.closing-question-link[href="#visszajelzes"]').forEach(function (a) {{
-    a.addEventListener('click', function (ev) {{ ev.preventDefault(); history.replaceState(null, '', '#visszajelzes'); openAnswer(); }});
-  }});
-  if (location.hash === '#visszajelzes') openAnswer();
-  form.addEventListener('submit', function (ev) {{
-    ev.preventDefault();
-    var f = form.elements;
-    var body = 'Írás: ' + box.dataset.title + '\\n' + box.dataset.url + '\\n\\nTetszett? ' + (vote || '-') +
-      '\\n\\nMi tetszett / mi nem és miért:\\n' + f.miert.value + '\\n\\nMi hiányzott:\\n' + f.hiany.value +
-      '\\n\\nVálasz a kérdésre:\\n' + f.valasz.value + '\\n\\nNév: ' + f.nev.value + '\\nE-mail: ' + f.email.value + '\\n';
-    var mailto = 'mailto:' + box.dataset.email + '?subject=' + encodeURIComponent('Visszajelzés: ' + box.dataset.title) + '&body=' + encodeURIComponent(body);
-    if (f._honey.value) return;
-    var btn = form.querySelector('.feedback-send'), err = form.querySelector('.feedback-error');
-    btn.disabled = true; btn.textContent = 'Küldés…'; err.hidden = true;
-    var data = {{
-      _subject: 'Blog-visszajelzés: ' + box.dataset.title,
-      _template: 'table', _captcha: 'false',
-      'Írás': box.dataset.title, 'Link': box.dataset.url, 'Tetszett?': vote || '-',
-      'Mi tetszett / mi nem, miért': f.miert.value, 'Mi hiányzott': f.hiany.value,
-      'Válasz a kérdésre': f.valasz.value, 'Név': f.nev.value, 'email': f.email.value
-    }};
-    fetch('https://formsubmit.co/ajax/' + box.dataset.email, {{
-      method: 'POST', headers: {{ 'Content-Type': 'application/json', 'Accept': 'application/json' }}, body: JSON.stringify(data)
-    }}).then(function (r) {{ return r.json(); }}).then(function (j) {{
-      if (String(j.success) !== 'true') throw new Error(j.message || 'hiba');
-      form.hidden = true; box.querySelector('.feedback-thanks').hidden = false;
-    }}).catch(function () {{
-      err.hidden = false; err.querySelector('.feedback-mailto').href = mailto;
-      btn.disabled = false; btn.textContent = 'Elküldöm a visszajelzésem';
-    }});
-  }});
-}});
-</script>"""
+    # A korábbi „Tetszett ez az írás?” blokk helyén a SalesAutopilot-űrlap áll.
+    return '<section class="feedback feedback-sa" id="visszajelzes" aria-label="Visszajelzés">\n' + SALESAUTOPILOT_FORM_EMBED + '\n</section>'
 
 
 def comments_section(post: Document, url: str) -> str:
