@@ -47,4 +47,4 @@
 
 ## Nyelvi változatok
 
-- Egy írás fordításai a Kárpát-medence népeinek nyelvén (román, szlovák, szerb, horvát, szlovén, ukrán, ruszin, német, romani) saját címen jelennek meg; az eredeti és a fordítások tetején nyelvválasztó áll, a keresők pedig hreflang-jelöléssel tudják, melyik nyelv melyik változat. A fordítások nem kerülnek az Írások listába, a témákba és a hírcsatornába, de benne vannak az oldaltérképben. Első ilyen írás: A legnehezebb választás – innen indulhat a béke.
+- Egy írás fordításai a Kárpát-medence népeinek nyelvén (román, szlovák, szerb, horvát, szlovén, ukrán, ruszin, német, romani), valamint angolul a nagyvilágnak saját címen jelennek meg; az eredeti és a fordítások tetején nyelvválasztó áll, a keresők pedig hreflang-jelöléssel tudják, melyik nyelv melyik változat. A fordítások nem kerülnek az Írások listába, a témákba és a hírcsatornába, de benne vannak az oldaltérképben. Első ilyen írás: A legnehezebb választás – innen indulhat a béke.

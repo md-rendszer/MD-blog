@@ -203,6 +203,17 @@ LANGS: dict[str, dict[str, str]] = {
         "others": "Ginav vi ande aver čhiba:",
         "notice": "Kado paruvipe kerdas o Claude (Anthropic) andar o ungrikano lil. Te žanes romanes, bahtales primisarasa ćire pravime.",
     },
+    "en": {
+        "name": "English", "locale": "en_GB",
+        "kinek_label": "Who is this for?", "kinek_prefix": "For you, if",
+        "question": "A question for you",
+        "fb": "Share on Facebook", "more": "More ways to share ↓",
+        "share_title": "If this article touched something in you…",
+        "follow": "Follow:", "share": "Share:", "copy": "Copy link", "copied": "Copied ✓",
+        "fb_page": "Facebook page", "yt": "YouTube channel",
+        "others": "Read it in other languages too:",
+        "notice": "Translated by Claude (Anthropic) from the Hungarian original. Corrections are welcome.",
+    },
 }
 
 
