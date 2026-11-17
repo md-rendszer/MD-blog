@@ -44,3 +44,7 @@
 - Három írás (Akinek senki sem fogja a kezét, Ezt mondtad, Első 30 nap checklist) ékezetei a hibás mentésben elvesztek; visszaállítva, a szándékolt képhivatkozás-törlések megmaradtak.
 - A Rólam portréjának címe javítva (`/images/rolam/mate-domokos-portre.jpg`); a rendszeroldalra mutató linkek és átirányítások ismét az mdmegvalositorendszer.hu-ra mutatnak (önmagukra irányítottak, végtelen körben).
 - A `main` ágra tilos a felülíró feltöltés (force push).
+
+## Nyelvi változatok
+
+- Egy írás fordításai a Kárpát-medence népeinek nyelvén (román, szlovák, szerb, horvát, szlovén, ukrán, ruszin, német, romani) saját címen jelennek meg; az eredeti és a fordítások tetején nyelvválasztó áll, a keresők pedig hreflang-jelöléssel tudják, melyik nyelv melyik változat. A fordítások nem kerülnek az Írások listába, a témákba és a hírcsatornába, de benne vannak az oldaltérképben. Első ilyen írás: A legnehezebb választás – innen indulhat a béke.

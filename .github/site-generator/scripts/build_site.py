@@ -83,6 +83,131 @@ class Document:
     kinek: str = ""
     tema: str = ""
     kereses: tuple[str, ...] = ()
+    lang: str = "hu"
+    eredeti: str = ""
+
+
+# Nyelvi változatok (2026. november): egy magyar bejegyzés fordításai a Kárpát-medence
+# népeinek nyelvén. A fordítás fejlécében `lang: <kód>` és `eredeti: <magyar slug>` áll.
+# A fordítások saját címen jelennek meg, de nem kerülnek az Írások listába, a témákba
+# és a hírcsatornába; a magyar eredeti és a fordítások nyelvválasztóval kapcsolódnak.
+HU_LABELS = {
+    "name": "Magyar", "locale": "hu_HU",
+    "kinek_label": "Kinek szól?", "kinek_prefix": "Neked, ha",
+    "question": "Kérdés hozzád",
+    "fb": "Megosztom a Facebookon", "more": "További megosztás ↓",
+    "share_title": "Ha ez az írás megszólított benned valamit…",
+    "follow": "Kövesd:", "share": "Oszd meg:", "copy": "Link másolása", "copied": "Kimásolva ✓",
+    "fb_page": "Facebook-oldal", "yt": "YouTube-csatorna",
+    "others": "Olvasd el más nyelven is:",
+    "notice": "",
+}
+LANGS: dict[str, dict[str, str]] = {
+    "hu": HU_LABELS,
+    "ro": {
+        "name": "Română", "locale": "ro_RO",
+        "kinek_label": "Cui i se adresează?", "kinek_prefix": "Ție, dacă",
+        "question": "O întrebare pentru tine",
+        "fb": "Distribui pe Facebook", "more": "Alte opțiuni de distribuire ↓",
+        "share_title": "Dacă acest articol a atins ceva în tine…",
+        "follow": "Urmărește:", "share": "Distribuie:", "copy": "Copiază linkul", "copied": "Copiat ✓",
+        "fb_page": "Pagina de Facebook", "yt": "Canalul YouTube",
+        "others": "Citește și în alte limbi:",
+        "notice": "Traducere realizată de Claude (Anthropic) după originalul maghiar. Corecturile vorbitorilor nativi sunt binevenite.",
+    },
+    "sk": {
+        "name": "Slovenčina", "locale": "sk_SK",
+        "kinek_label": "Komu je určený?", "kinek_prefix": "Tebe, ak",
+        "question": "Otázka pre teba",
+        "fb": "Zdieľať na Facebooku", "more": "Ďalšie zdieľanie ↓",
+        "share_title": "Ak ťa tento článok v niečom oslovil…",
+        "follow": "Sleduj:", "share": "Zdieľaj:", "copy": "Kopírovať odkaz", "copied": "Skopírované ✓",
+        "fb_page": "Stránka na Facebooku", "yt": "Kanál YouTube",
+        "others": "Čítaj aj v iných jazykoch:",
+        "notice": "Preklad vytvoril Claude (Anthropic) z maďarského originálu. Opravy od rodených hovoriacich sú vítané.",
+    },
+    "sr": {
+        "name": "Српски", "locale": "sr_RS",
+        "kinek_label": "Коме је намењено?", "kinek_prefix": "Теби, ако",
+        "question": "Питање за тебе",
+        "fb": "Подели на Фејсбуку", "more": "Још дељења ↓",
+        "share_title": "Ако те је овај текст у нечему дотакао…",
+        "follow": "Прати:", "share": "Подели:", "copy": "Копирај линк", "copied": "Копирано ✓",
+        "fb_page": "Фејсбук страница", "yt": "Јутјуб канал",
+        "others": "Читај и на другим језицима:",
+        "notice": "Превод је урадио Claude (Anthropic) према мађарском оригиналу. Исправке изворних говорника су добродошле.",
+    },
+    "hr": {
+        "name": "Hrvatski", "locale": "hr_HR",
+        "kinek_label": "Kome je namijenjeno?", "kinek_prefix": "Tebi, ako",
+        "question": "Pitanje za tebe",
+        "fb": "Podijeli na Facebooku", "more": "Još dijeljenja ↓",
+        "share_title": "Ako te ovaj tekst u nečemu dotaknuo…",
+        "follow": "Prati:", "share": "Podijeli:", "copy": "Kopiraj poveznicu", "copied": "Kopirano ✓",
+        "fb_page": "Facebook stranica", "yt": "YouTube kanal",
+        "others": "Čitaj i na drugim jezicima:",
+        "notice": "Prijevod je izradio Claude (Anthropic) prema mađarskom izvorniku. Ispravci izvornih govornika su dobrodošli.",
+    },
+    "sl": {
+        "name": "Slovenščina", "locale": "sl_SI",
+        "kinek_label": "Komu je namenjeno?", "kinek_prefix": "Tebi, če",
+        "question": "Vprašanje zate",
+        "fb": "Deli na Facebooku", "more": "Več možnosti deljenja ↓",
+        "share_title": "Če te je ta zapis v čem nagovoril…",
+        "follow": "Spremljaj:", "share": "Deli:", "copy": "Kopiraj povezavo", "copied": "Kopirano ✓",
+        "fb_page": "Stran na Facebooku", "yt": "Kanal YouTube",
+        "others": "Beri tudi v drugih jezikih:",
+        "notice": "Prevod je pripravil Claude (Anthropic) po madžarskem izvirniku. Popravki naravnih govorcev so dobrodošli.",
+    },
+    "uk": {
+        "name": "Українська", "locale": "uk_UA",
+        "kinek_label": "Кому це адресовано?", "kinek_prefix": "Тобі, якщо",
+        "question": "Питання до тебе",
+        "fb": "Поділитися у Facebook", "more": "Інші способи поширення ↓",
+        "share_title": "Якщо ця стаття чимось тебе зачепила…",
+        "follow": "Стеж:", "share": "Поділися:", "copy": "Копіювати посилання", "copied": "Скопійовано ✓",
+        "fb_page": "Сторінка у Facebook", "yt": "Канал YouTube",
+        "others": "Читай також іншими мовами:",
+        "notice": "Переклад виконав Claude (Anthropic) з угорського оригіналу. Виправлення від носіїв мови вітаються.",
+    },
+    "rue": {
+        "name": "Русиньскый", "locale": "uk_UA",
+        "kinek_label": "Кому є адресоване?", "kinek_prefix": "Тобі, кедь",
+        "question": "Звідованя ку тобі",
+        "fb": "Подїлити на Facebooku", "more": "Інакше подїлити ↓",
+        "share_title": "Кедь тя тота статя дачым зачепила…",
+        "follow": "Слїдуй:", "share": "Подїль ся:", "copy": "Копіровати одказ", "copied": "Скопіроване ✓",
+        "fb_page": "Сторінка на Facebooku", "yt": "Канал YouTube",
+        "others": "Чітай і на іншых языках:",
+        "notice": "Переклад зробив Claude (Anthropic) з мадярьского оріґіналу. Поправкы од бесїдників русиньского языка суть вітаны.",
+    },
+    "de": {
+        "name": "Deutsch", "locale": "de_DE",
+        "kinek_label": "Für wen?", "kinek_prefix": "Für dich, wenn",
+        "question": "Eine Frage an dich",
+        "fb": "Auf Facebook teilen", "more": "Weitere Möglichkeiten zum Teilen ↓",
+        "share_title": "Wenn dich dieser Beitrag berührt hat…",
+        "follow": "Folge:", "share": "Teile:", "copy": "Link kopieren", "copied": "Kopiert ✓",
+        "fb_page": "Facebook-Seite", "yt": "YouTube-Kanal",
+        "others": "Auch in anderen Sprachen lesen:",
+        "notice": "Übersetzt von Claude (Anthropic) aus dem ungarischen Original. Korrekturen von Muttersprachlern sind willkommen.",
+    },
+    "rom": {
+        "name": "Romani", "locale": "hu_HU",
+        "kinek_label": "Kaske si?", "kinek_prefix": "Tuke, te",
+        "question": "Jekh pušipe tuke",
+        "fb": "Ulav pe Facebook", "more": "Aver droma te ulaves ↓",
+        "share_title": "Te kado lil astardas vareso ande tute…",
+        "follow": "Dikh:", "share": "Ulav:", "copy": "Kopisar o link", "copied": "Kopisardo ✓",
+        "fb_page": "Facebook rig", "yt": "YouTube kanalo",
+        "others": "Ginav vi ande aver čhiba:",
+        "notice": "Kado paruvipe kerdas o Claude (Anthropic) andar o ungrikano lil. Te žanes romanes, bahtales primisarasa ćire pravime.",
+    },
+}
+
+
+def ui_labels(lang: str) -> dict[str, str]:
+    return LANGS.get(lang, HU_LABELS)
 
 
 def split_frontmatter(text: str, path: Path) -> tuple[dict[str, str], str]:
@@ -123,6 +248,8 @@ def load_document(path: Path) -> Document:
         kereses=tuple(
             part.strip() for part in metadata.get("kereses", "").split(";") if part.strip()
         ),
+        lang=metadata.get("lang", "hu") or "hu",
+        eredeti=metadata.get("eredeti", ""),
     )
 
 
@@ -294,7 +421,7 @@ def social_meta(meta: dict | None) -> str:
     lines = [
         f'<link rel="canonical" href="{attr(meta["url"])}">',
         '<meta property="og:type" content="article">',
-        '<meta property="og:locale" content="hu_HU">',
+        f'<meta property="og:locale" content="{attr(meta.get("locale", "hu_HU"))}">',
         f'<meta property="og:site_name" content="{attr(SITE_NAME)}">',
         f'<meta property="og:url" content="{attr(meta["url"])}">',
         f'<meta property="og:title" content="{attr(meta["title"])}">',
@@ -315,11 +442,11 @@ def social_meta(meta: dict | None) -> str:
     return "\n  ".join(lines)
 
 
-def layout(title: str, content: str, description: str = "", meta: dict | None = None, head_extra: str = "") -> str:
+def layout(title: str, content: str, description: str = "", meta: dict | None = None, head_extra: str = "", lang: str = "hu") -> str:
     safe_title = html.escape(title)
     safe_description = html.escape(description or title, quote=True)
     return f"""<!doctype html>
-<html lang="hu">
+<html lang="{html.escape(lang, quote=True)}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -538,19 +665,24 @@ def share_links(url: str, title: str) -> dict[str, str]:
     }
 
 
-def share_top(url: str, title: str) -> str:
+def share_top(url: str, title: str, lang: str = "hu") -> str:
     links = share_links(url, title)
+    lab = ui_labels(lang)
     return (
         '<div class="share-top">'
         f'<a class="share-btn share-facebook" href="{html.escape(links["facebook"], quote=True)}" '
-        'target="_blank" rel="noopener">Megosztom a Facebookon</a>'
-        '<a class="share-more" href="#megosztas">További megosztás ↓</a>'
-        + ('<a class="share-more" href="#hozzaszolasok">Hozzászólások ↓</a>' if HYVOR_WEBSITE_ID else "")
+        f'target="_blank" rel="noopener">{html.escape(lab["fb"])}</a>'
+        f'<a class="share-more" href="#megosztas">{html.escape(lab["more"])}</a>'
+        + ('<a class="share-more" href="#hozzaszolasok">Hozzászólások ↓</a>' if HYVOR_WEBSITE_ID and lang == "hu" else "")
         + "</div>"
     )
 
 
-def share_bar(url: str, title: str) -> str:
+HU_SHARE_INVITE = '<p class="share-invite">Kövesd és oszd meg – nem kötelességből, hanem igazodásból. Ami a REND-ből a tiéd lett, az akkor marad élő, ha továbbadod. Lehet, hogy valakinek épp ez a néhány sor nyitja meg a saját világos pillanatát.</p>'
+
+
+def share_bar(url: str, title: str, lang: str = "hu") -> str:
+    lab = ui_labels(lang)
     links = share_links(url, title)
     labels = [
         ("facebook", "Facebook"),
@@ -569,18 +701,19 @@ def share_bar(url: str, title: str) -> str:
     )
     safe_url = html.escape(url, quote=True)
     safe_title = html.escape(title, quote=True)
+    invite = HU_SHARE_INVITE if lang == "hu" else ""
     return f"""<section class="share" id="megosztas" aria-label="Megosztás">
-  <p class="share-title">Ha ez az írás megszólított benned valamit…</p>
-  <p class="share-invite">Kövesd és oszd meg – nem kötelességből, hanem igazodásból. Ami a REND-ből a tiéd lett, az akkor marad élő, ha továbbadod. Lehet, hogy valakinek épp ez a néhány sor nyitja meg a saját világos pillanatát.</p>
-  <p class="share-label">Kövesd:</p>
-  <div class="share-buttons follow-buttons"><a class="share-btn share-facebook" href="https://www.facebook.com/MDMegvalositoRendszer/" target="_blank" rel="noopener">Facebook-oldal</a><a class="share-btn share-youtube" href="https://www.youtube.com/@MD_Megvalosito_Rendszer?sub_confirmation=1" target="_blank" rel="noopener">YouTube-csatorna</a></div>
-  <p class="share-label">Oszd meg:</p>
-  <div class="share-buttons">{buttons}<button type="button" class="share-btn share-copy" data-url="{safe_url}">Link másolása</button><button type="button" class="share-btn share-native" data-url="{safe_url}" data-title="{safe_title}" hidden>Továbbiak (Messenger, Instagram…)</button></div>
+  <p class="share-title">{html.escape(lab["share_title"])}</p>
+  {invite}
+  <p class="share-label">{html.escape(lab["follow"])}</p>
+  <div class="share-buttons follow-buttons"><a class="share-btn share-facebook" href="https://www.facebook.com/MDMegvalositoRendszer/" target="_blank" rel="noopener">{html.escape(lab["fb_page"])}</a><a class="share-btn share-youtube" href="https://www.youtube.com/@MD_Megvalosito_Rendszer?sub_confirmation=1" target="_blank" rel="noopener">{html.escape(lab["yt"])}</a></div>
+  <p class="share-label">{html.escape(lab["share"])}</p>
+  <div class="share-buttons">{buttons}<button type="button" class="share-btn share-copy" data-url="{safe_url}" data-done="{html.escape(lab["copied"], quote=True)}">{html.escape(lab["copy"])}</button><button type="button" class="share-btn share-native" data-url="{safe_url}" data-title="{safe_title}" hidden>Továbbiak (Messenger, Instagram…)</button></div>
 </section>
 <script>
 document.querySelectorAll('.share-copy').forEach(function (b) {{
   b.addEventListener('click', function () {{
-    var done = function () {{ b.textContent = 'Kimásolva ✓'; }};
+    var done = function () {{ b.textContent = b.dataset.done || 'Kimásolva ✓'; }};
     if (navigator.clipboard) {{ navigator.clipboard.writeText(b.dataset.url).then(done, function () {{ window.prompt('Másold ki a linket:', b.dataset.url); }}); }}
     else {{ window.prompt('Másold ki a linket:', b.dataset.url); }}
   }});
@@ -655,6 +788,12 @@ def image_lightbox() -> str:
 def closing_question(post: Document) -> str:
     if not post.kerdes:
         return ""
+    if post.lang != "hu":
+        label = html.escape(ui_labels(post.lang)["question"])
+        return f"""<aside class="closing-question" aria-label="{label}">
+  <p class="closing-question-label">{label}</p>
+  <p class="closing-question-text">{html.escape(post.kerdes)}</p>
+</aside>"""
     target = "#hozzaszolasok" if HYVOR_WEBSITE_ID else "#visszajelzes"
     return f"""<aside class="closing-question" aria-label="Kérdés hozzád">
   <p class="closing-question-label">Kérdés hozzád</p>
@@ -720,6 +859,12 @@ def search_title(post: Document) -> str:
 def audience_box(post: Document) -> str:
     if not post.kinek:
         return ""
+    if post.lang != "hu":
+        lab = ui_labels(post.lang)
+        return f"""<aside class="audience" aria-label="{html.escape(lab['kinek_label'], quote=True)}">
+  <p class="audience-label">{html.escape(lab['kinek_label'])}</p>
+  <p class="audience-text">{html.escape(lab['kinek_prefix'])} {html.escape(post.kinek)}.</p>
+</aside>"""
     topic = ""
     if post.tema in TOPICS:
         topic = (
@@ -774,7 +919,7 @@ def article_jsonld(post: Document, url: str, description: str, image: str) -> st
         "mainEntityOfPage": url,
         "image": image,
         "datePublished": datetime_attribute(post.date),
-        "inLanguage": "hu",
+        "inLanguage": post.lang,
         "author": {"@type": "Person", "name": "Máté Domokos", "url": f"{SITE_URL}/rolam/"},
         "publisher": {"@type": "Person", "name": "Máté Domokos"},
     }
@@ -782,7 +927,7 @@ def article_jsonld(post: Document, url: str, description: str, image: str) -> st
         data["keywords"] = ", ".join(post.kereses)
     if post.tema in TOPICS:
         data["articleSection"] = TOPICS[post.tema][0]
-    if post.kinek:
+    if post.kinek and post.lang == "hu":
         data["audience"] = {"@type": "Audience", "audienceType": f"Akinek: {post.kinek}"}
     text = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
     return f'<script type="application/ld+json">{text}</script>'
@@ -905,10 +1050,11 @@ def write_page(
     description: str = "",
     meta: dict | None = None,
     head_extra: str = "",
+    lang: str = "hu",
 ) -> None:
     path = filesystem_path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(layout(title, content, description, meta, head_extra), encoding="utf-8")
+    path.write_text(layout(title, content, description, meta, head_extra, lang), encoding="utf-8")
 
 
 def write_redirect(path: Path, title: str, target: str) -> None:
@@ -1013,6 +1159,51 @@ def write_feed(path: Path, posts: list[Document]) -> None:
     filesystem_path(path).write_text(feed, encoding="utf-8")
 
 
+def post_url_for(post: Document) -> str:
+    return f"{SITE_URL}{BASE_PATH}/blog/{urllib.parse.quote(post.slug, safe='-_.~')}/"
+
+
+def language_versions(post: Document, groups: dict[str, list[Document]]) -> list[Document]:
+    key = post.eredeti or post.slug
+    return groups.get(key, [])
+
+
+def language_switcher(post: Document, versions: list[Document]) -> str:
+    if len(versions) < 2:
+        return ""
+    lab = ui_labels(post.lang)
+    items = []
+    for v in versions:
+        name = html.escape(ui_labels(v.lang)["name"])
+        if v.slug == post.slug:
+            items.append(f'<li><strong aria-current="page">{name}</strong></li>')
+        else:
+            items.append(
+                f'<li><a href="{post_href(v)}" hreflang="{html.escape(v.lang, quote=True)}" '
+                f'lang="{html.escape(v.lang, quote=True)}">{name}</a></li>'
+            )
+    notice = (
+        f'<p class="lang-notice">{html.escape(lab["notice"])}</p>' if lab["notice"] else ""
+    )
+    return f"""<nav class="lang-switch" aria-label="{html.escape(lab['others'], quote=True)}">
+  <p class="lang-switch-label">{html.escape(lab['others'])}</p>
+  <ul>{''.join(items)}</ul>
+  {notice}
+</nav>"""
+
+
+def hreflang_links(versions: list[Document]) -> str:
+    if len(versions) < 2:
+        return ""
+    lines = [
+        f'<link rel="alternate" hreflang="{html.escape(v.lang, quote=True)}" href="{html.escape(post_url_for(v), quote=True)}">'
+        for v in versions
+    ]
+    original = next((v for v in versions if v.lang == "hu"), versions[0])
+    lines.append(f'<link rel="alternate" hreflang="x-default" href="{html.escape(post_url_for(original), quote=True)}">')
+    return "\n  ".join(lines)
+
+
 def main() -> None:
     global BLOG_ALIASES, BLOG_SLUGS, IMAGE_MANIFEST, PAGE_ALIASES, PAGE_SLUGS
     if not CONTENT.is_dir():
@@ -1030,6 +1221,19 @@ def main() -> None:
     )
     if not posts:
         raise FileNotFoundError(f"No blog posts found in {CONTENT / 'blog'}")
+    all_posts = posts
+    for post in all_posts:
+        if post.lang not in LANGS:
+            raise ValueError(f"Unknown lang '{post.lang}' in {post.path}")
+        if post.lang != "hu" and post.eredeti.casefold() not in BLOG_SLUGS:
+            raise ValueError(f"Translation {post.path} points to missing original '{post.eredeti}'")
+    lang_groups: dict[str, list[Document]] = {}
+    order = list(LANGS)
+    for post in all_posts:
+        lang_groups.setdefault(post.eredeti or post.slug, []).append(post)
+    for versions in lang_groups.values():
+        versions.sort(key=lambda v: order.index(v.lang))
+    posts = [post for post in all_posts if post.lang == "hu"]
 
     if OUTPUT.exists():
         shutil.rmtree(filesystem_path(OUTPUT))
@@ -1103,14 +1307,19 @@ def main() -> None:
             raise ValueError(f"Moved page slug collides with a blog post: {old_slug}")
         write_redirect(OUTPUT / old_slug / "index.html", "Átköltözött oldal", target)
 
-    for index, post in enumerate(posts):
+    render_list = [(index, post) for index, post in enumerate(posts)]
+    render_list += [(-1, post) for post in all_posts if post.lang != "hu"]
+    for index, post in render_list:
         body = document_body(post)
         post_url = f"{SITE_URL}{BASE_PATH}/blog/{urllib.parse.quote(post.slug, safe='-_.~')}/"
         image_url, image_width, image_height = share_image(post, body)
         excerpt = post.lead or share_excerpt(body) or post.title
-        content = f"""<article class="page-content article">
+        versions = language_versions(post, lang_groups)
+        switcher = language_switcher(post, versions)
+        if post.lang == "hu":
+            content = f"""<article class="page-content article">
   {featured_image(post, "featured-image")}
-  <header class="article-header"><h1>{html.escape(post.title)}</h1>{audience_box(post)}{share_top(post_url, post.title)}</header>
+  <header class="article-header"><h1>{html.escape(post.title)}</h1>{audience_box(post)}{share_top(post_url, post.title)}{switcher}</header>
   <div class="prose">{body}</div>
   {closing_question(post)}
   {related_section(post, posts)}
@@ -1118,6 +1327,15 @@ def main() -> None:
   {share_bar(post_url, post.title)}
   {comments_section(post, post_url)}
   {post_navigation(posts, index)}
+</article>
+{image_lightbox()}"""
+        else:
+            content = f"""<article class="page-content article" lang="{html.escape(post.lang, quote=True)}">
+  {featured_image(post, "featured-image")}
+  <header class="article-header"><h1>{html.escape(post.title)}</h1>{audience_box(post)}{share_top(post_url, post.title, post.lang)}{switcher}</header>
+  <div class="prose">{body}</div>
+  {closing_question(post)}
+  {share_bar(post_url, post.title, post.lang)}
 </article>
 {image_lightbox()}"""
         write_page(
@@ -1134,8 +1352,14 @@ def main() -> None:
                 "height": image_height,
                 "image_alt": post.image_alt,
                 "published": datetime_attribute(post.date),
+                "locale": ui_labels(post.lang)["locale"],
             },
-            article_jsonld(post, post_url, excerpt, image_url),
+            "\n  ".join(
+                part
+                for part in (article_jsonld(post, post_url, excerpt, image_url), hreflang_links(versions))
+                if part
+            ),
+            post.lang,
         )
         if post.alias and post.alias.casefold() != post.slug.casefold():
             old_route = OUTPUT / "blog" / post.alias / "index.html"
@@ -1156,7 +1380,7 @@ def main() -> None:
     ]
     sitemap += [
         (f"/blog/{urllib.parse.quote(post.slug, safe='-_.~')}/", post.date[:10])
-        for post in posts
+        for post in all_posts
     ]
     write_sitemap(sitemap)
 
@@ -1165,7 +1389,7 @@ def main() -> None:
         + total_pages
         + len(pages)
         - 1
-        + len(posts)
+        + len(all_posts)
         + len(PAGE_ALIASES)
         + len(MOVED_PAGES)
         + len(BLOG_ALIASES)

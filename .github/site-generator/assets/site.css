@@ -217,3 +217,13 @@ html.lightbox-open, html.lightbox-open body { overflow: hidden; }
 .topic-list strong { font-family: var(--display); font-size: 20px; }
 .topic-list span { color: var(--muted); font-size: 16px; line-height: 1.5; }
 .topic-list em { margin-top: auto; color: var(--gold-deep); font-size: 15px; font-style: normal; }
+
+/* Nyelvválasztó – egy írás fordításai a Kárpát-medence népeinek nyelvén */
+.lang-switch { margin: 14px 0 22px; padding: 14px 18px; border: 1px solid var(--line); border-radius: 10px; background: #fff; }
+.lang-switch-label { margin: 0 0 8px; font: 600 14px/1.3 var(--serif); letter-spacing: .08em; text-transform: uppercase; color: var(--gold-deep); }
+.lang-switch ul { display: flex; flex-wrap: wrap; gap: 8px 10px; margin: 0; padding: 0; list-style: none; }
+.lang-switch li a, .lang-switch li strong { display: inline-block; padding: 3px 12px; border: 1px solid var(--line); border-radius: 999px; font-size: 16px; line-height: 1.5; text-decoration: none; }
+.lang-switch li a { color: var(--link); }
+.lang-switch li a:hover, .lang-switch li a:focus-visible { border-color: var(--gold-deep); }
+.lang-switch li strong { background: var(--night); border-color: var(--night); color: var(--gold); }
+.lang-notice { margin: 10px 0 0; font-size: 15px; line-height: 1.5; color: var(--muted); }
