@@ -71,7 +71,7 @@ A Máté Domokos-féle szellemi és tudatosságfejlesztő megközelítés szerin
 
 - ![](/42eae456-2591-42a2-a832-b169d63756fd)matedomokos.huRólam – Máté DomokosMegtapasztaltam, milyen az, amikor az ember csak sodródik, és azt is, amikor végre ráébred: adjon 26 modulban a földi életünk 10 f…
 
-Máté Domokos 2018. május 9. óta tagja a PPH Nyílt Akadémia tanulói közösségének, és az ott tapasztalt hiányosságok adták az ötletet, hogy mit kell pótolnia: így hozta létre a saját rendszerét, programját. Amit korábban más oktatás jellegű helyeken is tapasztaltam, az vált bennem konkrétan felismerhetővé: “úgy kezdik oktatni a “tanulókat”, mintha épp megszülettek volna, se járni, se beszélni nem tudnak még, mégis leküldik őket egy bevásárlólistával bevásárolni!” Én az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program”-mal ezt a hiányt kívánom pótolni!
+Máté Domokos 2018. május 9. óta tagja a PPH Nyílt Akadémia tanulói közösségének, és az ott tapasztalt hiányból született meg az MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program. Amit korábban más oktatás jellegű helyeken is tapasztaltam, az vált bennem konkrétan felismerhetővé: “úgy kezdik oktatni a “tanulókat”, mintha épp megszülettek volna, se járni, se beszélni nem tudnak még, mégis leküldik őket egy bevásárlólistával bevásárolni!” Én az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program”-mal ezt a hiányt kívánom pótolni!
 
 Köszönöm a pontosítást és a kontextust! Így már teljesen világos: a felismert hiány volt az a **katalizátor és végső impulzus**, amely rávilágított egy rendszerszintű hiányosságra.
 
