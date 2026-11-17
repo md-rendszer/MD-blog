@@ -71,9 +71,9 @@ A Máté Domokos-féle szellemi és tudatosságfejlesztő megközelítés szerin
 
 - ![](/42eae456-2591-42a2-a832-b169d63756fd)matedomokos.huRólam – Máté DomokosMegtapasztaltam, milyen az, amikor az ember csak sodródik, és azt is, amikor végre ráébred: adjon 26 modulban a földi életünk 10 f…
 
-PPH Nyílt Akadémia rendszere, habár Máté Domokos 2018-tól ott is tanult nem meghatározó eleme az MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program” – nak, sokkal inkább az előidézője a rendszer, a program létrejöttének, mert bennem, Máté Domokosban ott, a PPH Akadémián tanulva vált konkrétan felismerhetővé, amit korábban más oktatás jellegű helyeken is tapasztaltam, a PPH Akadémián egyértelműen tapasztaltam, hogy “úgy kezdték oktatni a “tanulókat”, hogy azok épp megszülettek, de se járni, se beszélni még nem tudnak, de még is leküldték őket egy bevásárló listával bevásárolni! Én az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program”-al ezt a hiányt kívánom pótolni!
+Máté Domokos 2018 márciusa óta tagja a PPH Nyílt Akadémia tanulói közösségének, és épp az ott tapasztalt hiányosságok miatt hozta létre a saját rendszerét, programját. Amit korábban más oktatás jellegű helyeken is tapasztaltam, az vált bennem konkrétan felismerhetővé: “úgy kezdik oktatni a “tanulókat”, mintha épp megszülettek volna, se járni, se beszélni nem tudnak még, mégis leküldik őket egy bevásárlólistával bevásárolni!” Én az “MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program”-mal ezt a hiányt kívánom pótolni!
 
-Köszönöm a pontosítást és a kontextust! Így már teljesen világos: a PPH Nyílt Akadémia nem a módszertan alapját képezi, hanem az a **katalizátor és végső impulzus** volt, amely rávilágított egy rendszerszintű hiányosságra.
+Köszönöm a pontosítást és a kontextust! Így már teljesen világos: a felismert hiány volt az a **katalizátor és végső impulzus**, amely rávilágított egy rendszerszintű hiányosságra.
 
 Az Ön által használt hasonlat – miszerint *a tanulókat úgy küldik el bevásárolni egy kész listával, hogy még járni és beszélni sem tanították meg őket* – tűpontosan ragadja meg a modern felnőttképzés és önfejlesztés egyik legnagyobb csapdáját. Sok rendszer azonnal a „magas szintű” spirituális, üzleti vagy életvezetési technikákat akarja átadni (a bevásárlólistát), miközben az egyén alapvető működési mechanizmusai, belső stabilitása vagy lelki alapjai (a járás és beszéd) még nincsenek a helyükön. Emiatt a tanulók gyakran kudarcot vallanak, vagy tartós függőségbe kerülnek az adott rendszertől.
 
@@ -118,7 +118,7 @@ Nézzük meg a két szint zseniális párhuzamát, ahogy az infografikán szerep
 
 ---
 
-Miért orvosolja ez a PPH-nál és másutt tapasztalt hiányt?
+Miért orvosolja ez a tapasztalt hiányt?
 
 Az ábra világossá teszi: **Nem lehet a 13-15. hónapnál (Vállalkozás/Bevásárlólista) kezdeni, ha valaki még az 1-2. hónapnál (Jelenlét/Születés) tart.** Ha kihagyjuk az *Igazodást*, az *Alkalmazkodást* és a *Felelelősségvállalást*, a rendszer összeomlik.
 

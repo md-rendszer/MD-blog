@@ -10,7 +10,7 @@ tema: domi-utja
 kereses: "Máté Domokos bemutatkozás; ki Máté Domokos; MD szerzője"
 ---
 
-és a szellemi fejlődés útján nem a PPH Nyílt Akadémián 2018 év elején indultam, hanem 1983 óta, a Biblia tanulmányozásával, és mert
+és a szellemi fejlődés útján 1983 óta járok, a Biblia tanulmányozásával kezdtem, és mert
 
 abból sok mindent nem értettem, avagy hiányoltam, el kezdtem keresni – kutatni azokat a könyveket, tanfolyamokat, más népek szent hagyományait, könyveit, az Egyesült Államokból a Kárpát-medencébe beáramló könyveket.
 
@@ -51,7 +51,7 @@ Ha a tevékenységének egy konkrét részére, esetleg az általa oktatott **MD
 
 Az összes megjelenítése
 
-**Máté Domokos: Én vagyok Máté Domokos, és** a szellemi fejlődés útján nem a PPH Nyílt Akadémián 2018 év elején indultam, hanem 1983 óta, a Biblia tanulmányozásával.
+**Máté Domokos: Én vagyok Máté Domokos, és** a szellemi fejlődés útján 1983 óta járok, a Biblia tanulmányozásával kezdtem.
 
 …és mert abból sok mindent nem értettem, avagy hiányoltam, el kezdtem keresni – kutatni azokat a könyveket, tanfolyamokat, más népek szent hagyományait, könyveit, az Egyesült Államokból a Kárpát-medencébe beáramló könyveket, melyek részben avagy egészben azt ígérték, hogy választ kaphatok bennük az engem, mint embert érdeklő kérdéseimre.   
   

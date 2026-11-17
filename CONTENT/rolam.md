@@ -14,7 +14,7 @@ Küldetésem, hogy segítsek az embereknek felismerni a bennük rejlő valódi e
 
 Hosszú éveken át kerestem, hogyan lehet az életet tudatosan, kiegyensúlyozottan és szabadon élni. Megtapasztaltam, milyen az, amikor az ember csak sodródik, és azt is, amikor végre ráébred: a valóságát ő maga teremti.
 
-2018 elején tanulóként csatlakoztam a PPH Nyílt Akadémiához. Ott azt tapasztaltam, hogy a tanulást hangsúlyozzák, de az ember „állapotát” alig, vagy egyáltalán nem veszik figyelembe. Szerintem tanulás – tanítás előtt teret kell nyitni az embernek, hogy ráébredhessen a saját eszére, tudatos tudatára, és azt használni is tudja. Ez a hiány vezetett oda, hogy megszülessen az MD Megvalósító Rendszer.
+2018 márciusa óta tagja vagyok a PPH Nyílt Akadémia tanulói közösségének. Épp az ott tapasztalt hiányosságok miatt hoztam létre a saját rendszeremet, programomat. Azt tapasztaltam – és nem csak ott, hanem általánosan –, hogy a tanulást hangsúlyozzák, de az ember „állapotát” alig, vagy egyáltalán nem veszik figyelembe. Szerintem tanulás – tanítás előtt teret kell nyitni az embernek, hogy ráébredhessen a saját eszére, tudatos tudatára, és azt használni is tudja. Ez a hiány vezetett oda, hogy megszülessen az MD Megvalósító Rendszer.
 
 ## A Legelső Lépés
 

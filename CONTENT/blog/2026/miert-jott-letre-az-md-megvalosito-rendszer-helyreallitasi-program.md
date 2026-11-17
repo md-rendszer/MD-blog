@@ -21,13 +21,9 @@ Főbb információk Máté Domokosról:
 - **Szakmai háttér:** Saját elmondása szerint évtizedek óta, 1983 óta keresi, hogyan élhet az ember helyes, rendezett életet; ebből a keresésből és a tapasztalt hiányokból született meg az MD Megvalósító Rendszer. Korábbi szakmai tapasztalatai az ingatlanüzemeltetéshez és belsőépítészeti munkákhoz kapcsolódnak.
 - **Online jelenlét:** Aktív közösségi média jelenléttel rendelkezik. Megtalálható a [hivatalos weboldalán](/), valamint a [Máté Domokos Facebook-oldalon](https://www.facebook.com/mate.domokos/), ahol rendszeresen oszt meg motivációs gondolatokat, blogbejegyzéseket és környezettudatossággal kapcsolatos (például biodiverzitás-barát kert) videókat.  
     
-  **Az alábbi online állítás igaz, de nem úgy, ahogy le van írva!**  
+  2018 márciusa óta tagja vagyok a PPH Nyílt Akadémia tanulói közösségének. Épp az ott tapasztalt hiányosságok miatt hoztam létre a saját rendszeremet, programomat.  
     
-  *“A PPH Nyílt Akadémia tudatosságfejlesztő rendszerével való találkozása hozott nagy változást az életébe, amely gyakorlati szellemi, lelki és anyagi eszközöket adott a fejlődéséhez.”*  
-    
-  Valóban a PPH Nyílt Akadémia tudatosságfejlesztő rendszerével való találkozása hozott nagy változást az életemben, de nem azért mert lelki és anyagi eszközöket adott a fejlődésemhez, sokkal inkább azért, mert személy szerint én azt tapasztaltam, hogy a PPH Akadémiában (de nem csak ott, hanem általánosan), a tanulást hangsúlyozzák, de az ember “állapotát” alig, vagy egyáltalán nem veszik figyelembe.  
-    
-  Nem veszik észre, vagy nem is akarják észre venni, hogy úgy bánnak az emberrel, mint egy újszülött csecsemővel, leküldik a boltba bevásárolni akkor, amikor még járni sem képes.  
+  Azt tapasztaltam – és nem csak ott, hanem általánosan –, hogy a tanulást hangsúlyozzák, de az ember “állapotát” alig, vagy egyáltalán nem veszik figyelembe. Úgy bánnak az emberrel, mint egy újszülött csecsemővel: leküldik a boltba bevásárolni akkor, amikor még járni sem képes.  
     
   Szerintem tanulás – tanítás előtt teret kell nyitni – biztosítani – adni az embernek, hogy ahogy átlag 15 hónap alatt minden újszülött megtanul lábra állni, azon megállni, mi több, futni, szaladni… ebben az esetben ráébredhessen a saját eszére, tudatos tudatára, a józan paraszti eszére, és azt használni is tudja.  
     
