@@ -23,7 +23,7 @@ Főbb információk Máté Domokosról:
     
   2018. május 9. óta tagja vagyok a PPH Nyílt Akadémia tanulói közösségének. Az ott tapasztalt hiányból született meg az MD Megvalósító Rendszer – Újjászületési és Helyreállítási Program.  
     
-  Azt tapasztaltam – és nem csak ott, hanem általánosan –, hogy a tanulást hangsúlyozzák, de az ember “állapotát” alig, vagy egyáltalán nem veszik figyelembe. Úgy bánnak az emberrel, mint egy újszülött csecsemővel: leküldik a boltba bevásárolni akkor, amikor még járni sem képes.  
+  Azt tapasztaltam – és nem csak ott, hanem általánosan –, hogy a tanulást hangsúlyozzák, de az ember “állapotát” alig, vagy egyáltalán nem veszik figyelembe. Olyan volt számomra, mintha egy járni, olvasni nem tudó csecsemőt leküldtek volna egy bevásárlólistával a boltba bevásárolni.  
     
   Szerintem tanulás – tanítás előtt teret kell nyitni – biztosítani – adni az embernek, hogy ahogy átlag 15 hónap alatt minden újszülött megtanul lábra állni, azon megállni, mi több, futni, szaladni… ebben az esetben ráébredhessen a saját eszére, tudatos tudatára, a józan paraszti eszére, és azt használni is tudja.  
     
