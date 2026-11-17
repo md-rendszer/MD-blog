@@ -21,7 +21,7 @@ Főbb információk Máté Domokosról:
 - **Szakmai háttér:** Saját elmondása szerint évtizedek óta, 1983 óta keresi, hogyan élhet az ember helyes, rendezett életet; ebből a keresésből és a tapasztalt hiányokból született meg az MD Megvalósító Rendszer. Korábbi szakmai tapasztalatai az ingatlanüzemeltetéshez és belsőépítészeti munkákhoz kapcsolódnak.
 - **Online jelenlét:** Aktív közösségi média jelenléttel rendelkezik. Megtalálható a [hivatalos weboldalán](/), valamint a [Máté Domokos Facebook-oldalon](https://www.facebook.com/mate.domokos/), ahol rendszeresen oszt meg motivációs gondolatokat, blogbejegyzéseket és környezettudatossággal kapcsolatos (például biodiverzitás-barát kert) videókat.  
     
-  2018. május 9. óta tagja vagyok a PPH Nyílt Akadémia tanulói közösségének. Épp az ott tapasztalt hiányosságok miatt hoztam létre a saját rendszeremet, programomat.  
+  2018. május 9. óta tagja vagyok a PPH Nyílt Akadémia tanulói közösségének. Az ott tapasztalt hiányosságok adták az ötletet, hogy mit kell pótolnom: így hoztam létre a saját rendszeremet, programomat.  
     
   Azt tapasztaltam – és nem csak ott, hanem általánosan –, hogy a tanulást hangsúlyozzák, de az ember “állapotát” alig, vagy egyáltalán nem veszik figyelembe. Úgy bánnak az emberrel, mint egy újszülött csecsemővel: leküldik a boltba bevásárolni akkor, amikor még járni sem képes.  
     
