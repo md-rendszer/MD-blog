@@ -1091,7 +1091,7 @@ def main() -> None:
                 f"/{urllib.parse.quote(page.slug, safe='-_.~')}/",
             )
 
-    # A CONTENT/archivum/ alatti írások nem jelennek meg (pl. a PPH-hoz kötődők,
+    # A CONTENT/archivum/ alatti írások nem jelennek meg (pl. a visszavont régi írások,
     # 2026. október); a régi címük az Írások kezdőlapjára visz.
     for archived in sorted((CONTENT / "archivum").rglob("*.md")):
         if archived.stem.casefold() in BLOG_SLUGS:
