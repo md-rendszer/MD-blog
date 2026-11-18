@@ -3933,5 +3933,35 @@
     "width": 1024,
     "height": 576,
     "srcset": "/images/2026/van-e-a-rend-nek-kimondott-szava-amely-nem-emberi-szajbol-szolt-400x225.avif 400w, /images/2026/van-e-a-rend-nek-kimondott-szava-amely-nem-emberi-szajbol-szolt-768x432.avif 768w, /images/2026/van-e-a-rend-nek-kimondott-szava-amely-nem-emberi-szajbol-szolt.avif 1024w"
+  },
+  "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-400x225.avif": {
+    "width": 400,
+    "height": 225,
+    "srcset": "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-400x225.avif 400w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-768x432.avif 768w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere.avif 1024w"
+  },
+  "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-768x432.avif": {
+    "width": 768,
+    "height": 432,
+    "srcset": "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-400x225.avif 400w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-768x432.avif 768w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere.avif 1024w"
+  },
+  "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere.avif": {
+    "width": 1024,
+    "height": 576,
+    "srcset": "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-400x225.avif 400w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-768x432.avif 768w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere.avif 1024w"
+  },
+  "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep-400x250.avif": {
+    "width": 400,
+    "height": 250,
+    "srcset": "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep-400x250.avif 400w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep-768x480.avif 768w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep.avif 1024w"
+  },
+  "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep-768x480.avif": {
+    "width": 768,
+    "height": 480,
+    "srcset": "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep-400x250.avif 400w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep-768x480.avif 768w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep.avif 1024w"
+  },
+  "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep.avif": {
+    "width": 1024,
+    "height": 640,
+    "srcset": "/images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep-400x250.avif 400w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep-768x480.avif 768w, /images/2026/mibol-lesz-oromteli-tanulas-a-tortenelem-het-legsikeresebb-modszere-terkep.avif 1024w"
   }
 }
