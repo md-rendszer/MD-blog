@@ -75,6 +75,14 @@ Nem azért, mert túl sokat akarsz. Hanem mert most a fájdalom és a fáradtsá
 
 Ezért nem az a feladat, hogy még jobban lemondj. Hanem az, hogy helyet csinálj: gondozd a tested, engedd meg magadnak az apró örömöket, és ne maradj egyedül azzal, ami nehéz.
 
+## Nem felülről szól
+
+Talán meglep, hogy az MD Megvalósító Rendszer kigondolója nyilvánosan ír arról, hogy fáradt, hogy fáj, és hogy nem talál örömet abban, ami VAN. Sokan azt várnák, hogy aki egy rendszert alkot, az már túl van mindezen.
+
+Domi nincs túl rajta, és nem is állítja. Semmivel sem tartja magát többnek bárki másnál. Őt is ugyanúgy megtalálják a saját szenvedő állapotai, mint minden egyes embert: a fáradtság, a fájdalom, a szürke napok. Nem a célból szól, hanem az útról, és nem felülről, hanem melletted ülve.
+
+Az MD sem azoknak készült, akik már megérkeztek. Azoknak készült, akik időnként a GÖDÖR peremén állnak, és mégis meg akarják tenni a következő lépést. A kigondolója is közéjük tartozik. Először önmagán próbálja ki, amit leír.
+
 ## Egy lépés ma
 
 Ne az egész életedet akard egyszerre örömtelivé tenni. Az csak még egy ok lenne arra, hogy kudarcnak érezd a napot.
