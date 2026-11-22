@@ -2,6 +2,8 @@
 
 ## Tartalom
 
+- Keresőknek (2026. november 22.): a Google-találatban megjelenő leírás legfeljebb ~155 karakter, szóhatáron vágva; az Írások kezdőlapja valódi bemutató leírást kap, a lapozóoldalak címe sorszámot („Írások – 2. oldal”); a lapozóoldalak kikerülnek a sitemap.xml-ből.
+- Az adatkezelési tájékoztató a ténylegesen működő oldalhoz igazodó, kitöltött változatot kapott (adatkezelő: Máté Domokos), a kitöltetlen sablonmezők megszűntek.
 - Mind a 255 bejegyzés célzott olvasót kapott: a cím alatt „Kinek szól?” doboz mondja meg, kinek szól az írás, a cikk végén három ugyanilyen helyzetű olvasónak szóló írás ajánlója áll.
 - Új Témák oldal és 14 témaoldal (pl. Ego, elme, belső hang; Kapcsolatok és konfliktusok; Magyarság és történelem), a főmenüben is.
 - Keresőknek: minden bejegyzés böngésző- és Google-címe a fő keresett kifejezéssel bővül, a bejegyzések strukturált adatot (BlogPosting) kapnak, és elkészül a sitemap.xml és a robots.txt.

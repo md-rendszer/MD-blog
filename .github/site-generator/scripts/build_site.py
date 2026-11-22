@@ -23,6 +23,11 @@ SITE_URL = os.environ.get("SITE_URL", "https://matedomokos.hu").rstrip("/")
 # Az általam alkotott rendszer (WordPress) – a felső sáv és a lábléc linkje ide mutat.
 MAIN_SITE_URL = "https://mdmegvalositorendszer.hu/"
 SITE_NAME = "Máté Domokos"
+# Az Írások (kezdőlap és lapozóoldalak) keresőtalálat-leírása.
+ARCHIVE_DESCRIPTION = (
+    "Máté Domokos írásai önismeretről, az ego és az elme működéséről, hitről, felelősségről "
+    "és a REND-ről – kérdések és válaszok a mindennapi életből."
+)
 # A matedomokos.hu Domi személyes oldala (Rólam, Írások, közösségek, ajánlott,
 # kapcsolat). A rendszerhez tartozó oldalak a központi WordPress-oldalon élnek;
 # a régi címük oda irányít. A többi önálló oldal itt épül (CONTENT/*.md).
@@ -453,9 +458,14 @@ def social_meta(meta: dict | None) -> str:
     return "\n  ".join(lines)
 
 
+def meta_description(text: str, limit: int = 155) -> str:
+    """Keresőtalálat-leírás: legfeljebb ~155 karakter, szóhatáron vágva (a Google a hosszabbat levágja)."""
+    return share_excerpt(text, limit)
+
+
 def layout(title: str, content: str, description: str = "", meta: dict | None = None, head_extra: str = "", lang: str = "hu") -> str:
     safe_title = html.escape(title)
-    safe_description = html.escape(description or title, quote=True)
+    safe_description = html.escape(meta_description(description or title), quote=True)
     return f"""<!doctype html>
 <html lang="{html.escape(lang, quote=True)}">
 <head>
@@ -1286,9 +1296,10 @@ def main() -> None:
             if current_page == 1
             else OUTPUT / "blog" / "page" / str(current_page) / "index.html"
         )
-        write_page(archive_path, "Írások", archive)
+        archive_title = "Írások" if current_page == 1 else f"Írások – {current_page}. oldal"
+        write_page(archive_path, archive_title, archive, ARCHIVE_DESCRIPTION)
         if current_page == 1:
-            write_page(OUTPUT / "index.html", "Írások", archive)
+            write_page(OUTPUT / "index.html", archive_title, archive, ARCHIVE_DESCRIPTION)
     write_feed(OUTPUT / "feed.xml", posts[:FEED_SIZE])
 
     for page in pages:
@@ -1381,8 +1392,9 @@ def main() -> None:
             )
 
     topic_urls = write_topic_pages(posts)
+    # A lapozóoldalak (/blog/page/N/) nem kerülnek az oldaltérképbe: a bejegyzések
+    # és a témaoldalak közvetlenül szerepelnek, a lapozók csak ismétlik őket.
     sitemap = [("/", posts[0].date[:10])]
-    sitemap += [(f"/blog/page/{n}/", "") for n in range(2, total_pages + 1)]
     sitemap += [(url, "") for url in topic_urls]
     sitemap += [
         (f"/{urllib.parse.quote(page.slug, safe='-_.~')}/", "")
