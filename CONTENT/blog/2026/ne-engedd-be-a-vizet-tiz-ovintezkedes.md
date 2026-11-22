@@ -20,6 +20,10 @@ A mondás igaz. Mielőtt azonban nekiállunk tömíteni, két dolgot tisztázzun
 
 **Az első: a hajó nem azért épül, hogy a kikötőben álljon.** A cél nem az, hogy elzárkózz a világtól. A hajónak a vízen a helye – a víz viszi előre. A világ nem ellenség. A feladat nem a tenger kiszárítása, hanem az, hogy a hajótest ép maradjon.
 
+> **Máté Domokos gondolata:** Egyszer volt egy ember, aki magas és tömör, átláthatatlan kerítéssel vette körbe az otthonát, hogy senki se lásson be hozzá. Mikor elkészült a kerítéssel, elégedetten leült középre – és akkor vette észre, hogy nem lát ki!?
+
+A túlzott védekezés is börtön. Aki mindent kizár, az a jót is kizárja: a fényt, a kilátást, a másik embert. A jó hajótest nem fal. Távol tartja a vizet, de a hajó közben látja a partot, és halad.
+
 **A második: néha akkor is bejut a víz, ha nem engedted be.** Egy veszteség, egy betegség, egy hirtelen csapás nem kér engedélyt. Ilyenkor nem az a kérdés, hogy *ki a hibás*, hanem az, hogy *mit teszel most*. A hajón ezért van szivattyú is, nem csak tömítés. Az MD-ben nincs visszafordíthatatlan kudarc – csak a következő lépés.
 
 Ezzel a két igazítással jöjjön a tíz óvintézkedés. A súly azt mutatja, mennyire múlik rajta a hajó épsége (10 = a legfontosabb).
