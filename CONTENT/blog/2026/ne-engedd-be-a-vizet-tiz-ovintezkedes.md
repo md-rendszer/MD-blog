@@ -80,7 +80,7 @@ A fáradt, kialvatlan, mozdulatlan test vékonyabb hajófal. Ugyanaz a hír, ami
 
 A hajó nemcsak a víz ellen véd – irányt is tart. Ha nincs napi csend, a hullámok kormányoznak. Néhány perc ülés, csend, figyelem a légzésre – és újra te tartod a kormányt.
 
-**Gyakorlat:** reggel, mielőtt bármit kézbe vennél, üss le öt percet csendben. Nem kell hozzá semmi különleges.
+**Gyakorlat:** reggel, mielőtt bármit kézbe vennél, ülj le öt percre csendben. Nem kell hozzá semmi különleges.
 
 ## 8. A szivattyú: esti visszamérés — **súly: 7**
 
