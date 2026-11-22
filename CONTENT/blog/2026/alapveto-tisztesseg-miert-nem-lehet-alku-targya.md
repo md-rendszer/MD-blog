@@ -26,7 +26,7 @@ Mi tartozik bele? Nem sok, és éppen ezért elvárható mindenkitől:
 - **Vállalás:** ha hibáztál, nem tolod másra, nem tagadod le.
 - **A másik méltóságának tisztelete:** akkor is emberként bánsz vele, ha nem értesz vele egyet.
 
-Ezekhez nem kell műveltség, pénz, rang vagy különleges tehetség. Ezért mondhatja Domi joggal, hogy **minden embertől** elvárható. Nincs olyan élethelyzet, amelyből ez az öt ne lenne megtartható.
+Ezekhez nem kell műveltség, pénz, rang vagy különleges tehetség. Ezért mondhatja Domi joggal, hogy **minden embertől** elvárható. Nincs olyan élethelyzet, amelyből ez az öt ne lenne megtartható. Az [alapvető tisztesség](https://mdmegvalositorendszer.hu/fogalomtar/) meghatározását az MD Fogalomtárában is megtalálod.
 
 ## Miért nem lehet alku tárgya?
 
