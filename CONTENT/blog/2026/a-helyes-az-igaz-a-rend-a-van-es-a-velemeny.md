@@ -14,7 +14,7 @@ kereses: "vélemény és igazság; egységtudat elérése; meditáció rendszere
 
 Kimondva az igaz, a REND, a VAN – mivel átmegy az „elmén”, és kijön az ember száján – nem több, mint vélemény.
 
-Bármennyire is hadakozzanak az emberek, azon túl, hogy ha hajlandóak és képesek, „igazodnak” a helyeshez, az igazhoz, a REND-hez, a VAN-hoz, ők maguk nem lesznek, nem lehetnek EGY a helyessel, az igazzal, a REND-del, a VAN-nal, hacsak az igazodáson túl nem „meditálnak”…(?)… A könnyebb út a TM, a Transzcendentális Meditáció; a nehezebb, de gyorsabb a Kriya jóga, rendszeres és kitartó gyakorlással.
+Bármennyire is hadakozzanak az emberek, azon túl, hogy ha hajlandóak és képesek, „igazodnak” a helyeshez, az igazhoz, a REND-hez, a VAN-hoz, az EGY-ség a helyessel, az igazzal, a REND-del, a VAN-nal nem az igazodástól derül ki számukra. Az igazodáson túl „meditálni” is kell. A TM, a Transzcendentális Meditáció és a Kriya jóga abban segít, hogy akár egyetlen emberélet alatt kiderülhessen az ember számára a tudva tudás. A könnyebb út a TM; a nehezebb, de gyorsabb a Kriya jóga, rendszeres és kitartó gyakorlással.
 
 Lehetséges, hogy az ember véleménye végtelen lehet, de ahhoz, hogy tudva tudja, és egyre inkább EGY lehessen az EGY-gyel, következetes gyakorlás szükséges…(?)…
 
@@ -48,7 +48,7 @@ Az igazodás az, amikor a cselekedeteidet a helyeshez méred. Nem lopsz, nem haz
 
 Az igazodásban azonban még kettő van: te és a REND, amihez igazodsz. Mint amikor a hegedűs a hangvillához hangolja a húrt. Jól szól, de a húr és a hangvilla két külön dolog.
 
-Egy dolgot azért érdemes finoman helyre tenni. Az EGY-ség nem valami, amivé az ember *válik*, mintha eddig kívül lett volna, és most bejutna. Az MD szerint a [LÉTALAP](https://mdmegvalositorendszer.hu/fogalomtar/) mindig ép és egész, akkor is, ha az ego felhői eltakarják. A meditáció nem gyártja az egységet. Elveszi az útból, ami takarja.
+Domi szóválasztása itt nagyon pontos: a tudva tudás *kiderül*. Az EGY-ség nem valami, amivé az ember *válik*, mintha eddig kívül lett volna, és most bejutna. Az MD szerint a [LÉTALAP](https://mdmegvalositorendszer.hu/fogalomtar/) mindig ép és egész, akkor is, ha az ego felhői eltakarják. A meditáció nem gyártja az egységet. Elveszi az útból, ami takarja.
 
 > A REND nem közeledik – kiderül.
 
